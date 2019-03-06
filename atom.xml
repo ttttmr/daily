@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>透明日报</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://tmr.js.org/daily/"/>
+  <updated>2019-03-06T04:31:23.145Z</updated>
+  <id>https://tmr.js.org/daily/</id>
+  
+  <author>
+    <name>透明人</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20190306</title>
+    <link href="https://tmr.js.org/daily/20190306/"/>
+    <id>https://tmr.js.org/daily/20190306/</id>
+    <published>2019-03-06T03:56:19.000Z</published>
+    <updated>2019-03-06T04:31:23.145Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://tmr.js.org/daily/about">透明日报</a>第20190306期</p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://tmr.js.org/daily/about&quot;&gt;透明日报&lt;/a&gt;第20190306期&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://tmr.js.org/daily/categories/2019/"/>
+    
+      <category term="3" scheme="https://tmr.js.org/daily/categories/2019/3/"/>
+    
+    
+  </entry>
+  
+</feed>
