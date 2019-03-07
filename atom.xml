@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>透明日报</title>
   
-  <subtitle>每日文章推荐，咕咕</subtitle>
+  <subtitle>每日文章推荐</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
