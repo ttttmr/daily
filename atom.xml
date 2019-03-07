@@ -3,11 +3,11 @@
   <title>透明日报</title>
   
   
-  <link href="/daily/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://tmr.js.org/daily/"/>
+  <link href="https://daily.tmr.js.org/"/>
   <updated>2019-03-06T14:49:05.051Z</updated>
-  <id>https://tmr.js.org/daily/</id>
+  <id>https://daily.tmr.js.org/</id>
   
   <author>
     <name>透明人</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>20190306</title>
-    <link href="https://tmr.js.org/daily/20190306/"/>
-    <id>https://tmr.js.org/daily/20190306/</id>
+    <link href="https://daily.tmr.js.org/20190306/"/>
+    <id>https://daily.tmr.js.org/20190306/</id>
     <published>2019-03-06T03:56:19.000Z</published>
     <updated>2019-03-06T14:49:05.051Z</updated>
     
@@ -31,9 +31,9 @@
     
     </summary>
     
-      <category term="2019" scheme="https://tmr.js.org/daily/categories/2019/"/>
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
     
-      <category term="3" scheme="https://tmr.js.org/daily/categories/2019/3/"/>
+      <category term="3" scheme="https://daily.tmr.js.org/categories/2019/3/"/>
     
     
   </entry>
