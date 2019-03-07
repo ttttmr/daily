@@ -1,0 +1,55 @@
+User-agent: Googlebot
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /p/
+Disallow: /js/
+Disallow: /css/
+Disallow: /img/
+Disallow: *.png$
+Disallow: *.jpg$
+Disallow: *.gif$
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: Bingbot
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /p/
+Disallow: /js/
+Disallow: /css/
+Disallow: /img/
+Disallow: *.png$
+Disallow: *.jpg$
+Disallow: *.gif$
+
+User-agent: DuckDuckBot
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /p/
+Disallow: /js/
+Disallow: /css/
+Disallow: /img/
+Disallow: *.png$
+Disallow: *.jpg$
+Disallow: *.gif$
+
+User-agent: Baiduspider
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /p/
+Disallow: /js/
+Disallow: /css/
+Disallow: /img/
+Disallow: *.png$
+Disallow: *.jpg$
+Disallow: *.gif$
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://daily.tmr.js.org/sitemap.xml
