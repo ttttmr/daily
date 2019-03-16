@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-03-15T14:57:11.675Z</updated>
+  <updated>2019-03-16T13:50:57.421Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190316期</title>
+    <link href="https://daily.tmr.js.org/d/20190316/"/>
+    <id>https://daily.tmr.js.org/d/20190316/</id>
+    <published>2019-03-16T01:42:44.000Z</published>
+    <updated>2019-03-16T13:50:57.421Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190316期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*2，<a href="#文娱">文娱</a>*1，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="食堂就是我家开的"><a href="#食堂就是我家开的" class="headerlink" title="食堂就是我家开的"></a>食堂就是我家开的</h3><p>学校与学校食堂</p><p><a href="https://zhuanlan.zhihu.com/p/34049841" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="中通内网安全之外发流量管理"><a href="#中通内网安全之外发流量管理" class="headerlink" title="中通内网安全之外发流量管理"></a>中通内网安全之外发流量管理</h3><p>出站流量也是一个问题，中通自建防火墙，文中还提及了很多DNS上的防护，域名“白名单”解析，完整流量日志</p><p>从攻击的角度看，它总会允许一些常用域名，利用“白域名”做CC的工具也很多（国外如Github，Twitter，Google等），感觉这很难从防火墙上解决（至少文中也没有提到），只能从流量审计下手（不会又机器学习吧），想起之前看过一个段子说一个机子用了好几年小流量脱裤</p><p><a href="https://mp.weixin.qq.com/s/inANTt-97Rjfr6Rf5lJ07A" target="_blank" rel="noopener">原文链接</a></p><h3 id="编写Burp分块传输插件绕WAF"><a href="#编写Burp分块传输插件绕WAF" class="headerlink" title="编写Burp分块传输插件绕WAF"></a>编写Burp分块传输插件绕WAF</h3><p>分块传输自动化到Burp上，nb</p><p><a href="http://gv7.me/articles/2019/chunked-coding-converter/" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="中国科幻电影正在面临一个最大的问题"><a href="#中国科幻电影正在面临一个最大的问题" class="headerlink" title="中国科幻电影正在面临一个最大的问题"></a>中国科幻电影正在面临一个最大的问题</h3><p>中国文化与科幻的矛盾</p><p><a href="https://news-at.zhihu.com/story/9708335" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="震惊：33可以写成三个整数的立方和"><a href="#震惊：33可以写成三个整数的立方和" class="headerlink" title="震惊：33可以写成三个整数的立方和"></a>震惊：33可以写成三个整数的立方和</h3><p>答案就是42，Math -&gt; 13，1，20，8 -&gt; 13+1+20+8 -&gt; 42</p><p><a href="http://jandan.net/2019/03/15/33-3.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190316期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201903" scheme="https://daily.tmr.js.org/categories/201903/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190315期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190310期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#游戏&quot;&gt;游戏&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201903" scheme="https://daily.tmr.js.org/categories/201903/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190309期</title>
-    <link href="https://daily.tmr.js.org/d/20190309/"/>
-    <id>https://daily.tmr.js.org/d/20190309/</id>
-    <published>2019-03-09T03:06:27.000Z</published>
-    <updated>2019-03-15T14:55:59.151Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190309期</p><p>今日文章：<a href="#经济">经济</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*4，<a href="#职场">职场</a>*2，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="Archive-for-category-One-Billion-Customers"><a href="#Archive-for-category-One-Billion-Customers" class="headerlink" title="Archive for category One Billion Customers"></a>Archive for category One Billion Customers</h3><p>《One Billion Customers》中文版译者博客归档，看到<a href="https://m.okjike.com/originalPosts/5c832f5d8a99420011ad60c9" target="_blank" rel="noopener">@马古</a>的推荐，我搜出来看了前面的几节，感觉还不错</p><blockquote><p>本书是想向诸位展示——而非阐述——在中国经商是怎么一回事</p></blockquote><p><a href="https://zhouzq1975.wordpress.com/category/one-billion-customers/" target="_blank" rel="noopener">原文链接</a></p><p><a href="https://book.douban.com/subject/2791877/" target="_blank" rel="noopener">豆瓣地址</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="独家深访：腾讯变革150天全记录-故事硬核"><a href="#独家深访：腾讯变革150天全记录-故事硬核" class="headerlink" title="独家深访：腾讯变革150天全记录 | 故事硬核"></a>独家深访：腾讯变革150天全记录 | 故事硬核</h3><p>腾讯架构调整的那些事</p><p><a href="https://mp.weixin.qq.com/s/xCCNuCGEXySOST4QICYyjA" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="winrar-穿越目录漏洞分析"><a href="#winrar-穿越目录漏洞分析" class="headerlink" title="winrar 穿越目录漏洞分析"></a>winrar 穿越目录漏洞分析</h3><p>rar目录穿越可以联想到web中的zip包link漏洞</p><p><a href="https://xz.aliyun.com/t/4221" target="_blank" rel="noopener">原文链接</a></p><h3 id="红队与理论：Credential-Relay-与-EPA"><a href="#红队与理论：Credential-Relay-与-EPA" class="headerlink" title="红队与理论：Credential Relay 与 EPA"></a>红队与理论：Credential Relay 与 EPA</h3><p>讲解Credential Relay和一些防御措施，分别是Signing，EPA和“Type3 in Flight Checking”（这个是作者起的），其实中间人的问题本质就是不能相互认证，Signing机制中因为没法签名，导致后续操作不能进行；EPA的2个方案也就是在其中加入了能双向认证的信息（文中没有提及具体细节）；第三个只是检查了用自己打自己（中间人和被中间人的目标一样）的情况</p><p>拓展阅读：文中涉及一些Windows认证相关的不懂可以看<a href="https://www.secpulse.com/archives/94848.html" target="_blank" rel="noopener">彻底理解Windows认证 – 议题解读</a>，<code>NTLM Relay</code>的详解和利用案例可以看<a href="https://www.cnblogs.com/iamstudy/articles/Microsoft_Exchange_CVE-2018-8581_2.html" target="_blank" rel="noopener">Microsoft Exchange漏洞分析 - CVE-2018-8581</a></p><p><a href="https://mp.weixin.qq.com/s/hACLQ4UgdFXDdlB4CKKhXg" target="_blank" rel="noopener">原文链接</a></p><h3 id="AFL漏洞挖掘技术漫谈系列"><a href="#AFL漏洞挖掘技术漫谈系列" class="headerlink" title="AFL漏洞挖掘技术漫谈系列"></a>AFL漏洞挖掘技术漫谈系列</h3><p>之前我也<a href="https://tmr.js.org/p/405227c7/" target="_blank" rel="noopener">试玩</a>过AFL，文章挺详细的，推荐持续关注</p><p><a href="http://blog.topsec.com.cn/archives/3753" target="_blank" rel="noopener">AFL漏洞挖掘技术漫谈（一）：用AFL开始你的第一次Fuzzing</a></p><p><a href="http://blog.topsec.com.cn/archives/3755" target="_blank" rel="noopener">AFL漏洞挖掘技术漫谈（二）：Fuzz结果分析和代码覆盖率</a></p><h3 id="意外发现：C-编译器可自行编译出漏洞"><a href="#意外发现：C-编译器可自行编译出漏洞" class="headerlink" title="意外发现：C++编译器可自行编译出漏洞"></a>意外发现：C++编译器可自行编译出漏洞</h3><p>VC编译器的CVE到是没见过</p><p><a href="https://xz.aliyun.com/t/4272" target="_blank" rel="noopener">原文链接</a></p><h2 id="职场"><a href="#职场" class="headerlink" title="职场"></a>职场</h2><h3 id="鹅厂设计实习生通关记"><a href="#鹅厂设计实习生通关记" class="headerlink" title="鹅厂设计实习生通关记"></a>鹅厂设计实习生通关记</h3><p>从学校到职场，其实不是做设计的也很值得一看</p><p><a href="https://isux.tencent.com/articles/isux-interaction-design-intern.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="在转岗跳槽之前，你是否考虑好了这三样东西"><a href="#在转岗跳槽之前，你是否考虑好了这三样东西" class="headerlink" title="在转岗跳槽之前，你是否考虑好了这三样东西"></a>在转岗跳槽之前，你是否考虑好了这三样东西</h3><p>文中说到人，事，钱三样东西。我觉得人之间矛盾在于认知不同，一些很基础底层的东西，每个人的理解都不一样，比如什么是朋友，底线在哪里，当这些信息不互通，默认就会觉得对方和自己一样，但当事情和自己预想的不同时，矛盾就出现了，其实说清楚就好了，即使不能理解对方的认知。</p><p><a href="https://www.barretlee.com/blog/2019/03/08/%E5%9C%A8%E8%BD%AC%E5%B2%97%E8%B7%B3%E6%A7%BD%E4%B9%8B%E5%89%8D%EF%BC%8C%E4%BD%A0%E6%98%AF%E5%90%A6%E8%80%83%E8%99%91%E5%A5%BD%E4%BA%86%E8%BF%99%E4%B8%89%E6%A0%B7%E4%B8%9C%E8%A5%BF/" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="书籍文章读多了，小心丧失独立思考的能力"><a href="#书籍文章读多了，小心丧失独立思考的能力" class="headerlink" title="书籍文章读多了，小心丧失独立思考的能力"></a>书籍文章读多了，小心丧失独立思考的能力</h3><p>所以我做了透明日报？</p><p><a href="https://mp.weixin.qq.com/s/G6Mm_6Fvz4shxQzuCOGsjQ" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190309期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4，&lt;a href=&quot;#职场&quot;&gt;职场&lt;/a&gt;*2，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
