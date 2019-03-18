@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-03-17T14:11:19.279Z</updated>
+  <updated>2019-03-18T14:49:22.041Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190318期</title>
+    <link href="https://daily.tmr.js.org/d/20190318/"/>
+    <id>https://daily.tmr.js.org/d/20190318/</id>
+    <published>2019-03-18T04:03:33.000Z</published>
+    <updated>2019-03-18T14:49:22.041Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190318期</p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*5，<a href="#文娱">文娱</a>*1，<a href="#职场">职场</a>*2<br><a id="more"></a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="Meme：听多了“流行的观点”，大家心里满是不流行的想法"><a href="#Meme：听多了“流行的观点”，大家心里满是不流行的想法" class="headerlink" title="#Meme：听多了“流行的观点”，大家心里满是不流行的想法"></a>#Meme：听多了“流行的观点”，大家心里满是不流行的想法</h3><p>其实互联网放大了这种“小众”，有的时候就会觉得，世界这么大，你不是唯一的</p><p><a href="https://www.qdaily.com/articles/62147.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="瑞星首家发现Hybrid-Analysis网站数据被“驱动人生木马”污染"><a href="#瑞星首家发现Hybrid-Analysis网站数据被“驱动人生木马”污染" class="headerlink" title="瑞星首家发现Hybrid Analysis网站数据被“驱动人生木马”污染"></a>瑞星首家发现Hybrid Analysis网站数据被“驱动人生木马”污染</h3><p>弱口令导致木马在沙盒内网传播，这种在线分析的沙盒安全，想起来之前FireEye（可能是）的沙盒有过一个信息泄露，因为能获得运行截图，而截图没有经过处理（原始），将沙盒里的东西读出来，以图片的形式（截图）传出，导致沙盒的信息泄露，一些进程监测工具代码啥的</p><p><a href="https://www.freebuf.com/news/197653.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="漏洞挖掘技术之AFL项目分析"><a href="#漏洞挖掘技术之AFL项目分析" class="headerlink" title="漏洞挖掘技术之AFL项目分析"></a>漏洞挖掘技术之AFL项目分析</h3><p>之前也推荐过<a href="../20190309/#AFL漏洞挖掘技术漫谈系列">AFL的学习</a>，文章通过AFL源码分析了AFL的运行过程，如何插桩，如何fuzzer等等，还有一些小工具的分析</p><p><a href="https://bbs.pediy.com/thread-249912.htm" target="_blank" rel="noopener">原文链接</a></p><h3 id="分布式系统的“流言蜚语”"><a href="#分布式系统的“流言蜚语”" class="headerlink" title="分布式系统的“流言蜚语”"></a>分布式系统的“流言蜚语”</h3><p>很形象的讲解了Gossip协议</p><p><a href="https://mp.weixin.qq.com/s/ZbwEiBJZ0XusB5NSJDbLHw" target="_blank" rel="noopener">原文链接</a></p><h3 id="浅谈eval和assert"><a href="#浅谈eval和assert" class="headerlink" title="浅谈eval和assert"></a>浅谈eval和assert</h3><p>eval和assert都可以执行代码，本质上来看eval是语言构造器，assert是一个函数，文末给的柠檬师傅的也非常值得一看，从PHP源码层面分析了调用过程。最后在PHP7中assert又变成了一个语言结构，这也是导致菜刀不能用的原因（不支持可变函数），另外之前还推荐过<a href="../20190308/#PHP7和PHP5在安全上的区别">PHP7和PHP5在安全上的区别</a></p><p><a href="https://www.anquanke.com/post/id/173201" target="_blank" rel="noopener">原文链接</a></p><h3 id="Meterpreter载荷执行原理分析"><a href="#Meterpreter载荷执行原理分析" class="headerlink" title="Meterpreter载荷执行原理分析"></a>Meterpreter载荷执行原理分析</h3><p>meterpreter小巧但功能强大，是怎么实现的（其实就是个loader），一句话总结就是用来连接msf，接收payload，利用反射DLL注入在内存里跑</p><p><a href="https://xz.aliyun.com/t/1709" target="_blank" rel="noopener">原文链接</a></p><p>其他相关文章</p><p><a href="https://bbs.pediy.com/thread-247616.htm" target="_blank" rel="noopener">Meterpreter技术原理：载荷执行</a></p><p><a href="http://d1iv3.me/2019/01/05/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3meterpreter%E5%8E%9F%E7%90%86/" target="_blank" rel="noopener">深入理解meterpreter原理</a> （较详细，有很多参考链接）</p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="西南偏南电影节落幕，这些电影的口碑还不错"><a href="#西南偏南电影节落幕，这些电影的口碑还不错" class="headerlink" title="西南偏南电影节落幕，这些电影的口碑还不错"></a>西南偏南电影节落幕，这些电影的口碑还不错</h3><p>目前看完了《爱，死亡与机器人》，感觉不错</p><p><a href="https://www.qdaily.com/articles/62143.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="职场"><a href="#职场" class="headerlink" title="职场"></a>职场</h2><h3 id="技术人的坚守"><a href="#技术人的坚守" class="headerlink" title="技术人的坚守"></a>技术人的坚守</h3><p>一直做技术会有什么问题，作者提到需要扎实基础，和不断地快速学习。以前有个老师教我，一个东西有三个W，What（是什么），How（怎么用）和Why（为什么是这样），这也是无止境的，因为寻找Why的时候会有更多的What</p><p><a href="https://www.barretlee.com/blog/2019/03/18/tech-and-business-in-long-term-version/" target="_blank" rel="noopener">原文链接</a></p><h3 id="面对裁员，该如何应对"><a href="#面对裁员，该如何应对" class="headerlink" title="面对裁员，该如何应对"></a>面对裁员，该如何应对</h3><p>裁掉了就换一家（逃</p><p><a href="https://mp.weixin.qq.com/s/dj1-bmatuZZrOd_lUazB8Q" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190318期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*5，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#职场&quot;&gt;职场&lt;/a&gt;*2&lt;br&gt;
+    
+    </summary>
+    
+      <category term="201903" scheme="https://daily.tmr.js.org/categories/201903/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190317期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190312期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201903" scheme="https://daily.tmr.js.org/categories/201903/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190311期</title>
-    <link href="https://daily.tmr.js.org/d/20190311/"/>
-    <id>https://daily.tmr.js.org/d/20190311/</id>
-    <published>2019-03-11T05:06:11.000Z</published>
-    <updated>2019-03-16T15:40:36.661Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190311期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#经济">经济</a>*1，<a href="#互联网">互联网</a>*3，<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="技术的社会角色将是下个重要议题"><a href="#技术的社会角色将是下个重要议题" class="headerlink" title="技术的社会角色将是下个重要议题"></a>技术的社会角色将是下个重要议题</h3><p>技术能改变世界，改善生活，但也是双刃剑，技术无罪，但谁用和怎么用是另一回事</p><p><a href="https://techcrunch.cn/2019/03/11/the-next-great-debate-will-be-about-the-role-of-tech-in-society-and-government/" target="_blank" rel="noopener">原文链接</a></p><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="拼多多的“农货战事”"><a href="#拼多多的“农货战事”" class="headerlink" title="拼多多的“农货战事”"></a>拼多多的“农货战事”</h3><p>拼多多这样直连农户和买家到是很厉害</p><p><a href="https://www.pingwest.com/a/184692" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="安全与信任的半毛钱关系"><a href="#安全与信任的半毛钱关系" class="headerlink" title="安全与信任的半毛钱关系"></a>安全与信任的半毛钱关系</h3><p>我觉得安全是建立在信任的基础上的，因为物理安全，增加信任，因为信任，增加虚拟安全</p><p><a href="https://mp.weixin.qq.com/s/TFZDactSwRMd9mWvZ3Dypg" target="_blank" rel="noopener">原文链接</a></p><h3 id="理想国际大厦：与新浪百度ofo有关的闪亮日子"><a href="#理想国际大厦：与新浪百度ofo有关的闪亮日子" class="headerlink" title="理想国际大厦：与新浪百度ofo有关的闪亮日子"></a>理想国际大厦：与新浪百度ofo有关的闪亮日子</h3><p>新浪，爱国者，百度，ofo都在理想国际大厦呆过，这些科技公司的故事</p><p><a href="https://mp.weixin.qq.com/s/ougB3x5OD4EgL-b3vPyCHw" target="_blank" rel="noopener">原文链接</a></p><h3 id="「大-V-出走」背后：「少数派」知乎的面子与里子"><a href="#「大-V-出走」背后：「少数派」知乎的面子与里子" class="headerlink" title="「大 V 出走」背后：「少数派」知乎的面子与里子"></a>「大 V 出走」背后：「少数派」知乎的面子与里子</h3><p>知乎讨论氛围下降，广告增加到影响体验，文中很多链接页值得一看，其实对于知识怎么变现的问题，我个人不喜欢小圈子化，该分享就分享</p><p><a href="https://mp.weixin.qq.com/s/S4RrC3l1LECppT0ZFUhzKQ" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Kerberos协议探索系列"><a href="#Kerberos协议探索系列" class="headerlink" title="Kerberos协议探索系列"></a>Kerberos协议探索系列</h3><p>继续<a href="../20190309/#红队与理论：Credential-Relay-与-EPA">之前</a>的认证相关，Kerberos学习，第三篇还没出，建议持续关注</p><p><a href="https://www.anquanke.com/post/id/171552" target="_blank" rel="noopener">Kerberos协议探索系列之扫描与爆破篇</a></p><p><a href="https://www.anquanke.com/post/id/172900" target="_blank" rel="noopener">Kerberos协议探索系列之票据篇</a></p><h3 id="PHP-文件包含漏洞姿势总结"><a href="#PHP-文件包含漏洞姿势总结" class="headerlink" title="PHP 文件包含漏洞姿势总结"></a>PHP 文件包含漏洞姿势总结</h3><p>总结非常全面了</p><p><a href="https://mp.weixin.qq.com/s/RaxfIg9x5Rh1qjDgFBr82Q" target="_blank" rel="noopener">原文链接</a></p><h3 id="NET高级代码审计（第二课）Json-Net反序列化漏洞"><a href="#NET高级代码审计（第二课）Json-Net反序列化漏洞" class="headerlink" title=".NET高级代码审计（第二课）Json.Net反序列化漏洞"></a>.NET高级代码审计（第二课）Json.Net反序列化漏洞</h3><p>继续<a href="../20190306/#NET高级代码审计（第一课）XmlSerializer反序列漏洞">上篇</a>.NET审计</p><p><a href="https://www.anquanke.com/post/id/172920" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190311期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*3，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
     
     </summary>
     
