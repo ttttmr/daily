@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-03-19T12:25:12.524Z</updated>
+  <updated>2019-03-20T13:03:31.701Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190320期</title>
+    <link href="https://daily.tmr.js.org/d/20190320/"/>
+    <id>https://daily.tmr.js.org/d/20190320/</id>
+    <published>2019-03-20T04:35:04.000Z</published>
+    <updated>2019-03-20T13:03:31.701Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190320期</p><p>今日文章：<a href="#互联网">互联网</a>*2，<a href="#技术">技术</a>*6，<a href="#其他">其他</a>*2</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="最完美的绑架"><a href="#最完美的绑架" class="headerlink" title="最完美的绑架"></a>最完美的绑架</h3><p>这个数字时代，人们阅读网络化碎片化娱乐化，看书的越来越少了，而人们的网络时间绝大多数会用在几个科技巨头中，科技巨头拥有海里数据，吃喝玩乐住行都能给你一个解决方案，但同时不断的收集数据，大数据下的隐私问题越来越严重，当然这个过程还是相互促进的。另外在思想阅读方面，大数据带来的内容推荐算法总能给你“想要”看的，也很容易将人们带入<a href="https://wiki.mbalib.com/wiki/%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF" target="_blank" rel="noopener">信息茧房</a>，数字时代的“大妈妈（Big Mother）”和“老大哥（Big Brother）”哪个跟可怕？</p><p>另外文中的一句话很有意思</p><blockquote><p>那些数字时代的领袖们小心翼翼地让自己的孩子远离他们为别人的孩子准备的世界。</p></blockquote><p>当然互联网给人们了更多的选择和机会，去看世界，学习知识，促进交流，这也是前所未有的</p><p><a href="https://medium.com/@iyouport/bigdata-4d01cc83f263" target="_blank" rel="noopener">原文链接</a></p><h3 id="为了让你在飞机上玩手机，背后都有哪些公司在忙活？"><a href="#为了让你在飞机上玩手机，背后都有哪些公司在忙活？" class="headerlink" title="为了让你在飞机上玩手机，背后都有哪些公司在忙活？"></a>为了让你在飞机上玩手机，背后都有哪些公司在忙活？</h3><p>讲解了飞机上使用网络是什么样的，飞机，卫星和运营商的地面基站</p><p><a href="https://www.qdaily.com/articles/62080.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="挖洞经验分享：从RCE到LDAP管理权限"><a href="#挖洞经验分享：从RCE到LDAP管理权限" class="headerlink" title="挖洞经验分享：从RCE到LDAP管理权限"></a>挖洞经验分享：从RCE到LDAP管理权限</h3><p>不过讲道理拿到RCE应该到此为止，继续收集信息去拿LDAP读数据优点过了</p><p><a href="https://mp.weixin.qq.com/s/QVpn2iF5Snl3FpuCUAUckQ" target="_blank" rel="noopener">原文链接</a></p><h3 id="Ghidra-Software-Reverse-Engineering-Framework逆向工具分析"><a href="#Ghidra-Software-Reverse-Engineering-Framework逆向工具分析" class="headerlink" title="Ghidra Software Reverse Engineering Framework逆向工具分析"></a>Ghidra Software Reverse Engineering Framework逆向工具分析</h3><p>Ghidra介绍和简单使用</p><p><a href="http://blog.nsfocus.net/ghidra-software-reverse-engineering-framework/" target="_blank" rel="noopener">原文链接</a></p><h3 id="如何利用OOB数据绕过防火墙对shellcode的拦截"><a href="#如何利用OOB数据绕过防火墙对shellcode的拦截" class="headerlink" title="如何利用OOB数据绕过防火墙对shellcode的拦截"></a>如何利用OOB数据绕过防火墙对shellcode的拦截</h3><p>利用TCP包的<code>URG</code>标志外带数据，存放到<code>Urgent Pointer</code>中</p><p><a href="https://www.anquanke.com/post/id/173610" target="_blank" rel="noopener">原文链接</a></p><h3 id="CTF中SSRF的一些trick"><a href="#CTF中SSRF的一些trick" class="headerlink" title="CTF中SSRF的一些trick"></a>CTF中SSRF的一些trick</h3><p>利用gopher协议post数据和攻击数据库，文中提到的localhost和127.0.0.1的区别倒是第一次知道</p><p><a href="https://xz.aliyun.com/t/4420" target="_blank" rel="noopener">原文链接</a></p><h3 id="探究PHP中的Mkdir函数"><a href="#探究PHP中的Mkdir函数" class="headerlink" title="探究PHP中的Mkdir函数"></a>探究PHP中的Mkdir函数</h3><p>作者是非常深究了，mkdir函数执行流程，源码调试分析，考虑目录存在情况，系统环境，PHP版本，再到非线程安全，最后总结了一个小trick。而这一切的起因和动力只是复现分析WP5.0.0-RCE，非常厉害。</p><p><a href="http://blog.topsec.com.cn/archives/3789" target="_blank" rel="noopener">原文链接</a></p><h3 id="【译】缓存的最佳实践以及max-age的陷阱"><a href="#【译】缓存的最佳实践以及max-age的陷阱" class="headerlink" title="【译】缓存的最佳实践以及max-age的陷阱"></a>【译】缓存的最佳实践以及max-age的陷阱</h3><p>一些浏览器的缓存策略</p><p><a href="https://segmentfault.com/a/1190000018576830" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="小事-·-无论你强大与否，都抵不过命运的悲欢离合"><a href="#小事-·-无论你强大与否，都抵不过命运的悲欢离合" class="headerlink" title="小事 · 无论你强大与否，都抵不过命运的悲欢离合"></a>小事 · 无论你强大与否，都抵不过命运的悲欢离合</h3><p>—— 你对现实低头，做过最无奈的一件事是什么？</p><p><a href="https://news-at.zhihu.com/story/9709161" target="_blank" rel="noopener">原文链接</a></p><h3 id="为什么我们应该多使用异步交流"><a href="#为什么我们应该多使用异步交流" class="headerlink" title="为什么我们应该多使用异步交流"></a>为什么我们应该多使用异步交流</h3><p>很有趣的观点，并学习了一个新词语。在GitHub上聊就能体会到跨时区异步，今天留言明天起来就能看到回复了哈哈哈</p><p><a href="https://www.jianshu.com/p/4045f43263e5" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190320期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*2，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*6，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201903" scheme="https://daily.tmr.js.org/categories/201903/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190319期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190314期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*3，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201903" scheme="https://daily.tmr.js.org/categories/201903/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190313期</title>
-    <link href="https://daily.tmr.js.org/d/20190313/"/>
-    <id>https://daily.tmr.js.org/d/20190313/</id>
-    <published>2019-03-13T04:18:09.000Z</published>
-    <updated>2019-03-16T15:40:23.438Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190313期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#互联网">互联网</a>*2，<a href="#技术">技术</a>*3，<a href="#职场">职场</a>*1，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="口述：我陪爸爸去瑞士执行安乐死｜故事FM"><a href="#口述：我陪爸爸去瑞士执行安乐死｜故事FM" class="headerlink" title="口述：我陪爸爸去瑞士执行安乐死｜故事FM"></a>口述：我陪爸爸去瑞士执行安乐死｜故事FM</h3><p>关于安乐死之前日报也发过<a href="../20190307/#面对历史的进程，安乐死要做的还有很多">法律相关的文章</a>，这篇是傅达仁的故事，亚洲第一位安乐死的人</p><p><a href="https://mp.weixin.qq.com/s?__biz=MjM5NzQwNjcyMQ==&amp;mid=2651024980&amp;idx=2&amp;sn=e8152c679ac7dad9e17a14cd1bfbadb3&amp;chksm=bd2dbf3a8a5a362cad1f70b2e85bae40713df70b62f32e06d3d7bdd556b8124c1b9f1b8fc816&amp;xtrack=1&amp;scene=0&amp;subscene=131&amp;clicktime=1552345476&amp;ascene=7&amp;devicetype=android-28&amp;version=27000364&amp;nett" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="一个明星-IT-记者和他在-2000-年创立的-IT-社区-1999-回忆录⑥"><a href="#一个明星-IT-记者和他在-2000-年创立的-IT-社区-1999-回忆录⑥" class="headerlink" title="一个明星 IT 记者和他在 2000 年创立的 IT 社区 | 1999 回忆录⑥"></a>一个明星 IT 记者和他在 2000 年创立的 IT 社区 | 1999 回忆录⑥</h3><p>一点互联网历史，这个系列的文章都可以看看的，文末有相关链接</p><p><a href="https://www.qdaily.com/articles/61994.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="遇难女生个人信息被扒光羞辱，网络暴力为何成了一门流量生意？"><a href="#遇难女生个人信息被扒光羞辱，网络暴力为何成了一门流量生意？" class="headerlink" title="遇难女生个人信息被扒光羞辱，网络暴力为何成了一门流量生意？"></a>遇难女生个人信息被扒光羞辱，网络暴力为何成了一门流量生意？</h3><p>空难发展到女大学生简直是，就像文中说的匪夷所思，多少是营销号带的</p><p>其实原文内容一般，但里面的一些链接内容还可以（能在文中给出各种参考和来源的文章不多了）</p><p><a href="https://www.ifanr.com/1184529" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="【红蓝对抗】大型互联网企业安全蓝军建设"><a href="#【红蓝对抗】大型互联网企业安全蓝军建设" class="headerlink" title="【红蓝对抗】大型互联网企业安全蓝军建设"></a>【红蓝对抗】大型互联网企业安全蓝军建设</h3><p>APT最近被提及的次数是越来越多了，感觉这个红蓝概念emmm好像国内外不一样</p><p><a href="https://kingx.me/Thinking-about-Red-Teaming.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="NET高级代码审计（第三课）Fastjson反序列化漏洞"><a href="#NET高级代码审计（第三课）Fastjson反序列化漏洞" class="headerlink" title=".NET高级代码审计（第三课）Fastjson反序列化漏洞"></a>.NET高级代码审计（第三课）Fastjson反序列化漏洞</h3><p>继续<a href="../20190311/#NET高级代码审计（第二课）Json-Net反序列化漏洞">上篇</a>.NET审计</p><p><a href="https://www.anquanke.com/post/id/173151" target="_blank" rel="noopener">原文链接</a></p><h3 id="新项目检查清单"><a href="#新项目检查清单" class="headerlink" title="新项目检查清单"></a>新项目检查清单</h3><p>一个新项目需要什么，该怎么做，从4个维度检查技术，管理，人员，业务</p><p><a href="https://www.phodal.com/blog/new-project-check-lists/" target="_blank" rel="noopener">原文链接</a></p><h2 id="职场"><a href="#职场" class="headerlink" title="职场"></a>职场</h2><h3 id="大型公司安全技术岗位面试杂谈"><a href="#大型公司安全技术岗位面试杂谈" class="headerlink" title="大型公司安全技术岗位面试杂谈"></a>大型公司安全技术岗位面试杂谈</h3><p>大厂技术面试流程和一点套路</p><p><a href="https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&amp;mid=2247489580&amp;idx=1&amp;sn=dc04f15e96becf922b9f66beb4562dad&amp;chksm=ec1e2804db69a112e056b4c70ac0ac72a0d9f77b269532afe05a534b4e34691a66fe273c31bd&amp;mpshare=1&amp;scene=1&amp;srcid=#rd" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="小事-·-一句道歉没那么难，真的"><a href="#小事-·-一句道歉没那么难，真的" class="headerlink" title="小事 · 一句道歉没那么难，真的"></a>小事 · 一句道歉没那么难，真的</h3><p>—— 哪一刻你觉得你伤了孩子的心？</p><p>孩子在小时候的经历很容易就会影响一生，不论好坏</p><p><a href="https://news-at.zhihu.com/story/9708828" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190313期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*2，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#职场&quot;&gt;职场&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
