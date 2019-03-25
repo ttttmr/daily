@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-03-24T14:03:56.341Z</updated>
+  <updated>2019-03-25T15:21:45.951Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190325期</title>
+    <link href="https://daily.tmr.js.org/d/20190325/"/>
+    <id>https://daily.tmr.js.org/d/20190325/</id>
+    <published>2019-03-25T04:28:39.000Z</published>
+    <updated>2019-03-25T15:21:45.951Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190325期</p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*1，<a href="#文娱">文娱</a>*2，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="腾讯防沉迷系统再升级，拉来老师做监管"><a href="#腾讯防沉迷系统再升级，拉来老师做监管" class="headerlink" title="腾讯防沉迷系统再升级，拉来老师做监管"></a>腾讯防沉迷系统再升级，拉来老师做监管</h3><p>连老师都线上监管打游戏，简直是…，我觉得家长都不太应该这样管，数字监控的力量还是要慎重，家长最好能物理监管，教育孩子</p><p><a href="https://www.qdaily.com/articles/62362.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="密码管理器安全性分析"><a href="#密码管理器安全性分析" class="headerlink" title="密码管理器安全性分析"></a>密码管理器安全性分析</h3><p>在 not running, unlocked (running), locked (running) 三个不同状态下从密码管理器里获取密码</p><p><a href="https://www.secpulse.com/archives/102442.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="「票房」电影删改了还看不看，这成了一个问题"><a href="#「票房」电影删改了还看不看，这成了一个问题" class="headerlink" title="「票房」电影删改了还看不看，这成了一个问题"></a>「票房」电影删改了还看不看，这成了一个问题</h3><p>删改的电影不完整</p><p><a href="https://www.qdaily.com/articles/62332.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="更严格的“限古令”传出，古装剧第二季度全面禁播"><a href="#更严格的“限古令”传出，古装剧第二季度全面禁播" class="headerlink" title="更严格的“限古令”传出，古装剧第二季度全面禁播"></a>更严格的“限古令”传出，古装剧第二季度全面禁播</h3><p><a href="https://www.qdaily.com/articles/62357.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="记CanSecWest19之行"><a href="#记CanSecWest19之行" class="headerlink" title="记CanSecWest19之行"></a>记CanSecWest19之行</h3><p>作者第一次出国经历</p><p><a href="https://www.jarviswang.me/?p=903" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190325期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*2，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201903" scheme="https://daily.tmr.js.org/categories/201903/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190324期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190318期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*5，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#职场&quot;&gt;职场&lt;/a&gt;*2&lt;br&gt;
-    
-    </summary>
-    
-      <category term="201903" scheme="https://daily.tmr.js.org/categories/201903/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190317期</title>
-    <link href="https://daily.tmr.js.org/d/20190317/"/>
-    <id>https://daily.tmr.js.org/d/20190317/</id>
-    <published>2019-03-17T00:55:47.000Z</published>
-    <updated>2019-03-17T14:11:19.279Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190317期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#互联网">互联网</a>*3，<a href="#职场">职场</a>*1，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="还原新闻事件，是在「消费死者」吗？"><a href="#还原新闻事件，是在「消费死者」吗？" class="headerlink" title="还原新闻事件，是在「消费死者」吗？"></a>还原新闻事件，是在「消费死者」吗？</h3><p>—— 死者发在网上的信息应该被广泛传播吗，还原事件和「消费死者」有什么本质区别？</p><p>埃航事件在微博上的网络暴力，之前日报也发过<a href="../20190313/#遇难女生个人信息被扒光羞辱，网络暴力为何成了一门流量生意？">相关内容</a>，本文更多的是站在法律和道德角度</p><p><a href="https://news-at.zhihu.com/story/9708971" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="社交媒体在改变未来战事？一场腥风血雨的YouTube大战"><a href="#社交媒体在改变未来战事？一场腥风血雨的YouTube大战" class="headerlink" title="社交媒体在改变未来战事？一场腥风血雨的YouTube大战"></a>社交媒体在改变未来战事？一场腥风血雨的YouTube大战</h3><p>这样的网络“舆论”的战斗力量能不能社会的利用一下，就像文中提到的“对注意力的掌控力，思想操控能力和推动网民行动的能力”</p><p><a href="https://mp.weixin.qq.com/s/EMUDGQBHmJaeu3l7VVhOGQ" target="_blank" rel="noopener">原文链接</a></p><h3 id="互联网侵权骚操作：极验，请收起你偷鸡摸狗的手"><a href="#互联网侵权骚操作：极验，请收起你偷鸡摸狗的手" class="headerlink" title="互联网侵权骚操作：极验，请收起你偷鸡摸狗的手"></a>互联网侵权骚操作：极验，请收起你偷鸡摸狗的手</h3><p><a href="https://threathunter.cn/" target="_blank" rel="noopener">威胁猎人</a>的手机号信誉库产品被<a href="https://www.geetest.com/" target="_blank" rel="noopener">极验</a>盗用</p><p>很巧今天移动上线了<a href="https://www.appinn.com/lvdun-chinamobile/" target="_blank" rel="noopener">绿盾防护</a>的功能，虽然名字容易联想到绿坝</p><p><a href="https://mp.weixin.qq.com/s/1NImfZyNsxn5rtXKnB4gBg" target="_blank" rel="noopener">原文链接</a></p><h3 id="安全从业者亲身经历闪付被盗刷之后的维权之路"><a href="#安全从业者亲身经历闪付被盗刷之后的维权之路" class="headerlink" title="安全从业者亲身经历闪付被盗刷之后的维权之路"></a>安全从业者亲身经历闪付被盗刷之后的维权之路</h3><p>职业欠钱大佬的亲身经历，银行银联派出所踢皮球</p><p><a href="https://mp.weixin.qq.com/s/_xbC3RqTeAPf558Lq8PsLg" target="_blank" rel="noopener">原文链接</a></p><h2 id="职场"><a href="#职场" class="headerlink" title="职场"></a>职场</h2><h3 id="随想"><a href="#随想" class="headerlink" title="随想"></a>随想</h3><p>作者的一些技术的职业发展随想，做技术是为了什么，能一直做技术吗，管理岗呢</p><p><a href="https://jiajunhuang.com/articles/2019_03_16-tittle_tattle.md.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="小事-·-能白首偕老的，只有我们的枕边人"><a href="#小事-·-能白首偕老的，只有我们的枕边人" class="headerlink" title="小事 · 能白首偕老的，只有我们的枕边人"></a>小事 · 能白首偕老的，只有我们的枕边人</h3><p>—— 不孕不育是种什么滋味？</p><p>其实为什么要结婚，又为什么要生孩子呢</p><p><a href="https://news-at.zhihu.com/story/9709005" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190317期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*3，&lt;a href=&quot;#职场&quot;&gt;职场&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
