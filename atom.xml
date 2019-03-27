@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-03-27T05:01:39.411Z</updated>
+  <updated>2019-03-27T10:45:55.982Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190327期</title>
+    <link href="https://daily.tmr.js.org/d/20190327/"/>
+    <id>https://daily.tmr.js.org/d/20190327/</id>
+    <published>2019-03-27T00:49:02.000Z</published>
+    <updated>2019-03-27T10:45:55.982Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190327期</p><p>今日文章：<a href="#经济">经济</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*6，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="传销和直销的区别是什么？「传销不用蹲监狱」是真的吗？"><a href="#传销和直销的区别是什么？「传销不用蹲监狱」是真的吗？" class="headerlink" title="传销和直销的区别是什么？「传销不用蹲监狱」是真的吗？"></a>传销和直销的区别是什么？「传销不用蹲监狱」是真的吗？</h3><p>—— 如何客观解释「传销」，传销团伙有那些特征和行为模式，如何定罪？</p><p><a href="https://news-at.zhihu.com/story/9709446" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="关于黑网贷平台对用户进行信用行为分析"><a href="#关于黑网贷平台对用户进行信用行为分析" class="headerlink" title="关于黑网贷平台对用户进行信用行为分析"></a>关于黑网贷平台对用户进行信用行为分析</h3><p>评论区也提到了平台数据获取的问题</p><p><a href="https://www.freebuf.com/articles/database/198390.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="蚁剑流量分析到改装蚁剑之waf绕过"><a href="#蚁剑流量分析到改装蚁剑之waf绕过" class="headerlink" title="蚁剑流量分析到改装蚁剑之waf绕过"></a>蚁剑流量分析到改装蚁剑之waf绕过</h3><p>蚂剑的编码器是过waf的好东西，文中提到的先知文章也推荐阅读</p><p><a href="https://www.o2oxy.cn/2166.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="寻找CloudFlare和TOR背后的真实源IP"><a href="#寻找CloudFlare和TOR背后的真实源IP" class="headerlink" title="寻找CloudFlare和TOR背后的真实源IP"></a>寻找CloudFlare和TOR背后的真实源IP</h3><p>看nosec发的，看就像老文章（感觉看过），果然在先知上搜到了，显然先知文章更走心…</p><p><a href="https://xz.aliyun.com/t/2781" target="_blank" rel="noopener">原文链接</a></p><h3 id="Google基础设施安全设计概述"><a href="#Google基础设施安全设计概述" class="headerlink" title="Google基础设施安全设计概述"></a>Google基础设施安全设计概述</h3><p>看到蓝海科学发的，想起来以前好像看过，网路冷眼在2017年就发了，而且翻译质量更好</p><p>然后发现是看美团技术发的文章才看过去的，把链接放后面了</p><p><a href="https://mp.weixin.qq.com/s/ZeWIcLb414J3tlIB-TSbbw" target="_blank" rel="noopener">原文链接</a></p><p>相关文章 <a href="https://tech.meituan.com/2017/04/07/google-security-ayazero.html" target="_blank" rel="noopener">从Google白皮书看企业安全最佳实践</a></p><h3 id="小规模团队如何开展信息安全工作？系列"><a href="#小规模团队如何开展信息安全工作？系列" class="headerlink" title="小规模团队如何开展信息安全工作？系列"></a>小规模团队如何开展信息安全工作？系列</h3><p><a href="https://www.sec-un.org/%E5%B0%8F%E8%A7%84%E6%A8%A1%E5%9B%A2%E9%98%9F%E5%A6%82%E4%BD%95%E5%BC%80%E5%B1%95%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E5%B7%A5%E4%BD%9C%EF%BC%9F%EF%BC%881%EF%BC%89%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0/" target="_blank" rel="noopener">小规模团队如何开展信息安全工作？（1）科技创新型企业</a></p><p><a href="https://www.sec-un.org/%E5%B0%8F%E8%A7%84%E6%A8%A1%E5%9B%A2%E9%98%9F%E5%A6%82%E4%BD%95%E5%BC%80%E5%B1%95%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E5%B7%A5%E4%BD%9C%EF%BC%9F%EF%BC%882%EF%BC%89%E9%87%91%E8%9E%8D%E3%80%81%E4%BA%92/" target="_blank" rel="noopener">小规模团队如何开展信息安全工作？（2）金融、互金、游戏行业</a></p><h3 id="上传包为何可“绕过”Java过滤器？"><a href="#上传包为何可“绕过”Java过滤器？" class="headerlink" title="上传包为何可“绕过”Java过滤器？"></a>上传包为何可“绕过”Java过滤器？</h3><p>Multipart 的 POST 数据包的绕过问题，作者从源码分析数据获取逻辑，有很多截图和注释，很好理解，我不太懂Java Web也能看懂在讲啥哈哈</p><p><a href="http://gv7.me/articles/2019/why-can-multipart-post-bypass-java-filter/" target="_blank" rel="noopener">原文链接</a></p><h3 id="正经的我，做了个不正经的项目-——-Pornhub-风格-Logo-生成器"><a href="#正经的我，做了个不正经的项目-——-Pornhub-风格-Logo-生成器" class="headerlink" title="正经的我，做了个不正经的项目 —— Pornhub 风格 Logo 生成器"></a>正经的我，做了个不正经的项目 —— Pornhub 风格 Logo 生成器</h3><p>一个项目快速开发上线</p><p><a href="https://linux.cn/article-10652-1.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="文章原创性的思考"><a href="#文章原创性的思考" class="headerlink" title="文章原创性的思考"></a>文章原创性的思考</h3><p><a href="./#寻找CloudFlare和TOR背后的真实源IP">上面</a>几篇相似文的一点想法</p><p><a href="https://tmr.js.org/p/43233acc/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190327期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*6，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201903" scheme="https://daily.tmr.js.org/categories/201903/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190326期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190320期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*2，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*6，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201903" scheme="https://daily.tmr.js.org/categories/201903/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190319期</title>
-    <link href="https://daily.tmr.js.org/d/20190319/"/>
-    <id>https://daily.tmr.js.org/d/20190319/</id>
-    <published>2019-03-19T01:00:11.000Z</published>
-    <updated>2019-03-19T12:25:12.524Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190319期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#互联网">互联网</a>*2，<a href="#技术">技术</a>*2，<a href="#设计">设计</a>*1，<a href="#职场">职场</a>*1，<a href="#其他">其他</a>*2</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="为政治正确埋单"><a href="#为政治正确埋单" class="headerlink" title="为政治正确埋单"></a>为政治正确埋单</h3><p>政治正确的一点弊端，需要合理的政治正确</p><p><a href="https://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&amp;mid=402165623&amp;idx=1&amp;sn=b48a3571913befe7d908dc418448ce1b&amp;scene=21#wechat_redirect" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="音乐社交网站-Myspace，丢了-2016-年之前所有上传资料"><a href="#音乐社交网站-Myspace，丢了-2016-年之前所有上传资料" class="headerlink" title="音乐社交网站 Myspace，丢了 2016 年之前所有上传资料"></a>音乐社交网站 Myspace，丢了 2016 年之前所有上传资料</h3><p>知道Myspace还是在《Facebook效应》上看的，有一种人人网的感觉</p><p><a href="https://www.qdaily.com/articles/62183.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="bilibili贴吧的崩塌与重建"><a href="#bilibili贴吧的崩塌与重建" class="headerlink" title="bilibili贴吧的崩塌与重建"></a>bilibili贴吧的崩塌与重建</h3><p>这篇随意看，吃瓜</p><p><a href="https://mp.weixin.qq.com/s/yG-rr-8QjS4YwDkaQHTXDw" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Ghidra-从-XXE-到-RCE"><a href="#Ghidra-从-XXE-到-RCE" class="headerlink" title="Ghidra 从 XXE 到 RCE"></a>Ghidra 从 XXE 到 RCE</h3><p>Ghidra一出来就爆洞了</p><p><a href="https://xlab.tencent.com/cn/2019/03/18/ghidra-from-xxe-to-rce/" target="_blank" rel="noopener">原文链接</a></p><h3 id="Web端H-265播放器研发解密"><a href="#Web端H-265播放器研发解密" class="headerlink" title="Web端H.265播放器研发解密"></a>Web端H.265播放器研发解密</h3><p>H.264 H.265 傻傻分不清楚，看视频的时候总是会遇到各种各样的视频编码格式和文件格式</p><p><a href="http://taobaofed.org/blog/2019/03/18/web-player-h265/" target="_blank" rel="noopener">原文链接</a></p><h2 id="设计"><a href="#设计" class="headerlink" title="设计"></a>设计</h2><h3 id="程序员绘画指北"><a href="#程序员绘画指北" class="headerlink" title="程序员绘画指北"></a>程序员绘画指北</h3><p>我用的 Autodesk Sketch，用手指在手机上画，而且只会画简笔画哈哈哈，优点是简单，随时能画，另外也强烈推荐<a href="https://www.pinterest.com/" target="_blank" rel="noopener">Pinterest</a></p><p><a href="https://www.phodal.com/blog/design-guide-for-developer/" target="_blank" rel="noopener">原文链接</a></p><h2 id="职场"><a href="#职场" class="headerlink" title="职场"></a>职场</h2><h3 id="信息安全学习很枯燥，很难坚持，一点小小感悟分享给你"><a href="#信息安全学习很枯燥，很难坚持，一点小小感悟分享给你" class="headerlink" title="信息安全学习很枯燥，很难坚持，一点小小感悟分享给你"></a>信息安全学习很枯燥，很难坚持，一点小小感悟分享给你</h3><p>算是myh0st自己的信安之路了</p><p><a href="https://mp.weixin.qq.com/s/5aRJ9abHyfVHxV8galTKhg" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="小事-·-有公共厕所的胡同，最有味道"><a href="#小事-·-有公共厕所的胡同，最有味道" class="headerlink" title="小事 · 有公共厕所的胡同，最有味道"></a>小事 · 有公共厕所的胡同，最有味道</h3><p>—— 北京哪里的胡同最有味道？</p><p>北京胡同的公厕的记忆。另外其实城市的公厕数量和质量也是一个问题</p><p><a href="https://news-at.zhihu.com/story/9709098" target="_blank" rel="noopener">原文链接</a></p><h3 id="离职追梦！分享我的十年成长路，寻找我的梦想赞助人"><a href="#离职追梦！分享我的十年成长路，寻找我的梦想赞助人" class="headerlink" title="离职追梦！分享我的十年成长路，寻找我的梦想赞助人"></a>离职追梦！分享我的十年成长路，寻找我的梦想赞助人</h3><p>作者的成长之路，从军，iOS逆向，出书，翻译，创业，很多成长的思考，就像文中说的</p><blockquote><p>十年间，军队的磨练、出书的投入、创业的艰辛、蚂蚁的见闻……<br>十年来，无数的困惑、清醒、低落、高昂、失望、希望、纠结、释然……<br>十年后，在它们的裹挟下，我好像懂的很多，又好像什么也不懂；对一切好奇，心中仍有梦想，愿意再尝试一下，想变成更好的自己。</p></blockquote><p>其实看完觉得军校生活对作者的影响还是很大的</p><p><a href="http://iosre.com/t/topic/14215" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190319期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*2，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#设计&quot;&gt;设计&lt;/a&gt;*1，&lt;a href=&quot;#职场&quot;&gt;职场&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
