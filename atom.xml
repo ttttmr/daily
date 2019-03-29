@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-03-28T11:13:39.371Z</updated>
+  <updated>2019-03-29T14:07:15.819Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190329期</title>
+    <link href="https://daily.tmr.js.org/d/20190329/"/>
+    <id>https://daily.tmr.js.org/d/20190329/</id>
+    <published>2019-03-29T06:52:32.000Z</published>
+    <updated>2019-03-29T14:07:15.819Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190329期</p><p>今日文章：<a href="#经济">经济</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="One-Billion-Customers-十亿消费者"><a href="#One-Billion-Customers-十亿消费者" class="headerlink" title="One Billion Customers 十亿消费者"></a>One Billion Customers 十亿消费者</h3><p><a href="../20190309/#Archive-for-category-One-Billion-Customers">之前推荐过</a>这个书，花了一点时间做了Gitbook版本，可以在线阅读了</p><p><a href="https://one-billion-customers-zh-hans.netlify.com/" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="Apache-之道，开源可持续成功的秘籍"><a href="#Apache-之道，开源可持续成功的秘籍" class="headerlink" title="Apache 之道，开源可持续成功的秘籍"></a>Apache 之道，开源可持续成功的秘籍</h3><p>软件开源改变了世界</p><p><a href="https://linux.cn/article-10662-1.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="eval与php一句话的关系"><a href="#eval与php一句话的关系" class="headerlink" title="eval与php一句话的关系"></a>eval与php一句话的关系</h3><p>小马免杀技巧</p><p><a href="https://xz.aliyun.com/t/4531" target="_blank" rel="noopener">原文链接</a></p><h3 id="JSON、XML、TOML、CSON、YAML-大比拼"><a href="#JSON、XML、TOML、CSON、YAML-大比拼" class="headerlink" title="JSON、XML、TOML、CSON、YAML 大比拼"></a>JSON、XML、TOML、CSON、YAML 大比拼</h3><p>数据交换格式首先要有大量的库支持，JSON目前是主流</p><p><a href="https://linux.cn/article-10664-1.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190329期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201903" scheme="https://daily.tmr.js.org/categories/201903/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190328期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190322期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*2，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201903" scheme="https://daily.tmr.js.org/categories/201903/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190321期</title>
-    <link href="https://daily.tmr.js.org/d/20190321/"/>
-    <id>https://daily.tmr.js.org/d/20190321/</id>
-    <published>2019-03-21T02:10:11.000Z</published>
-    <updated>2019-03-21T14:57:11.558Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190321期</p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*1，<a href="#文娱">文娱</a>*2</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="你的头像是不是腾讯的？"><a href="#你的头像是不是腾讯的？" class="headerlink" title="你的头像是不是腾讯的？"></a>你的头像是不是腾讯的？</h3><p>最近多闪通知用户换微信头像的事，多闪算是又热闹一把，文中提到的关系链问题倒是很值得注意，其实原理和广告追踪差不多，其实不只是微信了，可以拓展到所有的“内置浏览器”里，反追踪可以通过清除缓存数据（包括但不限于Cookie）实现，但是大部分“内置浏览器”都没有这样的功能</p><p><a href="https://mp.weixin.qq.com/s/UkgouO7ylqYwoGW_PCB21Q" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅谈如何实现PDF签名的欺骗攻击"><a href="#浅谈如何实现PDF签名的欺骗攻击" class="headerlink" title="浅谈如何实现PDF签名的欺骗攻击"></a>浅谈如何实现PDF签名的欺骗攻击</h3><p>介绍了PDF文件结构和签名原理，以及几种攻击方式和测试结果（只是没有具体例子，还是感觉看得有些云里雾里）</p><p><a href="https://www.anquanke.com/post/id/173669" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="网飞拍了-18-集成人动画，惊艳，太惊艳了"><a href="#网飞拍了-18-集成人动画，惊艳，太惊艳了" class="headerlink" title="网飞拍了 18 集成人动画，惊艳，太惊艳了"></a>网飞拍了 18 集成人动画，惊艳，太惊艳了</h3><p>—— 带你逐集拆解网飞又一惊艳力作《爱，死亡和机器人》</p><p>其实我觉得没有那么…惊艳，但还是挺好看的，顺便提一下<a href="https://space.bilibili.com/97471052" target="_blank" rel="noopener">作者的B站账号</a>值得一看</p><p><a href="https://news-at.zhihu.com/story/9709167" target="_blank" rel="noopener">原文链接</a></p><h3 id="人与人之间的关系可以用形状来表现？动画短片《Relationshapes》"><a href="#人与人之间的关系可以用形状来表现？动画短片《Relationshapes》" class="headerlink" title="人与人之间的关系可以用形状来表现？动画短片《Relationshapes》"></a>人与人之间的关系可以用形状来表现？动画短片《Relationshapes》</h3><p>魔性，但真实</p><p><a href="https://www.bilibili.com/video/av46906117" target="_blank" rel="noopener">视频链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190321期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
