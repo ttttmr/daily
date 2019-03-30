@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-03-29T14:07:15.819Z</updated>
+  <updated>2019-03-30T13:14:54.030Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190330期</title>
+    <link href="https://daily.tmr.js.org/d/20190330/"/>
+    <id>https://daily.tmr.js.org/d/20190330/</id>
+    <published>2019-03-30T00:23:45.000Z</published>
+    <updated>2019-03-30T13:14:54.030Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190330期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*2，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="清华学生举报教师课堂言论“反党违宪”，高校思政教育应教授什么？"><a href="#清华学生举报教师课堂言论“反党违宪”，高校思政教育应教授什么？" class="headerlink" title="清华学生举报教师课堂言论“反党违宪”，高校思政教育应教授什么？"></a>清华学生举报教师课堂言论“反党违宪”，高校思政教育应教授什么？</h3><p>9012年了，有没有似曾相识呢</p><p><a href="https://theinitium.com/roundtable/20190327-roundtable-zh-political-science/" target="_blank" rel="noopener">原文链接</a></p><p>部分内链无法访问，可见以下存档</p><p><a href="https://archive.fo/IBRO5" target="_blank" rel="noopener">雾霾天气可能缓解[Archive]</a></p><p><a href="https://archive.fo/DJftP" target="_blank" rel="noopener">对举报者混淆概念，糊弄是非的驳斥——声援吕嘉老师书[Archive]</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="中通数据安全分发平台实践"><a href="#中通数据安全分发平台实践" class="headerlink" title="中通数据安全分发平台实践"></a>中通数据安全分发平台实践</h3><p>中通安全体系又出新文，推荐关注，之前还推过<a href="../20190316/#中通内网安全之外发流量管理">中通内网安全之外发流量管理</a></p><p><a href="https://mp.weixin.qq.com/s/lRJi7PCp8_IC3o3f5KDzbg" target="_blank" rel="noopener">原文链接</a></p><h3 id="对字节反转攻击的深入研究"><a href="#对字节反转攻击的深入研究" class="headerlink" title="对字节反转攻击的深入研究"></a>对字节反转攻击的深入研究</h3><p>CBC，CFB，OFB模式下的字节反转，很棒，很少看到有这样的文章</p><p><a href="https://xz.aliyun.com/t/4552" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="想找一个合适的恋爱伴侣，「合适」标准是什么？"><a href="#想找一个合适的恋爱伴侣，「合适」标准是什么？" class="headerlink" title="想找一个合适的恋爱伴侣，「合适」标准是什么？"></a>想找一个合适的恋爱伴侣，「合适」标准是什么？</h3><p>文中提到了颜值，笑点，爱好和世界观等等，内链的调查报告也值得一看</p><p><a href="https://www.qdaily.com/articles/62471.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190330期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201903" scheme="https://daily.tmr.js.org/categories/201903/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190329期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190324期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201903" scheme="https://daily.tmr.js.org/categories/201903/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190322期</title>
-    <link href="https://daily.tmr.js.org/d/20190322/"/>
-    <id>https://daily.tmr.js.org/d/20190322/</id>
-    <published>2019-03-22T00:24:08.000Z</published>
-    <updated>2019-03-22T13:53:18.028Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190322期</p><p>今日文章：<a href="#互联网">互联网</a>*2，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="安全攻坚200天的滴滴给行业带来了什么？"><a href="#安全攻坚200天的滴滴给行业带来了什么？" class="headerlink" title="安全攻坚200天的滴滴给行业带来了什么？"></a>安全攻坚200天的滴滴给行业带来了什么？</h3><p>虽然数据显示网约车的案发率低于传统出租（我觉得应该细致一点，案件严重程度分布，案件解决率等等）</p><p>一键报警和紧急联系人功能在多少APP上出现了</p><p><a href="https://www.pingwest.com/a/185357" target="_blank" rel="noopener">原文链接</a></p><h3 id="Facebook-承认以明文方式存储数亿用户账号密码"><a href="#Facebook-承认以明文方式存储数亿用户账号密码" class="headerlink" title="Facebook 承认以明文方式存储数亿用户账号密码"></a>Facebook 承认以明文方式存储数亿用户账号密码</h3><p>Twitter，GitHub，Facebook陆续出现明文存储密码的问题，那么它们为什么会存明文密码呢</p><p><a href="https://techcrunch.cn/2019/03/22/facebook-plaintext-passwords/" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="堡垒机：爱奇艺海量服务器安全运维平台的建设"><a href="#堡垒机：爱奇艺海量服务器安全运维平台的建设" class="headerlink" title="堡垒机：爱奇艺海量服务器安全运维平台的建设"></a>堡垒机：爱奇艺海量服务器安全运维平台的建设</h3><p>用户管理，用户认证，访问控制，基线检查，日志审计</p><p><a href="https://mp.weixin.qq.com/s/TGswXl9cuwlRmaVsZs46hA" target="_blank" rel="noopener">原文链接</a></p><h3 id="从php源码分析mkdir-函数"><a href="#从php源码分析mkdir-函数" class="headerlink" title="从php源码分析mkdir()函数"></a>从php源码分析mkdir()函数</h3><p>还记之前天融信发的<a href="../20190320/#探究PHP中的Mkdir函数">探究PHP中的Mkdir函数</a>，最后文中提到的线程安全导致的差异，本文详细分析了线程安全和非线程安全情况下mkdir函数的运行流程和原理，强烈建议先读<a href="../20190320/#探究PHP中的Mkdir函数">前文</a>再看这篇</p><p><a href="http://blog.nsfocus.net/research-mkdir-function-php/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190322期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*2，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
