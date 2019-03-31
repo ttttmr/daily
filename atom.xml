@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-03-30T13:14:54.030Z</updated>
+  <updated>2019-03-31T15:51:55.198Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190331期</title>
+    <link href="https://daily.tmr.js.org/d/20190331/"/>
+    <id>https://daily.tmr.js.org/d/20190331/</id>
+    <published>2019-03-31T01:54:56.000Z</published>
+    <updated>2019-03-31T15:51:55.198Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190331期</p><p>今日文章：<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="小事-·-最恨的是无法反抗"><a href="#小事-·-最恨的是无法反抗" class="headerlink" title="小事 · 最恨的是无法反抗"></a>小事 · 最恨的是无法反抗</h3><p>—— 抗日到底有多难？</p><p>很巧的是昨天刚看完<a href="https://movie.douban.com/subject/1291858/" target="_blank" rel="noopener">《鬼子来了》</a></p><p><a href="https://news-at.zhihu.com/story/9709622" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190331期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201903" scheme="https://daily.tmr.js.org/categories/201903/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190330期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190325期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*2，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201903" scheme="https://daily.tmr.js.org/categories/201903/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190324期</title>
-    <link href="https://daily.tmr.js.org/d/20190324/"/>
-    <id>https://daily.tmr.js.org/d/20190324/</id>
-    <published>2019-03-24T01:48:55.000Z</published>
-    <updated>2019-03-24T14:03:56.341Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190324期</p><p>今日文章：<a href="#技术">技术</a>*2，<a href="#其他">其他</a>*1</p><a id="more"></a><p>昨天有事停更了，咕咕，即时消息可见<a href="/notice/">公告页评论区</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="区块链将会如何影响开源"><a href="#区块链将会如何影响开源" class="headerlink" title="区块链将会如何影响开源"></a>区块链将会如何影响开源</h3><p>有点像前面推过的<a href="../20190312/#软件供应链安全威胁：从“奥创纪元”到“无限战争”">软件供应链安全威胁：从“奥创纪元”到“无限战争”</a>，开源软件的问题，开发使用维护等等，文章打算用区块链技术解决（虽然我觉得区块链只是一个新的东西，即使很具有颠覆性，但也没必要认为它就能解决很多问题，但这不代表不可以去尝试了）</p><p><a href="https://linux.cn/article-10643-1.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="跨域方式及其产生的安全问题"><a href="#跨域方式及其产生的安全问题" class="headerlink" title="跨域方式及其产生的安全问题"></a>跨域方式及其产生的安全问题</h3><p>貌似现在跨域的JOSNP和CORS比较多，总结的还挺详细</p><p><a href="https://xz.aliyun.com/t/4470" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="为什么独立思考这么难？——谈谈心理学的成因，并分享俺的经验"><a href="#为什么独立思考这么难？——谈谈心理学的成因，并分享俺的经验" class="headerlink" title="为什么独立思考这么难？——谈谈心理学的成因，并分享俺的经验"></a>为什么独立思考这么难？——谈谈心理学的成因，并分享俺的经验</h3><p>编程随想的心理学文章，非常棒</p><p><a href="https://program-think.blogspot.com/2019/03/Why-Thinking-Hard-So-Hard.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190324期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
