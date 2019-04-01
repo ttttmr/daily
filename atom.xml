@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-03-31T15:51:55.198Z</updated>
+  <updated>2019-04-01T13:59:17.452Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190401期</title>
+    <link href="https://daily.tmr.js.org/d/20190401/"/>
+    <id>https://daily.tmr.js.org/d/20190401/</id>
+    <published>2019-04-01T03:26:32.000Z</published>
+    <updated>2019-04-01T13:59:17.452Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190401期</p><p>今日文章：<a href="#经济">经济</a>*2，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="谁决定了流量明星的生命周期？"><a href="#谁决定了流量明星的生命周期？" class="headerlink" title="谁决定了流量明星的生命周期？"></a>谁决定了流量明星的生命周期？</h3><p>粉丝-明星-公司，是娱乐也是商业，文中说到了一点“互联网让一切都加速了”</p><p><a href="https://www.qdaily.com/articles/62559.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="关于第三方支付，看这篇文章就够了！"><a href="#关于第三方支付，看这篇文章就够了！" class="headerlink" title="关于第三方支付，看这篇文章就够了！"></a>关于第三方支付，看这篇文章就够了！</h3><p>介绍第三方支付的起源、发展与趋势，非常棒的文章，可以说涉及“古今中外”了</p><p><a href="http://www.ityouknow.com/payment/2019/03/30/third-payment.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="关于程序员的996，我们谈谈历史和逻辑"><a href="#关于程序员的996，我们谈谈历史和逻辑" class="headerlink" title="关于程序员的996，我们谈谈历史和逻辑"></a>关于程序员的996，我们谈谈历史和逻辑</h3><p>996的历史现实，就像<a href="https://m.okjike.com/reposts/5ca03a7bb3a7f200166ab2f0" target="_blank" rel="noopener">Joway说的</a>：“让子弹飞一会儿”（很巧的是昨天刚看了<a href="https://movie.douban.com/subject/3742360/" target="_blank" rel="noopener">《让子弹飞》</a>）</p><p><a href="https://mp.weixin.qq.com/s/Gz5rBTpMdFkNZUZKlV7D4Q" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="RedTeam攻击技巧和安全防御"><a href="#RedTeam攻击技巧和安全防御" class="headerlink" title="RedTeam攻击技巧和安全防御"></a>RedTeam攻击技巧和安全防御</h3><p>emm原文标题打错了额，不管那么多了，日常的技术总结贴</p><p>之前我还翻译过<a href="https://tmr.js.org/p/c2e19bbc/" target="_blank" rel="noopener">Red Team 的一些技巧</a>，不过到现在都没翻完，鸽了好久了，过几天补一下吧哈哈</p><p><a href="https://xz.aliyun.com/t/4602" target="_blank" rel="noopener">原文链接</a></p><h3 id="RSS-优秀的个人情报来源"><a href="#RSS-优秀的个人情报来源" class="headerlink" title="RSS: 优秀的个人情报来源"></a>RSS: 优秀的个人情报来源</h3><p>泉哥的RSS推荐分享，我个人也一直在用RSS，也安利了同学用，如果你用Inoreader的话不要错过这个<a href="https://tmr.js.org/p/dd73704/" target="_blank" rel="noopener">RSS 快速订阅到 Inoreader</a>，不用Inoreader的同学，后面我也发布了更通用的脚本</p><p><a href="https://riusksk.me/2019/03/30/RSS-%E4%BC%98%E7%A7%80%E7%9A%84%E4%B8%AA%E4%BA%BA%E6%83%85%E6%8A%A5%E6%9D%A5%E6%BA%90/" target="_blank" rel="noopener">原文链接</a></p><h3 id="技术的学习与练习"><a href="#技术的学习与练习" class="headerlink" title="技术的学习与练习"></a>技术的学习与练习</h3><p>如何学习，非常佩服作者</p><p><a href="https://www.phodal.com/blog/how-to-learn-skill/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190401期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*2，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190331期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190326期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*5&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201903" scheme="https://daily.tmr.js.org/categories/201903/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190325期</title>
-    <link href="https://daily.tmr.js.org/d/20190325/"/>
-    <id>https://daily.tmr.js.org/d/20190325/</id>
-    <published>2019-03-25T04:28:39.000Z</published>
-    <updated>2019-03-26T09:42:31.087Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190325期</p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*1，<a href="#文娱">文娱</a>*2，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="腾讯防沉迷系统再升级，拉来老师做监管"><a href="#腾讯防沉迷系统再升级，拉来老师做监管" class="headerlink" title="腾讯防沉迷系统再升级，拉来老师做监管"></a>腾讯防沉迷系统再升级，拉来老师做监管</h3><p>连老师都线上监管打游戏，简直是…，我觉得家长都不太应该这样管，数字监控的力量还是要慎重，家长最好能物理监管，教育孩子</p><p><a href="https://www.qdaily.com/articles/62362.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="密码管理器安全性分析"><a href="#密码管理器安全性分析" class="headerlink" title="密码管理器安全性分析"></a>密码管理器安全性分析</h3><p>在 not running, unlocked (running), locked (running) 三个不同状态下从密码管理器里获取密码</p><p><a href="https://www.secpulse.com/archives/102442.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="「票房」电影删改了还看不看，这成了一个问题"><a href="#「票房」电影删改了还看不看，这成了一个问题" class="headerlink" title="「票房」电影删改了还看不看，这成了一个问题"></a>「票房」电影删改了还看不看，这成了一个问题</h3><p>删改的电影不完整</p><p><a href="https://www.qdaily.com/articles/62332.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="更严格的“限古令”传出，古装剧第二季度全面禁播"><a href="#更严格的“限古令”传出，古装剧第二季度全面禁播" class="headerlink" title="更严格的“限古令”传出，古装剧第二季度全面禁播"></a>更严格的“限古令”传出，古装剧第二季度全面禁播</h3><p>有一个问题是这个消息的来源似乎只是@新浪电视的一条微博，而微博也是提到“网传”</p><p><a href="https://www.qdaily.com/articles/62357.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="记CanSecWest19之行"><a href="#记CanSecWest19之行" class="headerlink" title="记CanSecWest19之行"></a>记CanSecWest19之行</h3><p>作者第一次出国经历</p><p><a href="https://www.jarviswang.me/?p=903" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190325期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*2，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
