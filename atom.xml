@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-04-03T15:02:07.706Z</updated>
+  <updated>2019-04-04T14:41:11.504Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190404期</title>
+    <link href="https://daily.tmr.js.org/d/20190404/"/>
+    <id>https://daily.tmr.js.org/d/20190404/</id>
+    <published>2019-04-04T05:39:29.000Z</published>
+    <updated>2019-04-04T14:41:11.504Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190404期</p><p>今日文章：<a href="#社会">社会</a>*，<a href="#经济">经济</a>*，<a href="#互联网">互联网</a>*，<a href="#技术">技术</a>*，<a href="#产品">产品</a>*，<a href="#设计">设计</a>*，<a href="#文娱">文娱</a>*，<a href="#职场">职场</a>*，<a href="#其他">其他</a>*</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="别让教育成为桎梏：从高校里的“告密者”谈起"><a href="#别让教育成为桎梏：从高校里的“告密者”谈起" class="headerlink" title="别让教育成为桎梏：从高校里的“告密者”谈起"></a>别让教育成为桎梏：从高校里的“告密者”谈起</h3><p>在学校应该学什么，学习如何学习</p><p><a href="http://www.ftchinese.com/story/001082135?adchannelID=&amp;full=y" target="_blank" rel="noopener">原文链接</a></p><h3 id="梁文道：新年号面前，天皇最“卑微”"><a href="#梁文道：新年号面前，天皇最“卑微”" class="headerlink" title="梁文道：新年号面前，天皇最“卑微”"></a>梁文道：新年号面前，天皇最“卑微”</h3><p>文中多次使用“日本词语的中文-英文-中文”的方式解释词语含义，确实是一个解释方法，但我觉得不好</p><p><a href="https://mp.weixin.qq.com/s?__biz=MzA3MDM3NjE5NQ==&amp;mid=2650841031&amp;idx=1&amp;sn=8bde874eaa89962ed02af7387639676b&amp;chksm=84c9f1abb3be78bd4da77af0eb38ff0f18299251e2301bca66fc862f2aaecf7517f72778d55c&amp;scene=90&amp;xtrack=1&amp;sessionid=1554279842&amp;subscene=93&amp;clicktime=1554279844&amp;ascene=56&amp;devicetype=iOS12.1.2&amp;version=1700032a&amp;nettype=WIFI&amp;abtest_cookie=BAABAAoACwASABMABQAjlx4AVpkeAMWZHgDSmR4A3JkeAAAA&amp;lang=zh_CN&amp;fontScale=100&amp;pass_ticket=cp5pJyC9qAERoV7%2BRiZJuHLBMriD4e9GgfSKgn2eZniiiTJhm2CC115LYlQoF8S1&amp;wx_header=1" target="_blank" rel="noopener">原文链接</a></p><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="996-惹怒程序员之后，他们的抗议引发了全球关注"><a href="#996-惹怒程序员之后，他们的抗议引发了全球关注" class="headerlink" title="996 惹怒程序员之后，他们的抗议引发了全球关注"></a>996 惹怒程序员之后，他们的抗议引发了全球关注</h3><p>从兴起到爆发，10 万+的 star 和 issues，最近还有了线下活动和反 996 许可协议，以及一些国产浏览器屏蔽 <a href="https://996.icu" target="_blank" rel="noopener">996.icu</a> 地址（如果你无法访问，建议你不要再使用这个浏览器），现在居然还有 <a href="https://www.solidot.org/story?sid=60128" target="_blank" rel="noopener">实行 007 远离 996</a>的神奇东西</p><p>那么<a href="../20190401/#关于程序员的996，我们谈谈历史和逻辑">子弹飞</a>得够远了吗</p><p><a href="http://www.qdaily.com/articles/62652.html" target="_blank" rel="noopener">原文链接</a></p><p><a href="https://archive.fo/aQ46t" target="_blank" rel="noopener">原文链接[Archive]</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="记一次由百度云会员引起的审计及渗透"><a href="#记一次由百度云会员引起的审计及渗透" class="headerlink" title="记一次由百度云会员引起的审计及渗透"></a>记一次由百度云会员引起的审计及渗透</h3><p>这后门可真多</p><p><a href="https://www.chabug.org/web/659.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="内网安全运营，你真的把账号锁定了吗-：）"><a href="#内网安全运营，你真的把账号锁定了吗-：）" class="headerlink" title="内网安全运营，你真的把账号锁定了吗 ：）"></a>内网安全运营，你真的把账号锁定了吗 ：）</h3><p>停用账号后票据有效性的探究，Windows 票据问题可以参考<a href="../20190309/红队与理论：Credential-Relay-与-PA">前文</a></p><p><a href="https://mp.weixin.qq.com/s/Q8fGFqXmWnJHlC5cpIh25Q" target="_blank" rel="noopener">原文链接</a></p><h2 id="产品"><a href="#产品" class="headerlink" title="产品"></a>产品</h2><h2 id="设计"><a href="#设计" class="headerlink" title="设计"></a>设计</h2><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h2 id="职场"><a href="#职场" class="headerlink" title="职场"></a>职场</h2><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="宿舍夜未眠"><a href="#宿舍夜未眠" class="headerlink" title="宿舍夜未眠"></a>宿舍夜未眠</h3><p>大学生你今天早睡了吗，原文是一幅长画</p><p><a href="https://mp.weixin.qq.com/s/Q2gvAix22804USPY9EdYmw" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190404期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*，&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*，&lt;a href=&quot;#产品&quot;&gt;产品&lt;/a&gt;*，&lt;a href=&quot;#设计&quot;&gt;设计&lt;/a&gt;*，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*，&lt;a href=&quot;#职场&quot;&gt;职场&lt;/a&gt;*，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190403期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190329期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201903" scheme="https://daily.tmr.js.org/categories/201903/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190328期</title>
-    <link href="https://daily.tmr.js.org/d/20190328/"/>
-    <id>https://daily.tmr.js.org/d/20190328/</id>
-    <published>2019-03-28T03:56:02.000Z</published>
-    <updated>2019-03-28T11:13:39.371Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190328期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*2，<a href="#文娱">文娱</a>*1，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="「流浪大师」爆红后的-72-小时"><a href="#「流浪大师」爆红后的-72-小时" class="headerlink" title="「流浪大师」爆红后的 72 小时"></a>「流浪大师」爆红后的 72 小时</h3><p>这样的场景我好像在什么动画里见过，可以说是魔幻的现实了</p><p><a href="https://news-at.zhihu.com/story/9709496" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="反垄断究竟是在反对什么④：对大公司控制信息和言论传播的恐惧正在成为现实"><a href="#反垄断究竟是在反对什么④：对大公司控制信息和言论传播的恐惧正在成为现实" class="headerlink" title="反垄断究竟是在反对什么④：对大公司控制信息和言论传播的恐惧正在成为现实"></a>反垄断究竟是在反对什么④：对大公司控制信息和言论传播的恐惧正在成为现实</h3><p>记得之前看过一个人因为什么事导致Google，YouTube，Twitter，Facebook等账号被封，在国内大概可以对应微信，支付宝，微博，QQ等被封，后者似乎更简单和常见</p><p><a href="https://www.qdaily.com/articles/62437.html" target="_blank" rel="noopener">原文链接</a></p><p>相关阅读：<a href="../20190320/#最完美的绑架">最完美的绑架</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="tshark-使用小结"><a href="#tshark-使用小结" class="headerlink" title="tshark 使用小结"></a>tshark 使用小结</h3><p>tshark用的很少，命令行确实有点记不住，图形化的可以用导出数据功能实现</p><p><a href="https://xz.aliyun.com/t/4527" target="_blank" rel="noopener">原文链接</a></p><h3 id="脚本维权相关的一些Tips"><a href="#脚本维权相关的一些Tips" class="headerlink" title="脚本维权相关的一些Tips"></a>脚本维权相关的一些Tips</h3><p>隐藏文件，系统特性，PHP配置和扩展后门等等</p><p><a href="https://xz.aliyun.com/t/4522" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="Epic解释为何锁国区：竞争对手不锁区是他们不合法"><a href="#Epic解释为何锁国区：竞争对手不锁区是他们不合法" class="headerlink" title="Epic解释为何锁国区：竞争对手不锁区是他们不合法"></a>Epic解释为何锁国区：竞争对手不锁区是他们不合法</h3><p>每次看到看不透的操作，都会想起看过的一句话“不知道xx经历了什么，xx会这样做”（可以贬义也可以褒义）</p><p><a href="http://www.yystv.cn/p/4830" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="小事-·-你们的爱足以写成诗篇"><a href="#小事-·-你们的爱足以写成诗篇" class="headerlink" title="小事 · 你们的爱足以写成诗篇"></a>小事 · 你们的爱足以写成诗篇</h3><p>—— 有没有一瞬间你被父母之间的爱情震撼到了？</p><blockquote><p>如果这是你父亲生命中最后一段时光，我没有每时每刻陪着他，我会终身遗憾。</p></blockquote><p><a href="https://news-at.zhihu.com/story/9709504" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190328期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
