@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-04-05T14:36:15.330Z</updated>
+  <updated>2019-04-06T15:24:21.240Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190406期</title>
+    <link href="https://daily.tmr.js.org/d/20190406/"/>
+    <id>https://daily.tmr.js.org/d/20190406/</id>
+    <published>2019-04-06T03:32:30.000Z</published>
+    <updated>2019-04-06T15:24:21.240Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190406期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*1，<a href="#文娱">文娱</a>*2</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="我设置的密保问题，我自己都回答不了-好奇心辞典"><a href="#我设置的密保问题，我自己都回答不了-好奇心辞典" class="headerlink" title="我设置的密保问题，我自己都回答不了 | 好奇心辞典"></a>我设置的密保问题，我自己都回答不了 | 好奇心辞典</h3><p>正经吐槽</p><p><a href="https://www.qdaily.com/articles/62715.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Web-应用代码自动化审计浅谈"><a href="#Web-应用代码自动化审计浅谈" class="headerlink" title="Web 应用代码自动化审计浅谈"></a>Web 应用代码自动化审计浅谈</h3><p>自动化代码审计是如何工作的，除了常规从程序的控制流和数据流入手，还有 Seay 审计为代表的危险函数定位方法（很常用哈哈），以及 fate0 的 <a href="https://github.com/fate0/prvd" target="_blank" rel="noopener">prvd</a>为例 在 Runtime 上分析（其实有点像 <a href="https://www.freebuf.com/articles/web/197823.html" target="_blank" rel="noopener">RASP</a>），代码相似性比对感觉有点玄，好像也没例子</p><p>另外文中提到的抽象语法树，不了解的可以看<a href="https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&amp;mid=2665515723&amp;idx=1&amp;sn=361cc426c76ef5436d02ec83b3f84a6d&amp;chksm=80d67288b7a1fb9e5dd720cb6da9555c7e625f6a781283ff1e37b20c09143cf14295fb29483c&amp;mpshare=1&amp;scene=1&amp;srcid=#rd" target="_blank" rel="noopener">这篇</a></p><p><a href="https://xz.aliyun.com/t/4637" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="中国游戏市场的昨天、今天和明天"><a href="#中国游戏市场的昨天、今天和明天" class="headerlink" title="中国游戏市场的昨天、今天和明天"></a>中国游戏市场的昨天、今天和明天</h3><p>中国游戏市场的发展历程</p><p><a href="http://www.yystv.cn/p/4881" target="_blank" rel="noopener">原文链接</a></p><h3 id="电影画幅是如何演变的？"><a href="#电影画幅是如何演变的？" class="headerlink" title="电影画幅是如何演变的？"></a>电影画幅是如何演变的？</h3><p>画幅和幕幅别傻傻分不清楚，注意全文基本上都在讲各种比例的幕幅</p><p>Cinerama 的方式实现宽荧幕很有趣了，有点现在 3D 电影的感觉了</p><p><a href="https://news-at.zhihu.com/story/9709896" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190406期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190405期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190331期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201903" scheme="https://daily.tmr.js.org/categories/201903/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190330期</title>
-    <link href="https://daily.tmr.js.org/d/20190330/"/>
-    <id>https://daily.tmr.js.org/d/20190330/</id>
-    <published>2019-03-30T00:23:45.000Z</published>
-    <updated>2019-03-30T13:14:54.030Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190330期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*2，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="清华学生举报教师课堂言论“反党违宪”，高校思政教育应教授什么？"><a href="#清华学生举报教师课堂言论“反党违宪”，高校思政教育应教授什么？" class="headerlink" title="清华学生举报教师课堂言论“反党违宪”，高校思政教育应教授什么？"></a>清华学生举报教师课堂言论“反党违宪”，高校思政教育应教授什么？</h3><p>9012年了，有没有似曾相识呢</p><p><a href="https://theinitium.com/roundtable/20190327-roundtable-zh-political-science/" target="_blank" rel="noopener">原文链接</a></p><p>部分内链无法访问，可见以下存档</p><p><a href="https://archive.fo/IBRO5" target="_blank" rel="noopener">雾霾天气可能缓解[Archive]</a></p><p><a href="https://archive.fo/DJftP" target="_blank" rel="noopener">对举报者混淆概念，糊弄是非的驳斥——声援吕嘉老师书[Archive]</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="中通数据安全分发平台实践"><a href="#中通数据安全分发平台实践" class="headerlink" title="中通数据安全分发平台实践"></a>中通数据安全分发平台实践</h3><p>中通安全体系又出新文，推荐关注，之前还推过<a href="../20190316/#中通内网安全之外发流量管理">中通内网安全之外发流量管理</a></p><p><a href="https://mp.weixin.qq.com/s/lRJi7PCp8_IC3o3f5KDzbg" target="_blank" rel="noopener">原文链接</a></p><h3 id="对字节反转攻击的深入研究"><a href="#对字节反转攻击的深入研究" class="headerlink" title="对字节反转攻击的深入研究"></a>对字节反转攻击的深入研究</h3><p>CBC，CFB，OFB模式下的字节反转，很棒，很少看到有这样的文章</p><p><a href="https://xz.aliyun.com/t/4552" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="想找一个合适的恋爱伴侣，「合适」标准是什么？"><a href="#想找一个合适的恋爱伴侣，「合适」标准是什么？" class="headerlink" title="想找一个合适的恋爱伴侣，「合适」标准是什么？"></a>想找一个合适的恋爱伴侣，「合适」标准是什么？</h3><p>文中提到了颜值，笑点，爱好和世界观等等，内链的调查报告也值得一看</p><p><a href="https://www.qdaily.com/articles/62471.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190330期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
