@@ -3,8 +3,9 @@ Allow: /
 Allow: /archives/
 Allow: /categories/
 Allow: /d/
-Disallow: /js/
-Disallow: /css/
+Allow: /page/
+Allow: /notice/
+Allow: /about/
 Disallow: /img/
 Disallow: *.png$
 Disallow: *.jpg$
@@ -18,8 +19,9 @@ Allow: /
 Allow: /archives/
 Allow: /categories/
 Allow: /d/
-Disallow: /js/
-Disallow: /css/
+Allow: /page/
+Allow: /notice/
+Allow: /about/
 Disallow: /img/
 Disallow: *.png$
 Disallow: *.jpg$
@@ -30,8 +32,9 @@ Allow: /
 Allow: /archives/
 Allow: /categories/
 Allow: /d/
-Disallow: /js/
-Disallow: /css/
+Allow: /page/
+Allow: /notice/
+Allow: /about/
 Disallow: /img/
 Disallow: *.png$
 Disallow: *.jpg$
@@ -42,8 +45,9 @@ Allow: /
 Allow: /archives/
 Allow: /categories/
 Allow: /d/
-Disallow: /js/
-Disallow: /css/
+Allow: /page/
+Allow: /notice/
+Allow: /about/
 Disallow: /img/
 Disallow: *.png$
 Disallow: *.jpg$
