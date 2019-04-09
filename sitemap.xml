@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://daily.tmr.js.org/d/20190409/</loc>
+    
+    <lastmod>2019-04-09T12:52:08.011Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://daily.tmr.js.org/d/20190406/</loc>
+    
+    <lastmod>2019-04-08T15:01:15.951Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://daily.tmr.js.org/d/20190408/</loc>
     
     <lastmod>2019-04-08T14:41:27.229Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>https://daily.tmr.js.org/d/20190404/</loc>
     
     <lastmod>2019-04-08T14:14:30.666Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://daily.tmr.js.org/d/20190406/</loc>
-    
-    <lastmod>2019-04-06T15:31:35.974Z</lastmod>
     
   </url>
   
