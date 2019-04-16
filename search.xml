@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>透明日报20190416期</title>
+      <link href="/d/20190416/"/>
+      <url>/d/20190416/</url>
+      
+        <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190416期</p><p>今日文章：<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="从一道题讲PHP复杂变量"><a href="#从一道题讲PHP复杂变量" class="headerlink" title="从一道题讲PHP复杂变量"></a>从一道题讲PHP复杂变量</h3><p>PHP复杂变量的语法和利用</p><p><a href="https://xz.aliyun.com/t/4785" target="_blank" rel="noopener">原文链接</a></p><h3 id="Domain-fronting基本介绍"><a href="#Domain-fronting基本介绍" class="headerlink" title="Domain fronting基本介绍"></a>Domain fronting基本介绍</h3><p>域前置的原理</p><p><a href="https://www.4hou.com/others/16770.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="Chaining-Multiple-Vulnerabilities-WAF-bypass-to-Account-Takeover-in-almost-all-Alibaba’s-websites"><a href="#Chaining-Multiple-Vulnerabilities-WAF-bypass-to-Account-Takeover-in-almost-all-Alibaba’s-websites" class="headerlink" title="Chaining Multiple Vulnerabilities + WAF bypass to Account Takeover in almost all Alibaba’s websites"></a>Chaining Multiple Vulnerabilities + WAF bypass to Account Takeover in almost all Alibaba’s websites</h3><p>非常nb的漏洞组合利用和XSS绕过，一是一处Cookie反射XSS，二是搜索点的XSS（包含一些Bypass过程），组合利用进行Cookie覆盖，扩大战果</p><p>截至日报发布时，原文中的细节内容已经删掉了，<a href="https://www.anquanke.com/post/id/176569" target="_blank" rel="noopener">安全客译文</a>也删了，建议先阅读原文Archive</p><p><a href="https://medium.com/@y.shahinzadeh/chaining-multiple-vulnerabilities-waf-bypass-to-account-takeover-in-almost-all-alibabas-websites-f8643eaa2855" target="_blank" rel="noopener">原文链接</a></p><p><a href="https://web.archive.org/web/20190414194035/https://medium.com/@y.shahinzadeh/chaining-multiple-vulnerabilities-waf-bypass-to-account-takeover-in-almost-all-alibabas-websites-f8643eaa2855" target="_blank" rel="noopener">原文链接[Archive]</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 201904 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190415期</title>
       <link href="/d/20190415/"/>
       <url>/d/20190415/</url>
