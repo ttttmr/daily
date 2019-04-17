@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-04-16T15:17:36.656Z</updated>
+  <updated>2019-04-17T15:01:46.837Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190417期</title>
+    <link href="https://daily.tmr.js.org/d/20190417/"/>
+    <id>https://daily.tmr.js.org/d/20190417/</id>
+    <published>2019-04-17T09:09:02.000Z</published>
+    <updated>2019-04-17T15:01:46.837Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190417期</p><p>今日文章：<a href="#社会">社会</a>*2，<a href="#技术">技术</a>*1，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="自动驾驶行业怪现状：背叛、资金链断裂、和“皇帝的新衣”"><a href="#自动驾驶行业怪现状：背叛、资金链断裂、和“皇帝的新衣”" class="headerlink" title="自动驾驶行业怪现状：背叛、资金链断裂、和“皇帝的新衣”"></a>自动驾驶行业怪现状：背叛、资金链断裂、和“皇帝的新衣”</h3><blockquote><p>在潮起潮落之间，更多的裸泳者开始现形</p></blockquote><p><a href="https://mp.weixin.qq.com/s/O2wSbQEI5dvKmv5Solj6Sw" target="_blank" rel="noopener">原文链接</a></p><h3 id="魏则西事件发生三周年，这个世界变了吗？"><a href="#魏则西事件发生三周年，这个世界变了吗？" class="headerlink" title="魏则西事件发生三周年，这个世界变了吗？"></a>魏则西事件发生三周年，这个世界变了吗？</h3><blockquote><p>只能说，太阳底下没有新鲜事</p></blockquote><p>魔幻的现实，它也是现实</p><p>百度百毒，不翻墙用<a href="https://bing.com" target="_blank" rel="noopener">必应</a>，能翻用<a href="https://www.google.com" target="_blank" rel="noopener">Google</a></p><p><a href="https://zhuanlan.zhihu.com/p/62188746" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="构建技术影响力-5-0"><a href="#构建技术影响力-5-0" class="headerlink" title="构建技术影响力 5.0"></a>构建技术影响力 5.0</h3><p>可能也算是Phodal大佬的一些成长历程吧</p><p><a href="https://www.phodal.com/blog/improve-impact-2019/" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="300-元高价售卖《复联-4》「皇帝座」，令人迷惑的影院操作"><a href="#300-元高价售卖《复联-4》「皇帝座」，令人迷惑的影院操作" class="headerlink" title="300 元高价售卖《复联 4》「皇帝座」，令人迷惑的影院操作"></a>300 元高价售卖《复联 4》「皇帝座」，令人迷惑的影院操作</h3><p>—— 如何评价上海某影院以 300 元高价售卖《复联 4》首映「皇帝座」的行为？</p><p>一张电影票的钱最后哪去了，某税+院线和影院+发行代理费，以及才知道“专用”售票系统将电影院的票房信息上传给专资委</p><p><a href="https://news-at.zhihu.com/story/9710190" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190417期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*2，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190416期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190410期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#设计&quot;&gt;设计&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190409期</title>
-    <link href="https://daily.tmr.js.org/d/20190409/"/>
-    <id>https://daily.tmr.js.org/d/20190409/</id>
-    <published>2019-04-09T04:57:59.000Z</published>
-    <updated>2019-04-09T12:52:08.011Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190409期</p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*4，<a href="#文娱">文娱</a>*1，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="苹果产品的三种死法〡清明特辑"><a href="#苹果产品的三种死法〡清明特辑" class="headerlink" title="苹果产品的三种死法〡清明特辑"></a>苹果产品的三种死法〡清明特辑</h3><p>总结了几款知名度最高的苹果「已故」产品</p><p><a href="https://mp.weixin.qq.com/s/x8IFjkuRn8E1qGmQPWMedg" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="session-file-store库的session伪造"><a href="#session-file-store库的session伪造" class="headerlink" title="session-file-store库的session伪造"></a>session-file-store库的session伪造</h3><p>session-file-store使用量还是很大的，看了下目前没有还修复，不过伪造利用难度也比较大，sessionPath的问题可以留意一下，说不定就能有配合利用</p><p><a href="https://xz.aliyun.com/t/4676" target="_blank" rel="noopener">原文链接</a></p><h3 id="QT漏洞的详细介绍：CVE-2019-1636与CVE-2019-6739"><a href="#QT漏洞的详细介绍：CVE-2019-1636与CVE-2019-6739" class="headerlink" title="QT漏洞的详细介绍：CVE-2019-1636与CVE-2019-6739"></a>QT漏洞的详细介绍：CVE-2019-1636与CVE-2019-6739</h3><p>很特别的两个洞，QT的正常功能恶意利用+程序配置问题</p><p><a href="https://xz.aliyun.com/t/4677" target="_blank" rel="noopener">原文链接</a></p><h3 id="XSLeaks-攻击分析-——-HTTP缓存跨站点泄漏"><a href="#XSLeaks-攻击分析-——-HTTP缓存跨站点泄漏" class="headerlink" title="XSLeaks 攻击分析 —— HTTP缓存跨站点泄漏"></a>XSLeaks 攻击分析 —— HTTP缓存跨站点泄漏</h3><p>感觉也算是浏览器的一个边信道攻击</p><p><a href="https://www.anquanke.com/post/id/176049" target="_blank" rel="noopener">原文链接</a></p><h3 id="运用Scapy编写类似于Nmap的端口扫描脚本"><a href="#运用Scapy编写类似于Nmap的端口扫描脚本" class="headerlink" title="运用Scapy编写类似于Nmap的端口扫描脚本"></a>运用Scapy编写类似于Nmap的端口扫描脚本</h3><p>一些端口扫描的原理和小细节，以及Python实现</p><p><a href="https://xz.aliyun.com/t/4704" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="娄烨-春风永远沉醉"><a href="#娄烨-春风永远沉醉" class="headerlink" title="娄烨 春风永远沉醉"></a>娄烨 春风永远沉醉</h3><p>最近上映电影<a href="https://movie.douban.com/subject/26728669/" target="_blank" rel="noopener">《风中有朵雨做的云》</a>的导演</p><blockquote><p>我想说的是骨子里的一种东西，这种东西想学它难，但真要放弃也不容易……</p></blockquote><p><a href="https://mp.weixin.qq.com/s/hoEKb-w0DHN7edimjDI--w" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="孩子被同学打了心疼，打了同学心烦，纠结"><a href="#孩子被同学打了心疼，打了同学心烦，纠结" class="headerlink" title="孩子被同学打了心疼，打了同学心烦，纠结"></a>孩子被同学打了心疼，打了同学心烦，纠结</h3><p>论锻炼身体的重要性（误）</p><p><a href="https://news-at.zhihu.com/story/9710085" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190409期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
