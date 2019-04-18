@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-04-17T15:01:46.837Z</updated>
+  <updated>2019-04-18T15:16:11.902Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190418期</title>
+    <link href="https://daily.tmr.js.org/d/20190418/"/>
+    <id>https://daily.tmr.js.org/d/20190418/</id>
+    <published>2019-04-18T01:00:23.000Z</published>
+    <updated>2019-04-18T15:16:11.902Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190418期</p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="“努力就会成功”"><a href="#“努力就会成功”" class="headerlink" title="“努力就会成功”"></a>“努力就会成功”</h3><p>Smart work 而不是 Hard work，记得初中班主任和我们说过“努力不一定成功，但不努力一定不会成功”</p><p><a href="https://coolshell.cn/articles/19271.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="文件包含-amp-奇技淫巧"><a href="#文件包含-amp-奇技淫巧" class="headerlink" title="文件包含&amp;奇技淫巧"></a>文件包含&amp;奇技淫巧</h3><p>文件上传缓存的条件竞争，在PHP5中的phpinfo利用和PHP7中的segment fault特性利用</p><p><a href="https://www.4hou.com/web/17259.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190418期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190417期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190411期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*2，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190410期</title>
-    <link href="https://daily.tmr.js.org/d/20190410/"/>
-    <id>https://daily.tmr.js.org/d/20190410/</id>
-    <published>2019-04-10T01:54:43.000Z</published>
-    <updated>2019-04-10T14:29:33.226Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190410期</p><p>今日文章：<a href="#技术">技术</a>*3，<a href="#设计">设计</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="模拟可信目录的利用技巧扩展"><a href="#模拟可信目录的利用技巧扩展" class="headerlink" title="模拟可信目录的利用技巧扩展"></a>模拟可信目录的利用技巧扩展</h3><p>绕过Autoruns，欺骗ShimCache，伪造正常的UAC弹框，nb</p><p><a href="https://3gstudent.github.io/3gstudent.github.io/%E6%A8%A1%E6%8B%9F%E5%8F%AF%E4%BF%A1%E7%9B%AE%E5%BD%95%E7%9A%84%E5%88%A9%E7%94%A8%E6%8A%80%E5%B7%A7%E6%89%A9%E5%B1%95/" target="_blank" rel="noopener">原文链接</a></p><h3 id="技术调研的模式"><a href="#技术调研的模式" class="headerlink" title="技术调研的模式"></a>技术调研的模式</h3><p>也可以作为如何去了解学习一个新技术</p><p><a href="https://www.phodal.com/blog/tech-spike-patterns/" target="_blank" rel="noopener">原文链接</a></p><h3 id="天融信关于ThinkPHP5-1框架结合RCE漏洞的深入分析"><a href="#天融信关于ThinkPHP5-1框架结合RCE漏洞的深入分析" class="headerlink" title="天融信关于ThinkPHP5.1框架结合RCE漏洞的深入分析"></a>天融信关于ThinkPHP5.1框架结合RCE漏洞的深入分析</h3><p>非常棒的文章，好久没有看到这么舒服的文章了，真正的学习向文章而且新手友好，学习thinkphp必读，以及学习如何分析一个大型框架</p><blockquote><p>本篇文章将从框架的流程讲起，让大家对Thinkphp有个大概的认识，接着讲述一些关于漏洞的相关知识，帮助大家在分析漏洞时能更好地理解漏洞原理，最后结合一个比较好的RCE漏洞(超链接)用一种反推的方式去进行分析，让大家将漏洞和框架知识相融合。体现一个从学习框架到熟悉漏洞原理的过程。</p></blockquote><p><a href="http://blog.topsec.com.cn/%e5%a4%a9%e8%9e%8d%e4%bf%a1%e5%85%b3%e4%ba%8ethinkphp5-1%e6%a1%86%e6%9e%b6%e7%bb%93%e5%90%88rce%e6%bc%8f%e6%b4%9e%e7%9a%84%e6%b7%b1%e5%85%a5%e5%88%86%e6%9e%90/" target="_blank" rel="noopener">原文链接</a></p><h2 id="设计"><a href="#设计" class="headerlink" title="设计"></a>设计</h2><h3 id="玩转-SVG-让设计更出彩"><a href="#玩转-SVG-让设计更出彩" class="headerlink" title="玩转 SVG 让设计更出彩"></a>玩转 SVG 让设计更出彩</h3><p>后面的SVG动画看得好舒服哈哈</p><p><a href="https://isux.tencent.com/articles/svg-for-web.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190410期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#设计&quot;&gt;设计&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
