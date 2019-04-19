@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-04-19T15:05:22.830Z</updated>
+  <updated>2019-04-19T15:08:34.031Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://daily.tmr.js.org/d/20190419/"/>
     <id>https://daily.tmr.js.org/d/20190419/</id>
     <published>2019-04-19T05:24:34.000Z</published>
-    <updated>2019-04-19T15:05:22.830Z</updated>
+    <updated>2019-04-19T15:08:34.031Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190419期</p><p>今日文章：<a href="#公告">公告</a><em>1，<a href="#技术">技术</a>\</em>1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p><a href="https://t.me/tm_daily" target="_blank" rel="noopener">Telegram Channel</a>运行良好，<a href="https://rsshub.app/telegram/channel/tm_daily" target="_blank" rel="noopener">Channel的RSS</a>有点不太稳定，但尚可接受，现在考虑移除<a href="/notice/">公告栏</a>（已经404了），后续公告消息将会即时发布在<a href="https://t.me/tm_daily" target="_blank" rel="noopener">Telegram Channel</a>中，并会附在最新的一期的日报开头</p><p>不使用Telegram的读者可以选择订阅<a href="https://rsshub.app/telegram/channel/tm_daily" target="_blank" rel="noopener">Channel RSS</a>，不需要获取即时性公告的读者订阅<a href="/atom.xml">本报RSS</a>即可</p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="PHP代码加密面面观"><a href="#PHP代码加密面面观" class="headerlink" title="PHP代码加密面面观"></a>PHP代码加密面面观</h3><p>很硬核的文章，本想昨天发的，因为没有看完就推到今天了，里面有很多值得去深究的内容</p><p>讲了PHP加密的一些方法，套eval的“壳”加密，文中称像PHP界的WinRAR；混淆加密，这个在js混淆好像比较常见（其实通用代码加密就几种方法），视觉形式混淆加上基于AST的混淆；还有就是虚拟机加密，类似VMProtect；还有近似加密和拓展加密，主要是在PHP引擎和编译过程上动手，比较底层</p><p><a href="https://www.anquanke.com/post/id/176767" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190419期</p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p><a href="https://t.me/tm_daily" target="_blank" rel="noopener">Telegram Channel</a>运行良好，<a href="https://rsshub.app/telegram/channel/tm_daily" target="_blank" rel="noopener">Channel的RSS</a>有点不太稳定，但尚可接受，现在考虑移除<a href="/notice/">公告栏</a>（已经404了），后续公告消息将会即时发布在<a href="https://t.me/tm_daily" target="_blank" rel="noopener">Telegram Channel</a>中，并会附在最新的一期的日报开头</p><p>不使用Telegram的读者可以选择订阅<a href="https://rsshub.app/telegram/channel/tm_daily" target="_blank" rel="noopener">Channel RSS</a>，不需要获取即时性公告的读者订阅<a href="/atom.xml">本报RSS</a>即可</p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="PHP代码加密面面观"><a href="#PHP代码加密面面观" class="headerlink" title="PHP代码加密面面观"></a>PHP代码加密面面观</h3><p>很硬核的文章，本想昨天发的，因为没有看完就推到今天了，里面有很多值得去深究的内容</p><p>讲了PHP加密的一些方法，套eval的“壳”加密，文中称像PHP界的WinRAR；混淆加密，这个在js混淆好像比较常见（其实通用代码加密就几种方法），视觉形式混淆加上基于AST的混淆；还有就是虚拟机加密，类似VMProtect；还有近似加密和拓展加密，主要是在PHP引擎和编译过程上动手，比较底层</p><p><a href="https://www.anquanke.com/post/id/176767" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190419期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;&lt;em&gt;1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;\&lt;/em&gt;1&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
@@ -147,14 +147,14 @@
     <link href="https://daily.tmr.js.org/d/20190412/"/>
     <id>https://daily.tmr.js.org/d/20190412/</id>
     <published>2019-04-12T01:21:21.000Z</published>
-    <updated>2019-04-19T15:06:27.242Z</updated>
+    <updated>2019-04-19T15:08:34.027Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190412期</p><p>今日文章：<a href="#公告">公告</a><em>1，<a href="#社会">社会</a>\</em>1，<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>预计明后两天不会更新日报了，勿念</p><p>今日新增Telegram Channel订阅方式（试运行），如果效果比较好的话，可能会删除<a href="/notice/">公告栏目</a>，后续公告将通过Telegram发布，欢迎加入<a href="https://t.me/tm_daily" target="_blank" rel="noopener">透明日报 Channel</a>，当然Channel也是要支持RSS的，<a href="https://rsshub.app/telegram/channel/tm_daily" target="_blank" rel="noopener">Channel RSS</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="《读书》，一本提出“读书无禁区”的杂志启蒙了两代中国人"><a href="#《读书》，一本提出“读书无禁区”的杂志启蒙了两代中国人" class="headerlink" title="《读书》，一本提出“读书无禁区”的杂志启蒙了两代中国人"></a>《读书》，一本提出“读书无禁区”的杂志启蒙了两代中国人</h3><p>人民有读书的自由</p><p><a href="https://www.qdaily.com/articles/44636.html" target="_blank" rel="noopener">原文链接</a></p><p><a href="https://web.archive.org/web/20170902175350/https://www.qdaily.com/articles/44636.html" target="_blank" rel="noopener">原文链接[Archive20170902]</a></p><p><a href="https://web.archive.org/web/20190411060043/https://www.qdaily.com/articles/44636.html" target="_blank" rel="noopener">原文链接[Archive20190411]</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="蚁剑客户端RCE挖掘过程及源码分析"><a href="#蚁剑客户端RCE挖掘过程及源码分析" class="headerlink" title="蚁剑客户端RCE挖掘过程及源码分析"></a>蚁剑客户端RCE挖掘过程及源码分析</h3><p>蚁剑<a href="https://github.com/AntSwordProject/antSword/issues/147" target="_blank" rel="noopener">issues#147</a>指出存在XSS，可RCE，尽快更新</p><p><a href="https://evoa.me/index.php/archives/48/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190412期</p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>预计明后两天不会更新日报了，勿念</p><p>今日新增Telegram Channel订阅方式（试运行），如果效果比较好的话，可能会删除<a href="/notice/">公告栏目</a>，后续公告将通过Telegram发布，欢迎加入<a href="https://t.me/tm_daily" target="_blank" rel="noopener">透明日报 Channel</a>，当然Channel也是要支持RSS的，<a href="https://rsshub.app/telegram/channel/tm_daily" target="_blank" rel="noopener">Channel RSS</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="《读书》，一本提出“读书无禁区”的杂志启蒙了两代中国人"><a href="#《读书》，一本提出“读书无禁区”的杂志启蒙了两代中国人" class="headerlink" title="《读书》，一本提出“读书无禁区”的杂志启蒙了两代中国人"></a>《读书》，一本提出“读书无禁区”的杂志启蒙了两代中国人</h3><p>人民有读书的自由</p><p><a href="https://www.qdaily.com/articles/44636.html" target="_blank" rel="noopener">原文链接</a></p><p><a href="https://web.archive.org/web/20170902175350/https://www.qdaily.com/articles/44636.html" target="_blank" rel="noopener">原文链接[Archive20170902]</a></p><p><a href="https://web.archive.org/web/20190411060043/https://www.qdaily.com/articles/44636.html" target="_blank" rel="noopener">原文链接[Archive20190411]</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="蚁剑客户端RCE挖掘过程及源码分析"><a href="#蚁剑客户端RCE挖掘过程及源码分析" class="headerlink" title="蚁剑客户端RCE挖掘过程及源码分析"></a>蚁剑客户端RCE挖掘过程及源码分析</h3><p>蚁剑<a href="https://github.com/AntSwordProject/antSword/issues/147" target="_blank" rel="noopener">issues#147</a>指出存在XSS，可RCE，尽快更新</p><p><a href="https://evoa.me/index.php/archives/48/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190412期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;&lt;em&gt;1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;\&lt;/em&gt;1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
