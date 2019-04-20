@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-04-19T15:08:34.031Z</updated>
+  <updated>2019-04-20T15:22:55.100Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190420期</title>
+    <link href="https://daily.tmr.js.org/d/20190420/"/>
+    <id>https://daily.tmr.js.org/d/20190420/</id>
+    <published>2019-04-19T15:28:29.000Z</published>
+    <updated>2019-04-20T15:22:55.100Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190420期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="维权的艺术"><a href="#维权的艺术" class="headerlink" title="维权的艺术"></a>维权的艺术</h3><p>从工人讨薪说到了最近的一些事件，996.icu以及社会企业反应，奔驰车事件</p><p><a href="https://mp.weixin.qq.com/s/gfsuEd6M4tQgIs2i-ExyqQ" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="杨镭访谈：UCloud-的技术价值观"><a href="#杨镭访谈：UCloud-的技术价值观" class="headerlink" title="杨镭访谈：UCloud 的技术价值观"></a>杨镭访谈：UCloud 的技术价值观</h3><p>有点像<a href="https://book.douban.com/subject/24335672/" target="_blank" rel="noopener">淘宝技术这十年</a>，讲技术驱动与企业发展</p><p><a href="https://linux.cn/article-10744-1.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="灵异事件分析之半夜iPhone手机锁屏播放诡异音乐"><a href="#灵异事件分析之半夜iPhone手机锁屏播放诡异音乐" class="headerlink" title="灵异事件分析之半夜iPhone手机锁屏播放诡异音乐"></a>灵异事件分析之半夜iPhone手机锁屏播放诡异音乐</h3><p>更新推送消息唤起应用，应用各种Bug与启动页音频结合，也是没谁了</p><p><a href="https://www.jarviswang.me/?p=999" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190420期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190419期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190414期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190412期</title>
-    <link href="https://daily.tmr.js.org/d/20190412/"/>
-    <id>https://daily.tmr.js.org/d/20190412/</id>
-    <published>2019-04-12T01:21:21.000Z</published>
-    <updated>2019-04-19T15:08:34.027Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190412期</p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>预计明后两天不会更新日报了，勿念</p><p>今日新增Telegram Channel订阅方式（试运行），如果效果比较好的话，可能会删除<a href="/notice/">公告栏目</a>，后续公告将通过Telegram发布，欢迎加入<a href="https://t.me/tm_daily" target="_blank" rel="noopener">透明日报 Channel</a>，当然Channel也是要支持RSS的，<a href="https://rsshub.app/telegram/channel/tm_daily" target="_blank" rel="noopener">Channel RSS</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="《读书》，一本提出“读书无禁区”的杂志启蒙了两代中国人"><a href="#《读书》，一本提出“读书无禁区”的杂志启蒙了两代中国人" class="headerlink" title="《读书》，一本提出“读书无禁区”的杂志启蒙了两代中国人"></a>《读书》，一本提出“读书无禁区”的杂志启蒙了两代中国人</h3><p>人民有读书的自由</p><p><a href="https://www.qdaily.com/articles/44636.html" target="_blank" rel="noopener">原文链接</a></p><p><a href="https://web.archive.org/web/20170902175350/https://www.qdaily.com/articles/44636.html" target="_blank" rel="noopener">原文链接[Archive20170902]</a></p><p><a href="https://web.archive.org/web/20190411060043/https://www.qdaily.com/articles/44636.html" target="_blank" rel="noopener">原文链接[Archive20190411]</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="蚁剑客户端RCE挖掘过程及源码分析"><a href="#蚁剑客户端RCE挖掘过程及源码分析" class="headerlink" title="蚁剑客户端RCE挖掘过程及源码分析"></a>蚁剑客户端RCE挖掘过程及源码分析</h3><p>蚁剑<a href="https://github.com/AntSwordProject/antSword/issues/147" target="_blank" rel="noopener">issues#147</a>指出存在XSS，可RCE，尽快更新</p><p><a href="https://evoa.me/index.php/archives/48/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190412期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
