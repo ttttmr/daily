@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-04-21T15:26:54.996Z</updated>
+  <updated>2019-04-22T15:35:12.942Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190422期</title>
+    <link href="https://daily.tmr.js.org/d/20190422/"/>
+    <id>https://daily.tmr.js.org/d/20190422/</id>
+    <published>2019-04-22T01:22:44.000Z</published>
+    <updated>2019-04-22T15:35:12.942Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190422期</p><p>今日文章：<a href="#技术">技术</a>*2，<a href="#其他">其他</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Nginx配置不当可能导致的安全问题"><a href="#Nginx配置不当可能导致的安全问题" class="headerlink" title="Nginx配置不当可能导致的安全问题"></a>Nginx配置不当可能导致的安全问题</h3><p>Nginx配置问题总结</p><p><a href="https://xz.aliyun.com/t/4855" target="_blank" rel="noopener">原文链接</a></p><h3 id="openbilibili-go-common"><a href="#openbilibili-go-common" class="headerlink" title="openbilibili/go-common"></a>openbilibili/go-common</h3><p>疑似B站后端源码泄露，看了一下内含大量敏感信息（人员，接口，密码等等）</p><p>原仓库和部分fork仓库已被删除，自行查找未被封了仓库</p><p><a href="https://github.com/openbilibili/go-common" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="我们购买了-12-个品牌的奶茶，发现了奶茶的部分真相"><a href="#我们购买了-12-个品牌的奶茶，发现了奶茶的部分真相" class="headerlink" title="我们购买了 12 个品牌的奶茶，发现了奶茶的部分真相"></a>我们购买了 12 个品牌的奶茶，发现了奶茶的部分真相</h3><p>—— 奶茶里的奶和茶分别是什么成分？对人体有危害吗？</p><p>奶茶含蛋白质，糖，咖啡因，反式脂肪酸成分分析</p><p><a href="https://news-at.zhihu.com/story/9710524" target="_blank" rel="noopener">原文链接</a></p><h3 id="苏联笑话生成器"><a href="#苏联笑话生成器" class="headerlink" title="苏联笑话生成器"></a>苏联笑话生成器</h3><p>大会主持人:”请支持996的人坐在左边，反对996的坐在右边。”</p><p>大多数人坐在了右边，少数人坐在了左边，只有一个人坐在中间纹丝不动。</p><p>主持人很不解，询问情况。</p><p>“我对程序员们的情况表示十分理解，但我支持996。”</p><p>”那您赶快坐到主席台来。”主持人急忙说道。</p><p><a href="https://namespacexp.github.io/joke/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190422期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190421期</title>
@@ -133,27 +154,6 @@
     <summary type="html">
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190416期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190415期</title>
-    <link href="https://daily.tmr.js.org/d/20190415/"/>
-    <id>https://daily.tmr.js.org/d/20190415/</id>
-    <published>2019-04-15T01:31:12.000Z</published>
-    <updated>2019-04-15T15:00:23.143Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190415期</p><p>今日文章：<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="IDA-Pro7-0使用技巧总结"><a href="#IDA-Pro7-0使用技巧总结" class="headerlink" title="IDA Pro7.0使用技巧总结"></a>IDA Pro7.0使用技巧总结</h3><p>IDA入门</p><p><a href="https://xz.aliyun.com/t/4205" target="_blank" rel="noopener">原文链接</a></p><h3 id="逆向工程-第2部分（高级编程概念）"><a href="#逆向工程-第2部分（高级编程概念）" class="headerlink" title="逆向工程 - 第2部分（高级编程概念）"></a>逆向工程 - 第2部分（高级编程概念）</h3><p>学习一些数据结构在IDA里的汇编都是什么样的</p><p><a href="https://xz.aliyun.com/t/3927" target="_blank" rel="noopener">原文链接</a></p><h3 id="分享-一个用于漏洞挖掘的ida脚本"><a href="#分享-一个用于漏洞挖掘的ida脚本" class="headerlink" title="[分享]一个用于漏洞挖掘的ida脚本"></a>[分享]一个用于漏洞挖掘的ida脚本</h3><p>一个很老（03年）的IDA挖洞脚本，在IDA7.0上跑有点坑，脚本的思路是从危险函数入手，和<a href="../20190406/#Web应用代码自动化审计浅谈">Web分析思路</a>大同小异</p><p><a href="https://bbs.pediy.com/thread-178793.htm" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190415期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
     
     </summary>

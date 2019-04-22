@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>透明日报20190422期</title>
+      <link href="/d/20190422/"/>
+      <url>/d/20190422/</url>
+      
+        <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190422期</p><p>今日文章：<a href="#技术">技术</a>*2，<a href="#其他">其他</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Nginx配置不当可能导致的安全问题"><a href="#Nginx配置不当可能导致的安全问题" class="headerlink" title="Nginx配置不当可能导致的安全问题"></a>Nginx配置不当可能导致的安全问题</h3><p>Nginx配置问题总结</p><p><a href="https://xz.aliyun.com/t/4855" target="_blank" rel="noopener">原文链接</a></p><h3 id="openbilibili-go-common"><a href="#openbilibili-go-common" class="headerlink" title="openbilibili/go-common"></a>openbilibili/go-common</h3><p>疑似B站后端源码泄露，看了一下内含大量敏感信息（人员，接口，密码等等）</p><p>原仓库和部分fork仓库已被删除，自行查找未被封了仓库</p><p><a href="https://github.com/openbilibili/go-common" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="我们购买了-12-个品牌的奶茶，发现了奶茶的部分真相"><a href="#我们购买了-12-个品牌的奶茶，发现了奶茶的部分真相" class="headerlink" title="我们购买了 12 个品牌的奶茶，发现了奶茶的部分真相"></a>我们购买了 12 个品牌的奶茶，发现了奶茶的部分真相</h3><p>—— 奶茶里的奶和茶分别是什么成分？对人体有危害吗？</p><p>奶茶含蛋白质，糖，咖啡因，反式脂肪酸成分分析</p><p><a href="https://news-at.zhihu.com/story/9710524" target="_blank" rel="noopener">原文链接</a></p><h3 id="苏联笑话生成器"><a href="#苏联笑话生成器" class="headerlink" title="苏联笑话生成器"></a>苏联笑话生成器</h3><p>大会主持人:”请支持996的人坐在左边，反对996的坐在右边。”</p><p>大多数人坐在了右边，少数人坐在了左边，只有一个人坐在中间纹丝不动。</p><p>主持人很不解，询问情况。</p><p>“我对程序员们的情况表示十分理解，但我支持996。”</p><p>”那您赶快坐到主席台来。”主持人急忙说道。</p><p><a href="https://namespacexp.github.io/joke/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 201904 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190421期</title>
       <link href="/d/20190421/"/>
       <url>/d/20190421/</url>
