@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-04-22T15:35:12.942Z</updated>
+  <updated>2019-04-23T15:58:39.522Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190423期</title>
+    <link href="https://daily.tmr.js.org/d/20190423/"/>
+    <id>https://daily.tmr.js.org/d/20190423/</id>
+    <published>2019-04-23T02:10:58.000Z</published>
+    <updated>2019-04-23T15:58:39.522Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190423期</p><p>今日文章：<a href="#技术">技术</a>*3，<a href="#文娱">文娱</a>*1，<a href="#其他">其他</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="对过WAF的一些认知"><a href="#对过WAF的一些认知" class="headerlink" title="对过WAF的一些认知"></a>对过WAF的一些认知</h3><p>很全面的总结，基本上就是利用WAF没有考虑到或者是不支持的功能进行绕过</p><p><a href="https://www.anquanke.com/post/id/177044" target="_blank" rel="noopener">原文链接</a></p><h3 id="ROIS-CISCN-全国大学生信息安全竞赛线上赛-Writeup"><a href="#ROIS-CISCN-全国大学生信息安全竞赛线上赛-Writeup" class="headerlink" title="ROIS CISCN 全国大学生信息安全竞赛线上赛 Writeup"></a>ROIS CISCN 全国大学生信息安全竞赛线上赛 Writeup</h3><p>内容比较全</p><p><a href="https://xz.aliyun.com/t/4906" target="_blank" rel="noopener">原文链接</a></p><h3 id="第12届全国大学生信息安全竞赛Web题解"><a href="#第12届全国大学生信息安全竞赛Web题解" class="headerlink" title="第12届全国大学生信息安全竞赛Web题解"></a>第12届全国大学生信息安全竞赛Web题解</h3><p>Web题推荐这篇，和上篇有些不一样的思路</p><p><a href="https://xz.aliyun.com/t/4904" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="什么样的游戏规则，打造了史上最成功的电影产品“漫威宇宙”？"><a href="#什么样的游戏规则，打造了史上最成功的电影产品“漫威宇宙”？" class="headerlink" title="什么样的游戏规则，打造了史上最成功的电影产品“漫威宇宙”？"></a>什么样的游戏规则，打造了史上最成功的电影产品“漫威宇宙”？</h3><p>电影之间相互联系，打造电影连续剧，类似的还有哈利波特的魔法世界了</p><p><a href="https://www.qdaily.com/articles/63081.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="牛！清华吴子牛教授浅谈论文写作，赶紧收藏！"><a href="#牛！清华吴子牛教授浅谈论文写作，赶紧收藏！" class="headerlink" title="牛！清华吴子牛教授浅谈论文写作，赶紧收藏！"></a>牛！清华吴子牛教授浅谈论文写作，赶紧收藏！</h3><p>学习一下怎么写论文，反正我写的总被老师说太简洁了</p><p><a href="https://mp.weixin.qq.com/s/6vLwQ7PMwn0X2zzJlnhjaA" target="_blank" rel="noopener">原文链接</a></p><h3 id="Reddit问答：见证父母患上老年痴呆"><a href="#Reddit问答：见证父母患上老年痴呆" class="headerlink" title="Reddit问答：见证父母患上老年痴呆"></a>Reddit问答：见证父母患上老年痴呆</h3><p>难以想象我的父母患上老年痴呆该怎么办啊</p><p><a href="http://jandan.net/2019/04/23/their_parents_go.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190423期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190422期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190417期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*2，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190416期</title>
-    <link href="https://daily.tmr.js.org/d/20190416/"/>
-    <id>https://daily.tmr.js.org/d/20190416/</id>
-    <published>2019-04-16T08:18:56.000Z</published>
-    <updated>2019-04-16T15:17:36.656Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190416期</p><p>今日文章：<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="从一道题讲PHP复杂变量"><a href="#从一道题讲PHP复杂变量" class="headerlink" title="从一道题讲PHP复杂变量"></a>从一道题讲PHP复杂变量</h3><p>PHP复杂变量的语法和利用</p><p><a href="https://xz.aliyun.com/t/4785" target="_blank" rel="noopener">原文链接</a></p><h3 id="Domain-fronting基本介绍"><a href="#Domain-fronting基本介绍" class="headerlink" title="Domain fronting基本介绍"></a>Domain fronting基本介绍</h3><p>域前置的原理</p><p><a href="https://www.4hou.com/others/16770.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="Chaining-Multiple-Vulnerabilities-WAF-bypass-to-Account-Takeover-in-almost-all-Alibaba’s-websites"><a href="#Chaining-Multiple-Vulnerabilities-WAF-bypass-to-Account-Takeover-in-almost-all-Alibaba’s-websites" class="headerlink" title="Chaining Multiple Vulnerabilities + WAF bypass to Account Takeover in almost all Alibaba’s websites"></a>Chaining Multiple Vulnerabilities + WAF bypass to Account Takeover in almost all Alibaba’s websites</h3><p>非常nb的漏洞组合利用和XSS绕过，一是一处Cookie反射XSS，二是搜索点的XSS（包含一些Bypass过程），组合利用进行Cookie覆盖，扩大战果</p><p>截至日报发布时，原文中的细节内容已经删掉了，<a href="https://www.anquanke.com/post/id/176569" target="_blank" rel="noopener">安全客译文</a>也删了，建议先阅读原文Archive</p><p><a href="https://medium.com/@y.shahinzadeh/chaining-multiple-vulnerabilities-waf-bypass-to-account-takeover-in-almost-all-alibabas-websites-f8643eaa2855" target="_blank" rel="noopener">原文链接</a></p><p><a href="https://web.archive.org/web/20190414194035/https://medium.com/@y.shahinzadeh/chaining-multiple-vulnerabilities-waf-bypass-to-account-takeover-in-almost-all-alibabas-websites-f8643eaa2855" target="_blank" rel="noopener">原文链接[Archive]</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190416期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
     
     </summary>
     
