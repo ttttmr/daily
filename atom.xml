@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-04-23T15:58:39.522Z</updated>
+  <updated>2019-04-24T15:13:55.837Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190424期</title>
+    <link href="https://daily.tmr.js.org/d/20190424/"/>
+    <id>https://daily.tmr.js.org/d/20190424/</id>
+    <published>2019-04-24T00:51:53.000Z</published>
+    <updated>2019-04-24T15:13:55.837Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190424期</p><p>今日文章：<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Operation-ShadowHammer-a-high-profile-supply-chain-attack"><a href="#Operation-ShadowHammer-a-high-profile-supply-chain-attack" class="headerlink" title="Operation ShadowHammer: a high-profile supply chain attack"></a>Operation ShadowHammer: a high-profile supply chain attack</h3><p><a href="../20190326/#ShaHmer行动:-疑似华X电脑公司遭受有针对性的供应链攻击">ShadowHammer事件</a>的后续详细分析</p><p><a href="https://securelist.com/operation-shadowhammer-a-high-profile-supply-chain-attack/90380/" target="_blank" rel="noopener">原文链接</a></p><h3 id="读懂B站代码：防做号，重激励，推荐机制的秘密"><a href="#读懂B站代码：防做号，重激励，推荐机制的秘密" class="headerlink" title="读懂B站代码：防做号，重激励，推荐机制的秘密"></a>读懂B站代码：防做号，重激励，推荐机制的秘密</h3><p>22号<a href="../20190422/#openbilibili-go-common">B站后端代码泄露</a>，一点产品向分析</p><p><a href="https://mp.weixin.qq.com/s/rFhuh3tGyMJwdQp2QQr8Jw" target="_blank" rel="noopener">原文链接</a></p><h3 id="概述安卓App的安装和启动"><a href="#概述安卓App的安装和启动" class="headerlink" title="概述安卓App的安装和启动"></a>概述安卓App的安装和启动</h3><p>整个流程非常详细清楚</p><p><a href="https://www.jianshu.com/p/fa31d64ca57b" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190424期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190423期</title>
@@ -42,7 +63,7 @@
     <link href="https://daily.tmr.js.org/d/20190422/"/>
     <id>https://daily.tmr.js.org/d/20190422/</id>
     <published>2019-04-22T01:22:44.000Z</published>
-    <updated>2019-04-22T15:35:12.942Z</updated>
+    <updated>2019-04-24T07:44:40.390Z</updated>
     
     <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190422期</p><p>今日文章：<a href="#技术">技术</a>*2，<a href="#其他">其他</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Nginx配置不当可能导致的安全问题"><a href="#Nginx配置不当可能导致的安全问题" class="headerlink" title="Nginx配置不当可能导致的安全问题"></a>Nginx配置不当可能导致的安全问题</h3><p>Nginx配置问题总结</p><p><a href="https://xz.aliyun.com/t/4855" target="_blank" rel="noopener">原文链接</a></p><h3 id="openbilibili-go-common"><a href="#openbilibili-go-common" class="headerlink" title="openbilibili/go-common"></a>openbilibili/go-common</h3><p>疑似B站后端源码泄露，看了一下内含大量敏感信息（人员，接口，密码等等）</p><p>原仓库和部分fork仓库已被删除，自行查找未被封了仓库</p><p><a href="https://github.com/openbilibili/go-common" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="我们购买了-12-个品牌的奶茶，发现了奶茶的部分真相"><a href="#我们购买了-12-个品牌的奶茶，发现了奶茶的部分真相" class="headerlink" title="我们购买了 12 个品牌的奶茶，发现了奶茶的部分真相"></a>我们购买了 12 个品牌的奶茶，发现了奶茶的部分真相</h3><p>—— 奶茶里的奶和茶分别是什么成分？对人体有危害吗？</p><p>奶茶含蛋白质，糖，咖啡因，反式脂肪酸成分分析</p><p><a href="https://news-at.zhihu.com/story/9710524" target="_blank" rel="noopener">原文链接</a></p><h3 id="苏联笑话生成器"><a href="#苏联笑话生成器" class="headerlink" title="苏联笑话生成器"></a>苏联笑话生成器</h3><p>大会主持人:”请支持996的人坐在左边，反对996的坐在右边。”</p><p>大多数人坐在了右边，少数人坐在了左边，只有一个人坐在中间纹丝不动。</p><p>主持人很不解，询问情况。</p><p>“我对程序员们的情况表示十分理解，但我支持996。”</p><p>”那您赶快坐到主席台来。”主持人急忙说道。</p><p><a href="https://namespacexp.github.io/joke/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190418期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190417期</title>
-    <link href="https://daily.tmr.js.org/d/20190417/"/>
-    <id>https://daily.tmr.js.org/d/20190417/</id>
-    <published>2019-04-17T09:09:02.000Z</published>
-    <updated>2019-04-17T15:01:46.837Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190417期</p><p>今日文章：<a href="#社会">社会</a>*2，<a href="#技术">技术</a>*1，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="自动驾驶行业怪现状：背叛、资金链断裂、和“皇帝的新衣”"><a href="#自动驾驶行业怪现状：背叛、资金链断裂、和“皇帝的新衣”" class="headerlink" title="自动驾驶行业怪现状：背叛、资金链断裂、和“皇帝的新衣”"></a>自动驾驶行业怪现状：背叛、资金链断裂、和“皇帝的新衣”</h3><blockquote><p>在潮起潮落之间，更多的裸泳者开始现形</p></blockquote><p><a href="https://mp.weixin.qq.com/s/O2wSbQEI5dvKmv5Solj6Sw" target="_blank" rel="noopener">原文链接</a></p><h3 id="魏则西事件发生三周年，这个世界变了吗？"><a href="#魏则西事件发生三周年，这个世界变了吗？" class="headerlink" title="魏则西事件发生三周年，这个世界变了吗？"></a>魏则西事件发生三周年，这个世界变了吗？</h3><blockquote><p>只能说，太阳底下没有新鲜事</p></blockquote><p>魔幻的现实，它也是现实</p><p>百度百毒，不翻墙用<a href="https://bing.com" target="_blank" rel="noopener">必应</a>，能翻用<a href="https://www.google.com" target="_blank" rel="noopener">Google</a></p><p><a href="https://zhuanlan.zhihu.com/p/62188746" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="构建技术影响力-5-0"><a href="#构建技术影响力-5-0" class="headerlink" title="构建技术影响力 5.0"></a>构建技术影响力 5.0</h3><p>可能也算是Phodal大佬的一些成长历程吧</p><p><a href="https://www.phodal.com/blog/improve-impact-2019/" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="300-元高价售卖《复联-4》「皇帝座」，令人迷惑的影院操作"><a href="#300-元高价售卖《复联-4》「皇帝座」，令人迷惑的影院操作" class="headerlink" title="300 元高价售卖《复联 4》「皇帝座」，令人迷惑的影院操作"></a>300 元高价售卖《复联 4》「皇帝座」，令人迷惑的影院操作</h3><p>—— 如何评价上海某影院以 300 元高价售卖《复联 4》首映「皇帝座」的行为？</p><p>一张电影票的钱最后哪去了，某税+院线和影院+发行代理费，以及才知道“专用”售票系统将电影院的票房信息上传给专资委</p><p><a href="https://news-at.zhihu.com/story/9710190" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190417期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*2，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
