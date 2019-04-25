@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-04-24T15:13:55.837Z</updated>
+  <updated>2019-04-25T15:36:39.795Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190425期</title>
+    <link href="https://daily.tmr.js.org/d/20190425/"/>
+    <id>https://daily.tmr.js.org/d/20190425/</id>
+    <published>2019-04-25T04:39:22.000Z</published>
+    <updated>2019-04-25T15:36:39.795Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190425期</p><p>今日文章：<a href="#社会">社会</a>*3，<a href="#技术">技术</a>*2，<a href="#其他">其他</a>*2</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="萨达姆·侯赛因的24年"><a href="#萨达姆·侯赛因的24年" class="headerlink" title="萨达姆·侯赛因的24年"></a>萨达姆·侯赛因的24年</h3><p>超超长历史文，原文来自知乎专栏<a href="https://zhuanlan.zhihu.com/gouhuopangdegushi]-[萨达姆·侯赛因的24年（1）](https://zhuanlan.zhihu.com/p/21572955" target="_blank" rel="noopener">篝火旁的故事</a>，分为9篇，不便阅读，这里放公众号整合地址了</p><p><a href="https://mp.weixin.qq.com/s?__biz=MzA3OTM1MTc3Mw==&amp;mid=2662168830&amp;idx=1&amp;sn=54f13965c61e26870baedad16ebc2ae0&amp;chksm=84ed024cb39a8b5a5d92d68836feb1c8374de4ba12c133e659a7bb38ae2963d50f587ad3a887&amp;mpshare=1&amp;scene=2&amp;srcid=04208FAZtLVF1hvaL1Ply1Ui&amp;from=timeline&amp;ascene=2&amp;devicetype=android-28&amp;version=27000436&amp;nettype=cmnet&amp;abtest_cookie=BAABAAoACwASABMABQAjlx4AVpkeAMGZHgDamR4A3JkeAAAA&amp;lang=zh_CN&amp;pass_ticket=43z9ldcZZlbjq8EhogX4nWaRMXzEnyvjmN46cmCVo6YnKB88FcS0xZPfr72Ep4fr&amp;wx_header=1" target="_blank" rel="noopener">原文链接</a></p><h3 id="刘强东案音视频：机构媒体的堕落与溃败"><a href="#刘强东案音视频：机构媒体的堕落与溃败" class="headerlink" title="刘强东案音视频：机构媒体的堕落与溃败"></a>刘强东案音视频：机构媒体的堕落与溃败</h3><p>文中提到Twitter的事情，在Twitter刚兴起的时候就是这样的，个人社交媒体“代替”了新闻机构，新闻机构没有保证真实和权威性，真的和个人媒体没有区别了，新闻最重要的是真实，是报道事实</p><p>本报早前也发过<a href="../20190325/#更严格的“限古令”传出，古装剧第二季度全面禁播">关于网传限古令的疑问</a></p><p><a href="https://mp.weixin.qq.com/s/EEj0Hrp3Tq6BFF5EAPWG-Q" target="_blank" rel="noopener">原文链接</a></p><h3 id="晚睡的年轻人越来越多了"><a href="#晚睡的年轻人越来越多了" class="headerlink" title="晚睡的年轻人越来越多了"></a>晚睡的年轻人越来越多了</h3><p>晚睡的人都在干嘛</p><p><a href="http://www.yystv.cn/p/4990" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="windows常见backdoor、权限维持方法及排查技术"><a href="#windows常见backdoor、权限维持方法及排查技术" class="headerlink" title="windows常见backdoor、权限维持方法及排查技术"></a>windows常见backdoor、权限维持方法及排查技术</h3><p>又学到了不少新的后门骚操作</p><p><a href="https://xz.aliyun.com/t/4842" target="_blank" rel="noopener">原文链接</a></p><h3 id="termshark"><a href="#termshark" class="headerlink" title="termshark"></a>termshark</h3><p>tshark的终端用户界面，和wireshark几乎一样</p><p><a href="https://github.com/gcla/termshark" target="_blank" rel="noopener">Repo地址</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="「汉堡是垃圾食品」的说法，究竟有没有道理？"><a href="#「汉堡是垃圾食品」的说法，究竟有没有道理？" class="headerlink" title="「汉堡是垃圾食品」的说法，究竟有没有道理？"></a>「汉堡是垃圾食品」的说法，究竟有没有道理？</h3><p>—— 为什么人们总说汉堡是垃圾食品？</p><p>什么是垃圾食品</p><blockquote><p>在某个特点阶段最不能满足我们人体需要、最不合适人体营养的食物，才叫“垃圾食物”</p></blockquote><p><a href="https://news-at.zhihu.com/story/9496537" target="_blank" rel="noopener">原文链接</a></p><h3 id="微分方程概论-第一章"><a href="#微分方程概论-第一章" class="headerlink" title="微分方程概论-第一章"></a>微分方程概论-第一章</h3><p>从单摆到微分方程可视化，再到相空间，最后引出混沌理论和无解问题，nb，期待后续</p><p><a href="https://www.bilibili.com/video/av50290975" target="_blank" rel="noopener">视频链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190425期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*3，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190424期</title>
@@ -63,9 +84,9 @@
     <link href="https://daily.tmr.js.org/d/20190422/"/>
     <id>https://daily.tmr.js.org/d/20190422/</id>
     <published>2019-04-22T01:22:44.000Z</published>
-    <updated>2019-04-24T07:44:40.390Z</updated>
+    <updated>2019-04-25T10:29:19.024Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190422期</p><p>今日文章：<a href="#技术">技术</a>*2，<a href="#其他">其他</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Nginx配置不当可能导致的安全问题"><a href="#Nginx配置不当可能导致的安全问题" class="headerlink" title="Nginx配置不当可能导致的安全问题"></a>Nginx配置不当可能导致的安全问题</h3><p>Nginx配置问题总结</p><p><a href="https://xz.aliyun.com/t/4855" target="_blank" rel="noopener">原文链接</a></p><h3 id="openbilibili-go-common"><a href="#openbilibili-go-common" class="headerlink" title="openbilibili/go-common"></a>openbilibili/go-common</h3><p>疑似B站后端源码泄露，看了一下内含大量敏感信息（人员，接口，密码等等）</p><p>原仓库和部分fork仓库已被删除，自行查找未被封了仓库</p><p><a href="https://github.com/openbilibili/go-common" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="我们购买了-12-个品牌的奶茶，发现了奶茶的部分真相"><a href="#我们购买了-12-个品牌的奶茶，发现了奶茶的部分真相" class="headerlink" title="我们购买了 12 个品牌的奶茶，发现了奶茶的部分真相"></a>我们购买了 12 个品牌的奶茶，发现了奶茶的部分真相</h3><p>—— 奶茶里的奶和茶分别是什么成分？对人体有危害吗？</p><p>奶茶含蛋白质，糖，咖啡因，反式脂肪酸成分分析</p><p><a href="https://news-at.zhihu.com/story/9710524" target="_blank" rel="noopener">原文链接</a></p><h3 id="苏联笑话生成器"><a href="#苏联笑话生成器" class="headerlink" title="苏联笑话生成器"></a>苏联笑话生成器</h3><p>大会主持人:”请支持996的人坐在左边，反对996的坐在右边。”</p><p>大多数人坐在了右边，少数人坐在了左边，只有一个人坐在中间纹丝不动。</p><p>主持人很不解，询问情况。</p><p>“我对程序员们的情况表示十分理解，但我支持996。”</p><p>”那您赶快坐到主席台来。”主持人急忙说道。</p><p><a href="https://namespacexp.github.io/joke/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190422期</p><p>今日文章：<a href="#技术">技术</a>*2，<a href="#其他">其他</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Nginx配置不当可能导致的安全问题"><a href="#Nginx配置不当可能导致的安全问题" class="headerlink" title="Nginx配置不当可能导致的安全问题"></a>Nginx配置不当可能导致的安全问题</h3><p>Nginx配置问题总结</p><p><a href="https://xz.aliyun.com/t/4855" target="_blank" rel="noopener">原文链接</a></p><h3 id="openbilibili-go-common"><a href="#openbilibili-go-common" class="headerlink" title="openbilibili/go-common"></a>openbilibili/go-common</h3><p>疑似B站后端源码泄露，看了一下内含大量敏感信息（人员，接口，密码等等）</p><p>原仓库和部分fork仓库已被删除，自行查找未被封了仓库</p><p><a href="https://github.com/openbilibili/go-common" target="_blank" rel="noopener">Repo链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="我们购买了-12-个品牌的奶茶，发现了奶茶的部分真相"><a href="#我们购买了-12-个品牌的奶茶，发现了奶茶的部分真相" class="headerlink" title="我们购买了 12 个品牌的奶茶，发现了奶茶的部分真相"></a>我们购买了 12 个品牌的奶茶，发现了奶茶的部分真相</h3><p>—— 奶茶里的奶和茶分别是什么成分？对人体有危害吗？</p><p>奶茶含蛋白质，糖，咖啡因，反式脂肪酸成分分析</p><p><a href="https://news-at.zhihu.com/story/9710524" target="_blank" rel="noopener">原文链接</a></p><h3 id="苏联笑话生成器"><a href="#苏联笑话生成器" class="headerlink" title="苏联笑话生成器"></a>苏联笑话生成器</h3><p>大会主持人:”请支持996的人坐在左边，反对996的坐在右边。”</p><p>大多数人坐在了右边，少数人坐在了左边，只有一个人坐在中间纹丝不动。</p><p>主持人很不解，询问情况。</p><p>“我对程序员们的情况表示十分理解，但我支持996。”</p><p>”那您赶快坐到主席台来。”主持人急忙说道。</p><p><a href="https://namespacexp.github.io/joke/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
     <summary type="html">
     
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190419期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190418期</title>
-    <link href="https://daily.tmr.js.org/d/20190418/"/>
-    <id>https://daily.tmr.js.org/d/20190418/</id>
-    <published>2019-04-18T01:00:23.000Z</published>
-    <updated>2019-04-18T15:16:11.902Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190418期</p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="“努力就会成功”"><a href="#“努力就会成功”" class="headerlink" title="“努力就会成功”"></a>“努力就会成功”</h3><p>Smart work 而不是 Hard work，记得初中班主任和我们说过“努力不一定成功，但不努力一定不会成功”</p><p><a href="https://coolshell.cn/articles/19271.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="文件包含-amp-奇技淫巧"><a href="#文件包含-amp-奇技淫巧" class="headerlink" title="文件包含&amp;奇技淫巧"></a>文件包含&amp;奇技淫巧</h3><p>文件上传缓存的条件竞争，在PHP5中的phpinfo利用和PHP7中的segment fault特性利用</p><p><a href="https://www.4hou.com/web/17259.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190418期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
