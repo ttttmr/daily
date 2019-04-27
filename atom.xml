@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-04-26T15:18:38.017Z</updated>
+  <updated>2019-04-27T15:19:20.826Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190427期</title>
+    <link href="https://daily.tmr.js.org/d/20190427/"/>
+    <id>https://daily.tmr.js.org/d/20190427/</id>
+    <published>2019-04-27T11:34:46.000Z</published>
+    <updated>2019-04-27T15:19:20.826Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190427期</p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="农村黑产，真正的硬核朋克"><a href="#农村黑产，真正的硬核朋克" class="headerlink" title="农村黑产，真正的硬核朋克"></a>农村黑产，真正的硬核朋克</h3><p>可能也算是互联网高速低成本发展的结果</p><p><a href="https://mp.weixin.qq.com/s/PMhtldslSLz7wseCIIb6rw" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Linux权限维持之影子SUID的利用"><a href="#Linux权限维持之影子SUID的利用" class="headerlink" title="Linux权限维持之影子SUID的利用"></a>Linux权限维持之影子SUID的利用</h3><p>虽然文章讲的有点不清楚，但作为新技术了解一下，不过测试并不成功（评论区），我在Ubuntu1804上也失败了</p><p><a href="https://xz.aliyun.com/t/4869" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190427期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190426期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190421期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190420期</title>
-    <link href="https://daily.tmr.js.org/d/20190420/"/>
-    <id>https://daily.tmr.js.org/d/20190420/</id>
-    <published>2019-04-19T15:28:29.000Z</published>
-    <updated>2019-04-20T15:22:55.100Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190420期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="维权的艺术"><a href="#维权的艺术" class="headerlink" title="维权的艺术"></a>维权的艺术</h3><p>从工人讨薪说到了最近的一些事件，996.icu以及社会企业反应，奔驰车事件</p><p><a href="https://mp.weixin.qq.com/s/gfsuEd6M4tQgIs2i-ExyqQ" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="杨镭访谈：UCloud-的技术价值观"><a href="#杨镭访谈：UCloud-的技术价值观" class="headerlink" title="杨镭访谈：UCloud 的技术价值观"></a>杨镭访谈：UCloud 的技术价值观</h3><p>有点像<a href="https://book.douban.com/subject/24335672/" target="_blank" rel="noopener">淘宝技术这十年</a>，讲技术驱动与企业发展</p><p><a href="https://linux.cn/article-10744-1.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="灵异事件分析之半夜iPhone手机锁屏播放诡异音乐"><a href="#灵异事件分析之半夜iPhone手机锁屏播放诡异音乐" class="headerlink" title="灵异事件分析之半夜iPhone手机锁屏播放诡异音乐"></a>灵异事件分析之半夜iPhone手机锁屏播放诡异音乐</h3><p>更新推送消息唤起应用，应用各种Bug与启动页音频结合，也是没谁了</p><p><a href="https://www.jarviswang.me/?p=999" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190420期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
