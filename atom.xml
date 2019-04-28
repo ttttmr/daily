@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-04-27T16:06:53.147Z</updated>
+  <updated>2019-04-28T14:49:18.613Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190428期</title>
+    <link href="https://daily.tmr.js.org/d/20190428/"/>
+    <id>https://daily.tmr.js.org/d/20190428/</id>
+    <published>2019-04-28T01:39:47.000Z</published>
+    <updated>2019-04-28T14:49:18.613Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190428期</p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="C-逆向学习"><a href="#C-逆向学习" class="headerlink" title="C++逆向学习"></a>C++逆向学习</h3><p>动态调试+IDA反编译代码分析，很不错的学习资料，期待后续（第二篇有点难</p><p><a href="https://xz.aliyun.com/t/4890" target="_blank" rel="noopener">C++逆向学习(一) string</a></p><p><a href="https://xz.aliyun.com/t/4933" target="_blank" rel="noopener">C++逆向学习(二) vector</a></p><p>另外<a href="../20190415/#逆向工程-第2部分（高级编程概念）">逆向工程</a>系列文章也很不错</p><p><a href="https://xz.aliyun.com/t/3840" target="_blank" rel="noopener">逆向工程 - 第1部分（基本编程概念）</a></p><p><a href="https://xz.aliyun.com/t/3927" target="_blank" rel="noopener">逆向工程 - 第2部分（高级编程概念）</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190428期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190427期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190422期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190421期</title>
-    <link href="https://daily.tmr.js.org/d/20190421/"/>
-    <id>https://daily.tmr.js.org/d/20190421/</id>
-    <published>2019-04-21T13:56:33.000Z</published>
-    <updated>2019-04-21T15:26:54.996Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190421期</p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="2019-DDCTF-WEB-WriteUp"><a href="#2019-DDCTF-WEB-WriteUp" class="headerlink" title="2019-DDCTF-WEB-WriteUp"></a>2019-DDCTF-WEB-WriteUp</h3><p>国赛打完了，来看篇DDCTF的WP</p><p><a href="https://xz.aliyun.com/t/4862" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190421期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
