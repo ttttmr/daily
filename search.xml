@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>透明日报20190430期</title>
+      <link href="/d/20190430/"/>
+      <url>/d/20190430/</url>
+      
+        <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190430期</p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*4</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>劳动节不劳动，停更一天咕咕</p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="网络审查员"><a href="#网络审查员" class="headerlink" title="网络审查员"></a>网络审查员</h3><p>一部讲网络审查现状的纪录片，什么的“非法”内容，谁在控制我们的所见所闻，自由的边界又在哪里</p><p><a href="https://movie.douban.com/subject/27621580/" target="_blank" rel="noopener">豆瓣链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="无心插柳还是有意为之：TCP反射DDoS攻击手法深入分析2-0"><a href="#无心插柳还是有意为之：TCP反射DDoS攻击手法深入分析2-0" class="headerlink" title="无心插柳还是有意为之：TCP反射DDoS攻击手法深入分析2.0"></a>无心插柳还是有意为之：TCP反射DDoS攻击手法深入分析2.0</h3><p>新型ACK反射攻击的分析</p><p><a href="https://security.tencent.com/index.php/blog/msg/134" target="_blank" rel="noopener">原文链接</a></p><h3 id="DNS-Tunnel隧道隐蔽通信实验-amp-amp-尝试复现特征向量化思维方式检测"><a href="#DNS-Tunnel隧道隐蔽通信实验-amp-amp-尝试复现特征向量化思维方式检测" class="headerlink" title="DNS Tunnel隧道隐蔽通信实验 &amp;&amp; 尝试复现特征向量化思维方式检测"></a>DNS Tunnel隧道隐蔽通信实验 &amp;&amp; 尝试复现特征向量化思维方式检测</h3><p>非常全面的DNS隧道讲解和检测思路，可以思考一下如何绕过这些检测</p><p><a href="https://www.cnblogs.com/LittleHann/p/8656621.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="Frida-Android-Practice-ssl-unpinning"><a href="#Frida-Android-Practice-ssl-unpinning" class="headerlink" title="Frida.Android.Practice (ssl unpinning)"></a>Frida.Android.Practice (ssl unpinning)</h3><p>利用Frida实现ssl unpinning</p><p><a href="https://github.com/WooyunDota/DroidDrops/blob/master/2018/Frida.Android.Practice.md" target="_blank" rel="noopener">原文链接</a></p><h3 id="Nmap扩展开发"><a href="#Nmap扩展开发" class="headerlink" title="Nmap扩展开发"></a>Nmap扩展开发</h3><p>Nmap脚本开发系列</p><p><a href="https://payloads.online/archivers/2019-04-24/1" target="_blank" rel="noopener">Nmap扩展开发（一）</a><br><a href="https://payloads.online/archivers/2019-04-24/2" target="_blank" rel="noopener">Nmap扩展开发（二）</a><br><a href="https://payloads.online/archivers/2019-04-24/3" target="_blank" rel="noopener">Nmap扩展开发（三）</a><br><a href="https://payloads.online/archivers/2019-04-24/3" target="_blank" rel="noopener">Nmap扩展开发（四）</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 201904 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190429期</title>
       <link href="/d/20190429/"/>
       <url>/d/20190429/</url>
