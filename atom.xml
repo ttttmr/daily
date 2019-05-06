@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-05-05T15:17:21.876Z</updated>
+  <updated>2019-05-06T15:24:28.893Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190506期</title>
+    <link href="https://daily.tmr.js.org/d/20190506/"/>
+    <id>https://daily.tmr.js.org/d/20190506/</id>
+    <published>2019-05-06T05:00:13.000Z</published>
+    <updated>2019-05-06T15:24:28.893Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190506期</p><p>今日文章：<a href="#技术">技术</a>*1，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="关于-dev-urandom-的流言终结"><a href="#关于-dev-urandom-的流言终结" class="headerlink" title="关于 /dev/urandom 的流言终结"></a>关于 /dev/urandom 的流言终结</h3><blockquote><p>太长不看 别问，问就是用 /dev/urandom !</p></blockquote><p>文章甚至有些欢乐哈哈哈</p><p><a href="https://linux.cn/article-10816-1.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="小事-·-冰岛一年"><a href="#小事-·-冰岛一年" class="headerlink" title="小事 · 冰岛一年"></a>小事 · 冰岛一年</h3><p>—— 住在冰岛一年，我的改变</p><p>人烟稀少的冰岛，看完有点想去</p><p><a href="https://news-at.zhihu.com/story/9710917" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190506期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190505期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190429期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190428期</title>
-    <link href="https://daily.tmr.js.org/d/20190428/"/>
-    <id>https://daily.tmr.js.org/d/20190428/</id>
-    <published>2019-04-28T01:39:47.000Z</published>
-    <updated>2019-04-28T14:49:18.613Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190428期</p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="C-逆向学习"><a href="#C-逆向学习" class="headerlink" title="C++逆向学习"></a>C++逆向学习</h3><p>动态调试+IDA反编译代码分析，很不错的学习资料，期待后续（第二篇有点难</p><p><a href="https://xz.aliyun.com/t/4890" target="_blank" rel="noopener">C++逆向学习(一) string</a></p><p><a href="https://xz.aliyun.com/t/4933" target="_blank" rel="noopener">C++逆向学习(二) vector</a></p><p>另外<a href="../20190415/#逆向工程-第2部分（高级编程概念）">逆向工程</a>系列文章也很不错</p><p><a href="https://xz.aliyun.com/t/3840" target="_blank" rel="noopener">逆向工程 - 第1部分（基本编程概念）</a></p><p><a href="https://xz.aliyun.com/t/3927" target="_blank" rel="noopener">逆向工程 - 第2部分（高级编程概念）</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190428期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
