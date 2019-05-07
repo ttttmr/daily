@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-05-06T15:24:28.893Z</updated>
+  <updated>2019-05-07T15:09:53.141Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190507期</title>
+    <link href="https://daily.tmr.js.org/d/20190507/"/>
+    <id>https://daily.tmr.js.org/d/20190507/</id>
+    <published>2019-05-07T07:48:22.000Z</published>
+    <updated>2019-05-07T15:09:53.141Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190507期</p><p>今日文章：<a href="#技术">技术</a>*3，<a href="#其他">其他</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Introducing-Windows-Terminal"><a href="#Introducing-Windows-Terminal" class="headerlink" title="Introducing Windows Terminal"></a>Introducing Windows Terminal</h3><p>Windows Terminal，想要的功能都有了，还支持安装插件（<code>wt install xxx</code>），万分期待了，前天还写一篇<a href="https://tmr.js.org/p/b3aaa0c2/" target="_blank" rel="noopener">文章</a>折腾终端的事</p><p><a href="https://devblogs.microsoft.com/commandline/introducing-windows-terminal/" target="_blank" rel="noopener">原文链接</a></p><h3 id="BeyondCorp"><a href="#BeyondCorp" class="headerlink" title="BeyondCorp"></a>BeyondCorp</h3><p>今天看了很多BeyondCorp的文章</p><p><a href="https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&amp;mid=2247486253&amp;idx=1&amp;sn=b08fcc1295a11ef3b8af5a372b054e8a&amp;chksm=ebf94c0ddc8ec51bc258031069f2460a01c1d085f84e5f5115b7f1e1cf9937574b2a836e7266&amp;scene=21#wechat_redirect" target="_blank" rel="noopener">Google BeyondCorp系列论文(一)：一种新的企业安全方法</a></p><p><a href="https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&amp;mid=2247486279&amp;idx=1&amp;sn=ce66560f0e6dc5029e1f7a4b584333ae&amp;chksm=ebf94c67dc8ec57183b3a2f7bba8302b4da9817e52cbb7ec342c5e14374c330ca24aa0bd1417&amp;scene=21#wechat_redirect" target="_blank" rel="noopener">Google BeyondCorp系列论文(二)：BeyondCorp从设计到部署</a></p><p><a href="https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&amp;mid=2247486291&amp;idx=1&amp;sn=d6cceb3944244a5970a28170b34c5f0a&amp;chksm=ebf94c73dc8ec565a517fa69fb7a7b38735e738bb01f4c2659a41d3b9d4eadfbd1b2f61499ed&amp;scene=21#wechat_redirect" target="_blank" rel="noopener">Google BeyondCorp系列论文(三)：BeyondCorp访问代理</a></p><p><a href="https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&amp;mid=2247486328&amp;idx=1&amp;sn=7f35108445fad3f8ea2950752853b274&amp;chksm=ebf94c58dc8ec54e87d617b29372ddf1f2d5b089adc185ad88c24f1b7d759d54ba3413db73b1&amp;scene=21#wechat_redirect" target="_blank" rel="noopener">Google BeyondCorp系列论文(五)：用户体验</a></p><p><a href="https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&amp;mid=2247486357&amp;idx=1&amp;sn=d9bcd5c5db9e70dbaef4a474a9831cd5&amp;chksm=ebf94cb5dc8ec5a3684dc8a52c4bd048de13c35c30ff060050fd3457eeff2c09965ddd247516&amp;scene=21#wechat_redirect" target="_blank" rel="noopener">Google BeyondCorp系列论文(六)：构建健康的机群</a></p><p><a href="https://www.sec-un.org/从beyondcorp说起/" target="_blank" rel="noopener">从BeyondCorp说起</a></p><p><a href="https://mp.weixin.qq.com/s/-Gw-xhS1URokFqaxW4k1lQ" target="_blank" rel="noopener">浅谈BeyondCorp(一)-受管设备与分层访问</a></p><p><a href="https://mp.weixin.qq.com/s/IJoJCERxSEj7ImXt97F_uA" target="_blank" rel="noopener">浅谈BeyondCorp(二)-标准化是办公网安全的基石</a></p><p>相关文章：<a href="../20190327/#Google基础设施安全设计概述">Google基础设施安全设计概述</a></p><h3 id="中国封锁了所有语言版本的维基百科"><a href="#中国封锁了所有语言版本的维基百科" class="headerlink" title="中国封锁了所有语言版本的维基百科"></a>中国封锁了所有语言版本的维基百科</h3><p>…</p><p><a href="https://ooni.io/post/2019-china-wikipedia-blocking.zh/" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="论文文献引用格式生成器"><a href="#论文文献引用格式生成器" class="headerlink" title="论文文献引用格式生成器"></a>论文文献引用格式生成器</h3><p>写论文的好东西</p><p><a href="http://doc.lanyuanxiaoyao.com/" target="_blank" rel="noopener">原文链接</a></p><h3 id="浪潮"><a href="#浪潮" class="headerlink" title="浪潮"></a>浪潮</h3><p>一个追踪社会事件的网站，和<a href="https://houxu.app/" target="_blank" rel="noopener">后续</a>有点像</p><p><a href="https://langchao.org/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190507期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190506期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190430期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190429期</title>
-    <link href="https://daily.tmr.js.org/d/20190429/"/>
-    <id>https://daily.tmr.js.org/d/20190429/</id>
-    <published>2019-04-29T11:29:14.000Z</published>
-    <updated>2019-04-29T15:07:07.112Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190429期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*2，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="智能电视为什么那么便宜"><a href="#智能电视为什么那么便宜" class="headerlink" title="智能电视为什么那么便宜"></a>智能电视为什么那么便宜</h3><blockquote><p>你在看电视的同时，电视也在看你</p></blockquote><p><a href="https://jandan.net/2019/04/29/smart-tvs-2.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="见到了故事中的人，搜狗输入法之父：马占凯"><a href="#见到了故事中的人，搜狗输入法之父：马占凯" class="headerlink" title="见到了故事中的人，搜狗输入法之父：马占凯"></a>见到了故事中的人，搜狗输入法之父：马占凯</h3><p>搜狗输入法的历史</p><p><a href="http://www.ityouknow.com/life/2019/04/29/sougou-input-father.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Datacon-DNS攻击流量识别-内测笔记"><a href="#Datacon-DNS攻击流量识别-内测笔记" class="headerlink" title="Datacon DNS攻击流量识别 内测笔记"></a>Datacon DNS攻击流量识别 内测笔记</h3><p>多种DNS攻击的分析，最后的NSEC记录也是第一次了解，段老师的一篇文章详细讲解的DNSSEC的相关内容</p><p><a href="https://momomoxiaoxi.com/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/2019/04/24/datacondns1/" target="_blank" rel="noopener">原文链接</a></p><p><a href="https://web.archive.org/web/20180114030902/http://netsec.ccert.edu.cn/duanhx/?p=1479" target="_blank" rel="noopener">DNSSEC 原理、配置与布署简介[Archive]</a></p><h3 id="CTF-mywebsql-WP"><a href="#CTF-mywebsql-WP" class="headerlink" title="*CTF mywebsql WP"></a>*CTF mywebsql WP</h3><p>为啥我的shell都是404…文中用PHP调交互程序的操作学习一下</p><p><a href="https://evoa.me/index.php/archives/51/" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="【视频论文】汤浅政明的画风研究"><a href="#【视频论文】汤浅政明的画风研究" class="headerlink" title="【视频论文】汤浅政明的画风研究"></a>【视频论文】汤浅政明的画风研究</h3><p>还有视频论文这种东西，很有意思，里面提到的一些动画可以搜出来看看</p><p><a href="https://www.bilibili.com/video/av50812763" target="_blank" rel="noopener">视频链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190429期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
