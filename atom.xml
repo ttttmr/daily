@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-05-07T16:09:16.687Z</updated>
+  <updated>2019-05-08T16:15:21.961Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190508期</title>
+    <link href="https://daily.tmr.js.org/d/20190508/"/>
+    <id>https://daily.tmr.js.org/d/20190508/</id>
+    <published>2019-05-08T00:56:45.000Z</published>
+    <updated>2019-05-08T16:15:21.961Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190508期</p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*3，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>发现本报上的一篇文章是不注明来源的翻译稿，却还打着原创干货旗子，决定通报批评一下 <a href="../20190502/#原创干货-隐蔽信道：隐形网络">围观地址</a></p><p>另外本报不再提供<a href="https://t.me/tm_daily" target="_blank" rel="noopener">Telegram Channel</a>的RSS了，因为太不稳定了，后续公告在频道中即时发布，视重要程度发布于在最新一天的日报中</p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="中国阶层鸿沟：我们都在一个自以为是的圈子里！"><a href="#中国阶层鸿沟：我们都在一个自以为是的圈子里！" class="headerlink" title="中国阶层鸿沟：我们都在一个自以为是的圈子里！"></a>中国阶层鸿沟：我们都在一个自以为是的圈子里！</h3><blockquote><p>中产得奋斗，很难无风险食利，不过就跟个自行车似的，只要不停下，就不会倒。</p></blockquote><p><a href="https://mp.weixin.qq.com/s/XnNNrPsET7DQZdPNhrnn3g" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Shipping-a-Linux-Kernel-with-Windows"><a href="#Shipping-a-Linux-Kernel-with-Windows" class="headerlink" title="Shipping a Linux Kernel with Windows"></a>Shipping a Linux Kernel with Windows</h3><p>WSL要上完整Linux内核了，貌似是以轻量虚拟机的形式跑WSL（问题是这得用Hyper-V，VMware就不能用了</p><p><a href="https://devblogs.microsoft.com/commandline/shipping-a-linux-kernel-with-windows/" target="_blank" rel="noopener">原文链接</a></p><h3 id="CTF-2019-Mywebsql-Echohub-WriteUp"><a href="#CTF-2019-Mywebsql-Echohub-WriteUp" class="headerlink" title="*CTF 2019 Mywebsql Echohub WriteUp"></a>*CTF 2019 Mywebsql Echohub WriteUp</h3><p><a href="../20190429/#CTF-mywebsql-WP">之前</a>也有发*CTF的WP，Mywebsql的信号解发很有趣</p><p><a href="https://www.secpulse.com/archives/105333.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="amazing-phpinfo"><a href="#amazing-phpinfo" class="headerlink" title="amazing phpinfo()"></a>amazing phpinfo()</h3><p>文内Ricterz师傅的链接打不开了，可以看<a href="https://paper.seebug.org/397/" target="_blank" rel="noopener">这里</a></p><p><a href="https://skysec.top/2018/04/04/amazing-phpinfo/" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="如何策略性投诉-10086，以减少电话骚扰的可能性"><a href="#如何策略性投诉-10086，以减少电话骚扰的可能性" class="headerlink" title="如何策略性投诉 10086，以减少电话骚扰的可能性"></a>如何策略性投诉 10086，以减少电话骚扰的可能性</h3><p>学习一下</p><p><a href="https://www.barretlee.com/blog/2019/05/06/complaint-to-10086/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190508期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190507期</title>
@@ -138,27 +159,6 @@
     </summary>
     
       <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190430期</title>
-    <link href="https://daily.tmr.js.org/d/20190430/"/>
-    <id>https://daily.tmr.js.org/d/20190430/</id>
-    <published>2019-04-30T03:47:51.000Z</published>
-    <updated>2019-05-01T09:34:08.406Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190430期</p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*4</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>劳动节不劳动，明天停更一天，咕咕</p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="网络审查员"><a href="#网络审查员" class="headerlink" title="网络审查员"></a>网络审查员</h3><p>一部讲网络审查现状的纪录片，什么的“非法”内容，谁在控制我们的所见所闻，他们过的怎么样，自由的边界又在哪里</p><p><a href="https://movie.douban.com/subject/27621580/" target="_blank" rel="noopener">豆瓣链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="无心插柳还是有意为之：TCP反射DDoS攻击手法深入分析2-0"><a href="#无心插柳还是有意为之：TCP反射DDoS攻击手法深入分析2-0" class="headerlink" title="无心插柳还是有意为之：TCP反射DDoS攻击手法深入分析2.0"></a>无心插柳还是有意为之：TCP反射DDoS攻击手法深入分析2.0</h3><p>新型ACK反射攻击的分析</p><p><a href="https://security.tencent.com/index.php/blog/msg/134" target="_blank" rel="noopener">原文链接</a></p><h3 id="DNS-Tunnel隧道隐蔽通信实验-amp-amp-尝试复现特征向量化思维方式检测"><a href="#DNS-Tunnel隧道隐蔽通信实验-amp-amp-尝试复现特征向量化思维方式检测" class="headerlink" title="DNS Tunnel隧道隐蔽通信实验 &amp;&amp; 尝试复现特征向量化思维方式检测"></a>DNS Tunnel隧道隐蔽通信实验 &amp;&amp; 尝试复现特征向量化思维方式检测</h3><p>非常全面的DNS隧道讲解和检测思路，可以思考一下如何绕过这些检测</p><p><a href="https://www.cnblogs.com/LittleHann/p/8656621.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="Frida-Android-Practice-ssl-unpinning"><a href="#Frida-Android-Practice-ssl-unpinning" class="headerlink" title="Frida.Android.Practice (ssl unpinning)"></a>Frida.Android.Practice (ssl unpinning)</h3><p>利用Frida实现ssl unpinning</p><p><a href="https://github.com/WooyunDota/DroidDrops/blob/master/2018/Frida.Android.Practice.md" target="_blank" rel="noopener">原文链接</a></p><h3 id="Nmap扩展开发"><a href="#Nmap扩展开发" class="headerlink" title="Nmap扩展开发"></a>Nmap扩展开发</h3><p>Nmap脚本开发系列</p><p><a href="https://payloads.online/archivers/2019-04-24/1" target="_blank" rel="noopener">Nmap扩展开发（一）</a></p><p><a href="https://payloads.online/archivers/2019-04-24/2" target="_blank" rel="noopener">Nmap扩展开发（二）</a></p><p><a href="https://payloads.online/archivers/2019-04-24/3" target="_blank" rel="noopener">Nmap扩展开发（三）</a></p><p><a href="https://payloads.online/archivers/2019-04-24/3" target="_blank" rel="noopener">Nmap扩展开发（四）</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190430期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201904" scheme="https://daily.tmr.js.org/categories/201904/"/>
     
     
   </entry>
