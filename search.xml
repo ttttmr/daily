@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>透明日报20190511期</title>
+      <link href="/d/20190511/"/>
+      <url>/d/20190511/</url>
+      
+        <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190511期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*3，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="崔永元-微博-一条声明"><a href="#崔永元-微博-一条声明" class="headerlink" title="崔永元 微博 一条声明"></a>崔永元 微博 一条声明</h3><p>事件追踪见<a href="https://houxu.app/lives/11623" target="_blank" rel="noopener">“凯奇莱案”卷宗丢失事件</a>，好奇一点，冒着巨大的风险把这件过了这么久的事情翻出来的动机是什么？</p><p><a href="https://m.weibo.cn/detail/4370437700544431" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Firefox与Edge的dom策略导致的csp-bypass问题"><a href="#Firefox与Edge的dom策略导致的csp-bypass问题" class="headerlink" title="Firefox与Edge的dom策略导致的csp bypass问题"></a>Firefox与Edge的dom策略导致的csp bypass问题</h3><blockquote><p>如果某页面设置了CSP，而同源下其他页面不做CSP防御的话，黑客可以利用opener和target对象来对存在CSP的页面做一个攻击</p></blockquote><p><a href="https://www.anquanke.com/post/id/177664" target="_blank" rel="noopener">原文链接</a></p><p>opener和target的可以看P牛的<a href="https://www.leavesongs.com/PENETRATION/use-target-to-spoof-fishing.html" target="_blank" rel="noopener">前端黑魔法之远程控制地址栏</a>和paper上的<a href="https://paper.seebug.org/538/" target="_blank" rel="noopener">危险的 target=”_blank” 与 “opener]</a>，这里再推荐一个利用opener做xss蠕虫的 <a href="https://www.cnblogs.com/index-html/p/xss_long_live.html" target="_blank" rel="noopener">【XSS】延长 XSS 生命期</a></p><h3 id="我的CSP绕过思路及总结"><a href="#我的CSP绕过思路及总结" class="headerlink" title="我的CSP绕过思路及总结"></a>我的CSP绕过思路及总结</h3><p>大佬花式绕CSP，然后再加上上篇的绕过</p><p><a href="https://evoa.me/index.php/archives/53/" target="_blank" rel="noopener">原文链接</a></p><h3 id="LFItoRCE利用总结"><a href="#LFItoRCE利用总结" class="headerlink" title="LFItoRCE利用总结"></a>LFItoRCE利用总结</h3><p>非常全面的文件包含利用总结</p><p><a href="https://www.anquanke.com/post/id/177491" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="小事-·-到我办公室来一趟"><a href="#小事-·-到我办公室来一趟" class="headerlink" title="小事 · 到我办公室来一趟"></a>小事 · 到我办公室来一趟</h3><p>—— 【师生谈话录】遇见消极内向的学生</p><blockquote><p>事实上，绝大多数沉迷于游戏、阅读等等爱好，以至于荒废现实的人，多半内心都是比较孤独的。<br>要慢慢等待，花总会开的。</p></blockquote><p>其实感觉这样的老师还是比较少见的，在初中甚至是小学末期，有一个能启发“自我意识”的“老师”是最好的</p><p><a href="https://news-at.zhihu.com/story/9711235" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 201905 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190510期</title>
       <link href="/d/20190510/"/>
       <url>/d/20190510/</url>
