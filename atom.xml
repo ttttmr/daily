@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-05-15T15:35:45.881Z</updated>
+  <updated>2019-05-16T15:12:50.585Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190516期</title>
+    <link href="https://daily.tmr.js.org/d/20190516/"/>
+    <id>https://daily.tmr.js.org/d/20190516/</id>
+    <published>2019-05-16T01:51:48.000Z</published>
+    <updated>2019-05-16T15:12:50.585Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190516期</p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#经济">经济</a>*1，<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p><a href="https://t.me/tm_daily" target="_blank" rel="noopener">Telegram Channel</a>支持RSS输出了 <a href="https://rsshub.app/telegram/channel/tm_daily" target="_blank" rel="noopener">订阅地址</a></p><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="套路贷吸血简史"><a href="#套路贷吸血简史" class="headerlink" title="套路贷吸血简史"></a>套路贷吸血简史</h3><blockquote><p>这篇文章我并不在意多少人能全文读完，只想当有人搜索套路贷的时候，他可以知道，这个世界上曾经发生过这段充满着人性矛与盾争斗的历史</p></blockquote><p>可能习惯看“长文”了，全文读完并不要多久</p><p><a href="https://mp.weixin.qq.com/s/O8x1Hc8k7Nvje4ZIDDJL8A" target="_blank" rel="noopener">原文链接</a></p><p><a href="https://web.archive.org/web/20190516091501/https://mp.weixin.qq.com/s/O8x1Hc8k7Nvje4ZIDDJL8A" target="_blank" rel="noopener">原文链接[Archive]</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="DNS隧道检测"><a href="#DNS隧道检测" class="headerlink" title="DNS隧道检测"></a>DNS隧道检测</h3><p>继昨天<a href="../20190515/#DNS隧道木马">DNS隧道木马</a>研究，一些检测技术文章</p><p><a href="https://www.freebuf.com/articles/network/149328.html" target="_blank" rel="noopener">一次误报引发的DNS检测方案的思考：DNS隧道检测平民解决方案</a></p><p><a href="https://blog.riskivy.com/探秘-基于机器学习的dns隐蔽隧道检测方法与实现/" target="_blank" rel="noopener">探秘-基于机器学习的DNS隐蔽隧道检测方法与实现</a></p><p><a href="https://www.jianshu.com/p/2b2f6435e437" target="_blank" rel="noopener">DNS隧道检测技术</a></p><p><a href="http://www.infocomm-journal.com/txxb/CN/article/downloadArticleFile.do?attachType=PDF&amp;id=163309" target="_blank" rel="noopener">基于DNS的隐蔽通道流量检测.pdf</a></p><p>文章的误报分析有点意思</p><blockquote><p>绝大部分的误报来源于奇虎 360 的 IP<br>…<br>每台主机会不定时地向奇虎 360 所属公司的 IP 发送格式异常的 DNS 报文，被本系统误检为异常</p></blockquote><h3 id="C-amp-C控制服务的设计和侦测方法综述"><a href="#C-amp-C控制服务的设计和侦测方法综述" class="headerlink" title="C&amp;C控制服务的设计和侦测方法综述"></a>C&amp;C控制服务的设计和侦测方法综述</h3><p>乌云老文依旧nb，话说乌云回归改<a href="https://tttang.com" target="_blank" rel="noopener">跳跳糖</a>了</p><p><a href="http://drops.xmd5.com/static/drops/tips-10232.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="DNS-Tunnel的一点思考"><a href="#DNS-Tunnel的一点思考" class="headerlink" title="DNS Tunnel的一点思考"></a>DNS Tunnel的一点思考</h3><p>一些规避DNS Tunnel检测的思路</p><p><a href="https://tmr.js.org/p/3b66a952" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190516期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190515期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190510期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*2，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190509期</title>
-    <link href="https://daily.tmr.js.org/d/20190509/"/>
-    <id>https://daily.tmr.js.org/d/20190509/</id>
-    <published>2019-05-09T06:21:42.000Z</published>
-    <updated>2019-05-09T14:20:18.587Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190509期</p><p>今日文章：<a href="#社会">社会</a>*3，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*2，<a href="#文娱">文娱</a>*1，<a href="#其他">其他</a>*2</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="小事-·-27-岁，一事无成"><a href="#小事-·-27-岁，一事无成" class="headerlink" title="小事 · 27 岁，一事无成"></a>小事 · 27 岁，一事无成</h3><p>—— 27岁，在深圳一事无成，是否还有必要待下去呢？</p><p>甚至觉得作者的这个算是一个社会问题了，是什么导致了这样的事情发生？</p><p>另外，什么才是一事无成呢？活着算吗？</p><p><a href="https://news-at.zhihu.com/story/9710999" target="_blank" rel="noopener">原文链接</a></p><h3 id="28-岁的我，一事无成"><a href="#28-岁的我，一事无成" class="headerlink" title="28 岁的我，一事无成"></a>28 岁的我，一事无成</h3><p>好巧，这个大佬也在深圳一事无成（写上篇短评的时候还没看到这篇，越觉得是个问题了</p><p><a href="https://www.phodal.com/blog/28/" target="_blank" rel="noopener">原文链接</a></p><h3 id="夜深人静，一个男孩一个女孩牵着手穿过这个曲桥，难道你们不担心他们会掉到水里吗？-李迪华-一席第596位讲者"><a href="#夜深人静，一个男孩一个女孩牵着手穿过这个曲桥，难道你们不担心他们会掉到水里吗？-李迪华-一席第596位讲者" class="headerlink" title="夜深人静，一个男孩一个女孩牵着手穿过这个曲桥，难道你们不担心他们会掉到水里吗？| 李迪华 一席第596位讲者"></a>夜深人静，一个男孩一个女孩牵着手穿过这个曲桥，难道你们不担心他们会掉到水里吗？| 李迪华 一席第596位讲者</h3><p>“与人为敌”的人居环境，一些城市/建筑的设计问题</p><p><a href="https://mp.weixin.qq.com/s/9tv8imCIhk_MzWPZJjMvbw" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="旗帜鲜明地抵制-CSDN-下载（盗版）站！"><a href="#旗帜鲜明地抵制-CSDN-下载（盗版）站！" class="headerlink" title="旗帜鲜明地抵制 CSDN 下载（盗版）站！"></a>旗帜鲜明地抵制 CSDN 下载（盗版）站！</h3><p>CSDN上不只是下载盗版，抄袭文章也特多，各种不授权不注明复制转载</p><p><a href="https://segmentfault.com/a/1190000019120547" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="在开启BitLocker的Windows-10上使用系统映像备份"><a href="#在开启BitLocker的Windows-10上使用系统映像备份" class="headerlink" title="在开启BitLocker的Windows 10上使用系统映像备份"></a>在开启BitLocker的Windows 10上使用系统映像备份</h3><blockquote><p>灾难时代的Windows 10用户</p></blockquote><p><a href="https://www.blackglory.me/use-system-image-backup-on-windows-10-with-bitlocker/" target="_blank" rel="noopener">原文链接</a></p><h3 id="RSA编码器-这个Shell不给你连"><a href="#RSA编码器-这个Shell不给你连" class="headerlink" title="RSA编码器 这个Shell不给你连"></a>RSA编码器 这个Shell不给你连</h3><p>RSA+时间戳</p><p><a href="https://mp.weixin.qq.com/s/uITAIt-jj3-CYKwXQqFzMw" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="最前线-腾讯“吃鸡”游戏或借壳变现，《绝地求生》“成为”《和平精英》"><a href="#最前线-腾讯“吃鸡”游戏或借壳变现，《绝地求生》“成为”《和平精英》" class="headerlink" title="最前线 | 腾讯“吃鸡”游戏或借壳变现，《绝地求生》“成为”《和平精英》"></a>最前线 | 腾讯“吃鸡”游戏或借壳变现，《绝地求生》“成为”《和平精英》</h3><blockquote><p>《和平精英》是一款新游戏，定位为腾讯自研反恐军事竞赛体验手游，从核心玩法到具体UI，都符合主管部门相关要求。</p></blockquote><p>当然这也是没办法，<a href="http://www.yystv.cn/p/5054" target="_blank" rel="noopener">对《和平精英》交出的答卷，我表示尊重</a></p><p>中国特色社会主义软件、电影、游戏，还有什么</p><p><a href="https://36kr.com/p/5202146" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="乒乓球是不是职业运动员和业余选手差距最小的运动？"><a href="#乒乓球是不是职业运动员和业余选手差距最小的运动？" class="headerlink" title="乒乓球是不是职业运动员和业余选手差距最小的运动？"></a>乒乓球是不是职业运动员和业余选手差距最小的运动？</h3><p>职业乒乓球运动员在技术和装备上的差距，上过乒乓球课，和即将/可能成为职业运动员打过，花式旋球是真的强</p><p><a href="https://www.zhihu.com/question/61401122/answer/664564598" target="_blank" rel="noopener">原文链接</a></p><h3 id="爱因斯坦的想象力宇宙与贝佐斯的想法压缩包"><a href="#爱因斯坦的想象力宇宙与贝佐斯的想法压缩包" class="headerlink" title="爱因斯坦的想象力宇宙与贝佐斯的想法压缩包"></a>爱因斯坦的想象力宇宙与贝佐斯的想法压缩包</h3><p>能说我初高中学数理化的时候也都是想象吗哈哈哈</p><p>另外说点不一样的，这样的压缩会产生什么问题？</p><p>一个复杂概念被压缩传播，变成一个词/短语，很容易让人有不同的理解，以至于几个人在说一个东西，然而这个东西在每个人的脑子里所代表的含义都是不一样的，不仅仅是在这样的宣传/交流场景，在普通谈话下的一些“公共词语”也非常常见，举个例子：“朋友”</p><p>稍微想一下这样的可能原因？</p><p>其实在学习了解这个概念（被短语化）的时候，会有人理解一半（也可能会是“不认真听讲的学生”情况），往往这个词/短语的深刻理解是在（被）使用的时候，也就是这个词/短语在别人理解后使用时的含义，慢慢地这个词的概念就模糊了，每个人的理解也就不一样了</p><p>PS：文章作者好像是即友？</p><p><a href="https://mp.weixin.qq.com/s/_ppdkJnX3UnvD3uXH8zQ0A" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190509期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*3，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
