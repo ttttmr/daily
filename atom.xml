@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-05-16T15:12:50.585Z</updated>
+  <updated>2019-05-17T15:34:08.432Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190517期</title>
+    <link href="https://daily.tmr.js.org/d/20190517/"/>
+    <id>https://daily.tmr.js.org/d/20190517/</id>
+    <published>2019-05-17T01:13:22.000Z</published>
+    <updated>2019-05-17T15:34:08.432Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190517期</p><p>今日文章：<a href="#技术">技术</a>*5，<a href="#其他">其他</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浏览器安全学习笔记（一）"><a href="#浏览器安全学习笔记（一）" class="headerlink" title="浏览器安全学习笔记（一）"></a>浏览器安全学习笔记（一）</h3><p>就是配图有点灵魂画手，文章还是很不错的</p><p><a href="https://www.freebuf.com/vuls/202413.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="反虚拟机和沙箱检测的一些小技巧"><a href="#反虚拟机和沙箱检测的一些小技巧" class="headerlink" title="反虚拟机和沙箱检测的一些小技巧"></a>反虚拟机和沙箱检测的一些小技巧</h3><p>很棒的文章，还有项目代码</p><p><a href="https://www.freebuf.com/articles/system/202717.html" target="_blank" rel="noopener">原文链接</a></p><p><a href="https://github.com/sharepub/CheckVM-Sandbox" target="_blank" rel="noopener">Repo链接</a></p><h3 id="VS-Code-Remote-Development"><a href="#VS-Code-Remote-Development" class="headerlink" title="VS Code Remote Development"></a>VS Code Remote Development</h3><p>VS Code Remote 支持远程开发，开发调试可以远程进行，当然也支持WSL，确实是nb…（尝试了一下，需要用Insiders版，总的来说还是有点折腾的，当然Bug也是少不了的，不愿折腾的同学还是等稳定版吧😂）</p><p><a href="https://code.visualstudio.com/docs/remote/remote-overview" target="_blank" rel="noopener">原文链接</a></p><h3 id="Internet-Outage-Reveals-Reach-of-China’s-Connectivity"><a href="#Internet-Outage-Reveals-Reach-of-China’s-Connectivity" class="headerlink" title="Internet Outage Reveals Reach of China’s Connectivity"></a>Internet Outage Reveals Reach of China’s Connectivity</h3><p>5月13日下午12:30（太平洋时区时间，换算北京时间是14日凌晨3:30），中国电信经历了持续近5个小时的大停电</p><p>中国电信的主干网上进出中国的互联网流量出现了大量数据包丢失。 数据包丢失持续了几个小时，主要影响了中国大陆的网络基础设施，但也影响了中国电信在新加坡和包括洛杉矶在内的美国多个地点的网络</p><p>这次宕机是一个挖掘中国互联网连接状态的好机会</p><p>上面是翻译，文中也暗示了一点政治因素，但点到为止，提到了GFW对世界互联网的影响，还有之前BGP事件</p><p><a href="https://blog.thousandeyes.com/internet-outage-reveals-reach-of-chinas-connectivity/" target="_blank" rel="noopener">原文链接</a></p><p>Solidot的中文概要 <a href="https://www.solidot.org/story?sid=60657" target="_blank" rel="noopener">网络故障透露中国互联网接入现状</a></p><h3 id="威胁猎杀实战（五）：DNS-隧道检测"><a href="#威胁猎杀实战（五）：DNS-隧道检测" class="headerlink" title="威胁猎杀实战（五）：DNS 隧道检测"></a>威胁猎杀实战（五）：DNS 隧道检测</h3><p>继续<a href="../20190516/#DNS隧道检测">昨天的DNS隧道检测</a>，我也对<a href="https://tmr.js.org/p/3b66a952/" target="_blank" rel="noopener">DNS Tunnel 的一点思考</a>做了点修改</p><p><a href="https://mp.weixin.qq.com/s/0y1jvR1rh-PgFb9qshQXng" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="被孩子疯狂吐槽600多次后，我们和4个家庭聊了聊未成年人保护"><a href="#被孩子疯狂吐槽600多次后，我们和4个家庭聊了聊未成年人保护" class="headerlink" title="被孩子疯狂吐槽600多次后，我们和4个家庭聊了聊未成年人保护"></a>被孩子疯狂吐槽600多次后，我们和4个家庭聊了聊未成年人保护</h3><p><a href="../20190325/#腾讯防沉迷系统再升级，拉来老师做监管">之前</a>也发过，个人不太赞成家长管制，但未成年保护作为厂商我觉得是好的，记得之前有玩的时间超过多少，游戏收益会下降甚至没有，这样的方案或许更好</p><p><a href="http://youxiputao.com/articles/17700" target="_blank" rel="noopener">原文链接</a></p><h3 id="小事-·-别高估了自己，别低估了孩子"><a href="#小事-·-别高估了自己，别低估了孩子" class="headerlink" title="小事 · 别高估了自己，别低估了孩子"></a>小事 · 别高估了自己，别低估了孩子</h3><p>—— 家长该不该把自己家财政真正情况告诉孩子？</p><blockquote><p>她对 100 以上的数字没概念，只觉得我们超有钱，因为可以买超级多甜筒。然后我开始逐渐告诉她，我们每个月必须要花多少钱才能生活，都是花在什么地方，为了这些钱，我需要付出多少劳动。</p></blockquote><p>有利于让孩子建立良好的金钱观</p><p><a href="https://news-at.zhihu.com/story/9711497" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190517期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*5，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190516期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190511期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190510期</title>
-    <link href="https://daily.tmr.js.org/d/20190510/"/>
-    <id>https://daily.tmr.js.org/d/20190510/</id>
-    <published>2019-05-10T04:12:29.000Z</published>
-    <updated>2019-05-10T16:24:38.121Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190510期</p><p>今日文章：<a href="#社会">社会</a>*2，<a href="#技术">技术</a>*3，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="中国智商税简史"><a href="#中国智商税简史" class="headerlink" title="中国智商税简史"></a>中国智商税简史</h3><p><a href="https://program-think.blogspot.com/2019/05/weekly-share-129.html" target="_blank" rel="noopener">编程随想上</a>看到的，可以去看下点评和相关链接</p><p><a href="https://mp.weixin.qq.com/s?__biz=MzI5Mjk4NDIxOQ==&amp;mid=2247506847&amp;idx=1&amp;sn=1da688024b2ab2728724297f9f13f6a4" target="_blank" rel="noopener">原文链接</a></p><h3 id="再访流浪大师沈巍：直播一月获打赏二三十万，遗憾没有儿女"><a href="#再访流浪大师沈巍：直播一月获打赏二三十万，遗憾没有儿女" class="headerlink" title="再访流浪大师沈巍：直播一月获打赏二三十万，遗憾没有儿女"></a>再访流浪大师沈巍：直播一月获打赏二三十万，遗憾没有儿女</h3><p>这是事情很需要类似<a href="https://houxu.app/lives/10764" target="_blank" rel="noopener">后续</a>一样的东西，但是一月余没有新内容了，<a href="https://langchao.org" target="_blank" rel="noopener">浪潮</a>上根本没有这个事件</p><blockquote><p>你看那些形形色色搞直播的人，这个社会是不是有点病态</p></blockquote><p><a href="https://mp.weixin.qq.com/s/sW4weiFW3iLcN6H3v09Qyg" target="_blank" rel="noopener">原文链接</a></p><p>本报相关文章阅读</p><p><a href="../20190328/#「流浪大师」爆红后的-72-小时">20190328期#「流浪大师」爆红后的-72-小时</a></p><p><a href="../20190402/#流浪大师沈巍：一个矛盾的投影">20190402期#流浪大师沈巍：一个矛盾的投影</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h2 id="XS-Search"><a href="#XS-Search" class="headerlink" title="XS-Search"></a>XS-Search</h2><p>今天研究了一下XS-Search，推荐阅读（按顺序）</p><p><a href="https://www.owasp.org/images/a/a7/AppSecIL2015_Cross-Site-Search-Attacks_HemiLeibowitz.pdf" target="_blank" rel="noopener">AppSecIL2015_Cross-Site-Search-Attacks_HemiLeibowitz</a></p><p><a href="https://www.youtube.com/watch?v=HcrQy0C-hEA" target="_blank" rel="noopener">XS-Search abusing the Chrome XSS Auditor - filemanager 35c3ctf</a></p><p><a href="https://portswigger.net/daily-swig/new-xs-leak-techniques-reveal-fresh-ways-to-expose-user-information" target="_blank" rel="noopener">New XS-Leak techniques reveal fresh ways to expose user information</a></p><p>还有一些案例</p><p><a href="https://www.freebuf.com/articles/web/191336.html" target="_blank" rel="noopener">挖洞经验 | 用跨站搜索（XS-Search）在谷歌问题跟踪平台实现敏感信息获取</a></p><p><a href="https://medium.com/bugbountywriteup/google-books-x-hacking-29c249862f19" target="_blank" rel="noopener">Google Books X-Hacking</a></p><p>另外因为XS-Search，Chrome将XSS-Auditor的默认行为从block换成了filter模式，然后filter模式下还有另外的问题，可以利用这个ban掉一些防御js</p><p><a href="https://medium.com/bugbountywriteup/xss-auditor-the-protector-of-unprotected-f900a5e15b7b" target="_blank" rel="noopener">https://medium.com/bugbountywriteup/xss-auditor-the-protector-of-unprotected-f900a5e15b7b</a></p><h3 id="CVE-2019-9740-Python-urllib-CRLF-injection-vulnerability"><a href="#CVE-2019-9740-Python-urllib-CRLF-injection-vulnerability" class="headerlink" title="[CVE-2019-9740] Python urllib CRLF injection vulnerability"></a>[CVE-2019-9740] Python urllib CRLF injection vulnerability</h3><p>相关老洞 <a href="https://bugs.python.org/issue22928" target="_blank" rel="noopener">CVE-2016-5699</a>，不了解CRLF注入的可以看P牛的文章<a href="https://www.leavesongs.com/PENETRATION/Sina-CRLF-Injection.html" target="_blank" rel="noopener">新浪某站CRLF Injection导致的安全问题</a>，没错，本条消息是从P牛小密圈看到的（暗示）</p><p><a href="https://bugs.python.org/issue36276" target="_blank" rel="noopener">原文链接</a></p><h3 id="WordPress-Social-Warfare插件远程代码执行漏洞深度分析"><a href="#WordPress-Social-Warfare插件远程代码执行漏洞深度分析" class="headerlink" title="WordPress Social Warfare插件远程代码执行漏洞深度分析"></a>WordPress Social Warfare插件远程代码执行漏洞深度分析</h3><p>漏洞和补丁分析，is_admin有点骚，不是判断用户权限，而是文件属性</p><p><a href="https://mp.weixin.qq.com/s/jqdXGIG9SRKniI_2ZhKNJQ" target="_blank" rel="noopener">原文链接</a></p><h1 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h1><h3 id="见"><a href="#见" class="headerlink" title="见"></a>见</h3><p>一个很棒的游戏，虽然个人觉得目前游戏操作交互体验有点差</p><blockquote><p>《见》是腾讯追梦计划推出的一款体验视障人士生活与出行的公益免费游戏，由腾讯天美工作室群出品，让玩家以视障人士的视角去体验出行，关注特殊群体出行安全的问题，给他们创造更为便利的公共环境。<br>游戏通过模拟视障人士的视觉和触觉感受，让玩家能够切身体会视障人士因社会公共设施考虑不足、人们重视程度不够而导致的出行困难，呼吁大众对于视障人士给予更多的关注和理解。</p></blockquote><p><a href="https://www.taptap.com/app/162251" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190510期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*2，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
