@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-05-17T15:34:08.432Z</updated>
+  <updated>2019-05-18T15:23:42.483Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190518期</title>
+    <link href="https://daily.tmr.js.org/d/20190518/"/>
+    <id>https://daily.tmr.js.org/d/20190518/</id>
+    <published>2019-05-18T14:12:07.000Z</published>
+    <updated>2019-05-18T15:23:42.483Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190518期</p><p>今日文章：<a href="#技术">技术</a>*2，<a href="#文娱">文娱</a>*1，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="9102-年的-PHP"><a href="#9102-年的-PHP" class="headerlink" title="9102 年的 PHP"></a>9102 年的 PHP</h3><p>标题皮的很，PHP近年来发展迅速，性能、功能和生态都在向良好的方向发展</p><p><a href="https://linux.cn/article-10870-1.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="收购-GitHub-近-1-年，开源大佬批评微软正在垄断开源工具"><a href="#收购-GitHub-近-1-年，开源大佬批评微软正在垄断开源工具" class="headerlink" title="收购 GitHub 近 1 年，开源大佬批评微软正在垄断开源工具"></a>收购 GitHub 近 1 年，开源大佬批评微软正在垄断开源工具</h3><p>微软近年来拥抱开源，做出的贡献不用多说，但垄断问题也值得思考</p><p><a href="https://mp.weixin.qq.com/s/g9sQ3UKF-T6ZohB-BaVlAA" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="四维空间里的「漫画分镜」，惊艳"><a href="#四维空间里的「漫画分镜」，惊艳" class="headerlink" title="四维空间里的「漫画分镜」，惊艳"></a>四维空间里的「漫画分镜」，惊艳</h3><p>—— 「漫画分镜」在四维空间是什么？</p><p>【之前](../20190307/#用我们的作品为您解答：没下过笔，你也能画漫画)也发过作者的文章，文中提到的《抽象》还是很有意思的</p><p><a href="https://news-at.zhihu.com/story/9711425" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="彩云小译-Lingocloud-Interpreter"><a href="#彩云小译-Lingocloud-Interpreter" class="headerlink" title="彩云小译 Lingocloud Interpreter"></a>彩云小译 Lingocloud Interpreter</h3><p>一个网页翻译扩展程序，原文和译文穿插显示，真的是绝妙设计</p><p><a href="https://chrome.google.com/webstore/detail/lingocloud/jmpepeebcbihafjjadogphmbgiffiajh" target="_blank" rel="noopener">Chrome扩展地址</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190518期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190517期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190512期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190511期</title>
-    <link href="https://daily.tmr.js.org/d/20190511/"/>
-    <id>https://daily.tmr.js.org/d/20190511/</id>
-    <published>2019-05-11T01:02:56.000Z</published>
-    <updated>2019-05-11T16:01:46.496Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190511期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*3，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="崔永元-微博-一条声明"><a href="#崔永元-微博-一条声明" class="headerlink" title="崔永元 微博 一条声明"></a>崔永元 微博 一条声明</h3><p>事件追踪见<a href="https://houxu.app/lives/11623" target="_blank" rel="noopener">“凯奇莱案”卷宗丢失事件</a>，好奇一点，冒着巨大的风险把这件过了这么久的事情翻出来的动机是什么？</p><p><a href="https://m.weibo.cn/detail/4370437700544431" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Firefox与Edge的dom策略导致的csp-bypass问题"><a href="#Firefox与Edge的dom策略导致的csp-bypass问题" class="headerlink" title="Firefox与Edge的dom策略导致的csp bypass问题"></a>Firefox与Edge的dom策略导致的csp bypass问题</h3><blockquote><p>如果某页面设置了CSP，而同源下其他页面不做CSP防御的话，黑客可以利用opener和target对象来对存在CSP的页面做一个攻击</p></blockquote><p><a href="https://www.anquanke.com/post/id/177664" target="_blank" rel="noopener">原文链接</a></p><p>opener和target的可以看P牛的<a href="https://www.leavesongs.com/PENETRATION/use-target-to-spoof-fishing.html" target="_blank" rel="noopener">前端黑魔法之远程控制地址栏</a>和paper上的<a href="https://paper.seebug.org/538/" target="_blank" rel="noopener">危险的 target=”_blank” 与 “opener]</a>，这里再推荐一个利用opener做xss蠕虫的 <a href="https://www.cnblogs.com/index-html/p/xss_long_live.html" target="_blank" rel="noopener">【XSS】延长 XSS 生命期</a></p><h3 id="我的CSP绕过思路及总结"><a href="#我的CSP绕过思路及总结" class="headerlink" title="我的CSP绕过思路及总结"></a>我的CSP绕过思路及总结</h3><p>大佬花式绕CSP，然后再加上上篇的绕过</p><p><a href="https://evoa.me/index.php/archives/53/" target="_blank" rel="noopener">原文链接</a></p><h3 id="LFItoRCE利用总结"><a href="#LFItoRCE利用总结" class="headerlink" title="LFItoRCE利用总结"></a>LFItoRCE利用总结</h3><p>非常全面的文件包含利用总结</p><p><a href="https://www.anquanke.com/post/id/177491" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="小事-·-到我办公室来一趟"><a href="#小事-·-到我办公室来一趟" class="headerlink" title="小事 · 到我办公室来一趟"></a>小事 · 到我办公室来一趟</h3><p>—— 【师生谈话录】遇见消极内向的学生</p><blockquote><p>事实上，绝大多数沉迷于游戏、阅读等等爱好，以至于荒废现实的人，多半内心都是比较孤独的。<br>要慢慢等待，花总会开的。</p></blockquote><p>其实感觉这样的老师还是比较少见的，在初中甚至是小学末期，有一个能启发“自我意识”的“老师”是最好的</p><p><a href="https://news-at.zhihu.com/story/9711235" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190511期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
