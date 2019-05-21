@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>透明日报20190521期</title>
+      <link href="/d/20190521/"/>
+      <url>/d/20190521/</url>
+      
+        <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190521期</p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="如何在零JS代码情况下实现一个实时聊天功能❓"><a href="#如何在零JS代码情况下实现一个实时聊天功能❓" class="headerlink" title="如何在零JS代码情况下实现一个实时聊天功能❓"></a>如何在零JS代码情况下实现一个实时聊天功能❓</h3><p>文中也说了，这些trick没有什么实际用处，但在安全上还是有点用的，比如在禁用Javascript的时候，可以用这些trick达到一些目的，比如CSS版的键盘记录</p><p><a href="https://segmentfault.com/a/1190000019242663" target="_blank" rel="noopener">原文链接</a></p><h3 id="实战介绍Windows下的PC客户端常见漏洞挖掘"><a href="#实战介绍Windows下的PC客户端常见漏洞挖掘" class="headerlink" title="实战介绍Windows下的PC客户端常见漏洞挖掘"></a>实战介绍Windows下的PC客户端常见漏洞挖掘</h3><p>文中提到的一些工具很不错</p><p><a href="https://www.freebuf.com/vuls/203227.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 201905 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190520期</title>
       <link href="/d/20190520/"/>
       <url>/d/20190520/</url>
