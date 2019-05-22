@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-05-21T15:34:03.106Z</updated>
+  <updated>2019-05-22T15:22:37.402Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190522期</title>
+    <link href="https://daily.tmr.js.org/d/20190522/"/>
+    <id>https://daily.tmr.js.org/d/20190522/</id>
+    <published>2019-05-22T01:09:32.000Z</published>
+    <updated>2019-05-22T15:22:37.402Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190522期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*4</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="中美冷战中的华为"><a href="#中美冷战中的华为" class="headerlink" title="中美冷战中的华为"></a>中美冷战中的华为</h3><p>相关事件的时间线整理，<a href="../20190520/#今日华为N连">安排了</a></p><p><a href="https://tmr.js.org/p/29a42711/" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="开源是自由的，永远"><a href="#开源是自由的，永远" class="headerlink" title="开源是自由的，永远"></a>开源是自由的，永远</h3><p>Linux中国也发了<a href="https://linux.cn/article-10879-1.html" target="_blank" rel="noopener">一篇相关文章</a>，开源软件代码是开源的，是自由的，但编译后的软件就不一定了</p><p><a href="https://jhuo.ca/post/opensource_freedom_forever/" target="_blank" rel="noopener">开源是自由的，永远</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="智能摄像头安全分析及案例参考"><a href="#智能摄像头安全分析及案例参考" class="headerlink" title="智能摄像头安全分析及案例参考"></a>智能摄像头安全分析及案例参考</h3><p>非常完整的分析，从摄像头入手，再到手机端和服务端</p><p><a href="https://mp.weixin.qq.com/s/LS125u6qFxUoXm2CwnPepw" target="_blank" rel="noopener">原文链接</a></p><h3 id="鱼叉攻击-尝试"><a href="#鱼叉攻击-尝试" class="headerlink" title="鱼叉攻击-尝试"></a>鱼叉攻击-尝试</h3><p>大佬的邮件伪造+DLL劫持白利用，效果不错，文章提到了一些技术链接也很棒</p><p><a href="https://payloads.online/archivers/2019-05-21/1" target="_blank" rel="noopener">原文链接</a></p><h3 id="不断发酵的windows-RDP远程代码执行漏洞CVE-2019-0708"><a href="#不断发酵的windows-RDP远程代码执行漏洞CVE-2019-0708" class="headerlink" title="不断发酵的windows RDP远程代码执行漏洞CVE-2019-0708"></a>不断发酵的windows RDP远程代码执行漏洞CVE-2019-0708</h3><p>可以说是举世关注的一个洞了，检测工具已出，EXP还会远吗</p><p><a href="https://www.anquanke.com/post/id/178966" target="_blank" rel="noopener">原文链接</a></p><h3 id="SandboxEscaper-polarbearrepo"><a href="#SandboxEscaper-polarbearrepo" class="headerlink" title="SandboxEscaper/polarbearrepo"></a>SandboxEscaper/polarbearrepo</h3><p>SandboxEscaper大佬又又又又放Windows 0day了…，仓库又更新了，现在3个了</p><p><a href="https://www.anquanke.com/post/id/179059" target="_blank" rel="noopener">Win 10任意文件删除 0day 预警</a></p><p><a href="https://github.com/SandboxEscaper/polarbearrepo" target="_blank" rel="noopener">Repo链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190522期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190521期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190516期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190515期</title>
-    <link href="https://daily.tmr.js.org/d/20190515/"/>
-    <id>https://daily.tmr.js.org/d/20190515/</id>
-    <published>2019-05-15T08:02:34.000Z</published>
-    <updated>2019-05-15T15:35:45.881Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190515期</p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="DNS隧道木马"><a href="#DNS隧道木马" class="headerlink" title="DNS隧道木马"></a>DNS隧道木马</h3><p>研究一下DNS隧道技术，<a href="../20190430/#DNS-Tunnel隧道隐蔽通信实验-&amp;&amp;-尝试复现特征向量化思维方式检测">之前</a>也发过相关文章，今天主要是木马分析（时间序），明天估计会是一些防御技术的文章</p><p><a href="http://blogs.360.cn/post/dns_tunnel_trojan.html" target="_blank" rel="noopener">“DNS隧道”盗号木马分析</a>（14年的，很老了）</p><p><a href="https://www.4hou.com/info/news/10250.html" target="_blank" rel="noopener">DNS 隧道通信后门的分析报告</a></p><p><a href="https://www.4hou.com/technology/7368.html" target="_blank" rel="noopener">深度揭秘Xshell后门事件：入侵感染供应链软件的大规模定向攻击</a></p><p><a href="http://paper.tuisec.win/detail/bf4a4c4b4fa219a" target="_blank" rel="noopener">XshellGhost再现？使用DNS隧道传输的PlugX远控变种分析</a></p><p><a href="https://www.anquanke.com/post/id/87228" target="_blank" rel="noopener">【技术分享】深入分析OilRig的DNS隧道木马-ALMA Communicator</a></p><p><a href="https://www.freebuf.com/articles/system/194556.html" target="_blank" rel="noopener">疑似DarkHydrus APT组织针对中东地区的定向攻击活动分析</a></p><h3 id="通过SMB造成远程文件包含（双Off情况）"><a href="#通过SMB造成远程文件包含（双Off情况）" class="headerlink" title="通过SMB造成远程文件包含（双Off情况）"></a>通过SMB造成远程文件包含（双Off情况）</h3><p>双OFF远程包含还是很骚的，相似文章 <a href="https://paper.seebug.org/923/" target="_blank" rel="noopener">https://paper.seebug.org/923/</a></p><p><a href="https://xz.aliyun.com/t/5139" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190515期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
