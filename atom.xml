@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-05-22T15:22:37.402Z</updated>
+  <updated>2019-05-23T15:17:57.901Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190523期</title>
+    <link href="https://daily.tmr.js.org/d/20190523/"/>
+    <id>https://daily.tmr.js.org/d/20190523/</id>
+    <published>2019-05-23T02:19:49.000Z</published>
+    <updated>2019-05-23T15:17:57.901Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190523期</p><p>今日文章：<a href="#技术">技术</a>*4</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="打造一款伪基站防御利器（一）"><a href="#打造一款伪基站防御利器（一）" class="headerlink" title="打造一款伪基站防御利器（一）"></a>打造一款伪基站防御利器（一）</h3><p>伪基站对抗，主动攻击伪基站</p><p><a href="https://www.freebuf.com/articles/wireless/202232.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="记一次渗透实战"><a href="#记一次渗透实战" class="headerlink" title="记一次渗透实战"></a>记一次渗透实战</h3><p>Web入手渗透 -&gt; 漏洞利用 -&gt; 主机入侵 -&gt; 维持权限，很经典的流程</p><p><a href="https://xz.aliyun.com/t/5191" target="_blank" rel="noopener">原文链接</a></p><h3 id="一文看懂Python沙箱逃逸"><a href="#一文看懂Python沙箱逃逸" class="headerlink" title="一文看懂Python沙箱逃逸"></a>一文看懂Python沙箱逃逸</h3><p>一些沙盒防御和绕过方法</p><p><a href="https://www.freebuf.com/articles/system/203208.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="蚁剑绕WAF进化图鉴"><a href="#蚁剑绕WAF进化图鉴" class="headerlink" title="蚁剑绕WAF进化图鉴"></a>蚁剑绕WAF进化图鉴</h3><p>蚁剑花式绕WAF</p><p><a href="https://mp.weixin.qq.com/s/u8_d8MXvFuwOyIMZZMBsog" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190523期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190522期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190517期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*5，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190516期</title>
-    <link href="https://daily.tmr.js.org/d/20190516/"/>
-    <id>https://daily.tmr.js.org/d/20190516/</id>
-    <published>2019-05-16T01:51:48.000Z</published>
-    <updated>2019-05-16T15:12:50.585Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190516期</p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#经济">经济</a>*1，<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p><a href="https://t.me/tm_daily" target="_blank" rel="noopener">Telegram Channel</a>支持RSS输出了 <a href="https://rsshub.app/telegram/channel/tm_daily" target="_blank" rel="noopener">订阅地址</a></p><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="套路贷吸血简史"><a href="#套路贷吸血简史" class="headerlink" title="套路贷吸血简史"></a>套路贷吸血简史</h3><blockquote><p>这篇文章我并不在意多少人能全文读完，只想当有人搜索套路贷的时候，他可以知道，这个世界上曾经发生过这段充满着人性矛与盾争斗的历史</p></blockquote><p>可能习惯看“长文”了，全文读完并不要多久</p><p><a href="https://mp.weixin.qq.com/s/O8x1Hc8k7Nvje4ZIDDJL8A" target="_blank" rel="noopener">原文链接</a></p><p><a href="https://web.archive.org/web/20190516091501/https://mp.weixin.qq.com/s/O8x1Hc8k7Nvje4ZIDDJL8A" target="_blank" rel="noopener">原文链接[Archive]</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="DNS隧道检测"><a href="#DNS隧道检测" class="headerlink" title="DNS隧道检测"></a>DNS隧道检测</h3><p>继昨天<a href="../20190515/#DNS隧道木马">DNS隧道木马</a>研究，一些检测技术文章</p><p><a href="https://www.freebuf.com/articles/network/149328.html" target="_blank" rel="noopener">一次误报引发的DNS检测方案的思考：DNS隧道检测平民解决方案</a></p><p><a href="https://blog.riskivy.com/探秘-基于机器学习的dns隐蔽隧道检测方法与实现/" target="_blank" rel="noopener">探秘-基于机器学习的DNS隐蔽隧道检测方法与实现</a></p><p><a href="https://www.jianshu.com/p/2b2f6435e437" target="_blank" rel="noopener">DNS隧道检测技术</a></p><p><a href="http://www.infocomm-journal.com/txxb/CN/article/downloadArticleFile.do?attachType=PDF&amp;id=163309" target="_blank" rel="noopener">基于DNS的隐蔽通道流量检测.pdf</a></p><p>文章的误报分析有点意思</p><blockquote><p>绝大部分的误报来源于奇虎 360 的 IP<br>…<br>每台主机会不定时地向奇虎 360 所属公司的 IP 发送格式异常的 DNS 报文，被本系统误检为异常</p></blockquote><h3 id="C-amp-C控制服务的设计和侦测方法综述"><a href="#C-amp-C控制服务的设计和侦测方法综述" class="headerlink" title="C&amp;C控制服务的设计和侦测方法综述"></a>C&amp;C控制服务的设计和侦测方法综述</h3><p>乌云老文依旧nb，话说乌云回归改<a href="https://tttang.com" target="_blank" rel="noopener">跳跳糖</a>了</p><p><a href="http://drops.xmd5.com/static/drops/tips-10232.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="DNS-Tunnel的一点思考"><a href="#DNS-Tunnel的一点思考" class="headerlink" title="DNS Tunnel的一点思考"></a>DNS Tunnel的一点思考</h3><p>一些规避DNS Tunnel检测的思路</p><p><a href="https://tmr.js.org/p/3b66a952" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190516期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
     
     </summary>
     

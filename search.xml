@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>透明日报20190523期</title>
+      <link href="/d/20190523/"/>
+      <url>/d/20190523/</url>
+      
+        <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190523期</p><p>今日文章：<a href="#技术">技术</a>*4</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="打造一款伪基站防御利器（一）"><a href="#打造一款伪基站防御利器（一）" class="headerlink" title="打造一款伪基站防御利器（一）"></a>打造一款伪基站防御利器（一）</h3><p>伪基站对抗，主动攻击伪基站</p><p><a href="https://www.freebuf.com/articles/wireless/202232.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="记一次渗透实战"><a href="#记一次渗透实战" class="headerlink" title="记一次渗透实战"></a>记一次渗透实战</h3><p>Web入手渗透 -&gt; 漏洞利用 -&gt; 主机入侵 -&gt; 维持权限，很经典的流程</p><p><a href="https://xz.aliyun.com/t/5191" target="_blank" rel="noopener">原文链接</a></p><h3 id="一文看懂Python沙箱逃逸"><a href="#一文看懂Python沙箱逃逸" class="headerlink" title="一文看懂Python沙箱逃逸"></a>一文看懂Python沙箱逃逸</h3><p>一些沙盒防御和绕过方法</p><p><a href="https://www.freebuf.com/articles/system/203208.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="蚁剑绕WAF进化图鉴"><a href="#蚁剑绕WAF进化图鉴" class="headerlink" title="蚁剑绕WAF进化图鉴"></a>蚁剑绕WAF进化图鉴</h3><p>蚁剑花式绕WAF</p><p><a href="https://mp.weixin.qq.com/s/u8_d8MXvFuwOyIMZZMBsog" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 201905 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190522期</title>
       <link href="/d/20190522/"/>
       <url>/d/20190522/</url>
