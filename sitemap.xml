@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://daily.tmr.js.org/d/20190524/</loc>
+    
+    <lastmod>2019-05-24T14:51:02.878Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://daily.tmr.js.org/d/20190503/</loc>
+    
+    <lastmod>2019-05-24T01:52:40.438Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://daily.tmr.js.org/d/20190425/</loc>
+    
+    <lastmod>2019-05-24T01:52:40.430Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://daily.tmr.js.org/d/20190523/</loc>
     
     <lastmod>2019-05-23T15:17:57.901Z</lastmod>
@@ -163,13 +184,6 @@
   </url>
   
   <url>
-    <loc>https://daily.tmr.js.org/d/20190503/</loc>
-    
-    <lastmod>2019-05-03T14:59:38.755Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://daily.tmr.js.org/d/20190430/</loc>
     
     <lastmod>2019-05-01T09:34:08.406Z</lastmod>
@@ -201,13 +215,6 @@
     <loc>https://daily.tmr.js.org/d/20190426/</loc>
     
     <lastmod>2019-04-26T15:18:38.017Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://daily.tmr.js.org/d/20190425/</loc>
-    
-    <lastmod>2019-04-25T15:36:39.795Z</lastmod>
     
   </url>
   

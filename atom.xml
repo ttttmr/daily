@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-05-23T15:17:57.901Z</updated>
+  <updated>2019-05-24T14:51:02.878Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190524期</title>
+    <link href="https://daily.tmr.js.org/d/20190524/"/>
+    <id>https://daily.tmr.js.org/d/20190524/</id>
+    <published>2019-05-24T01:37:21.000Z</published>
+    <updated>2019-05-24T14:51:02.878Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190524期</p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*2，<a href="#其他">其他</a>*2</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="‘My-WiFi-router-just-vomited’"><a href="#‘My-WiFi-router-just-vomited’" class="headerlink" title="‘My WiFi router just vomited’"></a>‘My WiFi router just vomited’</h3><p>最近的华为事件对信息安全的影响，另外文末提到的LiveOverflow推荐关注</p><p>这个算是PortSwigger的日报吧，安全的同学推荐订阅，如果你不知道PortSwigger，BurpSuite应该知道</p><p><a href="https://portswigger.net/daily-swig/my-wifi-router-just-vomited" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="CTF-Web几道题目思路的总结"><a href="#CTF-Web几道题目思路的总结" class="headerlink" title="CTF-Web几道题目思路的总结"></a>CTF-Web几道题目思路的总结</h3><p>PHP5弱类型，变量覆盖和验证码识别</p><p><a href="https://tttang.com/archive/1280/" target="_blank" rel="noopener">原文链接</a></p><h3 id="Bypass007-Emergency-Response-Notes"><a href="#Bypass007-Emergency-Response-Notes" class="headerlink" title="Bypass007/Emergency-Response-Notes"></a>Bypass007/Emergency-Response-Notes</h3><p>应急响应实战笔记，还有Gitbook版本</p><p><a href="https://github.com/Bypass007/Emergency-Response-Notes" target="_blank" rel="noopener">Repo链接</a></p><p><a href="https://bypass007.github.io/Emergency-Response-Notes/" target="_blank" rel="noopener">GitBook链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="Talk-to-Transformer"><a href="#Talk-to-Transformer" class="headerlink" title="Talk to Transformer"></a>Talk to Transformer</h3><p>AI文本生成器</p><p>我尝试了一下<code>i have a zero-day</code></p><p>得到了以下内容，顺便用Google翻译了一下，好像还不错</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">i have a zero-day vulnerability for all of Google&apos;s OSes.&quot; Apple is already vulnerable to a zero-day vulnerability for Android, according to Reuters. &quot;The company is in the process of investigating security issues on all of its devices.&quot;</span><br><span class="line">我对所有Google操作系统都有零日漏洞。据路透社报道，苹果已经容易受到Android零日漏洞的影响。 “该公司正在调查其所有设备的安全问题。”</span><br><span class="line">Google is apparently testing a fix for the issue, and at the end of June announced it would support all OS&apos; from Android to iOS. That may sound like a big deal for new customers, but if you are a consumer who might be worried about future vulnerabilities, this makes little sense.</span><br><span class="line">谷歌显然正在测试该问题的解决方案，并在6月底宣布它将支持从Android到iOS的所有操作系统。这听起来对新客户来说意义重大，但如果你是一个可能担心未来漏洞的消费者，这没什么意义。</span><br><span class="line">Android devices, while widely embraced by smartphone enthusiasts, do pose an unique threat to security if they fall victim to one. Because they are mobile software, the Android OS is generally more vulnerable to vulnerabilities. This makes Google Android the largest target. Google&apos;s Android devices are still widely embraced, but the new vulnerability could result in significant traffic for the operating systems of those customers.</span><br><span class="line">Android设备虽然受到智能手机爱好者的广泛欢迎，但如果成为受害者，则会对安全造成独特的威胁。由于它们是移动软件，因此Android操作系统通常更容易受到漏洞的攻击。这使得谷歌Android成为最大的目标。谷歌的Android设备仍然被广泛接受，但新漏洞可能会导致这些客户的操作系统出现大量流量。</span><br><span class="line">To the extent people use Android apps or services to attack Google&apos;s OSes, Google is actually better off doing so for Android itself. Google is still selling Android to hardware makers like Dell, Acer, Microsoft, Hewlett-Packard, and other Android device makers in order to deliver the highest-margin product line.</span><br><span class="line">在某种程度上，人们使用Android应用程序或服务攻击谷歌的操作系统，谷歌实际上更适合Android本身。谷歌仍在向戴尔，宏基，微软，惠普和其他Android设备制造商等硬件制造商销售Android，以提供利润率最高的产品线。</span><br></pre></td></tr></table></figure><p><a href="https://talktotransformer.com/" target="_blank" rel="noopener">原文链接</a></p><h3 id="到底啥是“情商”？-100-个生活大问题"><a href="#到底啥是“情商”？-100-个生活大问题" class="headerlink" title="到底啥是“情商”？| 100 个生活大问题"></a>到底啥是“情商”？| 100 个生活大问题</h3><p>互联网时代的“情商”是什么</p><p><a href="https://www.qdaily.com/articles/63783.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190524期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190523期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190518期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190517期</title>
-    <link href="https://daily.tmr.js.org/d/20190517/"/>
-    <id>https://daily.tmr.js.org/d/20190517/</id>
-    <published>2019-05-17T01:13:22.000Z</published>
-    <updated>2019-05-17T15:34:08.432Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190517期</p><p>今日文章：<a href="#技术">技术</a>*5，<a href="#其他">其他</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浏览器安全学习笔记（一）"><a href="#浏览器安全学习笔记（一）" class="headerlink" title="浏览器安全学习笔记（一）"></a>浏览器安全学习笔记（一）</h3><p>就是配图有点灵魂画手，文章还是很不错的</p><p><a href="https://www.freebuf.com/vuls/202413.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="反虚拟机和沙箱检测的一些小技巧"><a href="#反虚拟机和沙箱检测的一些小技巧" class="headerlink" title="反虚拟机和沙箱检测的一些小技巧"></a>反虚拟机和沙箱检测的一些小技巧</h3><p>很棒的文章，还有项目代码</p><p><a href="https://www.freebuf.com/articles/system/202717.html" target="_blank" rel="noopener">原文链接</a></p><p><a href="https://github.com/sharepub/CheckVM-Sandbox" target="_blank" rel="noopener">Repo链接</a></p><h3 id="VS-Code-Remote-Development"><a href="#VS-Code-Remote-Development" class="headerlink" title="VS Code Remote Development"></a>VS Code Remote Development</h3><p>VS Code Remote 支持远程开发，开发调试可以远程进行，当然也支持WSL，确实是nb…（尝试了一下，需要用Insiders版，总的来说还是有点折腾的，当然Bug也是少不了的，不愿折腾的同学还是等稳定版吧😂）</p><p><a href="https://code.visualstudio.com/docs/remote/remote-overview" target="_blank" rel="noopener">原文链接</a></p><h3 id="Internet-Outage-Reveals-Reach-of-China’s-Connectivity"><a href="#Internet-Outage-Reveals-Reach-of-China’s-Connectivity" class="headerlink" title="Internet Outage Reveals Reach of China’s Connectivity"></a>Internet Outage Reveals Reach of China’s Connectivity</h3><p>5月13日下午12:30（太平洋时区时间，换算北京时间是14日凌晨3:30），中国电信经历了持续近5个小时的大停电</p><p>中国电信的主干网上进出中国的互联网流量出现了大量数据包丢失。 数据包丢失持续了几个小时，主要影响了中国大陆的网络基础设施，但也影响了中国电信在新加坡和包括洛杉矶在内的美国多个地点的网络</p><p>这次宕机是一个挖掘中国互联网连接状态的好机会</p><p>上面是翻译，文中也暗示了一点政治因素，但点到为止，提到了GFW对世界互联网的影响，还有之前BGP事件</p><p><a href="https://blog.thousandeyes.com/internet-outage-reveals-reach-of-chinas-connectivity/" target="_blank" rel="noopener">原文链接</a></p><p>Solidot的中文概要 <a href="https://www.solidot.org/story?sid=60657" target="_blank" rel="noopener">网络故障透露中国互联网接入现状</a></p><h3 id="威胁猎杀实战（五）：DNS-隧道检测"><a href="#威胁猎杀实战（五）：DNS-隧道检测" class="headerlink" title="威胁猎杀实战（五）：DNS 隧道检测"></a>威胁猎杀实战（五）：DNS 隧道检测</h3><p>继续<a href="../20190516/#DNS隧道检测">昨天的DNS隧道检测</a>，我也对<a href="https://tmr.js.org/p/3b66a952/" target="_blank" rel="noopener">DNS Tunnel 的一点思考</a>做了点修改</p><p><a href="https://mp.weixin.qq.com/s/0y1jvR1rh-PgFb9qshQXng" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="被孩子疯狂吐槽600多次后，我们和4个家庭聊了聊未成年人保护"><a href="#被孩子疯狂吐槽600多次后，我们和4个家庭聊了聊未成年人保护" class="headerlink" title="被孩子疯狂吐槽600多次后，我们和4个家庭聊了聊未成年人保护"></a>被孩子疯狂吐槽600多次后，我们和4个家庭聊了聊未成年人保护</h3><p><a href="../20190325/#腾讯防沉迷系统再升级，拉来老师做监管">之前</a>也发过，个人不太赞成家长管制，但未成年保护作为厂商我觉得是好的，记得之前有玩的时间超过多少，游戏收益会下降甚至没有，这样的方案或许更好</p><p><a href="http://youxiputao.com/articles/17700" target="_blank" rel="noopener">原文链接</a></p><h3 id="小事-·-别高估了自己，别低估了孩子"><a href="#小事-·-别高估了自己，别低估了孩子" class="headerlink" title="小事 · 别高估了自己，别低估了孩子"></a>小事 · 别高估了自己，别低估了孩子</h3><p>—— 家长该不该把自己家财政真正情况告诉孩子？</p><blockquote><p>她对 100 以上的数字没概念，只觉得我们超有钱，因为可以买超级多甜筒。然后我开始逐渐告诉她，我们每个月必须要花多少钱才能生活，都是花在什么地方，为了这些钱，我需要付出多少劳动。</p></blockquote><p>有利于让孩子建立良好的金钱观</p><p><a href="https://news-at.zhihu.com/story/9711497" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190517期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*5，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
