@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>透明日报20190526期</title>
+      <link href="/d/20190526/"/>
+      <url>/d/20190526/</url>
+      
+        <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190526期</p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅析渗透实战中url跳转漏洞"><a href="#浅析渗透实战中url跳转漏洞" class="headerlink" title="浅析渗透实战中url跳转漏洞"></a>浅析渗透实战中url跳转漏洞</h3><p>又想起了<a href="https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf" target="_blank" rel="noopener">橘子师傅的SSRF</a>的PPT</p><p><a href="https://xz.aliyun.com/t/5189" target="_blank" rel="noopener">原文链接</a></p><h3 id="Make-Redirection-Evil-Again-URL-Parser-Issues-in-OAuth"><a href="#Make-Redirection-Evil-Again-URL-Parser-Issues-in-OAuth" class="headerlink" title="Make Redirection Evil Again: URL Parser Issues in OAuth"></a>Make Redirection Evil Again: URL Parser Issues in OAuth</h3><p>OAuth的一些问题，URL解析差异带来的安全问题还是很多的，不那么Web的还有之前的<a href="https://www.youtube.com/watch?v=0uejy9aCNbI" target="_blank" rel="noopener">Chrome UXSS</a></p><p><a href="https://www.tttang.com/archive/1290/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 201905 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190525期</title>
       <link href="/d/20190525/"/>
       <url>/d/20190525/</url>
