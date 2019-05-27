@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-05-26T15:42:13.295Z</updated>
+  <updated>2019-05-27T15:48:09.358Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190527期</title>
+    <link href="https://daily.tmr.js.org/d/20190527/"/>
+    <id>https://daily.tmr.js.org/d/20190527/</id>
+    <published>2019-05-27T04:54:29.000Z</published>
+    <updated>2019-05-27T15:48:09.358Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190527期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#经济">经济</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="看3D电影要自费购买3D眼镜？影院转嫁自身义务，不合法！"><a href="#看3D电影要自费购买3D眼镜？影院转嫁自身义务，不合法！" class="headerlink" title="看3D电影要自费购买3D眼镜？影院转嫁自身义务，不合法！"></a>看3D电影要自费购买3D眼镜？影院转嫁自身义务，不合法！</h3><p><a href="https://weibo.com/3877725894/Hw8Qbaw9y" target="_blank" rel="noopener">原文链接</a></p><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="“法国华为”是如何被美国吃掉的？"><a href="#“法国华为”是如何被美国吃掉的？" class="headerlink" title="“法国华为”是如何被美国吃掉的？"></a>“法国华为”是如何被美国吃掉的？</h3><p>阿尔斯通公司的那段历史</p><p><a href="https://zhuanlan.zhihu.com/p/56966282" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190527期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190526期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190521期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190520期</title>
-    <link href="https://daily.tmr.js.org/d/20190520/"/>
-    <id>https://daily.tmr.js.org/d/20190520/</id>
-    <published>2019-05-20T00:51:45.000Z</published>
-    <updated>2019-05-20T15:48:07.890Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190520期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*1，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="今日华为N连"><a href="#今日华为N连" class="headerlink" title="今日华为N连"></a>今日华为N连</h3><p>挺值得关注的一个事情，今天看到很多停止业务往来的消息，研究了一下，有点想做一个和之前<a href="https://tmr.js.org/p/5abc06dd/#Telegram-与俄罗斯" target="_blank" rel="noopener">Telegram与俄罗斯</a>差不多的时间线，今天只整理的最近几天的，明天再老的整一下吧</p><p>我想要这样的时间线，了解事情的发展，当下没有一个媒体能够提供这样的优质的资讯，<a href="https://houxu.app" target="_blank" rel="noopener">后续App</a>的关注点不太一样，事件划分的太小了（但人家是机器学习的），而且资讯来源有限，<a href="https://langchao.org/" target="_blank" rel="noopener">浪潮</a>似乎有点凉，很久没新东西了，<a href="https://www.solidot.org" target="_blank" rel="noopener">Solidot</a>文章不错，但没时间线，串不起来，只能自己做了，看情况明后天发吧</p><p>建议阅读报道原文（英文）了解详情，以下时间序</p><p>2019年05月15日 <a href="https://www.solidot.org/story?sid=60617" target="_blank" rel="noopener">华为表示愿意与各国政府签署无监控协议</a></p><p>2019年05月16日 <a href="https://www.solidot.org/story?sid=60639" target="_blank" rel="noopener">外交部商务部回应美国禁止华为设备</a></p><p>2019年05月17日 <a href="https://www.solidot.org/story?sid=60642" target="_blank" rel="noopener">美国对华为的禁令冲击科技行业</a></p><p>2019年05月17日 <a href="https://www.solidot.org/story?sid=60649" target="_blank" rel="noopener">华为准备以自给自足战略应对美国封杀</a></p><p>2019年05月17日 <a href="https://www.solidot.org/story?sid=60655" target="_blank" rel="noopener">美国禁令对华为的影响多大</a></p><p>2019年05月19日 <a href="https://www.solidot.org/story?sid=60664" target="_blank" rel="noopener">任正非声称华为已经做好了准备</a></p><p>2019年05月20日 <a href="https://www.solidot.org/story?sid=60668" target="_blank" rel="noopener">Google 暂停与华为的部分业务</a></p><p>2019年05月20日 <a href="https://www.solidot.org/story?sid=60670" target="_blank" rel="noopener">高通英特尔等暂停向华为供货</a></p><p>2019年05月20日 <a href="https://www.solidot.org/story?sid=60674" target="_blank" rel="noopener">Google 证实会继续为现有的华为设备用户提供服务</a></p><p>2019年05月20日 <a href="https://www.solidot.org/story?sid=60680" target="_blank" rel="noopener">华为董事称封杀华为会损害美国利益</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="结合简单的-JS-就可以让-CSS-也能做搜索"><a href="#结合简单的-JS-就可以让-CSS-也能做搜索" class="headerlink" title="结合简单的 JS 就可以让 CSS 也能做搜索"></a>结合简单的 JS 就可以让 CSS 也能做搜索</h3><p>前端菜鸡的我觉得有点好玩，搜了一下网上也有很多这样的例子</p><p><a href="https://mp.weixin.qq.com/s/XthulqyeEyAvaBii6K4aYg" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="小事-·-我是如何遇到你妈的"><a href="#小事-·-我是如何遇到你妈的" class="headerlink" title="小事 · 我是如何遇到你妈的"></a>小事 · 我是如何遇到你妈的</h3><p>—— 男生相亲时遇到过什么样的女生？</p><blockquote><p>13 年初和前女友分手，到遇到我老婆为止，算了算，大概相了 20 来个姑娘吧。</p></blockquote><p><a href="https://news-at.zhihu.com/story/9711574" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190520期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
