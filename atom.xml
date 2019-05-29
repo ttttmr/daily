@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-05-28T16:44:36.571Z</updated>
+  <updated>2019-05-29T15:01:47.941Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190529期</title>
+    <link href="https://daily.tmr.js.org/d/20190529/"/>
+    <id>https://daily.tmr.js.org/d/20190529/</id>
+    <published>2019-05-29T01:23:57.000Z</published>
+    <updated>2019-05-29T15:01:47.941Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190529期</p><p>今日文章：<a href="#经济">经济</a>*2，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="华尔街日报：华为崛起之路伴随着剽窃与不正当竞争指控"><a href="#华尔街日报：华为崛起之路伴随着剽窃与不正当竞争指控" class="headerlink" title="华尔街日报：华为崛起之路伴随着剽窃与不正当竞争指控"></a>华尔街日报：华为崛起之路伴随着剽窃与不正当竞争指控</h3><p>原华尔街日报<a href="https://cn.wsj.com/articles/华为崛起之路伴随着剽窃与不正当竞争指控-11558950613" target="_blank" rel="noopener">文章</a>[付费]，端传媒授权转载全文并免费阅读</p><p><a href="https://theinitium.com/article/20190528-wsj-huawei-dubious-ethics/" target="_blank" rel="noopener">原文链接</a></p><h3 id="第二价格密封拍卖"><a href="#第二价格密封拍卖" class="headerlink" title="第二价格密封拍卖"></a>第二价格密封拍卖</h3><p>感觉是个巧妙的天才设计（虽然里面讲的一些经济专有名词不太了解，得点进去再看，或者在查查资料</p><p><a href="https://wiki.mbalib.com/wiki/第二价格密封拍卖" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="198-Google的AdWords商业模式"><a href="#198-Google的AdWords商业模式" class="headerlink" title="198. Google的AdWords商业模式"></a>198. Google的AdWords商业模式</h3><p>虽然里面有些黑某国内搜索哈哈哈，讲的东西还是很有意思的，里面讲的Vickrey次高价拍卖可以看上面的<a href="#第二价格密封拍卖">扩展文章</a></p><p>虽然这个网站叫绿帽子大学，文章质量还是很不错的，博主的计算机互联网历史系列文章也一直有看，推荐订阅</p><p><a href="https://lmzdx.com/archives/1988" target="_blank" rel="noopener">原文链接</a></p><p>相关 <a href="https://lmzdx.com/archives/1990" target="_blank" rel="noopener">199. Gmail的历史</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Code-Breaking中的两个Python沙箱"><a href="#Code-Breaking中的两个Python沙箱" class="headerlink" title="Code-Breaking中的两个Python沙箱"></a>Code-Breaking中的两个Python沙箱</h3><p><a href="https://www.tttang.com/archive/1294/" target="_blank" rel="noopener">原文链接</a></p><h3 id="go-get-v-CVE-2018-16874"><a href="#go-get-v-CVE-2018-16874" class="headerlink" title="go get -v CVE-2018-16874"></a>go get -v CVE-2018-16874</h3><p>go get的一个洞，利用了map的随机遍历</p><p><a href="https://projectsharp.org/2019/05/26/go-get-v-cve-2018-16874/" target="_blank" rel="noopener">原文链接</a></p><h3 id="正则表达式30分钟入门教程"><a href="#正则表达式30分钟入门教程" class="headerlink" title="正则表达式30分钟入门教程"></a>正则表达式30分钟入门教程</h3><p>最好的正则表达式入门资料</p><p>源于今天发了正则表达式的<a href="https://tmr.js.org/p/34c834a8/" target="_blank" rel="noopener">文章</a>，有同学说看不懂，这也是我当初的入门看的，写的非常好，通俗易懂适合零基础</p><p><a href="https://deerchao.net/tutorials/regex/regex.htm" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190529期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*2，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190528期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190523期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190522期</title>
-    <link href="https://daily.tmr.js.org/d/20190522/"/>
-    <id>https://daily.tmr.js.org/d/20190522/</id>
-    <published>2019-05-22T01:09:32.000Z</published>
-    <updated>2019-05-22T15:22:37.402Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190522期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*4</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="中美冷战中的华为"><a href="#中美冷战中的华为" class="headerlink" title="中美冷战中的华为"></a>中美冷战中的华为</h3><p>相关事件的时间线整理，<a href="../20190520/#今日华为N连">安排了</a></p><p><a href="https://tmr.js.org/p/29a42711/" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="开源是自由的，永远"><a href="#开源是自由的，永远" class="headerlink" title="开源是自由的，永远"></a>开源是自由的，永远</h3><p>Linux中国也发了<a href="https://linux.cn/article-10879-1.html" target="_blank" rel="noopener">一篇相关文章</a>，开源软件代码是开源的，是自由的，但编译后的软件就不一定了</p><p><a href="https://jhuo.ca/post/opensource_freedom_forever/" target="_blank" rel="noopener">开源是自由的，永远</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="智能摄像头安全分析及案例参考"><a href="#智能摄像头安全分析及案例参考" class="headerlink" title="智能摄像头安全分析及案例参考"></a>智能摄像头安全分析及案例参考</h3><p>非常完整的分析，从摄像头入手，再到手机端和服务端</p><p><a href="https://mp.weixin.qq.com/s/LS125u6qFxUoXm2CwnPepw" target="_blank" rel="noopener">原文链接</a></p><h3 id="鱼叉攻击-尝试"><a href="#鱼叉攻击-尝试" class="headerlink" title="鱼叉攻击-尝试"></a>鱼叉攻击-尝试</h3><p>大佬的邮件伪造+DLL劫持白利用，效果不错，文章提到了一些技术链接也很棒</p><p><a href="https://payloads.online/archivers/2019-05-21/1" target="_blank" rel="noopener">原文链接</a></p><h3 id="不断发酵的windows-RDP远程代码执行漏洞CVE-2019-0708"><a href="#不断发酵的windows-RDP远程代码执行漏洞CVE-2019-0708" class="headerlink" title="不断发酵的windows RDP远程代码执行漏洞CVE-2019-0708"></a>不断发酵的windows RDP远程代码执行漏洞CVE-2019-0708</h3><p>可以说是举世关注的一个洞了，检测工具已出，EXP还会远吗</p><p><a href="https://www.anquanke.com/post/id/178966" target="_blank" rel="noopener">原文链接</a></p><h3 id="SandboxEscaper-polarbearrepo"><a href="#SandboxEscaper-polarbearrepo" class="headerlink" title="SandboxEscaper/polarbearrepo"></a>SandboxEscaper/polarbearrepo</h3><p>SandboxEscaper大佬又又又又放Windows 0day了…，仓库又更新了，现在3个了</p><p><a href="https://www.anquanke.com/post/id/179059" target="_blank" rel="noopener">Win 10任意文件删除 0day 预警</a></p><p><a href="https://github.com/SandboxEscaper/polarbearrepo" target="_blank" rel="noopener">Repo链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190522期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4&lt;/p&gt;
     
     </summary>
     
