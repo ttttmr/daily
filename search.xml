@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>透明日报20190530期</title>
+      <link href="/d/20190530/"/>
+      <url>/d/20190530/</url>
+      
+        <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190530期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="美方不要低估中方反制能力（国际论坛）"><a href="#美方不要低估中方反制能力（国际论坛）" class="headerlink" title="美方不要低估中方反制能力（国际论坛）"></a>美方不要低估中方反制能力（国际论坛）</h3><p>人民日报：<a href="https://zh.wikipedia.org/wiki/勿謂言之不預也" target="_blank" rel="noopener">勿谓言之不预</a></p><p><a href="http://world.people.com.cn/n1/2019/0529/c1002-31107670.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="Chrome-的广告屏蔽功能将主要提供给企业级客户"><a href="#Chrome-的广告屏蔽功能将主要提供给企业级客户" class="headerlink" title="Chrome 的广告屏蔽功能将主要提供给企业级客户"></a>Chrome 的广告屏蔽功能将主要提供给企业级客户</h3><p>哦吼，不知道Google强行这样改，Chromium会怎么样</p><p><a href="https://www.solidot.org/story?sid=60803" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="MIMIC-Defense-CTF-2019-final-writeup"><a href="#MIMIC-Defense-CTF-2019-final-writeup" class="headerlink" title="MIMIC Defense CTF 2019 final writeup"></a>MIMIC Defense CTF 2019 final writeup</h3><p>强网杯拟态挑战赛，关于拟态防御可以看<a href="http://jcs.iie.ac.cn/xxaqxb/ch/reader/create_pdf.aspx?file_no=20160401&amp;year_id=2019&amp;quarter_id=2&amp;falg=1" target="_blank" rel="noopener">这里[论文pdf]</a></p><p><a href="https://lorexxar.cn/2019/05/28/mimic-ctf-2019/" target="_blank" rel="noopener">原文链接</a></p><h3 id="rsGen：一款基于Windows-BAT和JS混编实现的通用反弹shell命令生成器"><a href="#rsGen：一款基于Windows-BAT和JS混编实现的通用反弹shell命令生成器" class="headerlink" title="rsGen：一款基于Windows BAT和JS混编实现的通用反弹shell命令生成器"></a>rsGen：一款基于Windows BAT和JS混编实现的通用反弹shell命令生成器</h3><p>快速生成反弹shell命令，用bat写的工具还是很少见，也不便于跨平台</p><p><a href="https://github.com/FlyfishSec/rsGen" target="_blank" rel="noopener">Repo地址</a></p><p><a href="https://www.freebuf.com/sectool/203304.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="CVE-2018-15664-docker-all-versions-is-vulnerable-to-a-symlink-race-attack"><a href="#CVE-2018-15664-docker-all-versions-is-vulnerable-to-a-symlink-race-attack" class="headerlink" title="CVE-2018-15664: docker (all versions) is vulnerable to a symlink-race attack"></a>CVE-2018-15664: docker (all versions) is vulnerable to a symlink-race attack</h3><p>影响全版本，而且尚未修复，允许容器任意读写主机文件，内附POC</p><p>不过文章也说到了，这个漏洞利用成功率小于1%</p><p>另外Podman似乎也有这个<a href="https://github.com/containers/libpod/issues/3211" target="_blank" rel="noopener">issues #3211</a>，还有写复现步骤</p><p><a href="https://seclists.org/oss-sec/2019/q2/131" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 201905 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190529期</title>
       <link href="/d/20190529/"/>
       <url>/d/20190529/</url>
