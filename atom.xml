@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-05-31T15:13:01.279Z</updated>
+  <updated>2019-06-03T15:01:19.087Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190603期</title>
+    <link href="https://daily.tmr.js.org/d/20190603/"/>
+    <id>https://daily.tmr.js.org/d/20190603/</id>
+    <published>2019-06-03T05:07:27.000Z</published>
+    <updated>2019-06-03T15:01:19.087Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190603期</p><p>今日文章：<a href="#社会">社会</a>*2，<a href="#技术">技术</a>*3，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="庞青年的-13-年政府生意：9-次画下大饼，已有-8-次烂尾"><a href="#庞青年的-13-年政府生意：9-次画下大饼，已有-8-次烂尾" class="headerlink" title="庞青年的 13 年政府生意：9 次画下大饼，已有 8 次烂尾"></a>庞青年的 13 年政府生意：9 次画下大饼，已有 8 次烂尾</h3><p>—— 如何评价庞青年？</p><blockquote><p>自 2005 年起，庞青年 13 年间 8 次与政府合作均以失败告终后，但仍旧没有被政府抛弃。2018 年 12 月，他遇到南阳市政府。直至近日被曝，陷入泥潭。</p></blockquote><p>敢问这样的人还有多少</p><p><a href="https://news-at.zhihu.com/story/9712006" target="_blank" rel="noopener">原文链接</a></p><h3 id="六四・三十年：走进他们的记忆隧道-｜-端传媒"><a href="#六四・三十年：走进他们的记忆隧道-｜-端传媒" class="headerlink" title="六四・三十年：走进他们的记忆隧道 ｜ 端传媒"></a>六四・三十年：走进他们的记忆隧道 ｜ 端传媒</h3><p>30年了</p><p><a href="https://theinitium.com/article/20190529-project-6430/" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="面向新手的CTF实战教学（一）"><a href="#面向新手的CTF实战教学（一）" class="headerlink" title="面向新手的CTF实战教学（一）"></a>面向新手的CTF实战教学（一）</h3><p>非常简单的新手入门RE题目</p><p><a href="https://www.freebuf.com/articles/network/203992.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="给新手的-20-多个-FFmpeg-命令示例"><a href="#给新手的-20-多个-FFmpeg-命令示例" class="headerlink" title="给新手的 20 多个 FFmpeg 命令示例"></a>给新手的 20 多个 FFmpeg 命令示例</h3><p>FFmpeg是个好东西</p><p><a href="https://linux.cn/article-10932-1.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="open-basedir的一些绕过文章"><a href="#open-basedir的一些绕过文章" class="headerlink" title="open_basedir的一些绕过文章"></a>open_basedir的一些绕过文章</h3><p><a href="https://www.leavesongs.com/PHP/php-bypass-open-basedir-list-directory.html" target="_blank" rel="noopener">PHP绕过open_basedir列目录的研究</a></p><p><a href="https://www.leavesongs.com/bypass-open-basedir-readfile.html" target="_blank" rel="noopener">php5全版本绕过open_basedir读文件脚本</a></p><p><a href="https://blog.csdn.net/niexinming/article/details/53146095" target="_blank" rel="noopener">绕过open_basedir读文件脚本</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="结婚-5-年，双方父母没见面，过年各回各家，Papi-酱的婚姻模式适合你吗？"><a href="#结婚-5-年，双方父母没见面，过年各回各家，Papi-酱的婚姻模式适合你吗？" class="headerlink" title="结婚 5 年，双方父母没见面，过年各回各家，Papi 酱的婚姻模式适合你吗？"></a>结婚 5 年，双方父母没见面，过年各回各家，Papi 酱的婚姻模式适合你吗？</h3><p>有趣的分析</p><p><a href="https://news-at.zhihu.com/story/9712046" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190603期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*2，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190531期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190526期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190525期</title>
-    <link href="https://daily.tmr.js.org/d/20190525/"/>
-    <id>https://daily.tmr.js.org/d/20190525/</id>
-    <published>2019-05-25T04:38:33.000Z</published>
-    <updated>2019-05-25T15:14:17.776Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190525期</p><p>今日文章：<a href="#技术">技术</a>*1，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="IPv6-三个访问本地地址的小Tips"><a href="#IPv6-三个访问本地地址的小Tips" class="headerlink" title="IPv6 三个访问本地地址的小Tips"></a>IPv6 三个访问本地地址的小Tips</h3><p>p牛新文章，UNC Path的很有趣，之前也提到<a href="../20190515/#通过SMB造成远程文件包含（双Off情况）">SMB的远程包含</a>的文章</p><p><a href="https://www.tttang.com/archive/1293/" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="分享2个巨实用的技巧"><a href="#分享2个巨实用的技巧" class="headerlink" title="分享2个巨实用的技巧"></a>分享2个巨实用的技巧</h3><p>一点说话用语上的小技巧</p><p><a href="https://mp.weixin.qq.com/s/7w1kuSQOW1wv2sxmmOm3rw" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190525期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
