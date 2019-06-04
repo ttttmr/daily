@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-06-03T15:01:19.087Z</updated>
+  <updated>2019-06-04T15:17:30.298Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190604期</title>
+    <link href="https://daily.tmr.js.org/d/20190604/"/>
+    <id>https://daily.tmr.js.org/d/20190604/</id>
+    <published>2019-06-04T11:25:12.000Z</published>
+    <updated>2019-06-04T15:17:30.298Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190604期</p><p>今日文章：<a href="#技术">技术</a>*1，<a href="#其他">其他</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Curl-Slight-of-Hand-amp-Exploit-Hysteria"><a href="#Curl-Slight-of-Hand-amp-Exploit-Hysteria" class="headerlink" title="Curl, Slight of Hand, &amp; Exploit Hysteria"></a>Curl, Slight of Hand, &amp; Exploit Hysteria</h3><p>之前推上很火的Nginx RCE假Poc</p><p><a href="https://medium.com/@notdan/curl-slight-of-hand-exploit-hysteria-29a82e5851d" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="为什么有人喜欢说「我觉得」「其实我觉得」？"><a href="#为什么有人喜欢说「我觉得」「其实我觉得」？" class="headerlink" title="为什么有人喜欢说「我觉得」「其实我觉得」？"></a>为什么有人喜欢说「我觉得」「其实我觉得」？</h3><p>想起来很久之前发现的问题：一对一谈话/聊天时，经常出现“我们”班/“我们学校”，“我们”是谁？</p><p><a href="https://news-at.zhihu.com/story/9712059" target="_blank" rel="noopener">原文链接</a></p><h3 id="旗帜鲜明地反对断骨增高手术"><a href="#旗帜鲜明地反对断骨增高手术" class="headerlink" title="旗帜鲜明地反对断骨增高手术"></a>旗帜鲜明地反对断骨增高手术</h3><p>还是头一次听说这个手术</p><p><a href="https://news-at.zhihu.com/story/9712142" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190604期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190603期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190527期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190526期</title>
-    <link href="https://daily.tmr.js.org/d/20190526/"/>
-    <id>https://daily.tmr.js.org/d/20190526/</id>
-    <published>2019-05-26T04:30:27.000Z</published>
-    <updated>2019-05-26T15:42:13.295Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190526期</p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅析渗透实战中url跳转漏洞"><a href="#浅析渗透实战中url跳转漏洞" class="headerlink" title="浅析渗透实战中url跳转漏洞"></a>浅析渗透实战中url跳转漏洞</h3><p>又想起了<a href="https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf" target="_blank" rel="noopener">橘子师傅的SSRF</a>的PPT</p><p><a href="https://xz.aliyun.com/t/5189" target="_blank" rel="noopener">原文链接</a></p><h3 id="Make-Redirection-Evil-Again-URL-Parser-Issues-in-OAuth"><a href="#Make-Redirection-Evil-Again-URL-Parser-Issues-in-OAuth" class="headerlink" title="Make Redirection Evil Again: URL Parser Issues in OAuth"></a>Make Redirection Evil Again: URL Parser Issues in OAuth</h3><p>OAuth的一些问题，URL解析差异带来的安全问题还是很多的，不那么Web的还有之前的<a href="https://www.youtube.com/watch?v=0uejy9aCNbI" target="_blank" rel="noopener">Chrome UXSS</a></p><p><a href="https://www.tttang.com/archive/1290/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190526期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
