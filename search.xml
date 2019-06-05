@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>透明日报20190605期</title>
+      <link href="/d/20190605/"/>
+      <url>/d/20190605/</url>
+      
+        <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190605期</p><p>今日文章：<a href="#技术">技术</a>*1，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Vim-Neovim-Arbitrary-Code-Execution-via-Modelines"><a href="#Vim-Neovim-Arbitrary-Code-Execution-via-Modelines" class="headerlink" title="Vim/Neovim Arbitrary Code Execution via Modelines"></a>Vim/Neovim Arbitrary Code Execution via Modelines</h3><p>Vim &lt; 8.1.1365, Neovim &lt; 0.3.6 直接RCE反弹Shell…</p><p><a href="https://mp.weixin.qq.com/s/f4s7x5MciLDFirSNLlBh3Q" target="_blank" rel="noopener">黑鸟[中文]</a></p><p><a href="https://github.com/numirias/security/blob/master/doc/2019-06-04_ace-vim-neovim.md" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="自动网页全屏播放"><a href="#自动网页全屏播放" class="headerlink" title="自动网页全屏播放"></a>自动网页全屏播放</h3><p>已支持Bilibili网页全屏，Youtube剧场模式</p><p>Bilibili网页全屏效果最好的脚本，很多脚本在点击右侧/推荐视频后就失效了</p><p><a href="https://greasyfork.org/zh-CN/scripts/384233-自动网页全屏播放" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 201906 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190604期</title>
       <link href="/d/20190604/"/>
       <url>/d/20190604/</url>
