@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-06-07T15:20:11.459Z</updated>
+  <updated>2019-06-08T15:30:12.623Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>透明日报20190608期</title>
+    <link href="https://daily.tmr.js.org/d/20190608/"/>
+    <id>https://daily.tmr.js.org/d/20190608/</id>
+    <published>2019-06-08T05:28:17.000Z</published>
+    <updated>2019-06-08T15:30:12.623Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190608期</p><p>今日文章：<a href="#经济">经济</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="A-Timeline-of-U-Turns-from-the-Chinese-Market"><a href="#A-Timeline-of-U-Turns-from-the-Chinese-Market" class="headerlink" title="A Timeline of U-Turns from the Chinese Market"></a>A Timeline of U-Turns from the Chinese Market</h3><p>文章做了一个时间线图，世界上的哪些公司尝试进入中国市场，并在几年后退出中国，知名有如Google、ebay、Amazon、yahoo、Uber等</p><p><a href="https://www.visualcapitalist.com/timeline-of-u-turns-from-china/" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="中国网文走向世界后，现在发展成怎么样了？"><a href="#中国网文走向世界后，现在发展成怎么样了？" class="headerlink" title="中国网文走向世界后，现在发展成怎么样了？"></a>中国网文走向世界后，现在发展成怎么样了？</h3><p>很有意思的一件事，以及版权问题</p><p><a href="http://www.yystv.cn/p/5205" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Nginx使用系列"><a href="#Nginx使用系列" class="headerlink" title="Nginx使用系列"></a>Nginx使用系列</h3><p><a href="https://mp.weixin.qq.com/s/JyUnN_OtQ2NtXcH0mtCJUg" target="_blank" rel="noopener">Nginx的几个常用配置和技巧</a></p><p><a href="https://mp.weixin.qq.com/s/D6PeQ_lzcaY8pmOLqTY-gQ" target="_blank" rel="noopener">Nginx与安全有关的几个配置</a></p><p><a href="https://www.zybuluo.com/phper/note/89391" target="_blank" rel="noopener">nginx的配置、虚拟主机、负载均衡和反向代理（1）</a></p><p><a href="https://www.zybuluo.com/phper/note/90310" target="_blank" rel="noopener">nginx的配置、虚拟主机、负载均衡和反向代理（2）</a></p><p><a href="https://www.zybuluo.com/phper/note/133244" target="_blank" rel="noopener">nginx的配置、虚拟主机、负载均衡和反向代理（3）</a></p><h3 id="Certbot使用与HTTPS配置"><a href="#Certbot使用与HTTPS配置" class="headerlink" title="Certbot使用与HTTPS配置"></a>Certbot使用与HTTPS配置</h3><p>申请泛域名证书，在Nginx上部署HTTPS</p><p><a href="https://tmr.js.org/p/b4359340/" target="_blank" rel="noopener">原文链接</a></p><h3 id="迅雷X去广告"><a href="#迅雷X去广告" class="headerlink" title="迅雷X去广告"></a>迅雷X去广告</h3><p>最新版迅雷去广告</p><p><a href="https://tmr.js.org/p/36decbe/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190608期&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>透明日报20190607期</title>
     <link href="https://daily.tmr.js.org/d/20190607/"/>
     <id>https://daily.tmr.js.org/d/20190607/</id>
     <published>2019-06-07T02:48:12.000Z</published>
-    <updated>2019-06-07T15:20:11.459Z</updated>
+    <updated>2019-06-08T15:30:34.148Z</updated>
     
     <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190607期</p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*4</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="GQ人物专访：风口上的孙宇晨"><a href="#GQ人物专访：风口上的孙宇晨" class="headerlink" title="GQ人物专访：风口上的孙宇晨"></a>GQ人物专访：风口上的孙宇晨</h3><p>2015年的文章，一个成功的创业演员</p><p>另外提一下一篇<a href="https://www.pingwest.com/a/189189" target="_blank" rel="noopener">最近的文章</a></p><p><a href="https://www.chainnode.com/post/21528" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="细说-sqlmap-api"><a href="#细说-sqlmap-api" class="headerlink" title="细说 sqlmap_api"></a>细说 sqlmap_api</h3><p>sqlmap API简单使用</p><p><a href="https://paper.seebug.org/940/" target="_blank" rel="noopener">原文链接</a></p><h3 id="sqlmap支持Python3"><a href="#sqlmap支持Python3" class="headerlink" title="sqlmap支持Python3"></a>sqlmap支持Python3</h3><p>才发现sqlmap支持Python3.x了，上个月就支持Python3了</p><p><a href="https://twitter.com/sqlmap/status/1126092034274734080" target="_blank" rel="noopener">原文链接</a></p><h3 id="吾爱破解闭站调整"><a href="#吾爱破解闭站调整" class="headerlink" title="吾爱破解闭站调整"></a>吾爱破解闭站调整</h3><blockquote><p>吾爱破解一直致力于软件安全技术交流，作为一个尊重原创、重视版权的论坛，为了顺应新时代版权的发展，加强版权保护的力度，现决定闭站调整，取缔侵权内容，以保证技术交流氛围，择日恢复访问。</p></blockquote><p>与其听信谣言，不如相信吾爱？</p><p><a href="https://www.52pojie.cn/" target="_blank" rel="noopener">原文链接</a></p><h3 id="安全从业者，该凭什么赢得你的尊严"><a href="#安全从业者，该凭什么赢得你的尊严" class="headerlink" title="安全从业者，该凭什么赢得你的尊严"></a>安全从业者，该凭什么赢得你的尊严</h3><p>近年来，安全从业者都在干什么</p><p><a href="https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&amp;mid=2247483830&amp;idx=1&amp;sn=c98c26d0000070a9ffea8962d07ffd2d" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
@@ -134,27 +155,6 @@
     
       &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190530期&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201905" scheme="https://daily.tmr.js.org/categories/201905/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190529期</title>
-    <link href="https://daily.tmr.js.org/d/20190529/"/>
-    <id>https://daily.tmr.js.org/d/20190529/</id>
-    <published>2019-05-29T01:23:57.000Z</published>
-    <updated>2019-05-29T15:01:47.941Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/about/">透明日报</a>第20190529期</p><p>今日文章：<a href="#经济">经济</a>*2，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="华尔街日报：华为崛起之路伴随着剽窃与不正当竞争指控"><a href="#华尔街日报：华为崛起之路伴随着剽窃与不正当竞争指控" class="headerlink" title="华尔街日报：华为崛起之路伴随着剽窃与不正当竞争指控"></a>华尔街日报：华为崛起之路伴随着剽窃与不正当竞争指控</h3><p>原华尔街日报<a href="https://cn.wsj.com/articles/华为崛起之路伴随着剽窃与不正当竞争指控-11558950613" target="_blank" rel="noopener">文章</a>[付费]，端传媒授权转载全文并免费阅读</p><p><a href="https://theinitium.com/article/20190528-wsj-huawei-dubious-ethics/" target="_blank" rel="noopener">原文链接</a></p><h3 id="第二价格密封拍卖"><a href="#第二价格密封拍卖" class="headerlink" title="第二价格密封拍卖"></a>第二价格密封拍卖</h3><p>感觉是个巧妙的天才设计（虽然里面讲的一些经济专有名词不太了解，得点进去再看，或者在查查资料</p><p><a href="https://wiki.mbalib.com/wiki/第二价格密封拍卖" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="198-Google的AdWords商业模式"><a href="#198-Google的AdWords商业模式" class="headerlink" title="198. Google的AdWords商业模式"></a>198. Google的AdWords商业模式</h3><p>虽然里面有些黑某国内搜索哈哈哈，讲的东西还是很有意思的，里面讲的Vickrey次高价拍卖可以看上面的<a href="#第二价格密封拍卖">扩展文章</a></p><p>虽然这个网站叫绿帽子大学，文章质量还是很不错的，博主的计算机互联网历史系列文章也一直有看，推荐订阅</p><p><a href="https://lmzdx.com/archives/1988" target="_blank" rel="noopener">原文链接</a></p><p>相关 <a href="https://lmzdx.com/archives/1990" target="_blank" rel="noopener">199. Gmail的历史</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Code-Breaking中的两个Python沙箱"><a href="#Code-Breaking中的两个Python沙箱" class="headerlink" title="Code-Breaking中的两个Python沙箱"></a>Code-Breaking中的两个Python沙箱</h3><p><a href="https://www.tttang.com/archive/1294/" target="_blank" rel="noopener">原文链接</a></p><h3 id="go-get-v-CVE-2018-16874"><a href="#go-get-v-CVE-2018-16874" class="headerlink" title="go get -v CVE-2018-16874"></a>go get -v CVE-2018-16874</h3><p>go get的一个洞，利用了map的随机遍历</p><p><a href="https://projectsharp.org/2019/05/26/go-get-v-cve-2018-16874/" target="_blank" rel="noopener">原文链接</a></p><h3 id="正则表达式30分钟入门教程"><a href="#正则表达式30分钟入门教程" class="headerlink" title="正则表达式30分钟入门教程"></a>正则表达式30分钟入门教程</h3><p>最好的正则表达式入门资料</p><p>源于今天发了正则表达式的<a href="https://tmr.js.org/p/34c834a8/" target="_blank" rel="noopener">文章</a>，有同学说看不懂，这也是我当初的入门看的，写的非常好，通俗易懂适合零基础</p><p><a href="https://deerchao.net/tutorials/regex/regex.htm" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;/about/&quot;&gt;透明日报&lt;/a&gt;第20190529期&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*2，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
     
     </summary>
     
