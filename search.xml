@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>透明日报20190612期</title>
+      <link href="/d/20190612/"/>
+      <url>/d/20190612/</url>
+      
+        <content type="html"><![CDATA[<p>透明日报第20190612期 <a href="/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*4</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="GQ报道-孤独后厂村：30万互联网人跳不出的中国硅谷"><a href="#GQ报道-孤独后厂村：30万互联网人跳不出的中国硅谷" class="headerlink" title="GQ报道 | 孤独后厂村：30万互联网人跳不出的中国硅谷"></a>GQ报道 | 孤独后厂村：30万互联网人跳不出的中国硅谷</h3><p>看起来很近，又很遥远</p><p><a href="https://mp.weixin.qq.com/s/-FrcU0-jb7TqXIzNSlC50w" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="Google-Maps的故事【精华版】"><a href="#Google-Maps的故事【精华版】" class="headerlink" title="Google Maps的故事【精华版】"></a>Google Maps的故事【精华版】</h3><p>Google Maps的故事合集</p><p><a href="https://mp.weixin.qq.com/s/UCsoJLzdIfT-DaZ622dWOQ" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="AntSword-v2-1-3-更新-批量下载、免杀shell生成"><a href="#AntSword-v2-1-3-更新-批量下载、免杀shell生成" class="headerlink" title="AntSword v2.1.3 更新 (批量下载、免杀shell生成)"></a>AntSword v2.1.3 更新 (批量下载、免杀shell生成)</h3><p>重点是文末提到作者的一个想法，利用 WebShell 直接与 PHP FastCGI (FPM) 进行通信</p><p>思考一下，PHP是支持通过TCP或者本地socket通信的，那WebShell攻击PHP-FPM不就是可行的吗，而且能够实现任意命令执行，于是我简单测试了一下，两个模式下都实现了命令执行！nb！poc见 <a href="https://github.com/ttttmr/php-fpm" target="_blank" rel="noopener">https://github.com/ttttmr/php-fpm</a></p><p><a href="https://mp.weixin.qq.com/s/T_k_TVv6h7W8paZyHym-sw" target="_blank" rel="noopener">原文链接</a></p><h3 id="GitHub-优化体验"><a href="#GitHub-优化体验" class="headerlink" title="GitHub 优化体验"></a>GitHub 优化体验</h3><p>如何舒服高效的使用 GitHub，一些扩展程序收集</p><p><a href="https://tmr.js.org/p/c85c3c06/" target="_blank" rel="noopener">原文链接</a></p><h3 id="【安全研究】绕过php的disable-functions系列"><a href="#【安全研究】绕过php的disable-functions系列" class="headerlink" title="【安全研究】绕过php的disable_functions系列"></a>【安全研究】绕过php的disable_functions系列</h3><p>[【安全研究】绕过php的disable_functions（上篇）](<a href="https://mp.weixin.qq.com/s/YdNgOK5CMvYq619gz1bhAw" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/YdNgOK5CMvYq619gz1bhAw</a></p><p><a href="https://mp.weixin.qq.com/s/H3oJBkpM46kIwyd6Xml2Wg" target="_blank" rel="noopener">【安全研究】绕过php的disable_functions（中篇）</a></p><p><a href="https://mp.weixin.qq.com/s/N6LnnxU3eNTNRlnEnEappw" target="_blank" rel="noopener">【安全研究】绕过php的disable_functions（下篇）</a></p><h3 id="Bypass-XSS-filters-using-JavaScript-global-variables"><a href="#Bypass-XSS-filters-using-JavaScript-global-variables" class="headerlink" title="Bypass XSS filters using JavaScript global variables"></a>Bypass XSS filters using JavaScript global variables</h3><p>花式XSS技巧</p><p><a href="https://www.secjuice.com/bypass-xss-filters-using-javascript-global-variables/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 201906 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190611期</title>
       <link href="/d/20190611/"/>
       <url>/d/20190611/</url>
