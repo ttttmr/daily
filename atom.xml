@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-06-13T15:22:42.002Z</updated>
+  <updated>2019-06-14T15:40:11.397Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190614期</title>
+    <link href="https://daily.tmr.js.org/d/20190614/"/>
+    <id>https://daily.tmr.js.org/d/20190614/</id>
+    <published>2019-06-14T14:02:35.000Z</published>
+    <updated>2019-06-14T15:40:11.397Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190614期 <a href="/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Vim-Neovim-基于-modeline-的多个任意代码执行漏洞分析（CVE-2002-1377、CVE-2016-1248、CVE-2019-12735）"><a href="#Vim-Neovim-基于-modeline-的多个任意代码执行漏洞分析（CVE-2002-1377、CVE-2016-1248、CVE-2019-12735）" class="headerlink" title="Vim/Neovim 基于 modeline 的多个任意代码执行漏洞分析（CVE-2002-1377、CVE-2016-1248、CVE-2019-12735）"></a>Vim/Neovim 基于 modeline 的多个任意代码执行漏洞分析（CVE-2002-1377、CVE-2016-1248、CVE-2019-12735）</h3><p>Vim漏洞分析</p><p><a href="https://paper.seebug.org/952/" target="_blank" rel="noopener">原文链接</a></p><h3 id="实用Javascript调试技巧分享"><a href="#实用Javascript调试技巧分享" class="headerlink" title="实用Javascript调试技巧分享"></a>实用Javascript调试技巧分享</h3><p>学到了新的console用法，之前写<a href="https://github.com/ttttmr/UserJS" target="_blank" rel="noopener">UserJS</a>调的难受</p><p><a href="https://segmentfault.com/a/1190000019474390" target="_blank" rel="noopener">原文链接</a></p><h3 id="PHP内核分析-FPM和disable-function安全问题"><a href="#PHP内核分析-FPM和disable-function安全问题" class="headerlink" title="PHP内核分析-FPM和disable_function安全问题"></a>PHP内核分析-FPM和disable_function安全问题</h3><p>攻击FPM时不能过disable_function源码分析</p><p><a href="http://www.rai4over.cn/2019/06/11/PHP内核分析-FPM和disable-function安全问题/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190614期 &lt;a href=&quot;/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190613期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;透明日报第20190608期 &lt;a href=&quot;/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190607期</title>
-    <link href="https://daily.tmr.js.org/d/20190607/"/>
-    <id>https://daily.tmr.js.org/d/20190607/</id>
-    <published>2019-06-07T02:48:12.000Z</published>
-    <updated>2019-06-10T16:01:28.262Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190607期 <a href="/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*4</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="GQ人物专访：风口上的孙宇晨"><a href="#GQ人物专访：风口上的孙宇晨" class="headerlink" title="GQ人物专访：风口上的孙宇晨"></a>GQ人物专访：风口上的孙宇晨</h3><p>2015年的文章，一个成功的创业演员</p><p>另外提一下一篇<a href="https://www.pingwest.com/a/189189" target="_blank" rel="noopener">最近的文章</a></p><p><a href="https://www.chainnode.com/post/21528" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="细说-sqlmap-api"><a href="#细说-sqlmap-api" class="headerlink" title="细说 sqlmap_api"></a>细说 sqlmap_api</h3><p>sqlmap API简单使用</p><p><a href="https://paper.seebug.org/940/" target="_blank" rel="noopener">原文链接</a></p><h3 id="sqlmap支持Python3"><a href="#sqlmap支持Python3" class="headerlink" title="sqlmap支持Python3"></a>sqlmap支持Python3</h3><p>才发现sqlmap支持Python3.x了，上个月就支持Python3了</p><p><a href="https://twitter.com/sqlmap/status/1126092034274734080" target="_blank" rel="noopener">原文链接</a></p><h3 id="吾爱破解闭站调整"><a href="#吾爱破解闭站调整" class="headerlink" title="吾爱破解闭站调整"></a>吾爱破解闭站调整</h3><blockquote><p>吾爱破解一直致力于软件安全技术交流，作为一个尊重原创、重视版权的论坛，为了顺应新时代版权的发展，加强版权保护的力度，现决定闭站调整，取缔侵权内容，以保证技术交流氛围，择日恢复访问。</p></blockquote><p>与其听信谣言，不如相信吾爱？</p><p><a href="https://www.52pojie.cn/" target="_blank" rel="noopener">原文链接</a></p><h3 id="安全从业者，该凭什么赢得你的尊严"><a href="#安全从业者，该凭什么赢得你的尊严" class="headerlink" title="安全从业者，该凭什么赢得你的尊严"></a>安全从业者，该凭什么赢得你的尊严</h3><p>近年来，安全从业者都在干什么</p><p><a href="https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&amp;mid=2247483830&amp;idx=1&amp;sn=c98c26d0000070a9ffea8962d07ffd2d" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190607期 &lt;a href=&quot;/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4&lt;/p&gt;
     
     </summary>
     
