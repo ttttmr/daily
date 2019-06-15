@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-06-14T15:40:11.397Z</updated>
+  <updated>2019-06-15T15:46:25.139Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190615期</title>
+    <link href="https://daily.tmr.js.org/d/20190615/"/>
+    <id>https://daily.tmr.js.org/d/20190615/</id>
+    <published>2019-06-15T03:06:01.000Z</published>
+    <updated>2019-06-15T15:46:25.139Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190615期 <a href="/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*4，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="好奇心日报「大公司头条」的产品资讯和其他商业信息"><a href="#好奇心日报「大公司头条」的产品资讯和其他商业信息" class="headerlink" title="好奇心日报「大公司头条」的产品资讯和其他商业信息"></a>好奇心日报「大公司头条」的产品资讯和其他商业信息</h3><p>好奇心日报邮件订阅</p><p><a href="https://www.mysubmail.com/subscribe/686Tt3/" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="宏观视角下的office漏洞（2010-2018）"><a href="#宏观视角下的office漏洞（2010-2018）" class="headerlink" title="宏观视角下的office漏洞（2010-2018）"></a>宏观视角下的office漏洞（2010-2018）</h3><p>这些年来office的漏洞总结，一大波漏洞分析</p><blockquote><p>希望这篇文章可以帮助到后续从事office漏洞研究的人</p></blockquote><p><a href="https://www.anquanke.com/post/id/180067" target="_blank" rel="noopener">原文链接</a></p><h3 id="JSFinder—从js文件中寻找敏感接口和子域名"><a href="#JSFinder—从js文件中寻找敏感接口和子域名" class="headerlink" title="JSFinder—从js文件中寻找敏感接口和子域名"></a>JSFinder—从js文件中寻找敏感接口和子域名</h3><p>好东西</p><p><a href="https://xz.aliyun.com/t/5390" target="_blank" rel="noopener">原文链接</a></p><h3 id="C-避坑指南"><a href="#C-避坑指南" class="headerlink" title="C++避坑指南"></a>C++避坑指南</h3><p>话说有一段时间没碰C++了</p><p><a href="https://mp.weixin.qq.com/s/_MmlDCg_9Yx-JA77IwYK4w" target="_blank" rel="noopener">原文链接</a></p><h3 id="某博国际版3-1-6去广告"><a href="#某博国际版3-1-6去广告" class="headerlink" title="某博国际版3.1.6去广告"></a>某博国际版3.1.6去广告</h3><p>安卓逆向去广告</p><p><a href="http://www.leadroyal.cn/?p=871" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="tombkeeper微博"><a href="#tombkeeper微博" class="headerlink" title="tombkeeper微博"></a>tombkeeper微博</h3><p>十分真实，不管会不会，搞起来先</p><p><a href="https://weibo.com/1401527553/Hz2wHelol" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190615期 &lt;a href=&quot;/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190614期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;透明日报第20190609期 &lt;a href=&quot;/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190608期</title>
-    <link href="https://daily.tmr.js.org/d/20190608/"/>
-    <id>https://daily.tmr.js.org/d/20190608/</id>
-    <published>2019-06-08T05:28:17.000Z</published>
-    <updated>2019-06-10T16:01:28.262Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190608期 <a href="/about/">订阅</a></p><p>今日文章：<a href="#经济">经济</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="A-Timeline-of-U-Turns-from-the-Chinese-Market"><a href="#A-Timeline-of-U-Turns-from-the-Chinese-Market" class="headerlink" title="A Timeline of U-Turns from the Chinese Market"></a>A Timeline of U-Turns from the Chinese Market</h3><p>文章做了一个时间线图，世界上的哪些公司尝试进入中国市场，并在几年后退出中国，知名有如Google、ebay、Amazon、yahoo、Uber等</p><p><a href="https://www.visualcapitalist.com/timeline-of-u-turns-from-china/" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="中国网文走向世界后，现在发展成怎么样了？"><a href="#中国网文走向世界后，现在发展成怎么样了？" class="headerlink" title="中国网文走向世界后，现在发展成怎么样了？"></a>中国网文走向世界后，现在发展成怎么样了？</h3><p>很有意思的一件事，以及版权问题</p><p><a href="http://www.yystv.cn/p/5205" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Nginx使用系列"><a href="#Nginx使用系列" class="headerlink" title="Nginx使用系列"></a>Nginx使用系列</h3><p><a href="https://mp.weixin.qq.com/s/JyUnN_OtQ2NtXcH0mtCJUg" target="_blank" rel="noopener">Nginx的几个常用配置和技巧</a></p><p><a href="https://mp.weixin.qq.com/s/D6PeQ_lzcaY8pmOLqTY-gQ" target="_blank" rel="noopener">Nginx与安全有关的几个配置</a></p><p><a href="https://www.zybuluo.com/phper/note/89391" target="_blank" rel="noopener">nginx的配置、虚拟主机、负载均衡和反向代理（1）</a></p><p><a href="https://www.zybuluo.com/phper/note/90310" target="_blank" rel="noopener">nginx的配置、虚拟主机、负载均衡和反向代理（2）</a></p><p><a href="https://www.zybuluo.com/phper/note/133244" target="_blank" rel="noopener">nginx的配置、虚拟主机、负载均衡和反向代理（3）</a></p><h3 id="Certbot使用与HTTPS配置"><a href="#Certbot使用与HTTPS配置" class="headerlink" title="Certbot使用与HTTPS配置"></a>Certbot使用与HTTPS配置</h3><p>申请泛域名证书，在Nginx上部署HTTPS</p><p><a href="https://tmr.js.org/p/b4359340/" target="_blank" rel="noopener">原文链接</a></p><h3 id="迅雷X去广告"><a href="#迅雷X去广告" class="headerlink" title="迅雷X去广告"></a>迅雷X去广告</h3><p>最新版迅雷去广告</p><p><a href="https://tmr.js.org/p/36decbe/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190608期 &lt;a href=&quot;/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
     
     </summary>
     
