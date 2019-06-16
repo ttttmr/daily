@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-06-15T15:46:25.139Z</updated>
+  <updated>2019-06-16T14:25:56.734Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190616期</title>
+    <link href="https://daily.tmr.js.org/d/20190616/"/>
+    <id>https://daily.tmr.js.org/d/20190616/</id>
+    <published>2019-06-16T07:08:20.000Z</published>
+    <updated>2019-06-16T14:25:56.734Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190616期 <a href="/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1，<a href="#文娱">文娱</a>*1，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="A-free-Argo-Tunnel-for-your-next-project"><a href="#A-free-Argo-Tunnel-for-your-next-project" class="headerlink" title="A free Argo Tunnel for your next project"></a>A free Argo Tunnel for your next project</h3><p>免费内网穿透（仅支持HTTP），自动HTTPS加密，可不登录使用，用的是<code>trycloudflare.com</code>子域，自定义域名需要付费Argo智能路由</p><p><a href="https://blog.cloudflare.com/a-free-argo-tunnel-for-your-next-project/" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="Game-of-Thrones-Opening-Cities-in-China"><a href="#Game-of-Thrones-Opening-Cities-in-China" class="headerlink" title="Game of Thrones Opening - Cities in China"></a>Game of Thrones Opening - Cities in China</h3><p>中国城市版《权力的游戏》片头</p><p><a href="https://www.youtube.com/watch?v=19MzdQCJ17A" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="大疆的这个可编程教育机器人，可真不是个一般的机器人"><a href="#大疆的这个可编程教育机器人，可真不是个一般的机器人" class="headerlink" title="大疆的这个可编程教育机器人，可真不是个一般的机器人"></a>大疆的这个可编程教育机器人，可真不是个一般的机器人</h3><p>看起来好玩</p><p><a href="https://www.pingwest.com/a/189311" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190616期 &lt;a href=&quot;/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190615期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;透明日报第20190610期 &lt;a href=&quot;/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190609期</title>
-    <link href="https://daily.tmr.js.org/d/20190609/"/>
-    <id>https://daily.tmr.js.org/d/20190609/</id>
-    <published>2019-06-09T13:25:13.000Z</published>
-    <updated>2019-06-10T16:01:28.262Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190609期 <a href="/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="chromium-Code-Search"><a href="#chromium-Code-Search" class="headerlink" title="chromium - Code Search"></a>chromium - Code Search</h3><p>在线看chromium代码，舒服，之前下整个项目下半天，几个G的文件</p><p><a href="https://cs.chromium.org/chromium/" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="小事-·-那个漫长的夏天"><a href="#小事-·-那个漫长的夏天" class="headerlink" title="小事 · 那个漫长的夏天"></a>小事 · 那个漫长的夏天</h3><p>—— 高考完后的最长的暑假，你是怎样度过的？</p><p>这是最长，也是最后一个能舒服玩乐的暑假了</p><p><a href="https://news-at.zhihu.com/story/9712329" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190609期 &lt;a href=&quot;/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
