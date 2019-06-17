@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-06-17T03:11:27.434Z</updated>
+  <updated>2019-06-17T15:00:27.264Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190617期</title>
+    <link href="https://daily.tmr.js.org/d/20190617/"/>
+    <id>https://daily.tmr.js.org/d/20190617/</id>
+    <published>2019-06-17T02:00:54.000Z</published>
+    <updated>2019-06-17T15:00:27.264Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190617期 <a href="/about/">订阅</a></p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#社会">社会</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*4，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>上线支持邮件订阅，目前处于测试阶段（也就是说也有可能收不到）</p><p><a href="https://eepurl.com/gu0J4D" target="_blank" rel="noopener">点击订阅</a></p><p>只需要填邮箱就可以订阅了（可能需要过reCAPTCHA）</p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="5岁小女孩提的问题，把李老师也问崩溃了！"><a href="#5岁小女孩提的问题，把李老师也问崩溃了！" class="headerlink" title="5岁小女孩提的问题，把李老师也问崩溃了！"></a>5岁小女孩提的问题，把李老师也问崩溃了！</h3><p>太真实了，我以前就是“这个不考的”，再后来学会上网了，找到了很多答案（当年的知乎还是nb的，当然还有维基），也知道了很多东西到现在还是无解的</p><p>强烈安利李永乐老师</p><p><a href="https://www.youtube.com/watch?v=qzB1v9z7hk8" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="歌词里的摩斯密码证明-Google-窃取了-Genius-上的歌词"><a href="#歌词里的摩斯密码证明-Google-窃取了-Genius-上的歌词" class="headerlink" title="歌词里的摩斯密码证明 Google 窃取了 Genius 上的歌词"></a>歌词里的摩斯密码证明 Google 窃取了 Genius 上的歌词</h3><p>这波水印技术可以</p><p><a href="https://www.ifanr.com/1225212" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅谈Unicode设计的安全性"><a href="#浅谈Unicode设计的安全性" class="headerlink" title="浅谈Unicode设计的安全性"></a>浅谈Unicode设计的安全性</h3><p>总结很全面</p><p><a href="https://xz.aliyun.com/t/5402" target="_blank" rel="noopener">原文链接</a></p><h3 id="SATA硬盘win10不重装迁移到nvme-ssd的方法"><a href="#SATA硬盘win10不重装迁移到nvme-ssd的方法" class="headerlink" title="SATA硬盘win10不重装迁移到nvme ssd的方法"></a>SATA硬盘win10不重装迁移到nvme ssd的方法</h3><p>nb，学习了，还有win10启动自动优化的过程</p><blockquote><p>能不重装，坚决不重装！！！</p></blockquote><p><a href="https://www.jarviswang.me/?p=1078" target="_blank" rel="noopener">原文链接</a></p><h3 id="陌陌风控系统"><a href="#陌陌风控系统" class="headerlink" title="陌陌风控系统"></a>陌陌风控系统</h3><p>陌陌风控的一些介绍，已开源</p><p><a href="https://bithack.io/forum/305" target="_blank" rel="noopener">原文链接</a></p><h3 id="Microsoft-Management-Console-MMC-Vulnerabilities"><a href="#Microsoft-Management-Console-MMC-Vulnerabilities" class="headerlink" title="Microsoft Management Console (MMC) Vulnerabilities"></a>Microsoft Management Console (MMC) Vulnerabilities</h3><p>MMC漏洞可XSS和XXE，所以还是不要打开不明文件（<code>.msc</code>）</p><p><a href="https://research.checkpoint.com/microsoft-management-console-mmc-vulnerabilities/" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="治愈强迫症！史上最伟大50部动画之一：管梦"><a href="#治愈强迫症！史上最伟大50部动画之一：管梦" class="headerlink" title="治愈强迫症！史上最伟大50部动画之一：管梦"></a>治愈强迫症！史上最伟大50部动画之一：管梦</h3><p>音乐和动画的完美结合</p><p><a href="https://www.bilibili.com/video/av55846592" target="_blank" rel="noopener">视频链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190617期 &lt;a href=&quot;/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190616期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;透明日报第20190611期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190610期</title>
-    <link href="https://daily.tmr.js.org/d/20190610/"/>
-    <id>https://daily.tmr.js.org/d/20190610/</id>
-    <published>2019-06-10T06:37:23.000Z</published>
-    <updated>2019-06-17T03:11:27.432Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190610期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#经济">经济</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*1，<a href="#文娱">文娱</a>*1，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="有哪些比小说更好看的商业故事？-未央之歌Peking的回答-知乎"><a href="#有哪些比小说更好看的商业故事？-未央之歌Peking的回答-知乎" class="headerlink" title="有哪些比小说更好看的商业故事？ - 未央之歌Peking的回答 - 知乎"></a>有哪些比小说更好看的商业故事？ - 未央之歌Peking的回答 - 知乎</h3><p>李经纬的健力宝创业</p><p><a href="https://www.zhihu.com/question/23049278/answer/121190889" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="Opera、Brave-和-Vivaldi-不会跟在-Google-后面限制广告扩展"><a href="#Opera、Brave-和-Vivaldi-不会跟在-Google-后面限制广告扩展" class="headerlink" title="Opera、Brave 和 Vivaldi 不会跟在 Google 后面限制广告扩展"></a>Opera、Brave 和 Vivaldi 不会跟在 Google 后面限制广告扩展</h3><p><a href="../20190530/#Chrome-的广告屏蔽功能将主要提供给企业级客户">之前</a>还说到想看Chromium这边会怎么办，看来将继续支持旧扩展，Chrome近年是出过不少隐私问题，<a href="https://www.solidot.org/story?sid=58049" target="_blank" rel="noopener">新的自动登陆功能</a>，<a href="https://www.solidot.org/story?sid=58064" target="_blank" rel="noopener">Google的Cookie无法清除</a>，<a href="https://www.solidot.org/story?sid=60149" target="_blank" rel="noopener">不允许关闭链接审计</a>…各种网站对非Chrome浏览器的各种不友好就不细提了</p><p><a href="https://www.solidot.org/story?sid=60920" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="9-5-billion-rows-of-email-metadata-leaked-by-Shanghai-Jiao-Tong-University"><a href="#9-5-billion-rows-of-email-metadata-leaked-by-Shanghai-Jiao-Tong-University" class="headerlink" title="9.5 billion rows of email metadata leaked by Shanghai Jiao Tong University"></a>9.5 billion rows of email metadata leaked by Shanghai Jiao Tong University</h3><p>上海交大邮件数据库泄露</p><p><a href="https://rainbowtabl.es/2019/06/09/shanghai-jiao-tong-university-email-metadata-leak/" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="行业触底反弹？游戏圈迎罕见产品潮，暑期档或成今年最血腥的战场"><a href="#行业触底反弹？游戏圈迎罕见产品潮，暑期档或成今年最血腥的战场" class="headerlink" title="行业触底反弹？游戏圈迎罕见产品潮，暑期档或成今年最血腥的战场"></a>行业触底反弹？游戏圈迎罕见产品潮，暑期档或成今年最血腥的战场</h3><p>一大波游戏正在接近</p><p><a href="http://youxiputao.com/articles/17887" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="小事-·-小事积累起来，就是我们全部的生活啊"><a href="#小事-·-小事积累起来，就是我们全部的生活啊" class="headerlink" title="小事 · 小事积累起来，就是我们全部的生活啊"></a>小事 · 小事积累起来，就是我们全部的生活啊</h3><p>—— 那些初中就辍学的小姑娘都怎么过了？</p><blockquote><p>成年人的世界没有容易二字</p></blockquote><p><a href="https://news-at.zhihu.com/story/9712342" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190610期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
