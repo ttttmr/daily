@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-06-17T15:00:27.264Z</updated>
+  <updated>2019-06-18T14:32:06.095Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -17,13 +17,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>透明日报20190618期</title>
+    <link href="https://daily.tmr.js.org/d/20190618/"/>
+    <id>https://daily.tmr.js.org/d/20190618/</id>
+    <published>2019-06-18T01:44:57.000Z</published>
+    <updated>2019-06-18T14:32:06.095Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190618期 <a href="/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="寄一本书给那条「鱼」"><a href="#寄一本书给那条「鱼」" class="headerlink" title="寄一本书给那条「鱼」"></a>寄一本书给那条「鱼」</h3><p>多抓鱼的故事，很喜欢多抓鱼哈哈</p><p><a href="https://mp.weixin.qq.com/s/j-wl5Ae9-5eW0rnE_4HhiA" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="SACK-race-Linux-servers-in-urgent-need-of-patching-to-defend-against-new-DoS-threat"><a href="#SACK-race-Linux-servers-in-urgent-need-of-patching-to-defend-against-new-DoS-threat" class="headerlink" title="SACK race: Linux servers in urgent need of patching to defend against new DoS threat"></a>SACK race: Linux servers in urgent need of patching to defend against new DoS threat</h3><p>Linux TCP Dos漏洞，附<a href="https://cert.360.cn/warning/detail?id=27d0c6b825c75d8486c446556b9c9b68" target="_blank" rel="noopener">360分析文章</a></p><p><a href="https://portswigger.net/daily-swig/sack-race-linux-servers-in-urgent-need-of-patching-to-defend-against-new-dos-threat" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190618期 &lt;a href=&quot;/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>透明日报20190617期</title>
     <link href="https://daily.tmr.js.org/d/20190617/"/>
     <id>https://daily.tmr.js.org/d/20190617/</id>
     <published>2019-06-17T02:00:54.000Z</published>
-    <updated>2019-06-17T15:00:27.264Z</updated>
+    <updated>2019-06-18T14:31:48.223Z</updated>
     
-    <content type="html"><![CDATA[<p>透明日报第20190617期 <a href="/about/">订阅</a></p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#社会">社会</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*4，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>上线支持邮件订阅，目前处于测试阶段（也就是说也有可能收不到）</p><p><a href="https://eepurl.com/gu0J4D" target="_blank" rel="noopener">点击订阅</a></p><p>只需要填邮箱就可以订阅了（可能需要过reCAPTCHA）</p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="5岁小女孩提的问题，把李老师也问崩溃了！"><a href="#5岁小女孩提的问题，把李老师也问崩溃了！" class="headerlink" title="5岁小女孩提的问题，把李老师也问崩溃了！"></a>5岁小女孩提的问题，把李老师也问崩溃了！</h3><p>太真实了，我以前就是“这个不考的”，再后来学会上网了，找到了很多答案（当年的知乎还是nb的，当然还有维基），也知道了很多东西到现在还是无解的</p><p>强烈安利李永乐老师</p><p><a href="https://www.youtube.com/watch?v=qzB1v9z7hk8" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="歌词里的摩斯密码证明-Google-窃取了-Genius-上的歌词"><a href="#歌词里的摩斯密码证明-Google-窃取了-Genius-上的歌词" class="headerlink" title="歌词里的摩斯密码证明 Google 窃取了 Genius 上的歌词"></a>歌词里的摩斯密码证明 Google 窃取了 Genius 上的歌词</h3><p>这波水印技术可以</p><p><a href="https://www.ifanr.com/1225212" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅谈Unicode设计的安全性"><a href="#浅谈Unicode设计的安全性" class="headerlink" title="浅谈Unicode设计的安全性"></a>浅谈Unicode设计的安全性</h3><p>总结很全面</p><p><a href="https://xz.aliyun.com/t/5402" target="_blank" rel="noopener">原文链接</a></p><h3 id="SATA硬盘win10不重装迁移到nvme-ssd的方法"><a href="#SATA硬盘win10不重装迁移到nvme-ssd的方法" class="headerlink" title="SATA硬盘win10不重装迁移到nvme ssd的方法"></a>SATA硬盘win10不重装迁移到nvme ssd的方法</h3><p>nb，学习了，还有win10启动自动优化的过程</p><blockquote><p>能不重装，坚决不重装！！！</p></blockquote><p><a href="https://www.jarviswang.me/?p=1078" target="_blank" rel="noopener">原文链接</a></p><h3 id="陌陌风控系统"><a href="#陌陌风控系统" class="headerlink" title="陌陌风控系统"></a>陌陌风控系统</h3><p>陌陌风控的一些介绍，已开源</p><p><a href="https://bithack.io/forum/305" target="_blank" rel="noopener">原文链接</a></p><h3 id="Microsoft-Management-Console-MMC-Vulnerabilities"><a href="#Microsoft-Management-Console-MMC-Vulnerabilities" class="headerlink" title="Microsoft Management Console (MMC) Vulnerabilities"></a>Microsoft Management Console (MMC) Vulnerabilities</h3><p>MMC漏洞可XSS和XXE，所以还是不要打开不明文件（<code>.msc</code>）</p><p><a href="https://research.checkpoint.com/microsoft-management-console-mmc-vulnerabilities/" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="治愈强迫症！史上最伟大50部动画之一：管梦"><a href="#治愈强迫症！史上最伟大50部动画之一：管梦" class="headerlink" title="治愈强迫症！史上最伟大50部动画之一：管梦"></a>治愈强迫症！史上最伟大50部动画之一：管梦</h3><p>音乐和动画的完美结合</p><p><a href="https://www.bilibili.com/video/av55846592" target="_blank" rel="noopener">视频链接</a></p>]]></content>
+    <content type="html"><![CDATA[<p>透明日报第20190617期 <a href="/about/">订阅</a></p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#社会">社会</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*4，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>上线支持邮件订阅，目前处于测试阶段（也就是说有可能收不到）</p><p><a href="https://eepurl.com/gu0J4D" target="_blank" rel="noopener">点击订阅</a></p><p>只需要填邮箱就可以订阅了（可能需要过reCAPTCHA）</p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="5岁小女孩提的问题，把李老师也问崩溃了！"><a href="#5岁小女孩提的问题，把李老师也问崩溃了！" class="headerlink" title="5岁小女孩提的问题，把李老师也问崩溃了！"></a>5岁小女孩提的问题，把李老师也问崩溃了！</h3><p>太真实了，我以前就是“这个不考的”，再后来学会上网了，找到了很多答案（当年的知乎还是nb的，当然还有维基），也知道了很多东西到现在还是无解的</p><p>强烈安利李永乐老师</p><p><a href="https://www.youtube.com/watch?v=qzB1v9z7hk8" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="歌词里的摩斯密码证明-Google-窃取了-Genius-上的歌词"><a href="#歌词里的摩斯密码证明-Google-窃取了-Genius-上的歌词" class="headerlink" title="歌词里的摩斯密码证明 Google 窃取了 Genius 上的歌词"></a>歌词里的摩斯密码证明 Google 窃取了 Genius 上的歌词</h3><p>这波水印技术可以</p><p><a href="https://www.ifanr.com/1225212" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅谈Unicode设计的安全性"><a href="#浅谈Unicode设计的安全性" class="headerlink" title="浅谈Unicode设计的安全性"></a>浅谈Unicode设计的安全性</h3><p>总结很全面</p><p><a href="https://xz.aliyun.com/t/5402" target="_blank" rel="noopener">原文链接</a></p><h3 id="SATA硬盘win10不重装迁移到nvme-ssd的方法"><a href="#SATA硬盘win10不重装迁移到nvme-ssd的方法" class="headerlink" title="SATA硬盘win10不重装迁移到nvme ssd的方法"></a>SATA硬盘win10不重装迁移到nvme ssd的方法</h3><p>nb，学习了，还有win10启动自动优化的过程</p><blockquote><p>能不重装，坚决不重装！！！</p></blockquote><p><a href="https://www.jarviswang.me/?p=1078" target="_blank" rel="noopener">原文链接</a></p><h3 id="陌陌风控系统"><a href="#陌陌风控系统" class="headerlink" title="陌陌风控系统"></a>陌陌风控系统</h3><p>陌陌风控的一些介绍，已开源</p><p><a href="https://bithack.io/forum/305" target="_blank" rel="noopener">原文链接</a></p><h3 id="Microsoft-Management-Console-MMC-Vulnerabilities"><a href="#Microsoft-Management-Console-MMC-Vulnerabilities" class="headerlink" title="Microsoft Management Console (MMC) Vulnerabilities"></a>Microsoft Management Console (MMC) Vulnerabilities</h3><p>MMC漏洞可XSS和XXE，所以还是不要打开不明文件（<code>.msc</code>）</p><p><a href="https://research.checkpoint.com/microsoft-management-console-mmc-vulnerabilities/" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="治愈强迫症！史上最伟大50部动画之一：管梦"><a href="#治愈强迫症！史上最伟大50部动画之一：管梦" class="headerlink" title="治愈强迫症！史上最伟大50部动画之一：管梦"></a>治愈强迫症！史上最伟大50部动画之一：管梦</h3><p>音乐和动画的完美结合</p><p><a href="https://www.bilibili.com/video/av55846592" target="_blank" rel="noopener">视频链接</a></p>]]></content>
     
     <summary type="html">
     
@@ -134,27 +155,6 @@
     
       &lt;p&gt;透明日报第20190612期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190611期</title>
-    <link href="https://daily.tmr.js.org/d/20190611/"/>
-    <id>https://daily.tmr.js.org/d/20190611/</id>
-    <published>2019-06-11T04:06:01.000Z</published>
-    <updated>2019-06-17T03:11:27.432Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190611期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*2，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="华尔街见闻下线"><a href="#华尔街见闻下线" class="headerlink" title="华尔街见闻下线"></a>华尔街见闻下线</h3><p>又有xx下线了</p><p><a href="https://www.weibo.com/1875034341/Hyj9jpH3K" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="吾爱归来"><a href="#吾爱归来" class="headerlink" title="吾爱归来"></a>吾爱归来</h3><p>回来了</p><p><a href="https://mp.weixin.qq.com/s/sE6bbP1MbtOMKZVwKT_XKw" target="_blank" rel="noopener">原文链接</a></p><h3 id="WSL使用（二）-Docker"><a href="#WSL使用（二）-Docker" class="headerlink" title="WSL使用（二） - Docker"></a>WSL使用（二） - Docker</h3><p>在WSL中使用Docker</p><p><a href="https://tmr.js.org/p/25d77b89/" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="运营了8年还能月流水千万，这款SLG游戏到底能有多长线？"><a href="#运营了8年还能月流水千万，这款SLG游戏到底能有多长线？" class="headerlink" title="运营了8年还能月流水千万，这款SLG游戏到底能有多长线？"></a>运营了8年还能月流水千万，这款SLG游戏到底能有多长线？</h3><p>虽然没有听过这个游戏</p><p><a href="http://youxiputao.com/articles/17891" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190611期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
