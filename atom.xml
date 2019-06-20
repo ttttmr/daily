@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-06-19T14:47:13.213Z</updated>
+  <updated>2019-06-20T14:59:44.065Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190620期</title>
+    <link href="https://daily.tmr.js.org/d/20190620/"/>
+    <id>https://daily.tmr.js.org/d/20190620/</id>
+    <published>2019-06-20T01:04:30.000Z</published>
+    <updated>2019-06-20T14:59:44.065Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190620期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*4，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="【游戏安全】利用CheatEngine工具Ultimap功能对抗游戏数据加密以及拓展"><a href="#【游戏安全】利用CheatEngine工具Ultimap功能对抗游戏数据加密以及拓展" class="headerlink" title="【游戏安全】利用CheatEngine工具Ultimap功能对抗游戏数据加密以及拓展"></a>【游戏安全】利用CheatEngine工具Ultimap功能对抗游戏数据加密以及拓展</h3><p>CE还能通过调用追查，学习了</p><p><a href="https://mp.weixin.qq.com/s/0XC4vBw9Fizs4OYn-6NCTQ" target="_blank" rel="noopener">原文链接</a></p><h3 id="关于《网络安全漏洞管理规定》的一些意见"><a href="#关于《网络安全漏洞管理规定》的一些意见" class="headerlink" title="关于《网络安全漏洞管理规定》的一些意见"></a>关于《网络安全漏洞管理规定》的一些意见</h3><blockquote><p>说句不好听的，我今天爆出了一个漏洞，我不发布poc，无法证明他的危害，按目前中国的办事效率。<br>我tm明年都别想看见内网的任何一台设备打上补丁</p></blockquote><p><a href="https://mp.weixin.qq.com/s/5b-LIxHOua4UFDL6TGS36g" target="_blank" rel="noopener">原文链接</a></p><h3 id="从CVE-2019-2725绕过谈Weblogic-XML-RCE的绕过史"><a href="#从CVE-2019-2725绕过谈Weblogic-XML-RCE的绕过史" class="headerlink" title="从CVE-2019-2725绕过谈Weblogic XML RCE的绕过史"></a>从CVE-2019-2725绕过谈Weblogic XML RCE的绕过史</h3><p>这几年Weblogi的XMLDecoder漏洞分析</p><p><a href="https://www.freebuf.com/vuls/206374.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="群控进化史，黑产攻击效率提升带来的防守困境"><a href="#群控进化史，黑产攻击效率提升带来的防守困境" class="headerlink" title="群控进化史，黑产攻击效率提升带来的防守困境"></a>群控进化史，黑产攻击效率提升带来的防守困境</h3><p>现在的群控已经升级到没屏幕了…</p><p><a href="https://www.anquanke.com/post/id/180650" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="到底多硬核的玩家才算硬核玩家？有数据研究公司做了一个“玩家画像”工具"><a href="#到底多硬核的玩家才算硬核玩家？有数据研究公司做了一个“玩家画像”工具" class="headerlink" title="到底多硬核的玩家才算硬核玩家？有数据研究公司做了一个“玩家画像”工具"></a>到底多硬核的玩家才算硬核玩家？有数据研究公司做了一个“玩家画像”工具</h3><p>测了一下我是爆米花玩家（然而我觉得不准，因为不怎么看视频</p><p><a href="http://www.yystv.cn/p/5264" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190620期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190619期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;透明日报第20190614期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190613期</title>
-    <link href="https://daily.tmr.js.org/d/20190613/"/>
-    <id>https://daily.tmr.js.org/d/20190613/</id>
-    <published>2019-06-13T03:54:10.000Z</published>
-    <updated>2019-06-17T03:11:27.433Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190613期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*5，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="看我如何利用JavaScript全局变量绕过XSS过滤器"><a href="#看我如何利用JavaScript全局变量绕过XSS过滤器" class="headerlink" title="看我如何利用JavaScript全局变量绕过XSS过滤器"></a>看我如何利用JavaScript全局变量绕过XSS过滤器</h3><p><a href="../20190612/#Bypass-XSS-filters-using-JavaScript-global-variables">昨日</a>文章中文翻译</p><p><a href="https://www.anquanke.com/post/id/180187" target="_blank" rel="noopener">原文链接</a></p><h3 id="浅谈端口扫描技术"><a href="#浅谈端口扫描技术" class="headerlink" title="浅谈端口扫描技术"></a>浅谈端口扫描技术</h3><p>和之前的<a href="https://xz.aliyun.com/t/4704" target="_blank" rel="noopener">运用Scapy编写类似于Nmap的端口扫描脚本</a>有些相似，多了些其他协议的扫描</p><p><a href="https://xz.aliyun.com/t/5376" target="_blank" rel="noopener">原文链接</a></p><h3 id="Mybb-18-20-From-Stored-XSS-to-RCE-分析"><a href="#Mybb-18-20-From-Stored-XSS-to-RCE-分析" class="headerlink" title="Mybb 18.20 From Stored XSS to RCE 分析"></a>Mybb 18.20 From Stored XSS to RCE 分析</h3><p>储存型xss+后台文件创建，这个文件创建的有点奇怪哈哈</p><p><a href="https://paper.seebug.org/949/" target="_blank" rel="noopener">原文链接</a></p><h3 id="Visual-Studio-Code-远程开发探秘"><a href="#Visual-Studio-Code-远程开发探秘" class="headerlink" title="Visual Studio Code 远程开发探秘"></a>Visual Studio Code 远程开发探秘</h3><p>在正式版VS Code已经可用了，而且在WSL中使用Code将会默认远程打开，这几天用的体验还行</p><p><a href="https://shuhari.dev/blog/2019/06/vscode-remote-secret" target="_blank" rel="noopener">原文链接</a></p><h3 id="WSL-2-is-now-available-in-Windows-Insiders"><a href="#WSL-2-is-now-available-in-Windows-Insiders" class="headerlink" title="WSL 2 is now available in Windows Insiders"></a>WSL 2 is now available in Windows Insiders</h3><p>WSL2可用了，遗憾的是<a href="../20190514/#WSL-2-Post-BUILD-FAQ">和VMware不兼容</a>，试了一下Hyper-V下VBox也启动不了，所以即使正式可用我觉得我也不会去装了，要把虚拟机全面迁移到Hyper-V上成本太高</p><p><a href="https://devblogs.microsoft.com/commandline/wsl-2-is-now-available-in-windows-insiders/" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="漫画-脂肪肝最大的敌人，不是脂肪！"><a href="#漫画-脂肪肝最大的敌人，不是脂肪！" class="headerlink" title="漫画 | 脂肪肝最大的敌人，不是脂肪！"></a>漫画 | 脂肪肝最大的敌人，不是脂肪！</h3><p>什么是脂肪肝，是什么导致的，应该怎么做</p><p><a href="https://zhuanlan.zhihu.com/p/68800528" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190613期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*5，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
