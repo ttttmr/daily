@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-06-20T14:59:44.065Z</updated>
+  <updated>2019-06-21T15:13:08.090Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190621期</title>
+    <link href="https://daily.tmr.js.org/d/20190621/"/>
+    <id>https://daily.tmr.js.org/d/20190621/</id>
+    <published>2019-06-21T13:57:32.000Z</published>
+    <updated>2019-06-21T15:13:08.090Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190621期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="关于-LeanCloud-国内域名解析问题的情况更新（6-月-21-日）"><a href="#关于-LeanCloud-国内域名解析问题的情况更新（6-月-21-日）" class="headerlink" title="关于 LeanCloud 国内域名解析问题的情况更新（6 月 21 日）"></a>关于 LeanCloud 国内域名解析问题的情况更新（6 月 21 日）</h3><p>没有任何通知直接封掉，这谁扛得住啊…</p><p>如果域名不是托管在阿里云，而是在Cloudflare上事情就不一样了（指的是域名本身的托管，不是解析的管理。一般来说在哪里买的，就在哪里托管）</p><p>还有就是如何动态更换已发布应用使用域名，这可能是绝大多数厂商都没有考虑的问题</p><p><a href="https://blog.avoscloud.com/6841/" target="_blank" rel="noopener">原文链接</a></p><h3 id="Python-工匠系列文章"><a href="#Python-工匠系列文章" class="headerlink" title="Python 工匠系列文章"></a>Python 工匠系列文章</h3><p>一些Python编程技巧</p><p><a href="https://github.com/piglei/one-python-craftsman" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190621期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190620期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;透明日报第20190615期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190614期</title>
-    <link href="https://daily.tmr.js.org/d/20190614/"/>
-    <id>https://daily.tmr.js.org/d/20190614/</id>
-    <published>2019-06-14T14:02:35.000Z</published>
-    <updated>2019-06-17T03:11:27.434Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190614期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Vim-Neovim-基于-modeline-的多个任意代码执行漏洞分析（CVE-2002-1377、CVE-2016-1248、CVE-2019-12735）"><a href="#Vim-Neovim-基于-modeline-的多个任意代码执行漏洞分析（CVE-2002-1377、CVE-2016-1248、CVE-2019-12735）" class="headerlink" title="Vim/Neovim 基于 modeline 的多个任意代码执行漏洞分析（CVE-2002-1377、CVE-2016-1248、CVE-2019-12735）"></a>Vim/Neovim 基于 modeline 的多个任意代码执行漏洞分析（CVE-2002-1377、CVE-2016-1248、CVE-2019-12735）</h3><p>Vim漏洞分析</p><p><a href="https://paper.seebug.org/952/" target="_blank" rel="noopener">原文链接</a></p><h3 id="实用Javascript调试技巧分享"><a href="#实用Javascript调试技巧分享" class="headerlink" title="实用Javascript调试技巧分享"></a>实用Javascript调试技巧分享</h3><p>学到了新的console用法，之前写<a href="https://github.com/ttttmr/UserJS" target="_blank" rel="noopener">UserJS</a>调的难受</p><p><a href="https://segmentfault.com/a/1190000019474390" target="_blank" rel="noopener">原文链接</a></p><h3 id="PHP内核分析-FPM和disable-function安全问题"><a href="#PHP内核分析-FPM和disable-function安全问题" class="headerlink" title="PHP内核分析-FPM和disable_function安全问题"></a>PHP内核分析-FPM和disable_function安全问题</h3><p>攻击FPM时不能过disable_function源码分析</p><p><a href="http://www.rai4over.cn/2019/06/11/PHP内核分析-FPM和disable-function安全问题/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190614期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
     
     </summary>
     
