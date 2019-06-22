@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-06-22T14:48:19.179Z</updated>
+  <updated>2019-06-22T17:31:24.000Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://daily.tmr.js.org/d/20190622/"/>
     <id>https://daily.tmr.js.org/d/20190622/</id>
     <published>2019-06-22T04:46:31.000Z</published>
-    <updated>2019-06-22T14:48:19.179Z</updated>
+    <updated>2019-06-22T17:31:24.000Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20190622期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="小事-·-为了高考，他们偷偷让孩子吸毒"><a href="#小事-·-为了高考，他们偷偷让孩子吸毒" class="headerlink" title="小事 · 为了高考，他们偷偷让孩子吸毒"></a>小事 · 为了高考，他们偷偷让孩子吸毒</h3><p>高考真的没有那么重要</p><p><a href="https://news-at.zhihu.com/story/9712705" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Windows-Terminal-Microsoft-Store-Preview-Release"><a href="#Windows-Terminal-Microsoft-Store-Preview-Release" class="headerlink" title="Windows Terminal Microsoft Store Preview Release"></a>Windows Terminal Microsoft Store Preview Release</h3><blockquote><p>The Windows Terminal preview is now in the Microsoft Store!</p></blockquote><p>需要1903版本以上，然而我至今没有收到1903的更新 = =</p><p><a href="https://devblogs.microsoft.com/commandline/windows-terminal-microsoft-store-preview-release/" target="_blank" rel="noopener">原文链接</a></p><h3 id="从PEP学习Python"><a href="#从PEP学习Python" class="headerlink" title="从PEP学习Python"></a>从PEP学习Python</h3><p><a href="https://www.jiqizhixin.com/articles/2018-11-09-4" target="_blank" rel="noopener">学习Python，怎能不懂点PEP呢？</a></p><p><a href="https://www.zhihu.com/question/23484654" target="_blank" rel="noopener">python 的众多PEP 之中，除了PEP8 ，还有哪一些是值得阅读的？</a></p><p><a href="https://www.python.org/dev/peps/" target="_blank" rel="noopener">PEP 0 – Index of Python Enhancement Proposals (PEPs)</a></p>]]></content>
     
@@ -32,7 +32,9 @@
     
     </summary>
     
-      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="06" scheme="https://daily.tmr.js.org/categories/2019/06/"/>
     
     
   </entry>
@@ -42,7 +44,7 @@
     <link href="https://daily.tmr.js.org/d/20190621/"/>
     <id>https://daily.tmr.js.org/d/20190621/</id>
     <published>2019-06-21T13:57:32.000Z</published>
-    <updated>2019-06-21T15:13:08.090Z</updated>
+    <updated>2019-06-22T17:31:24.000Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20190621期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="关于-LeanCloud-国内域名解析问题的情况更新（6-月-21-日）"><a href="#关于-LeanCloud-国内域名解析问题的情况更新（6-月-21-日）" class="headerlink" title="关于 LeanCloud 国内域名解析问题的情况更新（6 月 21 日）"></a>关于 LeanCloud 国内域名解析问题的情况更新（6 月 21 日）</h3><p>没有任何通知直接封掉，这谁扛得住啊…</p><p>如果域名不是托管在阿里云，而是在Cloudflare上事情就不一样了（指的是域名本身的托管，不是解析的管理。一般来说在哪里买的，就在哪里托管）</p><p>还有就是如何动态更换已发布应用使用域名，这可能是绝大多数厂商都没有考虑的问题</p><p><a href="https://blog.avoscloud.com/6841/" target="_blank" rel="noopener">原文链接</a></p><h3 id="Python-工匠系列文章"><a href="#Python-工匠系列文章" class="headerlink" title="Python 工匠系列文章"></a>Python 工匠系列文章</h3><p>一些Python编程技巧</p><p><a href="https://github.com/piglei/one-python-craftsman" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
@@ -53,7 +55,9 @@
     
     </summary>
     
-      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="06" scheme="https://daily.tmr.js.org/categories/2019/06/"/>
     
     
   </entry>
@@ -63,7 +67,7 @@
     <link href="https://daily.tmr.js.org/d/20190620/"/>
     <id>https://daily.tmr.js.org/d/20190620/</id>
     <published>2019-06-20T01:04:30.000Z</published>
-    <updated>2019-06-20T14:59:44.065Z</updated>
+    <updated>2019-06-22T17:31:24.000Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20190620期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*4，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="【游戏安全】利用CheatEngine工具Ultimap功能对抗游戏数据加密以及拓展"><a href="#【游戏安全】利用CheatEngine工具Ultimap功能对抗游戏数据加密以及拓展" class="headerlink" title="【游戏安全】利用CheatEngine工具Ultimap功能对抗游戏数据加密以及拓展"></a>【游戏安全】利用CheatEngine工具Ultimap功能对抗游戏数据加密以及拓展</h3><p>CE还能通过调用追查，学习了</p><p><a href="https://mp.weixin.qq.com/s/0XC4vBw9Fizs4OYn-6NCTQ" target="_blank" rel="noopener">原文链接</a></p><h3 id="关于《网络安全漏洞管理规定》的一些意见"><a href="#关于《网络安全漏洞管理规定》的一些意见" class="headerlink" title="关于《网络安全漏洞管理规定》的一些意见"></a>关于《网络安全漏洞管理规定》的一些意见</h3><blockquote><p>说句不好听的，我今天爆出了一个漏洞，我不发布poc，无法证明他的危害，按目前中国的办事效率。<br>我tm明年都别想看见内网的任何一台设备打上补丁</p></blockquote><p><a href="https://mp.weixin.qq.com/s/5b-LIxHOua4UFDL6TGS36g" target="_blank" rel="noopener">原文链接</a></p><h3 id="从CVE-2019-2725绕过谈Weblogic-XML-RCE的绕过史"><a href="#从CVE-2019-2725绕过谈Weblogic-XML-RCE的绕过史" class="headerlink" title="从CVE-2019-2725绕过谈Weblogic XML RCE的绕过史"></a>从CVE-2019-2725绕过谈Weblogic XML RCE的绕过史</h3><p>这几年Weblogi的XMLDecoder漏洞分析</p><p><a href="https://www.freebuf.com/vuls/206374.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="群控进化史，黑产攻击效率提升带来的防守困境"><a href="#群控进化史，黑产攻击效率提升带来的防守困境" class="headerlink" title="群控进化史，黑产攻击效率提升带来的防守困境"></a>群控进化史，黑产攻击效率提升带来的防守困境</h3><p>现在的群控已经升级到没屏幕了…</p><p><a href="https://www.anquanke.com/post/id/180650" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="到底多硬核的玩家才算硬核玩家？有数据研究公司做了一个“玩家画像”工具"><a href="#到底多硬核的玩家才算硬核玩家？有数据研究公司做了一个“玩家画像”工具" class="headerlink" title="到底多硬核的玩家才算硬核玩家？有数据研究公司做了一个“玩家画像”工具"></a>到底多硬核的玩家才算硬核玩家？有数据研究公司做了一个“玩家画像”工具</h3><p>测了一下我是爆米花玩家（然而我觉得不准，因为不怎么看视频</p><p><a href="http://www.yystv.cn/p/5264" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
@@ -74,7 +78,9 @@
     
     </summary>
     
-      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="06" scheme="https://daily.tmr.js.org/categories/2019/06/"/>
     
     
   </entry>
@@ -84,7 +90,7 @@
     <link href="https://daily.tmr.js.org/d/20190619/"/>
     <id>https://daily.tmr.js.org/d/20190619/</id>
     <published>2019-06-19T04:55:18.000Z</published>
-    <updated>2019-06-19T14:47:13.213Z</updated>
+    <updated>2019-06-22T17:36:01.862Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20190619期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>正式支持邮件订阅，订阅地址更新，使用 Google FeedBurner，不折腾啥Mailchimp了…</p><p><a href="https://feedburner.google.com/fb/a/mailverify?uri=tm-daily" target="_blank" rel="noopener">订阅地址</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="解读Facebook加密稳定币Libra，看这一篇就够了"><a href="#解读Facebook加密稳定币Libra，看这一篇就够了" class="headerlink" title="解读Facebook加密稳定币Libra，看这一篇就够了"></a>解读Facebook加密稳定币Libra，看这一篇就够了</h3><p>吐槽：并不够，而且完全不够</p><p>Libra始终绑定1:1兑美元，这个我简（wu）单（nao）觉得好像和在线钱包没啥区别（对用户的功能上），只是搬到了区块链上，主体换成了Facebook</p><p>区块链？更透明？</p><blockquote><p>想要加入 Libra 区块链的机构和公司需要向 Facebook 缴纳 1000 万美元的会员费用，之后就可以在这个区块链上运行节点，以便获得数据查看和数据写入的权限</p></blockquote><p>所以这能看某个用户的数据吗？（横向对比就是银行余额）不清楚，文章也没写</p><p>而且这和国内的支付宝还不太一样，支付宝本质上还是基于银行，可以详看以前推荐过的<a href="../20190401/#关于第三方支付，看这篇文章就够了！">第三方支付文章</a>，所有交易流还是会从银行过一趟，而这个是基于区块链的，参与方足够多（看起来已经有不少了），绝大多数资金都将是内部流动，那么监管也将交于Facebook？（话说美国监管会放任这样搞事情？不清楚，但我觉得肯定会管一下）</p><p>那这可真有点数字极权的意思了，也不能说是老大哥（Big Brother），<a href="../20190320/#最完美的绑架">而是Big Mother</a>，中文翻译没找到，确实也没有多少<a href="https://www.douban.com/note/644912610/" target="_blank" rel="noopener">相关中文内容</a>，我也没想好怎么翻，叫“老大妈”也勉强还行（老干妈：？！）</p><p>反正这个东西大概率也是不能在国内正常使用了，非正常使用（洗钱等）就不好说了，但是如果发展起来的话，国人还是逃不过使用的，就像外国人来中国，也得用微信/支付宝，对金融业来说，不知道，菜得无法分析（盲目分析.jpg），可以看<a href="https://mp.weixin.qq.com/s/AB8shxTuSB-jrosOwA92tA" target="_blank" rel="noopener">文中提到的孟岩文章</a></p><p>写太多了，以至于没来得及在昨天的日报里发</p><p><a href="https://mp.weixin.qq.com/s/T3GJX6P_lgyqFS21pacZhQ" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="重磅-工信部《网络安全漏洞管理规定-征求意见稿-》（全文）"><a href="#重磅-工信部《网络安全漏洞管理规定-征求意见稿-》（全文）" class="headerlink" title="重磅|工信部《网络安全漏洞管理规定 (征求意见稿) 》（全文）"></a>重磅|工信部《网络安全漏洞管理规定 (征求意见稿) 》（全文）</h3><p>作为挖洞人员需要注意一下</p><p><a href="https://mp.weixin.qq.com/s?__biz=MzIyNjE0NTQ2OA==&amp;mid=2651231479&amp;idx=1&amp;sn=21f9a1e2fe1e69bc8f2913e44a7870a1" target="_blank" rel="noopener">原文链接</a></p><h3 id="PHP黑魔法深度剖析（一）——PHP的弱类型比较"><a href="#PHP黑魔法深度剖析（一）——PHP的弱类型比较" class="headerlink" title="PHP黑魔法深度剖析（一）——PHP的弱类型比较"></a>PHP黑魔法深度剖析（一）——PHP的弱类型比较</h3><p>PHP源码分析弱类型的实现和比较（不过有点以前看过的感觉？</p><p><a href="https://xz.aliyun.com/t/5426" target="_blank" rel="noopener">原文链接</a></p><h3 id="Chaining-Three-Bugs-to-Get-RCE-in-Microsoft-AttackSurfaceAnalyzer"><a href="#Chaining-Three-Bugs-to-Get-RCE-in-Microsoft-AttackSurfaceAnalyzer" class="headerlink" title="Chaining Three Bugs to Get RCE in Microsoft AttackSurfaceAnalyzer"></a>Chaining Three Bugs to Get RCE in Microsoft AttackSurfaceAnalyzer</h3><p>AttackSurfaceAnalyzer RCE，全局监听+Host绕过访问，XSS，最后一个是启用了NodeIntegration，于是很经典的Electron XSS RCE利用</p><p>在我的印象里Electron上XSS基本都可以升级系统命令执行，看了一下是和NodeIntegration值有关的，在<a href="https://github.com/electron/electron/issues/4362" target="_blank" rel="noopener">issues #4362</a>中提出了默认禁用，于是从5.0.0开始就不能这么玩了，得看有没有开这个东西，学习了</p><p>记得这个工具刚出的时候还用了一下，感觉并不好用，还是推荐Procmon了</p><p>话说文末的时间好像写错了，6月写成7月了哈哈</p><p><a href="https://parsiya.net/blog/2019-06-18-chaining-three-bugs-to-get-rce-in-microsoft-attacksurfaceanalyzer/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
@@ -95,8 +101,12 @@
     
     </summary>
     
-      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
     
+      <category term="06" scheme="https://daily.tmr.js.org/categories/2019/06/"/>
+    
+    
+      <category term="公告" scheme="https://daily.tmr.js.org/tags/%E5%85%AC%E5%91%8A/"/>
     
   </entry>
   
@@ -105,7 +115,7 @@
     <link href="https://daily.tmr.js.org/d/20190618/"/>
     <id>https://daily.tmr.js.org/d/20190618/</id>
     <published>2019-06-18T01:44:57.000Z</published>
-    <updated>2019-06-19T04:12:17.992Z</updated>
+    <updated>2019-06-22T17:31:24.000Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20190618期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="寄一本书给那条「鱼」"><a href="#寄一本书给那条「鱼」" class="headerlink" title="寄一本书给那条「鱼」"></a>寄一本书给那条「鱼」</h3><p>多抓鱼的故事，很喜欢多抓鱼哈哈</p><p><a href="https://mp.weixin.qq.com/s/j-wl5Ae9-5eW0rnE_4HhiA" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="SACK-race-Linux-servers-in-urgent-need-of-patching-to-defend-against-new-DoS-threat"><a href="#SACK-race-Linux-servers-in-urgent-need-of-patching-to-defend-against-new-DoS-threat" class="headerlink" title="SACK race: Linux servers in urgent need of patching to defend against new DoS threat"></a>SACK race: Linux servers in urgent need of patching to defend against new DoS threat</h3><p>Linux TCP Dos漏洞，附<a href="https://cert.360.cn/warning/detail?id=27d0c6b825c75d8486c446556b9c9b68" target="_blank" rel="noopener">360分析文章</a></p><p><a href="https://portswigger.net/daily-swig/sack-race-linux-servers-in-urgent-need-of-patching-to-defend-against-new-dos-threat" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
@@ -116,7 +126,9 @@
     
     </summary>
     
-      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="06" scheme="https://daily.tmr.js.org/categories/2019/06/"/>
     
     
   </entry>
@@ -126,7 +138,7 @@
     <link href="https://daily.tmr.js.org/d/20190617/"/>
     <id>https://daily.tmr.js.org/d/20190617/</id>
     <published>2019-06-17T02:00:54.000Z</published>
-    <updated>2019-06-19T04:12:46.677Z</updated>
+    <updated>2019-06-22T17:36:03.240Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20190617期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#社会">社会</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*4，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>上线支持邮件订阅，目前处于测试阶段（也就是说有可能收不到）</p><p><a href="https://eepurl.com/gu0J4D" target="_blank" rel="noopener">点击订阅</a></p><p>只需要填邮箱就可以订阅了（可能需要过reCAPTCHA）</p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="5岁小女孩提的问题，把李老师也问崩溃了！"><a href="#5岁小女孩提的问题，把李老师也问崩溃了！" class="headerlink" title="5岁小女孩提的问题，把李老师也问崩溃了！"></a>5岁小女孩提的问题，把李老师也问崩溃了！</h3><p>太真实了，我以前就是“这个不考的”，再后来学会上网了，找到了很多答案（当年的知乎还是nb的，当然还有维基），也知道了很多东西到现在还是无解的</p><p>强烈安利李永乐老师</p><p><a href="https://www.youtube.com/watch?v=qzB1v9z7hk8" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="歌词里的摩斯密码证明-Google-窃取了-Genius-上的歌词"><a href="#歌词里的摩斯密码证明-Google-窃取了-Genius-上的歌词" class="headerlink" title="歌词里的摩斯密码证明 Google 窃取了 Genius 上的歌词"></a>歌词里的摩斯密码证明 Google 窃取了 Genius 上的歌词</h3><p>这波水印技术可以</p><p><a href="https://www.ifanr.com/1225212" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅谈Unicode设计的安全性"><a href="#浅谈Unicode设计的安全性" class="headerlink" title="浅谈Unicode设计的安全性"></a>浅谈Unicode设计的安全性</h3><p>总结很全面</p><p><a href="https://xz.aliyun.com/t/5402" target="_blank" rel="noopener">原文链接</a></p><h3 id="SATA硬盘win10不重装迁移到nvme-ssd的方法"><a href="#SATA硬盘win10不重装迁移到nvme-ssd的方法" class="headerlink" title="SATA硬盘win10不重装迁移到nvme ssd的方法"></a>SATA硬盘win10不重装迁移到nvme ssd的方法</h3><p>nb，学习了，还有win10启动自动优化的过程</p><blockquote><p>能不重装，坚决不重装！！！</p></blockquote><p><a href="https://www.jarviswang.me/?p=1078" target="_blank" rel="noopener">原文链接</a></p><h3 id="陌陌风控系统"><a href="#陌陌风控系统" class="headerlink" title="陌陌风控系统"></a>陌陌风控系统</h3><p>陌陌风控的一些介绍，已开源</p><p><a href="https://bithack.io/forum/305" target="_blank" rel="noopener">原文链接</a></p><h3 id="Microsoft-Management-Console-MMC-Vulnerabilities"><a href="#Microsoft-Management-Console-MMC-Vulnerabilities" class="headerlink" title="Microsoft Management Console (MMC) Vulnerabilities"></a>Microsoft Management Console (MMC) Vulnerabilities</h3><p>MMC漏洞可XSS和XXE，所以还是不要打开不明文件（<code>.msc</code>）</p><p><a href="https://research.checkpoint.com/microsoft-management-console-mmc-vulnerabilities/" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="治愈强迫症！史上最伟大50部动画之一：管梦"><a href="#治愈强迫症！史上最伟大50部动画之一：管梦" class="headerlink" title="治愈强迫症！史上最伟大50部动画之一：管梦"></a>治愈强迫症！史上最伟大50部动画之一：管梦</h3><p>音乐和动画的完美结合</p><p><a href="https://www.bilibili.com/video/av55846592" target="_blank" rel="noopener">视频链接</a></p>]]></content>
     
@@ -137,8 +149,12 @@
     
     </summary>
     
-      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
     
+      <category term="06" scheme="https://daily.tmr.js.org/categories/2019/06/"/>
+    
+    
+      <category term="公告" scheme="https://daily.tmr.js.org/tags/%E5%85%AC%E5%91%8A/"/>
     
   </entry>
   
@@ -147,7 +163,7 @@
     <link href="https://daily.tmr.js.org/d/20190616/"/>
     <id>https://daily.tmr.js.org/d/20190616/</id>
     <published>2019-06-16T07:08:20.000Z</published>
-    <updated>2019-06-17T03:11:27.434Z</updated>
+    <updated>2019-06-22T17:31:24.000Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20190616期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1，<a href="#文娱">文娱</a>*1，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="A-free-Argo-Tunnel-for-your-next-project"><a href="#A-free-Argo-Tunnel-for-your-next-project" class="headerlink" title="A free Argo Tunnel for your next project"></a>A free Argo Tunnel for your next project</h3><p>免费内网穿透（仅支持HTTP），自动HTTPS加密，可不登录使用，用的是<code>trycloudflare.com</code>子域，自定义域名需要付费Argo智能路由</p><p><a href="https://blog.cloudflare.com/a-free-argo-tunnel-for-your-next-project/" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="Game-of-Thrones-Opening-Cities-in-China"><a href="#Game-of-Thrones-Opening-Cities-in-China" class="headerlink" title="Game of Thrones Opening - Cities in China"></a>Game of Thrones Opening - Cities in China</h3><p>中国城市版《权力的游戏》片头</p><p><a href="https://www.youtube.com/watch?v=19MzdQCJ17A" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="大疆的这个可编程教育机器人，可真不是个一般的机器人"><a href="#大疆的这个可编程教育机器人，可真不是个一般的机器人" class="headerlink" title="大疆的这个可编程教育机器人，可真不是个一般的机器人"></a>大疆的这个可编程教育机器人，可真不是个一般的机器人</h3><p>看起来好玩</p><p><a href="https://www.pingwest.com/a/189311" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
@@ -158,7 +174,9 @@
     
     </summary>
     
-      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="06" scheme="https://daily.tmr.js.org/categories/2019/06/"/>
     
     
   </entry>
