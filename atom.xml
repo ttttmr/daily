@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-06-21T15:13:08.090Z</updated>
+  <updated>2019-06-22T14:48:19.179Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190622期</title>
+    <link href="https://daily.tmr.js.org/d/20190622/"/>
+    <id>https://daily.tmr.js.org/d/20190622/</id>
+    <published>2019-06-22T04:46:31.000Z</published>
+    <updated>2019-06-22T14:48:19.179Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190622期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="小事-·-为了高考，他们偷偷让孩子吸毒"><a href="#小事-·-为了高考，他们偷偷让孩子吸毒" class="headerlink" title="小事 · 为了高考，他们偷偷让孩子吸毒"></a>小事 · 为了高考，他们偷偷让孩子吸毒</h3><p>高考真的没有那么重要</p><p><a href="https://news-at.zhihu.com/story/9712705" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Windows-Terminal-Microsoft-Store-Preview-Release"><a href="#Windows-Terminal-Microsoft-Store-Preview-Release" class="headerlink" title="Windows Terminal Microsoft Store Preview Release"></a>Windows Terminal Microsoft Store Preview Release</h3><blockquote><p>The Windows Terminal preview is now in the Microsoft Store!</p></blockquote><p>需要1903版本以上，然而我至今没有收到1903的更新 = =</p><p><a href="https://devblogs.microsoft.com/commandline/windows-terminal-microsoft-store-preview-release/" target="_blank" rel="noopener">原文链接</a></p><h3 id="从PEP学习Python"><a href="#从PEP学习Python" class="headerlink" title="从PEP学习Python"></a>从PEP学习Python</h3><p><a href="https://www.jiqizhixin.com/articles/2018-11-09-4" target="_blank" rel="noopener">学习Python，怎能不懂点PEP呢？</a></p><p><a href="https://www.zhihu.com/question/23484654" target="_blank" rel="noopener">python 的众多PEP 之中，除了PEP8 ，还有哪一些是值得阅读的？</a></p><p><a href="https://www.python.org/dev/peps/" target="_blank" rel="noopener">PEP 0 – Index of Python Enhancement Proposals (PEPs)</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190622期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190621期</title>
@@ -134,27 +155,6 @@
     
       &lt;p&gt;透明日报第20190616期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="201906" scheme="https://daily.tmr.js.org/categories/201906/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190615期</title>
-    <link href="https://daily.tmr.js.org/d/20190615/"/>
-    <id>https://daily.tmr.js.org/d/20190615/</id>
-    <published>2019-06-15T03:06:01.000Z</published>
-    <updated>2019-06-17T03:11:27.434Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190615期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*4，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="好奇心日报「大公司头条」的产品资讯和其他商业信息"><a href="#好奇心日报「大公司头条」的产品资讯和其他商业信息" class="headerlink" title="好奇心日报「大公司头条」的产品资讯和其他商业信息"></a>好奇心日报「大公司头条」的产品资讯和其他商业信息</h3><p>好奇心日报邮件订阅</p><p><a href="https://www.mysubmail.com/subscribe/686Tt3/" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="宏观视角下的office漏洞（2010-2018）"><a href="#宏观视角下的office漏洞（2010-2018）" class="headerlink" title="宏观视角下的office漏洞（2010-2018）"></a>宏观视角下的office漏洞（2010-2018）</h3><p>这些年来office的漏洞总结，一大波漏洞分析</p><blockquote><p>希望这篇文章可以帮助到后续从事office漏洞研究的人</p></blockquote><p><a href="https://www.anquanke.com/post/id/180067" target="_blank" rel="noopener">原文链接</a></p><h3 id="JSFinder—从js文件中寻找敏感接口和子域名"><a href="#JSFinder—从js文件中寻找敏感接口和子域名" class="headerlink" title="JSFinder—从js文件中寻找敏感接口和子域名"></a>JSFinder—从js文件中寻找敏感接口和子域名</h3><p>好东西</p><p><a href="https://xz.aliyun.com/t/5390" target="_blank" rel="noopener">原文链接</a></p><h3 id="C-避坑指南"><a href="#C-避坑指南" class="headerlink" title="C++避坑指南"></a>C++避坑指南</h3><p>话说有一段时间没碰C++了</p><p><a href="https://mp.weixin.qq.com/s/_MmlDCg_9Yx-JA77IwYK4w" target="_blank" rel="noopener">原文链接</a></p><h3 id="某博国际版3-1-6去广告"><a href="#某博国际版3-1-6去广告" class="headerlink" title="某博国际版3.1.6去广告"></a>某博国际版3.1.6去广告</h3><p>安卓逆向去广告</p><p><a href="http://www.leadroyal.cn/?p=871" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="tombkeeper微博"><a href="#tombkeeper微博" class="headerlink" title="tombkeeper微博"></a>tombkeeper微博</h3><p>十分真实，不管会不会，搞起来先</p><p><a href="https://weibo.com/1401527553/Hz2wHelol" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190615期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
