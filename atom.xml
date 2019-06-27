@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-06-26T15:21:15.178Z</updated>
+  <updated>2019-06-27T14:46:27.984Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190627期</title>
+    <link href="https://daily.tmr.js.org/d/20190627/"/>
+    <id>https://daily.tmr.js.org/d/20190627/</id>
+    <published>2019-06-27T04:25:31.000Z</published>
+    <updated>2019-06-27T14:46:27.984Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190627期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="为什么切尔诺贝利当地的植物没有死于癌症"><a href="#为什么切尔诺贝利当地的植物没有死于癌症" class="headerlink" title="为什么切尔诺贝利当地的植物没有死于癌症"></a>为什么切尔诺贝利当地的植物没有死于癌症</h3><p>植物还是很顽强的</p><blockquote><p>核事故对生态系统的破坏性远远低于人类自身</p></blockquote><p><a href="http://jandan.net/2019/06/27/chernobyl-plants.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="Brave-新-Rust-引擎改进广告屏蔽性能-69-倍"><a href="#Brave-新-Rust-引擎改进广告屏蔽性能-69-倍" class="headerlink" title="Brave 新 Rust 引擎改进广告屏蔽性能 69 倍"></a>Brave 新 Rust 引擎改进广告屏蔽性能 69 倍</h3><p>Brave用起来还是挺不错的，移动端浏览器还在用Chrome的同学可以考虑一下</p><p><a href="https://www.solidot.org/story?sid=61148" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="关于常见的几种免杀工具的对比"><a href="#关于常见的几种免杀工具的对比" class="headerlink" title="关于常见的几种免杀工具的对比"></a>关于常见的几种免杀工具的对比</h3><p><a href="https://bithack.io/forum/346" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190627期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="06" scheme="https://daily.tmr.js.org/categories/2019/06/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190626期</title>
@@ -144,29 +167,6 @@
     
       &lt;p&gt;透明日报第20190621期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="06" scheme="https://daily.tmr.js.org/categories/2019/06/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190620期</title>
-    <link href="https://daily.tmr.js.org/d/20190620/"/>
-    <id>https://daily.tmr.js.org/d/20190620/</id>
-    <published>2019-06-20T01:04:30.000Z</published>
-    <updated>2019-06-22T17:31:24.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190620期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*4，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="【游戏安全】利用CheatEngine工具Ultimap功能对抗游戏数据加密以及拓展"><a href="#【游戏安全】利用CheatEngine工具Ultimap功能对抗游戏数据加密以及拓展" class="headerlink" title="【游戏安全】利用CheatEngine工具Ultimap功能对抗游戏数据加密以及拓展"></a>【游戏安全】利用CheatEngine工具Ultimap功能对抗游戏数据加密以及拓展</h3><p>CE还能通过调用追查，学习了</p><p><a href="https://mp.weixin.qq.com/s/0XC4vBw9Fizs4OYn-6NCTQ" target="_blank" rel="noopener">原文链接</a></p><h3 id="关于《网络安全漏洞管理规定》的一些意见"><a href="#关于《网络安全漏洞管理规定》的一些意见" class="headerlink" title="关于《网络安全漏洞管理规定》的一些意见"></a>关于《网络安全漏洞管理规定》的一些意见</h3><blockquote><p>说句不好听的，我今天爆出了一个漏洞，我不发布poc，无法证明他的危害，按目前中国的办事效率。<br>我tm明年都别想看见内网的任何一台设备打上补丁</p></blockquote><p><a href="https://mp.weixin.qq.com/s/5b-LIxHOua4UFDL6TGS36g" target="_blank" rel="noopener">原文链接</a></p><h3 id="从CVE-2019-2725绕过谈Weblogic-XML-RCE的绕过史"><a href="#从CVE-2019-2725绕过谈Weblogic-XML-RCE的绕过史" class="headerlink" title="从CVE-2019-2725绕过谈Weblogic XML RCE的绕过史"></a>从CVE-2019-2725绕过谈Weblogic XML RCE的绕过史</h3><p>这几年Weblogi的XMLDecoder漏洞分析</p><p><a href="https://www.freebuf.com/vuls/206374.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="群控进化史，黑产攻击效率提升带来的防守困境"><a href="#群控进化史，黑产攻击效率提升带来的防守困境" class="headerlink" title="群控进化史，黑产攻击效率提升带来的防守困境"></a>群控进化史，黑产攻击效率提升带来的防守困境</h3><p>现在的群控已经升级到没屏幕了…</p><p><a href="https://www.anquanke.com/post/id/180650" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="到底多硬核的玩家才算硬核玩家？有数据研究公司做了一个“玩家画像”工具"><a href="#到底多硬核的玩家才算硬核玩家？有数据研究公司做了一个“玩家画像”工具" class="headerlink" title="到底多硬核的玩家才算硬核玩家？有数据研究公司做了一个“玩家画像”工具"></a>到底多硬核的玩家才算硬核玩家？有数据研究公司做了一个“玩家画像”工具</h3><p>测了一下我是爆米花玩家（然而我觉得不准，因为不怎么看视频</p><p><a href="http://www.yystv.cn/p/5264" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190620期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
