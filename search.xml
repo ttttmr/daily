@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>透明日报20190628期</title>
+      <link href="/d/20190628/"/>
+      <url>/d/20190628/</url>
+      
+        <content type="html"><![CDATA[<p>透明日报第20190628期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*6，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="头条的官司与互联网时代的个人隐私"><a href="#头条的官司与互联网时代的个人隐私" class="headerlink" title="头条的官司与互联网时代的个人隐私"></a>头条的官司与互联网时代的个人隐私</h3><p>各种毒瘤APP索要权限确实没有办法，虽然在Android上有解决办法（Xposed+XPrivacy），但技术壁垒在那里，不是所有人能做到的，真的希望国产定制Android（MIUI，Flyme之类）能够集成并自动化这一过程，请求权限的时候提示：拒绝、允许、随机模拟</p><p>所以我总是教父母，软件权限能禁就禁，软件打不开了再给权限</p><p><a href="https://mp.weixin.qq.com/s/GThjKNYflhfO7Ss3smzhJg" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="路由器0day漏洞挖掘实战"><a href="#路由器0day漏洞挖掘实战" class="headerlink" title="路由器0day漏洞挖掘实战"></a>路由器0day漏洞挖掘实战</h3><p>路由漏洞挖掘，固件提取，然后Web审计+二进制逆向和动态调试</p><p><a href="https://www.anquanke.com/post/id/180714" target="_blank" rel="noopener">原文链接</a></p><h3 id="结合-CVE-2019-1040-漏洞的两种域提权利用深度分析"><a href="#结合-CVE-2019-1040-漏洞的两种域提权利用深度分析" class="headerlink" title="结合 CVE-2019-1040 漏洞的两种域提权利用深度分析"></a>结合 CVE-2019-1040 漏洞的两种域提权利用深度分析</h3><p>嗯看不懂，但是很厉害</p><p><a href="https://paper.seebug.org/962/" target="_blank" rel="noopener">原文链接</a></p><h3 id="Web日志安全分析技巧"><a href="#Web日志安全分析技巧" class="headerlink" title="Web日志安全分析技巧"></a>Web日志安全分析技巧</h3><p>一些常用日志分析命令</p><p><a href="https://mp.weixin.qq.com/s/CtnHy9X7_csTwrG5KJvDjg" target="_blank" rel="noopener">原文链接</a></p><h3 id="威胁情报从哪儿来，你知道吗？"><a href="#威胁情报从哪儿来，你知道吗？" class="headerlink" title="威胁情报从哪儿来，你知道吗？"></a>威胁情报从哪儿来，你知道吗？</h3><p>微步和VirusTotal算是比较好用的</p><p><a href="https://mp.weixin.qq.com/s/fFITxkqt78vTJ_9Fpi9UYw" target="_blank" rel="noopener">原文链接</a></p><h3 id="Google2019CTF-web-解题思路"><a href="#Google2019CTF-web-解题思路" class="headerlink" title="Google2019CTF web 解题思路"></a>Google2019CTF web 解题思路</h3><p>web1用xml解感觉还是有点脑洞，看了ctftime上也都是<a href="https://ctftime.org/task/8791" target="_blank" rel="noopener">这个解法</a>，主要来源是<a href="https://blog.netspi.com/playing-content-type-xxe-json-endpoints/" target="_blank" rel="noopener">NetSPI在15年的一篇文章</a>，但是还是没想明白为什么会有这样的洞</p><p>web2作者的思路给跪了，附上ctftime上<a href="https://ctftime.org/writeup/15812" target="_blank" rel="noopener">gLotto的writeup</a>（作者说好放参考链接，然而并没有）</p><p><a href="https://xz.aliyun.com/t/5503" target="_blank" rel="noopener">原文链接</a></p><h3 id="JS开发常用工具函数"><a href="#JS开发常用工具函数" class="headerlink" title="JS开发常用工具函数"></a>JS开发常用工具函数</h3><p>作者列举了46个常用的自定义工具函数，十分诚实的标题…</p><p><a href="https://segmentfault.com/a/1190000019601333" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="在暴风雨天洗澡安全吗？"><a href="#在暴风雨天洗澡安全吗？" class="headerlink" title="在暴风雨天洗澡安全吗？"></a>在暴风雨天洗澡安全吗？</h3><p>文中说是不安全的，我之前也想过这个问题，虽然我也觉得不安全，但我依旧怀疑它是安全的（就是这么矛盾…）</p><p><a href="http://jandan.net/2019/06/28/dangerous-to-bathe.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2019 </category>
+          
+          <category> 06 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190627期</title>
       <link href="/d/20190627/"/>
       <url>/d/20190627/</url>
