@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-06-28T15:21:03.703Z</updated>
+  <updated>2019-06-29T15:43:36.265Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190629期</title>
+    <link href="https://daily.tmr.js.org/d/20190629/"/>
+    <id>https://daily.tmr.js.org/d/20190629/</id>
+    <published>2019-06-29T02:58:54.000Z</published>
+    <updated>2019-06-29T15:43:36.265Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190629期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1，<a href="#文娱">文娱</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="复盘攻防，再聊安全"><a href="#复盘攻防，再聊安全" class="headerlink" title="复盘攻防，再聊安全"></a>复盘攻防，再聊安全</h3><p>这次护网行动的一些总结和思考</p><p><a href="https://bithack.io/forum/352" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="说不出的奇妙舒适！2500张照片做成1分钟定格"><a href="#说不出的奇妙舒适！2500张照片做成1分钟定格" class="headerlink" title="说不出的奇妙舒适！2500张照片做成1分钟定格"></a>说不出的奇妙舒适！2500张照片做成1分钟定格</h3><p>动画流畅，音效搭配也很棒</p><p><a href="https://www.bilibili.com/video/av56918237" target="_blank" rel="noopener">原文链接</a></p><h3 id="AniOne-爱我的，除了马桶，还有…-真实不做作的中国美术学院毕设动画《风又吹了起来》"><a href="#AniOne-爱我的，除了马桶，还有…-真实不做作的中国美术学院毕设动画《风又吹了起来》" class="headerlink" title="AniOne | 爱我的，除了马桶，还有… : 真实不做作的中国美术学院毕设动画《风又吹了起来》"></a>AniOne | 爱我的，除了马桶，还有… : 真实不做作的中国美术学院毕设动画《风又吹了起来》</h3><p>虽然不喜欢这个画风，但内容还是不错的</p><p><a href="https://www.bilibili.com/video/av56668616" target="_blank" rel="noopener">原文链接</a></p><h3 id="AniOne-看完这个超精美的3D毕设，我却叹息了，你呢-：同济大学毕设动画《冬》"><a href="#AniOne-看完这个超精美的3D毕设，我却叹息了，你呢-：同济大学毕设动画《冬》" class="headerlink" title="AniOne | 看完这个超精美的3D毕设，我却叹息了，你呢? ：同济大学毕设动画《冬》"></a>AniOne | 看完这个超精美的3D毕设，我却叹息了，你呢? ：同济大学毕设动画《冬》</h3><p>问题不在于孩子的善良却做错了事（实力坑爹），而在于父子沟通</p><p><a href="https://www.bilibili.com/video/av57023141" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190629期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*3&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="06" scheme="https://daily.tmr.js.org/categories/2019/06/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190628期</title>
@@ -144,29 +167,6 @@
     
       &lt;p&gt;透明日报第20190623期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="06" scheme="https://daily.tmr.js.org/categories/2019/06/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190622期</title>
-    <link href="https://daily.tmr.js.org/d/20190622/"/>
-    <id>https://daily.tmr.js.org/d/20190622/</id>
-    <published>2019-06-22T04:46:31.000Z</published>
-    <updated>2019-06-22T17:31:24.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190622期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="小事-·-为了高考，他们偷偷让孩子吸毒"><a href="#小事-·-为了高考，他们偷偷让孩子吸毒" class="headerlink" title="小事 · 为了高考，他们偷偷让孩子吸毒"></a>小事 · 为了高考，他们偷偷让孩子吸毒</h3><p>高考真的没有那么重要</p><p><a href="https://news-at.zhihu.com/story/9712705" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Windows-Terminal-Microsoft-Store-Preview-Release"><a href="#Windows-Terminal-Microsoft-Store-Preview-Release" class="headerlink" title="Windows Terminal Microsoft Store Preview Release"></a>Windows Terminal Microsoft Store Preview Release</h3><blockquote><p>The Windows Terminal preview is now in the Microsoft Store!</p></blockquote><p>需要1903版本以上，然而我至今没有收到1903的更新 = =</p><p><a href="https://devblogs.microsoft.com/commandline/windows-terminal-microsoft-store-preview-release/" target="_blank" rel="noopener">原文链接</a></p><h3 id="从PEP学习Python"><a href="#从PEP学习Python" class="headerlink" title="从PEP学习Python"></a>从PEP学习Python</h3><p><a href="https://www.jiqizhixin.com/articles/2018-11-09-4" target="_blank" rel="noopener">学习Python，怎能不懂点PEP呢？</a></p><p><a href="https://www.zhihu.com/question/23484654" target="_blank" rel="noopener">python 的众多PEP 之中，除了PEP8 ，还有哪一些是值得阅读的？</a></p><p><a href="https://www.python.org/dev/peps/" target="_blank" rel="noopener">PEP 0 – Index of Python Enhancement Proposals (PEPs)</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190622期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
