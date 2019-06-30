@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-06-29T15:43:36.265Z</updated>
+  <updated>2019-06-30T14:37:41.992Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190630期</title>
+    <link href="https://daily.tmr.js.org/d/20190630/"/>
+    <id>https://daily.tmr.js.org/d/20190630/</id>
+    <published>2019-06-30T06:40:29.000Z</published>
+    <updated>2019-06-30T14:37:41.992Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190630期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="imagemagick邂逅getimagesize的那点事儿"><a href="#imagemagick邂逅getimagesize的那点事儿" class="headerlink" title="imagemagick邂逅getimagesize的那点事儿"></a>imagemagick邂逅getimagesize的那点事儿</h3><p>getimagesize绕过技巧</p><p><a href="https://www.leavesongs.com/PENETRATION/when-imagemagick-meet-getimagesize.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="区块链概念科普"><a href="#区块链概念科普" class="headerlink" title="区块链概念科普"></a>区块链概念科普</h3><p>不了解的同学可以看看</p><p><a href="https://www.anquanke.com/post/id/179833" target="_blank" rel="noopener">区块链安全入门笔记（一） | 慢雾科普</a></p><p><a href="https://www.anquanke.com/post/id/180108" target="_blank" rel="noopener">区块链安全入门笔记（二） | 慢雾科普</a></p><p><a href="https://www.anquanke.com/post/id/181136" target="_blank" rel="noopener">区块链安全入门笔记（三） | 慢雾科普</a></p><h3 id="浅谈汇编器、编译器和解释器"><a href="#浅谈汇编器、编译器和解释器" class="headerlink" title="浅谈汇编器、编译器和解释器"></a>浅谈汇编器、编译器和解释器</h3><p>也算是各种编程语言的发展吧</p><p>话说还有很多人连编辑器和编译器都分不清…</p><p><a href="https://linux.cn/article-11021-1.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="B站虚拟主播生存现状：半年内数量翻倍，5月开播人数近千位"><a href="#B站虚拟主播生存现状：半年内数量翻倍，5月开播人数近千位" class="headerlink" title="B站虚拟主播生存现状：半年内数量翻倍，5月开播人数近千位"></a>B站虚拟主播生存现状：半年内数量翻倍，5月开播人数近千位</h3><p>人们对着电脑看着虚拟主播表演，怎么看都觉得魔幻</p><p><a href="http://youxiputao.com/articles/18021" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190630期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="06" scheme="https://daily.tmr.js.org/categories/2019/06/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190629期</title>
@@ -144,29 +167,6 @@
     
       &lt;p&gt;透明日报第20190624期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="06" scheme="https://daily.tmr.js.org/categories/2019/06/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190623期</title>
-    <link href="https://daily.tmr.js.org/d/20190623/"/>
-    <id>https://daily.tmr.js.org/d/20190623/</id>
-    <published>2019-06-23T04:26:10.000Z</published>
-    <updated>2019-06-23T15:13:00.153Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190623期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="日报百日总结"><a href="#日报百日总结" class="headerlink" title="日报百日总结"></a>日报百日总结</h3><p>不知不觉日报已经发了 100 篇了，假装总结一下</p><p><a href="https://tmr.js.org/p/e3af6438/" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Steam-商店页面和游戏上传"><a href="#Steam-商店页面和游戏上传" class="headerlink" title="Steam 商店页面和游戏上传"></a>Steam 商店页面和游戏上传</h3><p>如何在Steam上发布一个游戏（mark，万一我也开发游戏了呢哈哈）</p><p><a href="https://indienova.com/indie-game-development/hands-on-steamworks/" target="_blank" rel="noopener">原文链接</a></p><h3 id="探索-Linux-上的-run"><a href="#探索-Linux-上的-run" class="headerlink" title="探索 Linux 上的 /run"></a>探索 Linux 上的 /run</h3><p><code>/run</code>文件学习，比如很多<code>sock</code>文件就会放在<code>/run</code>里</p><p>那么问题来了，是谁初始化<code>/run</code>里面文件和文件夹的？</p><p><a href="https://linux.cn/article-11008-1.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190623期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
