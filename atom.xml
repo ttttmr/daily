@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-06-30T14:37:41.992Z</updated>
+  <updated>2019-07-01T15:05:20.244Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190701期</title>
+    <link href="https://daily.tmr.js.org/d/20190701/"/>
+    <id>https://daily.tmr.js.org/d/20190701/</id>
+    <published>2019-07-01T00:52:32.000Z</published>
+    <updated>2019-07-01T15:05:20.244Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190701期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="SQL注入有趣姿势总结"><a href="#SQL注入有趣姿势总结" class="headerlink" title="SQL注入有趣姿势总结"></a>SQL注入有趣姿势总结</h3><p>各种注入技巧</p><p><a href="https://xz.aliyun.com/t/5505" target="_blank" rel="noopener">原文链接</a></p><h3 id="如何成为一名优秀的业务人员-工程师？"><a href="#如何成为一名优秀的业务人员-工程师？" class="headerlink" title="如何成为一名优秀的业务人员/工程师？"></a>如何成为一名优秀的业务人员/工程师？</h3><p>简单的问题复杂化和复杂的问题做简单，这个两个点是最难的</p><p><a href="https://www.barretlee.com/blog/2019/06/15/to-be-excellent-in-work/" target="_blank" rel="noopener">原文链接</a></p><h3 id="在-Fedora-中利用-ffsend-使用-Firefox-Send"><a href="#在-Fedora-中利用-ffsend-使用-Firefox-Send" class="headerlink" title="在 Fedora 中利用 ffsend 使用 Firefox Send"></a>在 Fedora 中利用 ffsend 使用 Firefox Send</h3><p>其实是支持Windows，Linux和macOS</p><p><a href="https://github.com/timvisee/ffsend" target="_blank" rel="noopener">Repo链接</a></p><p><a href="https://linux.cn/article-11042-1.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190701期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="07" scheme="https://daily.tmr.js.org/categories/2019/07/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190630期</title>
@@ -144,29 +167,6 @@
     
       &lt;p&gt;透明日报第20190625期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="06" scheme="https://daily.tmr.js.org/categories/2019/06/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190624期</title>
-    <link href="https://daily.tmr.js.org/d/20190624/"/>
-    <id>https://daily.tmr.js.org/d/20190624/</id>
-    <published>2019-06-24T02:47:44.000Z</published>
-    <updated>2019-06-24T15:02:40.765Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190624期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="汉语方言的形成原因及地理分布"><a href="#汉语方言的形成原因及地理分布" class="headerlink" title="汉语方言的形成原因及地理分布"></a>汉语方言的形成原因及地理分布</h3><p>方言是如何形成的</p><p><a href="http://blog.renren.com/share/222927469/14430301023" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="UEFI和BIOS探秘-专栏文章索引"><a href="#UEFI和BIOS探秘-专栏文章索引" class="headerlink" title="UEFI和BIOS探秘 专栏文章索引"></a>UEFI和BIOS探秘 专栏文章索引</h3><p>计算机硬件相关文章，质量很不错，有硬核技术文章，也有简单科普，推荐关注专栏和作者</p><p>感兴趣的同学可以全部看一遍，我还没有看完，就我看过的来说，下面推荐一些十分实用的文章</p><p><a href="https://zhuanlan.zhihu.com/p/35786702" target="_blank" rel="noopener">原文链接</a></p><h3 id="SSD相关"><a href="#SSD相关" class="headerlink" title="SSD相关"></a>SSD相关</h3><p><a href="https://zhuanlan.zhihu.com/p/40607825" target="_blank" rel="noopener">如何给笔记本电脑加装个SSD？</a></p><p><a href="https://zhuanlan.zhihu.com/p/35773840" target="_blank" rel="noopener">如何安全快速的迁移你的系统到固态硬盘？</a></p><p><a href="https://zhuanlan.zhihu.com/p/34858149" target="_blank" rel="noopener">128G的固态硬盘为什么有的标120G，有的标100G？固态硬盘容量背后的秘密</a></p><h3 id="内存相关"><a href="#内存相关" class="headerlink" title="内存相关"></a>内存相关</h3><p><a href="https://zhuanlan.zhihu.com/p/26255460" target="_blank" rel="noopener">内存系列一：快速读懂内存条标签</a></p><p><a href="https://zhuanlan.zhihu.com/p/54517790" target="_blank" rel="noopener">内存条应该怎么插？为什么要从远端插起？不遵循为啥还可以work？有啥副作用？</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190624期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
     
     </summary>
     
