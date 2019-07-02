@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-07-01T15:05:20.244Z</updated>
+  <updated>2019-07-02T15:02:20.590Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190702期</title>
+    <link href="https://daily.tmr.js.org/d/20190702/"/>
+    <id>https://daily.tmr.js.org/d/20190702/</id>
+    <published>2019-07-02T14:16:03.000Z</published>
+    <updated>2019-07-02T15:02:20.590Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190702期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="如何看待上海新推行的垃圾分类办法？"><a href="#如何看待上海新推行的垃圾分类办法？" class="headerlink" title="如何看待上海新推行的垃圾分类办法？"></a>如何看待上海新推行的垃圾分类办法？</h3><p>文中也提到了一点就是，垃圾是如何分类的，依据是什么，告知市民什么东西如何分不如讲讲为什么这样分</p><p>另外文中提到了分类后具体处理的问题，看起来好像处理能力没有跟上</p><p><a href="https://news-at.zhihu.com/story/9712967" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Google’s-robots-txt-Parser-is-Now-Open-Source"><a href="#Google’s-robots-txt-Parser-is-Now-Open-Source" class="headerlink" title="Google’s robots.txt Parser is Now Open Source"></a>Google’s robots.txt Parser is Now Open Source</h3><p>robots解析器开源了</p><p><a href="https://opensource.googleblog.com/2019/07/googles-robotstxt-parser-is-now-open.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="Burp免费版支持黑色主题"><a href="#Burp免费版支持黑色主题" class="headerlink" title="Burp免费版支持黑色主题"></a>Burp免费版支持黑色主题</h3><p>Dark!</p><p><a href="https://twitter.com/Burp_Suite/status/1144551468235706368" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190702期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="07" scheme="https://daily.tmr.js.org/categories/2019/07/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190701期</title>
@@ -144,29 +167,6 @@
     
       &lt;p&gt;透明日报第20190626期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*3&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="06" scheme="https://daily.tmr.js.org/categories/2019/06/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190625期</title>
-    <link href="https://daily.tmr.js.org/d/20190625/"/>
-    <id>https://daily.tmr.js.org/d/20190625/</id>
-    <published>2019-06-25T06:45:58.000Z</published>
-    <updated>2019-06-25T14:08:43.880Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190625期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="标题越短事情越大-我肛赢了JD-22日上午已收到了赔偿"><a href="#标题越短事情越大-我肛赢了JD-22日上午已收到了赔偿" class="headerlink" title="[标题越短事情越大]我肛赢了JD-22日上午已收到了赔偿"></a>[标题越短事情越大]我肛赢了JD-22日上午已收到了赔偿</h3><p>经历分享文章，作者在京东上买到了假货，去法院起诉并获得赔偿</p><p><a href="https://bbs.nga.cn/read.php?tid=17659339&amp;_ff=-7&amp;rand=610" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="UEFI和BIOS探秘-系列文章"><a href="#UEFI和BIOS探秘-系列文章" class="headerlink" title="UEFI和BIOS探秘 系列文章"></a>UEFI和BIOS探秘 系列文章</h3><p><a href="https://zhuanlan.zhihu.com/p/30971549" target="_blank" rel="noopener">ME是什么？为啥要有ME？</a></p><p><a href="https://zhuanlan.zhihu.com/p/32294053" target="_blank" rel="noopener">低温对于锂电池有什么影响？兼谈锂电池的日常养护</a></p><p><a href="https://zhuanlan.zhihu.com/p/28630037" target="_blank" rel="noopener">显示分辨率之谜：谁决定了显示分辨率的大小？</a></p><p><a href="https://zhuanlan.zhihu.com/p/28859620" target="_blank" rel="noopener">如何远程开启你的电脑：WoL的原理和陷阱</a></p><p><a href="https://zhuanlan.zhihu.com/p/35519767" target="_blank" rel="noopener">UEFI+GPT单硬盘装win10和ubuntu16.04双系统(可远程切换系统)</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190625期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
