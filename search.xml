@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>透明日报20190703期</title>
+      <link href="/d/20190703/"/>
+      <url>/d/20190703/</url>
+      
+        <content type="html"><![CDATA[<p>透明日报第20190703期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*4，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Nuget-Squirrel-uncontrolled-endpoints-leads-to-arbitrary-code-execution"><a href="#Nuget-Squirrel-uncontrolled-endpoints-leads-to-arbitrary-code-execution" class="headerlink" title="Nuget/Squirrel uncontrolled endpoints leads to arbitrary code execution"></a>Nuget/Squirrel uncontrolled endpoints leads to arbitrary code execution</h3><p>不过这个不是默认安装的，不然也是极好的“一键主机上线”</p><p><a href="https://medium.com/@reegun/nuget-squirrel-uncontrolled-endpoints-leads-to-arbitrary-code-execution-80c9df51cf12" target="_blank" rel="noopener">原文链接</a></p><p><a href="https://medium.com/@reegun/update-nuget-squirrel-uncontrolled-endpoints-leads-to-arbitrary-code-execution-b55295144b56" target="_blank" rel="noopener">更新Part2</a></p><h3 id="2019-0ctf-final-Web-Writeup（1）"><a href="#2019-0ctf-final-Web-Writeup（1）" class="headerlink" title="2019 0ctf final Web Writeup（1）"></a>2019 0ctf final Web Writeup（1）</h3><p>open_basedir和disable_function的Bypass学习了</p><p><a href="https://skysec.top/2019/06/10/2019-0ctf-final-Web-Writeup/#wallbreaker-not-very-hard" target="_blank" rel="noopener">原文链接</a></p><h3 id="对于攻防的复盘和思考"><a href="#对于攻防的复盘和思考" class="headerlink" title="对于攻防的复盘和思考"></a>对于攻防的复盘和思考</h3><p>这次护网行动对整个安全圈的影响还是巨大的，但是这样的文章仍然总是在微信被删，诶</p><p><a href="https://bithack.io/forum/373" target="_blank" rel="noopener">原文链接</a></p><h3 id="互联网企业应用安全实战指南"><a href="#互联网企业应用安全实战指南" class="headerlink" title="互联网企业应用安全实战指南"></a>互联网企业应用安全实战指南</h3><p>找了很久，终于在今天找到原作了</p><p><a href="https://zine.la/booklet/207e3326e4254897806574544470d11d/" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="为什么所有的亲密关系，到最后都会变得平淡如水？"><a href="#为什么所有的亲密关系，到最后都会变得平淡如水？" class="headerlink" title="为什么所有的亲密关系，到最后都会变得平淡如水？"></a>为什么所有的亲密关系，到最后都会变得平淡如水？</h3><p>—— 是不是所有的亲密关系，到最后都会变得「平淡如水」？</p><blockquote><p>这和友谊不同，友谊是可以停止在某种程度上的了解，恋爱却是不停止的，是追求</p></blockquote><p><a href="https://news-at.zhihu.com/story/9712984" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2019 </category>
+          
+          <category> 07 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190702期</title>
       <link href="/d/20190702/"/>
       <url>/d/20190702/</url>

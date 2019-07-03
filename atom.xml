@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-07-02T15:02:20.590Z</updated>
+  <updated>2019-07-03T14:54:22.242Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190703期</title>
+    <link href="https://daily.tmr.js.org/d/20190703/"/>
+    <id>https://daily.tmr.js.org/d/20190703/</id>
+    <published>2019-07-03T03:13:06.000Z</published>
+    <updated>2019-07-03T14:54:22.242Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190703期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*4，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Nuget-Squirrel-uncontrolled-endpoints-leads-to-arbitrary-code-execution"><a href="#Nuget-Squirrel-uncontrolled-endpoints-leads-to-arbitrary-code-execution" class="headerlink" title="Nuget/Squirrel uncontrolled endpoints leads to arbitrary code execution"></a>Nuget/Squirrel uncontrolled endpoints leads to arbitrary code execution</h3><p>不过这个不是默认安装的，不然也是极好的“一键主机上线”</p><p><a href="https://medium.com/@reegun/nuget-squirrel-uncontrolled-endpoints-leads-to-arbitrary-code-execution-80c9df51cf12" target="_blank" rel="noopener">原文链接</a></p><p><a href="https://medium.com/@reegun/update-nuget-squirrel-uncontrolled-endpoints-leads-to-arbitrary-code-execution-b55295144b56" target="_blank" rel="noopener">更新Part2</a></p><h3 id="2019-0ctf-final-Web-Writeup（1）"><a href="#2019-0ctf-final-Web-Writeup（1）" class="headerlink" title="2019 0ctf final Web Writeup（1）"></a>2019 0ctf final Web Writeup（1）</h3><p>open_basedir和disable_function的Bypass学习了</p><p><a href="https://skysec.top/2019/06/10/2019-0ctf-final-Web-Writeup/#wallbreaker-not-very-hard" target="_blank" rel="noopener">原文链接</a></p><h3 id="对于攻防的复盘和思考"><a href="#对于攻防的复盘和思考" class="headerlink" title="对于攻防的复盘和思考"></a>对于攻防的复盘和思考</h3><p>这次护网行动对整个安全圈的影响还是巨大的，但是这样的文章仍然总是在微信被删，诶</p><p><a href="https://bithack.io/forum/373" target="_blank" rel="noopener">原文链接</a></p><h3 id="互联网企业应用安全实战指南"><a href="#互联网企业应用安全实战指南" class="headerlink" title="互联网企业应用安全实战指南"></a>互联网企业应用安全实战指南</h3><p>找了很久，终于在今天找到原作了</p><p><a href="https://zine.la/booklet/207e3326e4254897806574544470d11d/" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="为什么所有的亲密关系，到最后都会变得平淡如水？"><a href="#为什么所有的亲密关系，到最后都会变得平淡如水？" class="headerlink" title="为什么所有的亲密关系，到最后都会变得平淡如水？"></a>为什么所有的亲密关系，到最后都会变得平淡如水？</h3><p>—— 是不是所有的亲密关系，到最后都会变得「平淡如水」？</p><blockquote><p>这和友谊不同，友谊是可以停止在某种程度上的了解，恋爱却是不停止的，是追求</p></blockquote><p><a href="https://news-at.zhihu.com/story/9712984" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190703期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="07" scheme="https://daily.tmr.js.org/categories/2019/07/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190702期</title>
@@ -144,29 +167,6 @@
     
       &lt;p&gt;透明日报第20190627期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="06" scheme="https://daily.tmr.js.org/categories/2019/06/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190626期</title>
-    <link href="https://daily.tmr.js.org/d/20190626/"/>
-    <id>https://daily.tmr.js.org/d/20190626/</id>
-    <published>2019-06-26T04:58:59.000Z</published>
-    <updated>2019-06-26T15:21:15.178Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190626期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*1，<a href="#其他">其他</a>*3</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="北京那么多人的排泄物去哪里了？"><a href="#北京那么多人的排泄物去哪里了？" class="headerlink" title="北京那么多人的排泄物去哪里了？"></a>北京那么多人的排泄物去哪里了？</h3><p>其实城市卫生问题很重要，也算是基础设施建设吧</p><p><a href="https://news-at.zhihu.com/story/9712766" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="如何利用社交网络获取骗子的实名信息–社会工程学入门"><a href="#如何利用社交网络获取骗子的实名信息–社会工程学入门" class="headerlink" title="如何利用社交网络获取骗子的实名信息–社会工程学入门"></a>如何利用社交网络获取骗子的实名信息–社会工程学入门</h3><p>要在网上查一个现代人，真的十分简单，本菜也曾干过这种事，于是从那开始就额外注意个人隐私</p><p>从防御的角度来说，不仅要做好单点隐私保护，如限制访问权限、不发个人敏感隐私信息等，更重要的是打断各点之间的联系，包括<strong>显式联系</strong>，如账号关联绑定、共用邮箱或手机号、社交账号展示等，还有<strong>隐式联系</strong>，如X站发布关于Y站的内容，包括但不限于文字和图片，需要额外注意的是还有链接，现在网络上大量分享链接都包含个人标识</p><p><a href="https://blog.502.li/get-someone-info" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="内网渗透：域渗透"><a href="#内网渗透：域渗透" class="headerlink" title="内网渗透：域渗透"></a>内网渗透：域渗透</h3><p>域渗透学习文章，主要是“域名前置 隐藏C2服务”的几篇文章可以看看</p><p><a href="https://bithack.io/forum/342" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="从高考填志愿谈起"><a href="#从高考填志愿谈起" class="headerlink" title="从高考填志愿谈起"></a>从高考填志愿谈起</h3><p>不知道有没有高中生读者（我猜没有），在现有成绩的基础上，选择城市、学校、专业，三者平衡，确实很难</p><p><a href="https://mp.weixin.qq.com/s/HhPKfiENRh4za43Om6o2Ww" target="_blank" rel="noopener">原文链接</a></p><h3 id="1-李老师开讲：孩子和狗在一起成长会发生什么？-（2）第二篇"><a href="#1-李老师开讲：孩子和狗在一起成长会发生什么？-（2）第二篇" class="headerlink" title="(1) 李老师开讲：孩子和狗在一起成长会发生什么？ - （2）第二篇"></a>(1) 李老师开讲：孩子和狗在一起成长会发生什么？ - （2）第二篇</h3><p>因为是p2，内容和标题没啥关系，主要是李永乐老师讲如何忽悠人</p><p><a href="https://www.bilibili.com/video/av24451349/?p=2" target="_blank" rel="noopener">原文链接</a></p><h3 id="左右手都划开一道口子，把两个伤口一直对在一起，会连起来吗？"><a href="#左右手都划开一道口子，把两个伤口一直对在一起，会连起来吗？" class="headerlink" title="左右手都划开一道口子，把两个伤口一直对在一起，会连起来吗？"></a>左右手都划开一道口子，把两个伤口一直对在一起，会连起来吗？</h3><p>会连起来的</p><p><a href="https://news-at.zhihu.com/story/9712682" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190626期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*3&lt;/p&gt;
     
     </summary>
     
