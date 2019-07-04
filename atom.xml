@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-07-03T14:54:22.242Z</updated>
+  <updated>2019-07-04T14:46:47.219Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,57 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>置顶公告</title>
+    <link href="https://daily.tmr.js.org/d/pin/"/>
+    <id>https://daily.tmr.js.org/d/pin/</id>
+    <published>2019-12-31T16:00:00.000Z</published>
+    <updated>2019-07-04T14:46:47.219Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>从今日起，日报将由<strong>日更</strong>改为<strong>不定期更新</strong>，如无意外会在<strong>年末恢复</strong>日更，感谢订阅</p></blockquote><p>引<a href="/d/20190704/#公告">20190704期日报</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;从今日起，日报将由&lt;strong&gt;日更&lt;/strong&gt;改为&lt;strong&gt;不定期更新&lt;/strong&gt;，如无意外会在&lt;strong&gt;年末恢复&lt;/strong&gt;日更，感谢订阅&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;引&lt;a href=&quot;/d/20
+      
+    
+    </summary>
+    
+    
+      <category term="公告" scheme="https://daily.tmr.js.org/tags/%E5%85%AC%E5%91%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>透明日报20190704期</title>
+    <link href="https://daily.tmr.js.org/d/20190704/"/>
+    <id>https://daily.tmr.js.org/d/20190704/</id>
+    <published>2019-07-04T02:29:53.000Z</published>
+    <updated>2019-07-04T15:18:14.274Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190704期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#互联网">互联网</a>*2，<a href="#技术">技术</a>*2，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>从今日起，日报将由<strong>日更</strong>改为<strong>不定期更新</strong>，如无意外会在<strong>年末恢复</strong>日更，感谢订阅</p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="中国政治与社会事件时间线"><a href="#中国政治与社会事件时间线" class="headerlink" title="中国政治与社会事件时间线"></a>中国政治与社会事件时间线</h3><blockquote><p>时间线能为我们清晰展示一个纷繁复杂的历史过程，以更好地理解过去、预测未来，并及时行动。</p></blockquote><p><a href="../20190522/#中美冷战中的华为">时间线</a>是个好东西，文章的数据可视化做得好玩</p><p><a href="https://chinatimeline.github.io/" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="Facebook全球崩溃11小时，暴露了科技巨头们用AI为你打的标签"><a href="#Facebook全球崩溃11小时，暴露了科技巨头们用AI为你打的标签" class="headerlink" title="Facebook全球崩溃11小时，暴露了科技巨头们用AI为你打的标签"></a>Facebook全球崩溃11小时，暴露了科技巨头们用AI为你打的标签</h3><p>Facebook用机器学习对用户上传的图片打标签</p><p><a href="https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&amp;mid=2650765277&amp;idx=1&amp;sn=a94e4db7d4f57039cb6646c02d2d186a#rd" target="_blank" rel="noopener">原文链接</a></p><h3 id="Facebook收国会议员联名公开信，要求停止Libra开发"><a href="#Facebook收国会议员联名公开信，要求停止Libra开发" class="headerlink" title="Facebook收国会议员联名公开信，要求停止Libra开发"></a>Facebook收国会议员联名公开信，要求停止Libra开发</h3><p>之前也<a href="../20190619/#解读Facebook加密稳定币Libra，看这一篇就够了">吐槽过</a>Libra，果然还是要动手管的</p><p><a href="https://36kr.com/p/5221883" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="phpMyAdmin-文件包含复现分析"><a href="#phpMyAdmin-文件包含复现分析" class="headerlink" title="phpMyAdmin 文件包含复现分析"></a>phpMyAdmin 文件包含复现分析</h3><p>一路跟代码分析和构造Payload</p><p><a href="https://xz.aliyun.com/t/5534" target="_blank" rel="noopener">原文链接</a></p><h3 id="从医学院进入网络安全行业的经历"><a href="#从医学院进入网络安全行业的经历" class="headerlink" title="从医学院进入网络安全行业的经历"></a>从医学院进入网络安全行业的经历</h3><p>TK教主的成长经历</p><p><a href="https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&amp;mid=2648256729&amp;idx=1&amp;sn=bca313cd6c80e401016a6bc23218cb10" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="讨论-你有过「一个人住」的经历吗？"><a href="#讨论-你有过「一个人住」的经历吗？" class="headerlink" title="讨论 | 你有过「一个人住」的经历吗？"></a>讨论 | 你有过「一个人住」的经历吗？</h3><p>文中有很多生活Tips的链接可以看看</p><p><a href="https://zhuanlan.zhihu.com/p/72213331" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190704期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*2，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="07" scheme="https://daily.tmr.js.org/categories/2019/07/"/>
+    
+    
+      <category term="公告" scheme="https://daily.tmr.js.org/tags/%E5%85%AC%E5%91%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>透明日报20190703期</title>
@@ -121,52 +172,6 @@
     
       &lt;p&gt;透明日报第20190629期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*3&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="06" scheme="https://daily.tmr.js.org/categories/2019/06/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190628期</title>
-    <link href="https://daily.tmr.js.org/d/20190628/"/>
-    <id>https://daily.tmr.js.org/d/20190628/</id>
-    <published>2019-06-28T06:12:34.000Z</published>
-    <updated>2019-06-28T15:21:03.703Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190628期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*6，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="头条的官司与互联网时代的个人隐私"><a href="#头条的官司与互联网时代的个人隐私" class="headerlink" title="头条的官司与互联网时代的个人隐私"></a>头条的官司与互联网时代的个人隐私</h3><p>各种毒瘤APP索要权限确实没有办法，虽然在Android上有解决办法（Xposed+XPrivacy），但技术壁垒在那里，不是所有人能做到的，真的希望国产定制Android（MIUI，Flyme之类）能够集成并自动化这一过程，请求权限的时候提示：拒绝、允许、随机模拟</p><p>所以我总是教父母，软件权限能禁就禁，软件打不开了再给权限</p><p><a href="https://mp.weixin.qq.com/s/GThjKNYflhfO7Ss3smzhJg" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="路由器0day漏洞挖掘实战"><a href="#路由器0day漏洞挖掘实战" class="headerlink" title="路由器0day漏洞挖掘实战"></a>路由器0day漏洞挖掘实战</h3><p>路由漏洞挖掘，固件提取，然后Web审计+二进制逆向和动态调试</p><p><a href="https://www.anquanke.com/post/id/180714" target="_blank" rel="noopener">原文链接</a></p><h3 id="结合-CVE-2019-1040-漏洞的两种域提权利用深度分析"><a href="#结合-CVE-2019-1040-漏洞的两种域提权利用深度分析" class="headerlink" title="结合 CVE-2019-1040 漏洞的两种域提权利用深度分析"></a>结合 CVE-2019-1040 漏洞的两种域提权利用深度分析</h3><p>嗯看不懂，但是很厉害</p><p><a href="https://paper.seebug.org/962/" target="_blank" rel="noopener">原文链接</a></p><h3 id="Web日志安全分析技巧"><a href="#Web日志安全分析技巧" class="headerlink" title="Web日志安全分析技巧"></a>Web日志安全分析技巧</h3><p>一些常用日志分析命令</p><p><a href="https://mp.weixin.qq.com/s/CtnHy9X7_csTwrG5KJvDjg" target="_blank" rel="noopener">原文链接</a></p><h3 id="威胁情报从哪儿来，你知道吗？"><a href="#威胁情报从哪儿来，你知道吗？" class="headerlink" title="威胁情报从哪儿来，你知道吗？"></a>威胁情报从哪儿来，你知道吗？</h3><p>微步和VirusTotal算是比较好用的</p><p><a href="https://mp.weixin.qq.com/s/fFITxkqt78vTJ_9Fpi9UYw" target="_blank" rel="noopener">原文链接</a></p><h3 id="Google2019CTF-web-解题思路"><a href="#Google2019CTF-web-解题思路" class="headerlink" title="Google2019CTF web 解题思路"></a>Google2019CTF web 解题思路</h3><p>web1用xml解感觉还是有点脑洞，看了ctftime上也都是<a href="https://ctftime.org/task/8791" target="_blank" rel="noopener">这个解法</a>，主要来源是<a href="https://blog.netspi.com/playing-content-type-xxe-json-endpoints/" target="_blank" rel="noopener">NetSPI在15年的一篇文章</a>，但是还是没想明白为什么会有这样的洞</p><p>web2作者的思路给跪了，附上ctftime上<a href="https://ctftime.org/writeup/15812" target="_blank" rel="noopener">gLotto的writeup</a>（作者说好放参考链接，然而并没有）</p><p><a href="https://xz.aliyun.com/t/5503" target="_blank" rel="noopener">原文链接</a></p><h3 id="JS开发常用工具函数"><a href="#JS开发常用工具函数" class="headerlink" title="JS开发常用工具函数"></a>JS开发常用工具函数</h3><p>作者列举了46个常用的自定义工具函数，十分诚实的标题…</p><p><a href="https://segmentfault.com/a/1190000019601333" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="在暴风雨天洗澡安全吗？"><a href="#在暴风雨天洗澡安全吗？" class="headerlink" title="在暴风雨天洗澡安全吗？"></a>在暴风雨天洗澡安全吗？</h3><p>文中说是不安全的，我之前也想过这个问题，虽然我也觉得不安全，但我依旧怀疑它是安全的（就是这么矛盾…）</p><p><a href="http://jandan.net/2019/06/28/dangerous-to-bathe.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190628期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*6，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="06" scheme="https://daily.tmr.js.org/categories/2019/06/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190627期</title>
-    <link href="https://daily.tmr.js.org/d/20190627/"/>
-    <id>https://daily.tmr.js.org/d/20190627/</id>
-    <published>2019-06-27T04:25:31.000Z</published>
-    <updated>2019-06-27T14:46:27.984Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190627期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="为什么切尔诺贝利当地的植物没有死于癌症"><a href="#为什么切尔诺贝利当地的植物没有死于癌症" class="headerlink" title="为什么切尔诺贝利当地的植物没有死于癌症"></a>为什么切尔诺贝利当地的植物没有死于癌症</h3><p>植物还是很顽强的</p><blockquote><p>核事故对生态系统的破坏性远远低于人类自身</p></blockquote><p><a href="http://jandan.net/2019/06/27/chernobyl-plants.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="Brave-新-Rust-引擎改进广告屏蔽性能-69-倍"><a href="#Brave-新-Rust-引擎改进广告屏蔽性能-69-倍" class="headerlink" title="Brave 新 Rust 引擎改进广告屏蔽性能 69 倍"></a>Brave 新 Rust 引擎改进广告屏蔽性能 69 倍</h3><p>Brave用起来还是挺不错的，移动端浏览器还在用Chrome的同学可以考虑一下</p><p><a href="https://www.solidot.org/story?sid=61148" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="关于常见的几种免杀工具的对比"><a href="#关于常见的几种免杀工具的对比" class="headerlink" title="关于常见的几种免杀工具的对比"></a>关于常见的几种免杀工具的对比</h3><p><a href="https://bithack.io/forum/346" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190627期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
