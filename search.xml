@@ -23,6 +23,27 @@
     
     
     <entry>
+      <title>透明日报20190717期</title>
+      <link href="/d/20190717/"/>
+      <url>/d/20190717/</url>
+      
+        <content type="html"><![CDATA[<p>透明日报第20190710期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*5，<a href="#文娱">文娱</a>*2，<a href="#其他">其他</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅析php-fpm的攻击方式"><a href="#浅析php-fpm的攻击方式" class="headerlink" title="浅析php-fpm的攻击方式"></a>浅析php-fpm的攻击方式</h3><p>总结很全</p><p><a href="https://xz.aliyun.com/t/5598" target="_blank" rel="noopener">原文链接</a></p><h3 id="PHDays的IDS-Bypass竞赛：writeup和解决方案"><a href="#PHDays的IDS-Bypass竞赛：writeup和解决方案" class="headerlink" title="PHDays的IDS Bypass竞赛：writeup和解决方案"></a>PHDays的IDS Bypass竞赛：writeup和解决方案</h3><p>很有意思，以Bypass IDS作为目标</p><p><a href="https://xz.aliyun.com/t/5576" target="_blank" rel="noopener">原文链接</a></p><h3 id="浅谈正则表达式原理"><a href="#浅谈正则表达式原理" class="headerlink" title="浅谈正则表达式原理"></a>浅谈正则表达式原理</h3><p><a href="http://www.alloyteam.com/2019/07/13574/" target="_blank" rel="noopener">原文链接</a></p><h3 id="蚁剑-disable-functions-研究"><a href="#蚁剑-disable-functions-研究" class="headerlink" title="蚁剑 disable_functions 研究"></a>蚁剑 disable_functions 研究</h3><p>蚁剑更新了利用 PHP-FPM 实现 bypass disable_functions，学习一波</p><p><a href="https://tmr.js.org/p/a63cefbc/" target="_blank" rel="noopener">原文链接</a></p><h3 id="Google-to-remove-Chrome’s-built-in-XSS-protection-XSS-Auditor"><a href="#Google-to-remove-Chrome’s-built-in-XSS-protection-XSS-Auditor" class="headerlink" title="Google to remove Chrome’s built-in XSS protection (XSS Auditor)"></a>Google to remove Chrome’s built-in XSS protection (XSS Auditor)</h3><p>XSS Auditor要被删掉了</p><p><a href="https://www.zdnet.com/article/google-to-remove-chromes-built-in-xss-protection-xss-auditor/" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="如何评价《怪奇物语》第三季"><a href="#如何评价《怪奇物语》第三季" class="headerlink" title="如何评价《怪奇物语》第三季?"></a>如何评价《怪奇物语》第三季?</h3><p>反正我觉得不怎么好看，不知道在讲啥…文中说到很多是八十年代的元素，无奈完全不懂</p><p>不过这评分高，是不是也反向说明了观影大部分都是八十年代的人</p><p><a href="https://news-at.zhihu.com/story/9713215" target="_blank" rel="noopener">原文链接</a></p><h3 id="国产电影维稳向前"><a href="#国产电影维稳向前" class="headerlink" title="国产电影维稳向前"></a>国产电影维稳向前</h3><p>好消息不断…</p><p><a href="https://m.huxiu.com/article/307488.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="「无反相机」是如何发展起来的？"><a href="#「无反相机」是如何发展起来的？" class="headerlink" title="「无反相机」是如何发展起来的？"></a>「无反相机」是如何发展起来的？</h3><p>学习了，不过后面很多专有名词也看不太懂</p><p><a href="https://www.zhihu.com/question/330480804/answer/738500937" target="_blank" rel="noopener">原文链接</a></p><h3 id="婴儿打疫苗，针打完几秒后才哭，是反应迟钝吗？"><a href="#婴儿打疫苗，针打完几秒后才哭，是反应迟钝吗？" class="headerlink" title="婴儿打疫苗，针打完几秒后才哭，是反应迟钝吗？"></a>婴儿打疫苗，针打完几秒后才哭，是反应迟钝吗？</h3><p>针扎的皮肤疼和注射的肌肉疼</p><p><a href="https://news-at.zhihu.com/story/9713330" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2019 </category>
+          
+          <category> 07 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190709期</title>
       <link href="/d/20190709/"/>
       <url>/d/20190709/</url>
