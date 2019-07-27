@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>透明日报20190727期</title>
+      <link href="/d/20190727/"/>
+      <url>/d/20190727/</url>
+      
+        <content type="html"><![CDATA[<p>透明日报第20190727期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="TabNine"><a href="#TabNine" class="headerlink" title="TabNine"></a>TabNine</h3><p>基于机器学习的自动代码补全，支持全语言，在VS Code里试用了一下，体验极佳</p><p><a href="https://tabnine.com/" target="_blank" rel="noopener">原文链接</a></p><h3 id="PHPCMS漏洞分析合集"><a href="#PHPCMS漏洞分析合集" class="headerlink" title="PHPCMS漏洞分析合集"></a>PHPCMS漏洞分析合集</h3><blockquote><p>本篇详细分析了 PHPCMS 的部分历史漏洞。其中多是以获取到漏洞点为场景，反向挖掘至漏洞触发入口</p></blockquote><p><a href="https://mochazz.github.io/2019/07/18/phpcms%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E5%90%88%E9%9B%86/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2019 </category>
+          
+          <category> 07 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190726期</title>
       <link href="/d/20190726/"/>
       <url>/d/20190726/</url>

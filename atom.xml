@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-07-26T15:32:13.533Z</updated>
+  <updated>2019-07-27T15:00:07.263Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>透明日报20190727期</title>
+    <link href="https://daily.tmr.js.org/d/20190727/"/>
+    <id>https://daily.tmr.js.org/d/20190727/</id>
+    <published>2019-07-27T15:00:01.000Z</published>
+    <updated>2019-07-27T15:00:07.263Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190727期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="TabNine"><a href="#TabNine" class="headerlink" title="TabNine"></a>TabNine</h3><p>基于机器学习的自动代码补全，支持全语言，在VS Code里试用了一下，体验极佳</p><p><a href="https://tabnine.com/" target="_blank" rel="noopener">原文链接</a></p><h3 id="PHPCMS漏洞分析合集"><a href="#PHPCMS漏洞分析合集" class="headerlink" title="PHPCMS漏洞分析合集"></a>PHPCMS漏洞分析合集</h3><blockquote><p>本篇详细分析了 PHPCMS 的部分历史漏洞。其中多是以获取到漏洞点为场景，反向挖掘至漏洞触发入口</p></blockquote><p><a href="https://mochazz.github.io/2019/07/18/phpcms%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E5%90%88%E9%9B%86/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190727期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="07" scheme="https://daily.tmr.js.org/categories/2019/07/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>透明日报20190726期</title>
     <link href="https://daily.tmr.js.org/d/20190726/"/>
     <id>https://daily.tmr.js.org/d/20190726/</id>
     <published>2019-07-26T15:32:05.000Z</published>
-    <updated>2019-07-26T15:32:13.533Z</updated>
+    <updated>2019-07-27T01:48:33.795Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20190726期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*4，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>恢复日更，全面自动化，并接收投稿<br>可通过 <a href="https://t.me/tm_daily_bot" target="_blank" rel="noopener">@透明日报 Bot</a>投稿</p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="中文排版指南"><a href="#中文排版指南" class="headerlink" title="中文排版指南"></a>中文排版指南</h3><p><a href="https://t.me/impNo" target="_blank" rel="noopener">@impNo</a>投稿</p><p>中文排版指南，可以作为写作参考</p><p><a href="https://tingtalk.me/typography/" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="你真的了解病毒分析吗？反病毒专家为你深度揭密"><a href="#你真的了解病毒分析吗？反病毒专家为你深度揭密" class="headerlink" title="你真的了解病毒分析吗？反病毒专家为你深度揭密"></a>你真的了解病毒分析吗？反病毒专家为你深度揭密</h3><p>不分析病毒怎么能防的住病毒，经常就能看到一些病毒分析的文章，360的比较多，其实也是很有趣的，一些病毒的骚操作</p><p><a href="https://www.freebuf.com/articles/database/208786.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="人物故事-腾讯安全联合实验室"><a href="#人物故事-腾讯安全联合实验室" class="headerlink" title="人物故事 - 腾讯安全联合实验室"></a>人物故事 - 腾讯安全联合实验室</h3><p>无意翻到这个，一些大佬的故事，想去腾讯了</p><p><a href="https://slab.qq.com/news/story/index.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="GFW技术评论"><a href="#GFW技术评论" class="headerlink" title="GFW技术评论"></a>GFW技术评论</h3><p>虽然是2010年的东西了，但也指出了墙上的缝，很硬核技术的研究，值得学习，当然到现在GFW技术已经改进了不少</p><p><a href="https://gfwrev.blogspot.com" target="_blank" rel="noopener">原文链接</a></p><h3 id="揭开在线协作的神秘面纱-–-OT算法"><a href="#揭开在线协作的神秘面纱-–-OT算法" class="headerlink" title="揭开在线协作的神秘面纱 – OT算法"></a>揭开在线协作的神秘面纱 – OT算法</h3><p>学习了，以前好像都没想过这个问题</p><p><a href="http://www.alloyteam.com/2019/07/13659/" target="_blank" rel="noopener">原文链接</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="高考后，班主任带学生网吧通宵，跨省出走1800公里"><a href="#高考后，班主任带学生网吧通宵，跨省出走1800公里" class="headerlink" title="高考后，班主任带学生网吧通宵，跨省出走1800公里"></a>高考后，班主任带学生网吧通宵，跨省出走1800公里</h3><p>和学生打成一片的老师</p><p><a href="https://mp.weixin.qq.com/s/5jwWsixqlBCdwhCEnDD97g" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
@@ -44,7 +67,7 @@
     <link href="https://daily.tmr.js.org/d/20190717/"/>
     <id>https://daily.tmr.js.org/d/20190717/</id>
     <published>2019-07-17T01:59:02.000Z</published>
-    <updated>2019-07-17T06:18:26.799Z</updated>
+    <updated>2019-07-26T09:38:11.666Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20190710期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*5，<a href="#文娱">文娱</a>*2，<a href="#其他">其他</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅析php-fpm的攻击方式"><a href="#浅析php-fpm的攻击方式" class="headerlink" title="浅析php-fpm的攻击方式"></a>浅析php-fpm的攻击方式</h3><p>总结很全</p><p><a href="https://xz.aliyun.com/t/5598" target="_blank" rel="noopener">原文链接</a></p><h3 id="PHDays的IDS-Bypass竞赛：writeup和解决方案"><a href="#PHDays的IDS-Bypass竞赛：writeup和解决方案" class="headerlink" title="PHDays的IDS Bypass竞赛：writeup和解决方案"></a>PHDays的IDS Bypass竞赛：writeup和解决方案</h3><p>很有意思，以Bypass IDS作为目标</p><p><a href="https://xz.aliyun.com/t/5576" target="_blank" rel="noopener">原文链接</a></p><h3 id="浅谈正则表达式原理"><a href="#浅谈正则表达式原理" class="headerlink" title="浅谈正则表达式原理"></a>浅谈正则表达式原理</h3><p><a href="http://www.alloyteam.com/2019/07/13574/" target="_blank" rel="noopener">原文链接</a></p><h3 id="蚁剑-disable-functions-研究"><a href="#蚁剑-disable-functions-研究" class="headerlink" title="蚁剑 disable_functions 研究"></a>蚁剑 disable_functions 研究</h3><p>蚁剑更新了利用 PHP-FPM 实现 bypass disable_functions，学习一波</p><p><a href="https://tmr.js.org/p/a63cefbc/" target="_blank" rel="noopener">原文链接</a></p><h3 id="Google-to-remove-Chrome’s-built-in-XSS-protection-XSS-Auditor"><a href="#Google-to-remove-Chrome’s-built-in-XSS-protection-XSS-Auditor" class="headerlink" title="Google to remove Chrome’s built-in XSS protection (XSS Auditor)"></a>Google to remove Chrome’s built-in XSS protection (XSS Auditor)</h3><p>XSS Auditor要被删掉了</p><p><a href="https://www.zdnet.com/article/google-to-remove-chromes-built-in-xss-protection-xss-auditor/" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="如何评价《怪奇物语》第三季"><a href="#如何评价《怪奇物语》第三季" class="headerlink" title="如何评价《怪奇物语》第三季?"></a>如何评价《怪奇物语》第三季?</h3><p>反正我觉得不怎么好看，不知道在讲啥…文中说到很多是八十年代的元素，无奈完全不懂</p><p>不过这评分高，是不是也反向说明了观影大部分都是八十年代的人</p><p><a href="https://news-at.zhihu.com/story/9713215" target="_blank" rel="noopener">原文链接</a></p><h3 id="国产电影维稳向前"><a href="#国产电影维稳向前" class="headerlink" title="国产电影维稳向前"></a>国产电影维稳向前</h3><p>好消息不断…</p><p><a href="https://m.huxiu.com/article/307488.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="「无反相机」是如何发展起来的？"><a href="#「无反相机」是如何发展起来的？" class="headerlink" title="「无反相机」是如何发展起来的？"></a>「无反相机」是如何发展起来的？</h3><p>学习了，不过后面很多专有名词也看不太懂</p><p><a href="https://www.zhihu.com/question/330480804/answer/738500937" target="_blank" rel="noopener">原文链接</a></p><h3 id="婴儿打疫苗，针打完几秒后才哭，是反应迟钝吗？"><a href="#婴儿打疫苗，针打完几秒后才哭，是反应迟钝吗？" class="headerlink" title="婴儿打疫苗，针打完几秒后才哭，是反应迟钝吗？"></a>婴儿打疫苗，针打完几秒后才哭，是反应迟钝吗？</h3><p>针扎的皮肤疼和注射的肌肉疼</p><p><a href="https://news-at.zhihu.com/story/9713330" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
@@ -67,7 +90,7 @@
     <link href="https://daily.tmr.js.org/d/20190709/"/>
     <id>https://daily.tmr.js.org/d/20190709/</id>
     <published>2019-07-09T01:43:12.000Z</published>
-    <updated>2019-07-09T14:58:04.764Z</updated>
+    <updated>2019-07-26T09:38:11.666Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20190709期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*6，<a href="#其他">其他</a>*3</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="报道披露手机访客抓取产业"><a href="#报道披露手机访客抓取产业" class="headerlink" title="报道披露手机访客抓取产业"></a>报道披露手机访客抓取产业</h3><p>本菜之前也找到了个移动的接口（已修复），通过流量访问就能拿到手机号</p><p>要说怎么防护的话，还确实很难，屏蔽第三方Cookie和HTTPS重定向或许可以，不过对于大部分浏览器并没有提供这样的功能，更别说应用内浏览器（如微信）</p><p>推荐使用<a href="https://brave.com/" target="_blank" rel="noopener">Brave</a>浏览器，如果愿意折腾的话，<a href="https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&amp;hl=zh" target="_blank" rel="noopener">Kiwi Browser</a>+扩展的也不错</p><p><a href="https://www.solidot.org/story?sid=61266" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="世界需要什么样的智能系统"><a href="#世界需要什么样的智能系统" class="headerlink" title="世界需要什么样的智能系统"></a>世界需要什么样的智能系统</h3><p>从信息化道智能化，当前最适合智能系统工作的地方是什么</p><p><a href="https://mp.weixin.qq.com/s/jstUzfvIbAQKqhcxIketdw" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Microsoft-File-Checksum-Integrity-Verifier-“fciv-exe”-v2-05-DLL-Hijack-Arbitrary-Code-Execution"><a href="#Microsoft-File-Checksum-Integrity-Verifier-“fciv-exe”-v2-05-DLL-Hijack-Arbitrary-Code-Execution" class="headerlink" title="Microsoft File Checksum Integrity Verifier “fciv.exe” v2.05 / DLL Hijack Arbitrary Code Execution"></a>Microsoft File Checksum Integrity Verifier “fciv.exe” v2.05 / DLL Hijack Arbitrary Code Execution</h3><p>微软回应不再支持，但是这有微软签名啊，可以考虑白+黑走一波</p><p><a href="https://seclists.org/fulldisclosure/2019/Jul/1" target="_blank" rel="noopener">原文链接</a></p><h3 id="关于漏洞挖掘的一点想法"><a href="#关于漏洞挖掘的一点想法" class="headerlink" title="关于漏洞挖掘的一点想法"></a>关于漏洞挖掘的一点想法</h3><p>如何学习，如何挖洞</p><p><a href="https://mp.weixin.qq.com/s/79k5bxGr1ykCpN4lSeiTqw" target="_blank" rel="noopener">原文链接</a></p><h3 id="​那些年我们堵住的洞-–-OpenRASP纪实"><a href="#​那些年我们堵住的洞-–-OpenRASP纪实" class="headerlink" title="​那些年我们堵住的洞 – OpenRASP纪实"></a>​那些年我们堵住的洞 – OpenRASP纪实</h3><p>不记得从哪听来的一句话，大概意思：“仅从程序输入输出判断入侵/漏洞，怎么看都很不可思议”，当然这里指的是Web请求和响应，RASP从原理上确实有检测和防御0day的能力</p><p><a href="https://mp.weixin.qq.com/s/AgJ_ozT-VpSgmpRdO-Dk2w" target="_blank" rel="noopener">原文链接</a></p><h3 id="参与电力行业安全课程有感"><a href="#参与电力行业安全课程有感" class="headerlink" title="参与电力行业安全课程有感"></a>参与电力行业安全课程有感</h3><p>主要是安全建设方面的想法</p><p><a href="https://my.oschina.net/9199771/blog/3070429" target="_blank" rel="noopener">原文链接</a></p><h3 id="Abusing-PHP-query-string-parser-to-bypass-IDS-IPS-and-WAF"><a href="#Abusing-PHP-query-string-parser-to-bypass-IDS-IPS-and-WAF" class="headerlink" title="Abusing PHP query string parser to bypass IDS, IPS, and WAF"></a>Abusing PHP query string parser to bypass IDS, IPS, and WAF</h3><p>利用解析字符串Bug绕过检测</p><p><a href="https://www.secjuice.com/abusing-php-query-string-parser-bypass-ids-ips-waf/" target="_blank" rel="noopener">原文链接</a></p><h3 id="彩云小译之无限使用"><a href="#彩云小译之无限使用" class="headerlink" title="彩云小译之无限使用"></a>彩云小译之无限使用</h3><p>从分析到破解，实现免登录无限使用</p><p><a href="https://tmr.js.org/p/3bd1bb4e/" target="_blank" rel="noopener">原文链接</a></p><p><a href="https://github.com/ttttmr/Caiyun" target="_blank" rel="noopener">Repo地址</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="可以用兵器打落射来的箭吗？"><a href="#可以用兵器打落射来的箭吗？" class="headerlink" title="可以用兵器打落射来的箭吗？"></a>可以用兵器打落射来的箭吗？</h3><p>实践可行</p><p><a href="https://www.zhihu.com/question/27286018/answer/143544324" target="_blank" rel="noopener">原文链接</a></p><h3 id="Nature：压榨学生，论资排辈，现行论文作者制度已死"><a href="#Nature：压榨学生，论资排辈，现行论文作者制度已死" class="headerlink" title="Nature：压榨学生，论资排辈，现行论文作者制度已死"></a>Nature：压榨学生，论资排辈，现行论文作者制度已死</h3><p>文中提到的贡献表机制看起来不错</p><p><a href="https://mp.weixin.qq.com/s/n22pl6d0bxyLXoO2_B3u-Q" target="_blank" rel="noopener">原文链接</a></p><h3 id="小事-妈妈的温柔"><a href="#小事-妈妈的温柔" class="headerlink" title="小事 | 妈妈的温柔"></a>小事 | 妈妈的温柔</h3><p>—— 你见过哪些父母惊艳到你的教育方式？</p><p>这样和父母沟通真的舒服</p><p><a href="https://mp.weixin.qq.com/s/fo0BDD2BlHvttDBA85S-gA" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
@@ -90,7 +113,7 @@
     <link href="https://daily.tmr.js.org/d/20190704/"/>
     <id>https://daily.tmr.js.org/d/20190704/</id>
     <published>2019-07-04T02:29:53.000Z</published>
-    <updated>2019-07-04T15:18:14.274Z</updated>
+    <updated>2019-07-26T09:38:11.666Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20190704期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#互联网">互联网</a>*2，<a href="#技术">技术</a>*2，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>从今日起，日报将由<strong>日更</strong>改为<strong>不定期更新</strong>，如无意外会在<strong>年末恢复</strong>日更，感谢订阅</p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="中国政治与社会事件时间线"><a href="#中国政治与社会事件时间线" class="headerlink" title="中国政治与社会事件时间线"></a>中国政治与社会事件时间线</h3><blockquote><p>时间线能为我们清晰展示一个纷繁复杂的历史过程，以更好地理解过去、预测未来，并及时行动。</p></blockquote><p><a href="../20190522/#中美冷战中的华为">时间线</a>是个好东西，文章的数据可视化做得好玩</p><p><a href="https://chinatimeline.github.io/" target="_blank" rel="noopener">原文链接</a></p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="Facebook全球崩溃11小时，暴露了科技巨头们用AI为你打的标签"><a href="#Facebook全球崩溃11小时，暴露了科技巨头们用AI为你打的标签" class="headerlink" title="Facebook全球崩溃11小时，暴露了科技巨头们用AI为你打的标签"></a>Facebook全球崩溃11小时，暴露了科技巨头们用AI为你打的标签</h3><p>Facebook用机器学习对用户上传的图片打标签</p><p><a href="https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&amp;mid=2650765277&amp;idx=1&amp;sn=a94e4db7d4f57039cb6646c02d2d186a#rd" target="_blank" rel="noopener">原文链接</a></p><h3 id="Facebook收国会议员联名公开信，要求停止Libra开发"><a href="#Facebook收国会议员联名公开信，要求停止Libra开发" class="headerlink" title="Facebook收国会议员联名公开信，要求停止Libra开发"></a>Facebook收国会议员联名公开信，要求停止Libra开发</h3><p>之前也<a href="../20190619/#解读Facebook加密稳定币Libra，看这一篇就够了">吐槽过</a>Libra，果然还是要动手管的</p><p><a href="https://36kr.com/p/5221883" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="phpMyAdmin-文件包含复现分析"><a href="#phpMyAdmin-文件包含复现分析" class="headerlink" title="phpMyAdmin 文件包含复现分析"></a>phpMyAdmin 文件包含复现分析</h3><p>一路跟代码分析和构造Payload</p><p><a href="https://xz.aliyun.com/t/5534" target="_blank" rel="noopener">原文链接</a></p><h3 id="从医学院进入网络安全行业的经历"><a href="#从医学院进入网络安全行业的经历" class="headerlink" title="从医学院进入网络安全行业的经历"></a>从医学院进入网络安全行业的经历</h3><p>TK教主的成长经历</p><p><a href="https://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&amp;mid=2648256729&amp;idx=1&amp;sn=bca313cd6c80e401016a6bc23218cb10" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="讨论-你有过「一个人住」的经历吗？"><a href="#讨论-你有过「一个人住」的经历吗？" class="headerlink" title="讨论 | 你有过「一个人住」的经历吗？"></a>讨论 | 你有过「一个人住」的经历吗？</h3><p>文中有很多生活Tips的链接可以看看</p><p><a href="https://zhuanlan.zhihu.com/p/72213331" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
@@ -115,7 +138,7 @@
     <link href="https://daily.tmr.js.org/d/20190703/"/>
     <id>https://daily.tmr.js.org/d/20190703/</id>
     <published>2019-07-03T03:13:06.000Z</published>
-    <updated>2019-07-03T14:54:22.242Z</updated>
+    <updated>2019-07-26T09:38:11.666Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20190703期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*4，<a href="#其他">其他</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Nuget-Squirrel-uncontrolled-endpoints-leads-to-arbitrary-code-execution"><a href="#Nuget-Squirrel-uncontrolled-endpoints-leads-to-arbitrary-code-execution" class="headerlink" title="Nuget/Squirrel uncontrolled endpoints leads to arbitrary code execution"></a>Nuget/Squirrel uncontrolled endpoints leads to arbitrary code execution</h3><p>不过这个不是默认安装的，不然也是极好的“一键主机上线”</p><p><a href="https://medium.com/@reegun/nuget-squirrel-uncontrolled-endpoints-leads-to-arbitrary-code-execution-80c9df51cf12" target="_blank" rel="noopener">原文链接</a></p><p><a href="https://medium.com/@reegun/update-nuget-squirrel-uncontrolled-endpoints-leads-to-arbitrary-code-execution-b55295144b56" target="_blank" rel="noopener">更新Part2</a></p><h3 id="2019-0ctf-final-Web-Writeup（1）"><a href="#2019-0ctf-final-Web-Writeup（1）" class="headerlink" title="2019 0ctf final Web Writeup（1）"></a>2019 0ctf final Web Writeup（1）</h3><p>open_basedir和disable_function的Bypass学习了</p><p><a href="https://skysec.top/2019/06/10/2019-0ctf-final-Web-Writeup/#wallbreaker-not-very-hard" target="_blank" rel="noopener">原文链接</a></p><h3 id="对于攻防的复盘和思考"><a href="#对于攻防的复盘和思考" class="headerlink" title="对于攻防的复盘和思考"></a>对于攻防的复盘和思考</h3><p>这次护网行动对整个安全圈的影响还是巨大的，但是这样的文章仍然总是在微信被删，诶</p><p><a href="https://bithack.io/forum/373" target="_blank" rel="noopener">原文链接</a></p><h3 id="互联网企业应用安全实战指南"><a href="#互联网企业应用安全实战指南" class="headerlink" title="互联网企业应用安全实战指南"></a>互联网企业应用安全实战指南</h3><p>找了很久，终于在今天找到原作了</p><p><a href="https://zine.la/booklet/207e3326e4254897806574544470d11d/" target="_blank" rel="noopener">原文链接</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="为什么所有的亲密关系，到最后都会变得平淡如水？"><a href="#为什么所有的亲密关系，到最后都会变得平淡如水？" class="headerlink" title="为什么所有的亲密关系，到最后都会变得平淡如水？"></a>为什么所有的亲密关系，到最后都会变得平淡如水？</h3><p>—— 是不是所有的亲密关系，到最后都会变得「平淡如水」？</p><blockquote><p>这和友谊不同，友谊是可以停止在某种程度上的了解，恋爱却是不停止的，是追求</p></blockquote><p><a href="https://news-at.zhihu.com/story/9712984" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
@@ -138,7 +161,7 @@
     <link href="https://daily.tmr.js.org/d/20190702/"/>
     <id>https://daily.tmr.js.org/d/20190702/</id>
     <published>2019-07-02T14:16:03.000Z</published>
-    <updated>2019-07-02T15:02:20.590Z</updated>
+    <updated>2019-07-26T09:38:11.666Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20190702期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="如何看待上海新推行的垃圾分类办法？"><a href="#如何看待上海新推行的垃圾分类办法？" class="headerlink" title="如何看待上海新推行的垃圾分类办法？"></a>如何看待上海新推行的垃圾分类办法？</h3><p>文中也提到了一点就是，垃圾是如何分类的，依据是什么，告知市民什么东西如何分不如讲讲为什么这样分</p><p>另外文中提到了分类后具体处理的问题，看起来好像处理能力没有跟上</p><p><a href="https://news-at.zhihu.com/story/9712967" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Google’s-robots-txt-Parser-is-Now-Open-Source"><a href="#Google’s-robots-txt-Parser-is-Now-Open-Source" class="headerlink" title="Google’s robots.txt Parser is Now Open Source"></a>Google’s robots.txt Parser is Now Open Source</h3><p>robots解析器开源了</p><p><a href="https://opensource.googleblog.com/2019/07/googles-robotstxt-parser-is-now-open.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="Burp免费版支持黑色主题"><a href="#Burp免费版支持黑色主题" class="headerlink" title="Burp免费版支持黑色主题"></a>Burp免费版支持黑色主题</h3><p>Dark!</p><p><a href="https://twitter.com/Burp_Suite/status/1144551468235706368" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
@@ -146,29 +169,6 @@
     
       &lt;p&gt;透明日报第20190702期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="07" scheme="https://daily.tmr.js.org/categories/2019/07/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190701期</title>
-    <link href="https://daily.tmr.js.org/d/20190701/"/>
-    <id>https://daily.tmr.js.org/d/20190701/</id>
-    <published>2019-07-01T00:52:32.000Z</published>
-    <updated>2019-07-01T15:05:20.244Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190701期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="SQL注入有趣姿势总结"><a href="#SQL注入有趣姿势总结" class="headerlink" title="SQL注入有趣姿势总结"></a>SQL注入有趣姿势总结</h3><p>各种注入技巧</p><p><a href="https://xz.aliyun.com/t/5505" target="_blank" rel="noopener">原文链接</a></p><h3 id="如何成为一名优秀的业务人员-工程师？"><a href="#如何成为一名优秀的业务人员-工程师？" class="headerlink" title="如何成为一名优秀的业务人员/工程师？"></a>如何成为一名优秀的业务人员/工程师？</h3><p>简单的问题复杂化和复杂的问题做简单，这个两个点是最难的</p><p><a href="https://www.barretlee.com/blog/2019/06/15/to-be-excellent-in-work/" target="_blank" rel="noopener">原文链接</a></p><h3 id="在-Fedora-中利用-ffsend-使用-Firefox-Send"><a href="#在-Fedora-中利用-ffsend-使用-Firefox-Send" class="headerlink" title="在 Fedora 中利用 ffsend 使用 Firefox Send"></a>在 Fedora 中利用 ffsend 使用 Firefox Send</h3><p>其实是支持Windows，Linux和macOS</p><p><a href="https://github.com/timvisee/ffsend" target="_blank" rel="noopener">Repo链接</a></p><p><a href="https://linux.cn/article-11042-1.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190701期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
     
     </summary>
     
