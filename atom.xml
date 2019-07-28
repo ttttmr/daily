@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-07-27T15:00:07.263Z</updated>
+  <updated>2019-07-28T15:00:09.306Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190728期</title>
+    <link href="https://daily.tmr.js.org/d/20190728/"/>
+    <id>https://daily.tmr.js.org/d/20190728/</id>
+    <published>2019-07-28T15:00:02.000Z</published>
+    <updated>2019-07-28T15:00:09.306Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190728期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*3，<a href="#生活">生活</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="这个国内厂商不该「阉割」的功能，让你不用每次都手动输密码"><a href="#这个国内厂商不该「阉割」的功能，让你不用每次都手动输密码" class="headerlink" title="这个国内厂商不该「阉割」的功能，让你不用每次都手动输密码"></a>这个国内厂商不该「阉割」的功能，让你不用每次都手动输密码</h3><p>自动密码填充确实是很实用功能，目前能实现比较好的流程是：打开自动填充-自动调起keepass-解锁-自动切换定制键盘-半自动定位条目-自动输入-自动切换原始键盘</p><p><a href="https://sspai.com/post/55825" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="barry-ran-QtScrcpy"><a href="#barry-ran-QtScrcpy" class="headerlink" title="barry-ran/QtScrcpy"></a>barry-ran/QtScrcpy</h3><p>Android实时投屏控制软件<br>算是<a href="https://github.com/Genymobile/scrcpy" target="_blank" rel="noopener">scrcpy</a>的GUI增强版，有游戏和GUI需求的同学可以试试</p><p><a href="https://github.com/barry-ran/QtScrcpy" target="_blank" rel="noopener">原文链接</a></p><h3 id="渗透测试中弹shell的多种方式及bypass"><a href="#渗透测试中弹shell的多种方式及bypass" class="headerlink" title="渗透测试中弹shell的多种方式及bypass"></a>渗透测试中弹shell的多种方式及bypass</h3><p>非常多的方法总结，<br>其中Bash反弹的具体原理可以看这篇<a href="https://www.secpulse.com/archives/71494.html" target="_blank" rel="noopener">Bash Special Redirection 分析</a></p><p><a href="https://xz.aliyun.com/t/5768" target="_blank" rel="noopener">原文链接</a></p><h3 id="搜索已死，谁来烧纸。"><a href="#搜索已死，谁来烧纸。" class="headerlink" title="搜索已死，谁来烧纸。"></a>搜索已死，谁来烧纸。</h3><p>其实文章说的是中文环境的搜索，信息封闭，搜索质量差。这能怪谁呢，低质搜索公司，封闭的互联网公司，以及封闭的互联网</p><p>同时国内网民受环境影响…信息源普遍有限且单一，尤其对于不能翻墙的网民更是如此</p><p>之前也想过这个问题，在即刻上发过一段话</p><p><blockquote class="twitter-tweet"><p lang="zh" dir="ltr">当翻墙成为一个衡量人的标准<br>成为一个看人的标签<br>而不是一种能力或者简单行为<br>只能说这长期以来导致的差异太大了<a href="https://twitter.com/hashtag/%E5%8D%B3%E5%88%BBreview?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">#即刻review</a> <a href="https://t.co/djtzEJ3h0v" target="_blank" rel="noopener">pic.twitter.com/djtzEJ3h0v</a></p>&mdash; Tmr (@MicroExploit) <a href="https://twitter.com/MicroExploit/status/1155413689022873600?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">July 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>（不知道RSS用户看这段会是啥样）</p><p>另外推荐使用<a href="https://www.startpage.com/" target="_blank" rel="noopener">Startage</a>搜索引擎，Google的隐私问题太多，Duck的搜索质量太差，平衡一下Startpage是一个比较好的选择</p><p><a href="https://mp.weixin.qq.com/s/WRUjfUWYC2q3Lh2PfrZPtw" target="_blank" rel="noopener">原文链接</a></p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="「我吃的盐比你吃的米还多」，这真的有可能吗？"><a href="#「我吃的盐比你吃的米还多」，这真的有可能吗？" class="headerlink" title="「我吃的盐比你吃的米还多」，这真的有可能吗？"></a>「我吃的盐比你吃的米还多」，这真的有可能吗？</h3><blockquote><p>我们都知道，俗语是不能较真的<br>哈哈哈</p></blockquote><p><a href="https://news-at.zhihu.com/story/9713674" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190728期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#生活&quot;&gt;生活&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="07" scheme="https://daily.tmr.js.org/categories/2019/07/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190727期</title>
@@ -146,29 +169,6 @@
     
       &lt;p&gt;透明日报第20190703期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="07" scheme="https://daily.tmr.js.org/categories/2019/07/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190702期</title>
-    <link href="https://daily.tmr.js.org/d/20190702/"/>
-    <id>https://daily.tmr.js.org/d/20190702/</id>
-    <published>2019-07-02T14:16:03.000Z</published>
-    <updated>2019-07-26T09:38:11.666Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190702期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="如何看待上海新推行的垃圾分类办法？"><a href="#如何看待上海新推行的垃圾分类办法？" class="headerlink" title="如何看待上海新推行的垃圾分类办法？"></a>如何看待上海新推行的垃圾分类办法？</h3><p>文中也提到了一点就是，垃圾是如何分类的，依据是什么，告知市民什么东西如何分不如讲讲为什么这样分</p><p>另外文中提到了分类后具体处理的问题，看起来好像处理能力没有跟上</p><p><a href="https://news-at.zhihu.com/story/9712967" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Google’s-robots-txt-Parser-is-Now-Open-Source"><a href="#Google’s-robots-txt-Parser-is-Now-Open-Source" class="headerlink" title="Google’s robots.txt Parser is Now Open Source"></a>Google’s robots.txt Parser is Now Open Source</h3><p>robots解析器开源了</p><p><a href="https://opensource.googleblog.com/2019/07/googles-robotstxt-parser-is-now-open.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="Burp免费版支持黑色主题"><a href="#Burp免费版支持黑色主题" class="headerlink" title="Burp免费版支持黑色主题"></a>Burp免费版支持黑色主题</h3><p>Dark!</p><p><a href="https://twitter.com/Burp_Suite/status/1144551468235706368" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190702期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
