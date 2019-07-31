@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>透明日报20190731期</title>
+      <link href="/d/20190731/"/>
+      <url>/d/20190731/</url>
+      
+        <content type="html"><![CDATA[<p>透明日报第20190731期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="安全视角下的木马免杀技术讨论"><a href="#安全视角下的木马免杀技术讨论" class="headerlink" title="安全视角下的木马免杀技术讨论"></a>安全视角下的木马免杀技术讨论</h3><p>PE免杀思路（主要是shellcode免杀），非常详细</p><p><a href="https://www.freebuf.com/articles/system/209652.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="PHP临时文件机制与利用的思考"><a href="#PHP临时文件机制与利用的思考" class="headerlink" title="PHP临时文件机制与利用的思考"></a>PHP临时文件机制与利用的思考</h3><p>session利用主要是文件包含，还有另外一个就是LFI+phpinfo拿shell，当目标存在phpinfo的时候，对phpinfo发post构造session，session文件名和路径会在phpinfo里写，利用条件竞争包含session文件可以快速拿到shell</p><p><a href="https://www.anquanke.com/post/id/183046" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2019 </category>
+          
+          <category> 07 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190730期</title>
       <link href="/d/20190730/"/>
       <url>/d/20190730/</url>
