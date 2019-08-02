@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-08-01T15:00:12.336Z</updated>
+  <updated>2019-08-02T15:00:14.012Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190802期</title>
+    <link href="https://daily.tmr.js.org/d/20190802/"/>
+    <id>https://daily.tmr.js.org/d/20190802/</id>
+    <published>2019-08-02T15:00:03.000Z</published>
+    <updated>2019-08-02T15:00:14.012Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190802期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="knownsec-404-Team-ShowCase"><a href="#knownsec-404-Team-ShowCase" class="headerlink" title="knownsec/404-Team-ShowCase"></a>knownsec/404-Team-ShowCase</h3><p>目前只有一个PPT，MySQL Client攻击进一步利用，在去年看过这个洞，能实现Client端的任意文件读取，这篇PPT利用phar进一步实现了SSRF，RCE等<br>不了解的同学这个漏洞的可以看这几篇文章<a href="https://lightless.me/archives/read-mysql-client-file.html" target="_blank" rel="noopener">Read MySQL Client’s File</a>，<a href="https://www.40huo.cn/blog/evil-mysql.html" target="_blank" rel="noopener">从 MySQL 出发的反击之路</a></p><p><a href="https://github.com/knownsec/404-Team-ShowCase" target="_blank" rel="noopener">原文链接</a></p><h3 id="shellcode加载总结"><a href="#shellcode加载总结" class="headerlink" title="shellcode加载总结"></a>shellcode加载总结</h3><p>shellcode各种加载方式和代码实现</p><p><a href="https://uknowsec.cn/posts/notes/shellcode加载总结.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190802期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190801期</title>
@@ -148,29 +171,6 @@
     
       &lt;p&gt;透明日报第20190727期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="07" scheme="https://daily.tmr.js.org/categories/2019/07/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190726期</title>
-    <link href="https://daily.tmr.js.org/d/20190726/"/>
-    <id>https://daily.tmr.js.org/d/20190726/</id>
-    <published>2019-07-26T15:32:05.000Z</published>
-    <updated>2019-07-27T01:48:33.795Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190726期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*4，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>恢复日更，全面自动化，并接收投稿<br>可通过 <a href="https://t.me/tm_daily_bot" target="_blank" rel="noopener">@透明日报 Bot</a>投稿</p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="中文排版指南"><a href="#中文排版指南" class="headerlink" title="中文排版指南"></a>中文排版指南</h3><p><a href="https://t.me/impNo" target="_blank" rel="noopener">@impNo</a>投稿</p><p>中文排版指南，可以作为写作参考</p><p><a href="https://tingtalk.me/typography/" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="你真的了解病毒分析吗？反病毒专家为你深度揭密"><a href="#你真的了解病毒分析吗？反病毒专家为你深度揭密" class="headerlink" title="你真的了解病毒分析吗？反病毒专家为你深度揭密"></a>你真的了解病毒分析吗？反病毒专家为你深度揭密</h3><p>不分析病毒怎么能防的住病毒，经常就能看到一些病毒分析的文章，360的比较多，其实也是很有趣的，一些病毒的骚操作</p><p><a href="https://www.freebuf.com/articles/database/208786.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="人物故事-腾讯安全联合实验室"><a href="#人物故事-腾讯安全联合实验室" class="headerlink" title="人物故事 - 腾讯安全联合实验室"></a>人物故事 - 腾讯安全联合实验室</h3><p>无意翻到这个，一些大佬的故事，想去腾讯了</p><p><a href="https://slab.qq.com/news/story/index.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="GFW技术评论"><a href="#GFW技术评论" class="headerlink" title="GFW技术评论"></a>GFW技术评论</h3><p>虽然是2010年的东西了，但也指出了墙上的缝，很硬核技术的研究，值得学习，当然到现在GFW技术已经改进了不少</p><p><a href="https://gfwrev.blogspot.com" target="_blank" rel="noopener">原文链接</a></p><h3 id="揭开在线协作的神秘面纱-–-OT算法"><a href="#揭开在线协作的神秘面纱-–-OT算法" class="headerlink" title="揭开在线协作的神秘面纱 – OT算法"></a>揭开在线协作的神秘面纱 – OT算法</h3><p>学习了，以前好像都没想过这个问题</p><p><a href="http://www.alloyteam.com/2019/07/13659/" target="_blank" rel="noopener">原文链接</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="高考后，班主任带学生网吧通宵，跨省出走1800公里"><a href="#高考后，班主任带学生网吧通宵，跨省出走1800公里" class="headerlink" title="高考后，班主任带学生网吧通宵，跨省出走1800公里"></a>高考后，班主任带学生网吧通宵，跨省出走1800公里</h3><p>和学生打成一片的老师</p><p><a href="https://mp.weixin.qq.com/s/5jwWsixqlBCdwhCEnDD97g" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190726期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     

@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>透明日报20190802期</title>
+      <link href="/d/20190802/"/>
+      <url>/d/20190802/</url>
+      
+        <content type="html"><![CDATA[<p>透明日报第20190802期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="knownsec-404-Team-ShowCase"><a href="#knownsec-404-Team-ShowCase" class="headerlink" title="knownsec/404-Team-ShowCase"></a>knownsec/404-Team-ShowCase</h3><p>目前只有一个PPT，MySQL Client攻击进一步利用，在去年看过这个洞，能实现Client端的任意文件读取，这篇PPT利用phar进一步实现了SSRF，RCE等<br>不了解的同学这个漏洞的可以看这几篇文章<a href="https://lightless.me/archives/read-mysql-client-file.html" target="_blank" rel="noopener">Read MySQL Client’s File</a>，<a href="https://www.40huo.cn/blog/evil-mysql.html" target="_blank" rel="noopener">从 MySQL 出发的反击之路</a></p><p><a href="https://github.com/knownsec/404-Team-ShowCase" target="_blank" rel="noopener">原文链接</a></p><h3 id="shellcode加载总结"><a href="#shellcode加载总结" class="headerlink" title="shellcode加载总结"></a>shellcode加载总结</h3><p>shellcode各种加载方式和代码实现</p><p><a href="https://uknowsec.cn/posts/notes/shellcode加载总结.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2019 </category>
+          
+          <category> 08 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190801期</title>
       <link href="/d/20190801/"/>
       <url>/d/20190801/</url>
