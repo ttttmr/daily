@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-08-04T15:00:13.547Z</updated>
+  <updated>2019-08-05T15:45:08.578Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190805期</title>
+    <link href="https://daily.tmr.js.org/d/20190805/"/>
+    <id>https://daily.tmr.js.org/d/20190805/</id>
+    <published>2019-08-05T15:45:02.000Z</published>
+    <updated>2019-08-05T15:45:08.578Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190805期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>从每天23:00更新修改为每天23:45更新</p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="英文写作风格指南"><a href="#英文写作风格指南" class="headerlink" title="英文写作风格指南"></a>英文写作风格指南</h3><p><a href="https://t.me/impNo" target="_blank" rel="noopener">@impNo</a>投稿</p><p>文章省略号那里好像笔误了一下<br>关联阅读： <a href="https://tingtalk.me/typography/" target="_blank" rel="noopener">中文排版指南</a></p><p><a href="https://tingtalk.me/english-typos/" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="一条命令实现端口复用后门"><a href="#一条命令实现端口复用后门" class="headerlink" title="一条命令实现端口复用后门"></a>一条命令实现端口复用后门</h3><p>WinRM实现端口复用</p><p><a href="https://mp.weixin.qq.com/s/HDZUsTbffeGhgwu1FOWQNg" target="_blank" rel="noopener">原文链接</a></p><h3 id="简单动态字符串-—-Redis-设计与实现"><a href="#简单动态字符串-—-Redis-设计与实现" class="headerlink" title="简单动态字符串 — Redis 设计与实现"></a>简单动态字符串 — Redis 设计与实现</h3><p>看了<a href="https://jiajunhuang.com/articles/2019_08_05-message_framing.md.html" target="_blank" rel="noopener">消息分帧(字符串设计或协议设计)的两种形式</a>，提到redis的sds没了解过，学习一下<br>Sds （Simple Dynamic String）简单动态字符串，就是Redis中的字符串，动态大小而且<a href="http://en.wikipedia.org/wiki/Binary-safe" target="_blank" rel="noopener">二进制安全</a><br>另外扩容机制还挺有意思的，想起来<a href="../20190428/#C++逆向学习">之前</a>看的<a href="https://xz.aliyun.com/t/4890#toc-2" target="_blank" rel="noopener">C++逆向学习(一) string</a>，C++中字符串的扩容机制是不一样的</p><p><a href="http://redisbook.com/preview/sds/implementation.html" target="_blank" rel="noopener">SDS 的定义</a></p><p><a href="http://redisbook.com/preview/sds/different_between_sds_and_c_string.html" target="_blank" rel="noopener">SDS 与 C 字符串的区别</a></p><p><a href="http://redisbook.com/#id9" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190805期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190804期</title>
@@ -148,33 +171,6 @@
     
       &lt;p&gt;透明日报第20190730期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*2，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="07" scheme="https://daily.tmr.js.org/categories/2019/07/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190729期</title>
-    <link href="https://daily.tmr.js.org/d/20190729/"/>
-    <id>https://daily.tmr.js.org/d/20190729/</id>
-    <published>2019-07-29T15:00:03.000Z</published>
-    <updated>2019-07-29T15:00:11.988Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190729期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;透明日报第20190729期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日无更新&lt;/p&gt;
-
-      
     
     </summary>
     
