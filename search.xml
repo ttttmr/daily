@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>透明日报20190806期</title>
+      <link href="/d/20190806/"/>
+      <url>/d/20190806/</url>
+      
+        <content type="html"><![CDATA[<p>透明日报第20190806期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅析CSRF漏洞的利用与防御机制"><a href="#浅析CSRF漏洞的利用与防御机制" class="headerlink" title="浅析CSRF漏洞的利用与防御机制"></a>浅析CSRF漏洞的利用与防御机制</h3><p>如题</p><p><a href="https://xz.aliyun.com/t/5871" target="_blank" rel="noopener">原文链接</a></p><h3 id="浏览器解码看XSS"><a href="#浏览器解码看XSS" class="headerlink" title="浏览器解码看XSS"></a>浏览器解码看XSS</h3><p>很棒的文章，感觉又能看懂花式编解码的XSS Payload</p><p><a href="https://xz.aliyun.com/t/5863" target="_blank" rel="noopener">原文链接</a></p><h3 id="Killing-🐦with-🐛🐛"><a href="#Killing-🐦with-🐛🐛" class="headerlink" title="Killing 🐦with 🐛🐛"></a>Killing 🐦with 🐛🐛</h3><p>Twitter XSS 利用链，文件上传+MIME Sniffing+Cookie劫持+OAuth GET请求，tql<br>联想到之前看到的<a href="https://xz.aliyun.com/t/2078" target="_blank" rel="noopener">OSS上传问题</a>，可以搞搞</p><p><a href="https://speakerdeck.com/filedescriptor/killing-with" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2019 </category>
+          
+          <category> 08 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190805期</title>
       <link href="/d/20190805/"/>
       <url>/d/20190805/</url>

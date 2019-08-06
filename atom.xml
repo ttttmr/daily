@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-08-05T15:45:08.578Z</updated>
+  <updated>2019-08-06T15:45:09.406Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190806期</title>
+    <link href="https://daily.tmr.js.org/d/20190806/"/>
+    <id>https://daily.tmr.js.org/d/20190806/</id>
+    <published>2019-08-06T15:45:03.000Z</published>
+    <updated>2019-08-06T15:45:09.406Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190806期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅析CSRF漏洞的利用与防御机制"><a href="#浅析CSRF漏洞的利用与防御机制" class="headerlink" title="浅析CSRF漏洞的利用与防御机制"></a>浅析CSRF漏洞的利用与防御机制</h3><p>如题</p><p><a href="https://xz.aliyun.com/t/5871" target="_blank" rel="noopener">原文链接</a></p><h3 id="浏览器解码看XSS"><a href="#浏览器解码看XSS" class="headerlink" title="浏览器解码看XSS"></a>浏览器解码看XSS</h3><p>很棒的文章，感觉又能看懂花式编解码的XSS Payload</p><p><a href="https://xz.aliyun.com/t/5863" target="_blank" rel="noopener">原文链接</a></p><h3 id="Killing-🐦with-🐛🐛"><a href="#Killing-🐦with-🐛🐛" class="headerlink" title="Killing 🐦with 🐛🐛"></a>Killing 🐦with 🐛🐛</h3><p>Twitter XSS 利用链，文件上传+MIME Sniffing+Cookie劫持+OAuth GET请求，tql<br>联想到之前看到的<a href="https://xz.aliyun.com/t/2078" target="_blank" rel="noopener">OSS上传问题</a>，可以搞搞</p><p><a href="https://speakerdeck.com/filedescriptor/killing-with" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190806期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190805期</title>
@@ -148,29 +171,6 @@
     
       &lt;p&gt;透明日报第20190731期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="07" scheme="https://daily.tmr.js.org/categories/2019/07/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190730期</title>
-    <link href="https://daily.tmr.js.org/d/20190730/"/>
-    <id>https://daily.tmr.js.org/d/20190730/</id>
-    <published>2019-07-30T15:00:04.000Z</published>
-    <updated>2019-07-30T15:00:14.111Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190730期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*2，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="有人想给手机保护壳装一套物理按键"><a href="#有人想给手机保护壳装一套物理按键" class="headerlink" title="有人想给手机保护壳装一套物理按键"></a>有人想给手机保护壳装一套物理按键</h3><p>用手机传感器实现数据传输很有趣，想起来之前看到<a href="https://threatpost.com/samsung-lg-android-spearphone-eavesdropping/146625/" target="_blank" rel="noopener">用加速度传感器实现窃听</a></p><p><a href="https://www.ifanr.com/1241370" target="_blank" rel="noopener">原文链接</a></p><h3 id="Purism-公布-Librem-5-智能手机规格"><a href="#Purism-公布-Librem-5-智能手机规格" class="headerlink" title="Purism 公布 Librem 5 智能手机规格"></a>Purism 公布 Librem 5 智能手机规格</h3><p>约4000人民币的低性能手机，相比主流手机的低价，隐私付了多少钱</p><p><a href="https://www.solidot.org/story?sid=61535" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Java-反序列化漏洞始末系列"><a href="#Java-反序列化漏洞始末系列" class="headerlink" title="Java 反序列化漏洞始末系列"></a>Java 反序列化漏洞始末系列</h3><p>Java菜鸡mark一下，看了第一篇表示还是没看懂</p><p><a href="https://wiki.ioin.in/post/group/AOXJ" target="_blank" rel="noopener">原文链接</a></p><h3 id="安全研究视角看macOS平台EDR安全能力建设"><a href="#安全研究视角看macOS平台EDR安全能力建设" class="headerlink" title="安全研究视角看macOS平台EDR安全能力建设"></a>安全研究视角看macOS平台EDR安全能力建设</h3><p>建议先下载配合文末PPT，一起看比较好</p><p><a href="https://www.anquanke.com/post/id/182746" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190730期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*2，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
