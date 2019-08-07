@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-08-06T15:45:09.406Z</updated>
+  <updated>2019-08-07T15:45:10.022Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190807期</title>
+    <link href="https://daily.tmr.js.org/d/20190807/"/>
+    <id>https://daily.tmr.js.org/d/20190807/</id>
+    <published>2019-08-07T15:45:03.000Z</published>
+    <updated>2019-08-07T15:45:10.022Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190807期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3，<a href="#社会">社会</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="编程语言-PYPL-指数排行榜-2019-08"><a href="#编程语言-PYPL-指数排行榜-2019-08" class="headerlink" title="编程语言 PYPL 指数排行榜_2019.08"></a>编程语言 PYPL 指数排行榜_2019.08</h3><p>Python第一，Go和Rust上升较快</p><p><a href="https://segmentfault.com/a/1190000019999342" target="_blank" rel="noopener">原文链接</a></p><h3 id="深入理解浏览器解析机制和XSS向量编码"><a href="#深入理解浏览器解析机制和XSS向量编码" class="headerlink" title="深入理解浏览器解析机制和XSS向量编码"></a>深入理解浏览器解析机制和XSS向量编码</h3><p>继续昨天的<a href="../20190806/#浏览器解码看XSS">浏览器解码看XSS</a>，这篇文章更详细易懂</p><p><a href="http://bobao.360.cn/learning/detail/292.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="虚拟Dom详解-一"><a href="#虚拟Dom详解-一" class="headerlink" title="虚拟Dom详解 - (一)"></a>虚拟Dom详解 - (一)</h3><p>前端菜鸡表示才知道前端是这么玩的</p><p><a href="https://segmentfault.com/a/1190000019992100" target="_blank" rel="noopener">原文链接</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="香港问题的来龙去脉"><a href="#香港问题的来龙去脉" class="headerlink" title="香港问题的来龙去脉"></a>香港问题的来龙去脉</h3><p>近期香港事件，不了解的可以看看</p><p><a href="https://mp.weixin.qq.com/s/DAXYrPyZsEiwGMu3i3iADw" target="_blank" rel="noopener">原文链接</a></p><h3 id="每周转载：香港“反送中”政治抗议活动大事记（7月初至8月初）"><a href="#每周转载：香港“反送中”政治抗议活动大事记（7月初至8月初）" class="headerlink" title="每周转载：香港“反送中”政治抗议活动大事记（7月初至8月初）"></a>每周转载：香港“反送中”政治抗议活动大事记（7月初至8月初）</h3><p>香港时间线，更多时间线 <a href="../20190704/#中国政治与社会事件时间线">中国政治与社会事件时间线</a> <a href="../20190522/#中美冷战中的华为">中美冷战中的华为时间线</a></p><p><a href="https://program-think.blogspot.com/2019/08/weekly-share-135.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190807期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190806期</title>
@@ -154,29 +177,6 @@
       <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
     
       <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190731期</title>
-    <link href="https://daily.tmr.js.org/d/20190731/"/>
-    <id>https://daily.tmr.js.org/d/20190731/</id>
-    <published>2019-07-31T15:00:03.000Z</published>
-    <updated>2019-07-31T15:00:11.141Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190731期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="安全视角下的木马免杀技术讨论"><a href="#安全视角下的木马免杀技术讨论" class="headerlink" title="安全视角下的木马免杀技术讨论"></a>安全视角下的木马免杀技术讨论</h3><p>PE免杀思路（主要是shellcode免杀），非常详细</p><p><a href="https://www.freebuf.com/articles/system/209652.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="PHP临时文件机制与利用的思考"><a href="#PHP临时文件机制与利用的思考" class="headerlink" title="PHP临时文件机制与利用的思考"></a>PHP临时文件机制与利用的思考</h3><p>session利用主要是文件包含，还有另外一个就是LFI+phpinfo拿shell，当目标存在phpinfo的时候，对phpinfo发post构造session，session文件名和路径会在phpinfo里写，利用条件竞争包含session文件可以快速拿到shell</p><p><a href="https://www.anquanke.com/post/id/183046" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190731期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="07" scheme="https://daily.tmr.js.org/categories/2019/07/"/>
     
     
   </entry>
