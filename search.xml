@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>透明日报20190808期</title>
+      <link href="/d/20190808/"/>
+      <url>/d/20190808/</url>
+      
+        <content type="html"><![CDATA[<p>透明日报第20190808期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*5</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="利用-Cookie-机制鉴别-Tor-Browser-和爬虫"><a href="#利用-Cookie-机制鉴别-Tor-Browser-和爬虫" class="headerlink" title="利用 Cookie 机制鉴别 Tor Browser 和爬虫"></a>利用 Cookie 机制鉴别 Tor Browser 和爬虫</h3><p>哈哈哈很强</p><p><a href="https://www.40huo.cn/blog/deepmix-cookie-anti-spider.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="幕布漏洞集合"><a href="#幕布漏洞集合" class="headerlink" title="幕布漏洞集合"></a>幕布漏洞集合</h3><p>XSS，CSRF，越权…一堆洞，应该还是未修复</p><p><a href="https://bithack.io/forum/491" target="_blank" rel="noopener">原文链接</a></p><h3 id="毫无套路的某cms前台getshell分析"><a href="#毫无套路的某cms前台getshell分析" class="headerlink" title="毫无套路的某cms前台getshell分析"></a>毫无套路的某cms前台getshell分析</h3><p>注册-登陆-上传-getshell一套带走，无任何防护，漏洞原因倒是很套路</p><p><a href="https://xz.aliyun.com/t/5873" target="_blank" rel="noopener">原文链接</a></p><h3 id="HTTP-Desync-Attacks-Request-Smuggling-Reborn"><a href="#HTTP-Desync-Attacks-Request-Smuggling-Reborn" class="headerlink" title="HTTP Desync Attacks: Request Smuggling Reborn"></a>HTTP Desync Attacks: Request Smuggling Reborn</h3><p>利用分块传输夹带请求，以及一些利用姿势，之前还有看过<a href="https://www.anquanke.com/post/id/169738" target="_blank" rel="noopener">分块传输过WAF的文章</a>和<a href="https://github.com/c0ny1/chunked-coding-converter" target="_blank" rel="noopener">工具</a></p><p><a href="https://portswigger.net/blog/http-desync-attacks-request-smuggling-reborn" target="_blank" rel="noopener">原文链接</a></p><h3 id="Python-如何成为世界上最热门的编程语言"><a href="#Python-如何成为世界上最热门的编程语言" class="headerlink" title="Python 如何成为世界上最热门的编程语言"></a>Python 如何成为世界上最热门的编程语言</h3><p>个人认为语法简单，而且便于理解，较接近自然语言</p><p><a href="https://www.solidot.org/story?sid=61659" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2019 </category>
+          
+          <category> 08 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190807期</title>
       <link href="/d/20190807/"/>
       <url>/d/20190807/</url>
