@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>透明日报20190809期</title>
+      <link href="/d/20190809/"/>
+      <url>/d/20190809/</url>
+      
+        <content type="html"><![CDATA[<p>透明日报第20190809期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="ATT-amp-CK之后门持久化"><a href="#ATT-amp-CK之后门持久化" class="headerlink" title="ATT&amp;CK之后门持久化"></a>ATT&amp;CK之后门持久化</h3><p>各种Windows持久化技巧和代码实现，以及对应防御方法</p><p><a href="http://blog.topsec.com.cn/attack%e4%b9%8b%e5%90%8e%e9%97%a8%e6%8c%81%e4%b9%85%e5%8c%96/" target="_blank" rel="noopener">原文链接</a></p><h3 id="深入了解-PsExec-知识回顾"><a href="#深入了解-PsExec-知识回顾" class="headerlink" title="深入了解 PsExec [知识回顾]"></a>深入了解 PsExec [知识回顾]</h3><p>PsExec远程执行原理</p><p><a href="https://rcoil.me/2019/08/%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3%20PsExec/" target="_blank" rel="noopener">原文链接</a></p><h3 id="什么是内核级木马"><a href="#什么是内核级木马" class="headerlink" title="什么是内核级木马"></a>什么是内核级木马</h3><p>科普学习，内核木马能做什么，会做什么</p><p><a href="https://www.freebuf.com/articles/system/209735.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="炉石完美卡牌的诞生"><a href="#炉石完美卡牌的诞生" class="headerlink" title="炉石完美卡牌的诞生"></a>炉石完美卡牌的诞生</h3><p>什么是完美卡牌</p><p><a href="https://www.yystv.cn/p/5478" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2019 </category>
+          
+          <category> 08 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190808期</title>
       <link href="/d/20190808/"/>
       <url>/d/20190808/</url>
