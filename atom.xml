@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-08-09T15:45:09.165Z</updated>
+  <updated>2019-08-10T15:45:08.865Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190810期</title>
+    <link href="https://daily.tmr.js.org/d/20190810/"/>
+    <id>https://daily.tmr.js.org/d/20190810/</id>
+    <published>2019-08-10T15:45:03.000Z</published>
+    <updated>2019-08-10T15:45:08.865Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190810期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Galaxy-Leapfrogging盖乐世蛙跳-Pwning-the-Galaxy-S8"><a href="#Galaxy-Leapfrogging盖乐世蛙跳-Pwning-the-Galaxy-S8" class="headerlink" title="Galaxy Leapfrogging盖乐世蛙跳: Pwning the Galaxy S8"></a>Galaxy Leapfrogging盖乐世蛙跳: Pwning the Galaxy S8</h3><p>完全远程利用，tql，还有后续，推荐订阅博客</p><p><a href="https://blog.flanker017.me/galaxy-leapfrogging-pwning-the-galaxy-s8-chn/" target="_blank" rel="noopener">原文链接</a></p><h3 id="解决-Android-的疑难杂症，从看懂设备参数开始"><a href="#解决-Android-的疑难杂症，从看懂设备参数开始" class="headerlink" title="解决 Android 的疑难杂症，从看懂设备参数开始"></a>解决 Android 的疑难杂症，从看懂设备参数开始</h3><p>安卓党不要错过（传感器真好玩</p><p><a href="https://sspai.com/post/56107" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190810期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190809期</title>
@@ -144,33 +167,6 @@
     
       &lt;p&gt;透明日报第20190804期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190803期</title>
-    <link href="https://daily.tmr.js.org/d/20190803/"/>
-    <id>https://daily.tmr.js.org/d/20190803/</id>
-    <published>2019-08-03T15:00:04.000Z</published>
-    <updated>2019-08-03T15:00:13.849Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190803期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;透明日报第20190803期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日无更新&lt;/p&gt;
-
-      
     
     </summary>
     
