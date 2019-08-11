@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-08-10T15:45:08.865Z</updated>
+  <updated>2019-08-11T15:45:08.837Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190811期</title>
+    <link href="https://daily.tmr.js.org/d/20190811/"/>
+    <id>https://daily.tmr.js.org/d/20190811/</id>
+    <published>2019-08-11T15:45:02.000Z</published>
+    <updated>2019-08-11T15:45:08.837Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190811期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#技术">技术</a>*3，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>即日起，发布文章将自动存档<a href="https://archive.org/web/" target="_blank" rel="noopener">Web Archive</a>，当然保存失败的另说了</p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="微信逆向分析相关研究技术文章收集"><a href="#微信逆向分析相关研究技术文章收集" class="headerlink" title="微信逆向分析相关研究技术文章收集"></a>微信逆向分析相关研究技术文章收集</h3><p>如题</p><p><a href="https://anhkgg.com/wechat-pc-study-technical-article-sets/" target="_blank" rel="noopener">原文链接</a> <a href="share.archive">Archive</a></p><h3 id="域渗透——DCSync"><a href="#域渗透——DCSync" class="headerlink" title="域渗透——DCSync"></a>域渗透——DCSync</h3><p>DCSync利用和防御</p><p><a href="https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-DCSync/" target="_blank" rel="noopener">原文链接</a> <a href="share.archive">Archive</a></p><h3 id="Linux-I-O-栈浅析"><a href="#Linux-I-O-栈浅析" class="headerlink" title="Linux I/O 栈浅析"></a>Linux I/O 栈浅析</h3><p>Linux一切皆文件的实现和一些细节</p><p><a href="https://blog.joway.io/posts/linux-io-stack/" target="_blank" rel="noopener">原文链接</a> <a href="share.archive">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="小事-·-讨海者的传说"><a href="#小事-·-讨海者的传说" class="headerlink" title="小事 · 讨海者的传说"></a>小事 · 讨海者的传说</h3><p>远洋捕捞的生活</p><p><a href="https://news-at.zhihu.com/story/9713433" target="_blank" rel="noopener">原文链接</a> <a href="share.archive">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190811期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190810期</title>
@@ -144,29 +167,6 @@
     
       &lt;p&gt;透明日报第20190805期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190804期</title>
-    <link href="https://daily.tmr.js.org/d/20190804/"/>
-    <id>https://daily.tmr.js.org/d/20190804/</id>
-    <published>2019-08-04T15:00:04.000Z</published>
-    <updated>2019-08-04T15:00:13.547Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190804期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="xdite-internet-security"><a href="#xdite-internet-security" class="headerlink" title="xdite/internet-security"></a>xdite/internet-security</h3><p>互联网资安风控实战，以互联网金融和区块链交易所为例，一些安全建设工作</p><p><a href="https://github.com/xdite/internet-security" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190804期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
