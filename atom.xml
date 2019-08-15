@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-08-11T15:45:08.837Z</updated>
+  <updated>2019-08-15T01:50:28.256Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -17,13 +17,82 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>透明日报20190814期</title>
+    <link href="https://daily.tmr.js.org/d/20190814/"/>
+    <id>https://daily.tmr.js.org/d/20190814/</id>
+    <published>2019-08-14T15:45:03.000Z</published>
+    <updated>2019-08-15T01:50:28.256Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190814期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="又双叒叕谈注入"><a href="#又双叒叕谈注入" class="headerlink" title="又双叒叕谈注入"></a>又双叒叕谈注入</h3><p>SQL注入姿势，\N的姿势还没见过</p><p><a href="https://xz.aliyun.com/t/5980" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190813160524/https://xz.aliyun.com/t/5980" target="_blank" rel="noopener">Archive</a></p><h3 id="SELECT-code-execution-FROM-USING-SQLite"><a href="#SELECT-code-execution-FROM-USING-SQLite" class="headerlink" title="SELECT code_execution FROM * USING SQLite;"></a>SELECT code_execution FROM * USING SQLite;</h3><p>利用恶意的SQLite数据库实现任意代码执行，很棒的新思路，不过后面是PWN的就看不懂了（太菜了</p><p><a href="https://research.checkpoint.com/select-code_execution-from-using-sqlite/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190813163131/https://research.checkpoint.com/select-code_execution-from-using-sqlite/" target="_blank" rel="noopener">Archive</a></p><h3 id="拟态防御系列问题分析"><a href="#拟态防御系列问题分析" class="headerlink" title="拟态防御系列问题分析"></a>拟态防御系列问题分析</h3><p>拟态技术<a href="../20190530/#MIMIC-Defense-CTF-2019-final-writeup">之前</a>也提过，这篇主要是攻击向的</p><p><a href="https://xz.aliyun.com/t/5953" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190814134212/https://xz.aliyun.com/t/5953" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190814期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>透明日报20190813期</title>
+    <link href="https://daily.tmr.js.org/d/20190813/"/>
+    <id>https://daily.tmr.js.org/d/20190813/</id>
+    <published>2019-08-13T15:45:03.000Z</published>
+    <updated>2019-08-15T01:50:24.572Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190813期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*4</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅析Java序列化和反序列化"><a href="#浅析Java序列化和反序列化" class="headerlink" title="浅析Java序列化和反序列化"></a>浅析Java序列化和反序列化</h3><p>很详细的讲Java序列化</p><p><a href="https://github.com/gyyyy/footprint/blob/master/articles/2019/about-java-serialization-and-deserialization.md" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190813080301/https://github.com/gyyyy/footprint/blob/master/articles/2019/about-java-serialization-and-deserialization.md" target="_blank" rel="noopener">Archive</a></p><h3 id="SQL-基础学习参考资料分享"><a href="#SQL-基础学习参考资料分享" class="headerlink" title="SQL 基础学习参考资料分享"></a>SQL 基础学习参考资料分享</h3><p>SQL与SQL注入学习</p><p><a href="https://mp.weixin.qq.com/s/PnsK2iOFTyjEJGlXpYHoEw" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190813134617/https://mp.weixin.qq.com/s/PnsK2iOFTyjEJGlXpYHoEw" target="_blank" rel="noopener">Archive</a></p><h3 id="WebLogic安全研究报告"><a href="#WebLogic安全研究报告" class="headerlink" title="WebLogic安全研究报告"></a>WebLogic安全研究报告</h3><p>可能是你能找到的最详细的WebLogic安全相关中文文档</p><p><a href="https://mp.weixin.qq.com/s/qxkV_7MZVhUYYq5QGcwCtQ" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190813134958/https://mp.weixin.qq.com/s/qxkV_7MZVhUYYq5QGcwCtQ" target="_blank" rel="noopener">Archive</a></p><h3 id="红雨滴团队Blackhat、Defcon参会项目介绍（附大会部分议题PPT）"><a href="#红雨滴团队Blackhat、Defcon参会项目介绍（附大会部分议题PPT）" class="headerlink" title="红雨滴团队Blackhat、Defcon参会项目介绍（附大会部分议题PPT）"></a>红雨滴团队Blackhat、Defcon参会项目介绍（附大会部分议题PPT）</h3><p>里面的USB Bootkit有点好玩（有视频和文档），相当于USB 启动“劫持”，实现了注入，只要不拔掉USB就能一直有效</p><p><a href="https://www.anquanke.com/post/id/183990" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190813152429/https://www.anquanke.com/post/id/183990" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190813期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>透明日报20190812期</title>
+    <link href="https://daily.tmr.js.org/d/20190812/"/>
+    <id>https://daily.tmr.js.org/d/20190812/</id>
+    <published>2019-08-12T15:45:03.000Z</published>
+    <updated>2019-08-15T01:50:16.073Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190812期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#经济">经济</a>*1</p><a id="more"></a><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="央行准备推出数字货币"><a href="#央行准备推出数字货币" class="headerlink" title="央行准备推出数字货币"></a>央行准备推出数字货币</h3><blockquote><p>央行层面应保持技术中性，不一定依赖某一种技术路线<br>拒绝盲目区块链</p></blockquote><p><a href="https://www.solidot.org/story?sid=61693" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190812期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>透明日报20190811期</title>
     <link href="https://daily.tmr.js.org/d/20190811/"/>
     <id>https://daily.tmr.js.org/d/20190811/</id>
     <published>2019-08-11T15:45:02.000Z</published>
-    <updated>2019-08-11T15:45:08.837Z</updated>
+    <updated>2019-08-12T15:22:48.618Z</updated>
     
-    <content type="html"><![CDATA[<p>透明日报第20190811期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#技术">技术</a>*3，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>即日起，发布文章将自动存档<a href="https://archive.org/web/" target="_blank" rel="noopener">Web Archive</a>，当然保存失败的另说了</p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="微信逆向分析相关研究技术文章收集"><a href="#微信逆向分析相关研究技术文章收集" class="headerlink" title="微信逆向分析相关研究技术文章收集"></a>微信逆向分析相关研究技术文章收集</h3><p>如题</p><p><a href="https://anhkgg.com/wechat-pc-study-technical-article-sets/" target="_blank" rel="noopener">原文链接</a> <a href="share.archive">Archive</a></p><h3 id="域渗透——DCSync"><a href="#域渗透——DCSync" class="headerlink" title="域渗透——DCSync"></a>域渗透——DCSync</h3><p>DCSync利用和防御</p><p><a href="https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-DCSync/" target="_blank" rel="noopener">原文链接</a> <a href="share.archive">Archive</a></p><h3 id="Linux-I-O-栈浅析"><a href="#Linux-I-O-栈浅析" class="headerlink" title="Linux I/O 栈浅析"></a>Linux I/O 栈浅析</h3><p>Linux一切皆文件的实现和一些细节</p><p><a href="https://blog.joway.io/posts/linux-io-stack/" target="_blank" rel="noopener">原文链接</a> <a href="share.archive">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="小事-·-讨海者的传说"><a href="#小事-·-讨海者的传说" class="headerlink" title="小事 · 讨海者的传说"></a>小事 · 讨海者的传说</h3><p>远洋捕捞的生活</p><p><a href="https://news-at.zhihu.com/story/9713433" target="_blank" rel="noopener">原文链接</a> <a href="share.archive">Archive</a></p>]]></content>
+    <content type="html"><![CDATA[<p>透明日报第20190811期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#技术">技术</a>*3，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>即日起，发布文章将自动存档<a href="https://archive.org/web/" target="_blank" rel="noopener">Web Archive</a>，当然保存失败的另说了</p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="微信逆向分析相关研究技术文章收集"><a href="#微信逆向分析相关研究技术文章收集" class="headerlink" title="微信逆向分析相关研究技术文章收集"></a>微信逆向分析相关研究技术文章收集</h3><p>如题</p><p><a href="https://anhkgg.com/wechat-pc-study-technical-article-sets/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190810180830/https://anhkgg.com/wechat-pc-study-technical-article-sets/" target="_blank" rel="noopener">Archive</a></p><h3 id="域渗透——DCSync"><a href="#域渗透——DCSync" class="headerlink" title="域渗透——DCSync"></a>域渗透——DCSync</h3><p>DCSync利用和防御</p><p><a href="https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-DCSync/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190810181420/https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-DCSync/" target="_blank" rel="noopener">Archive</a></p><h3 id="Linux-I-O-栈浅析"><a href="#Linux-I-O-栈浅析" class="headerlink" title="Linux I/O 栈浅析"></a>Linux I/O 栈浅析</h3><p>Linux一切皆文件的实现和一些细节</p><p><a href="https://blog.joway.io/posts/linux-io-stack/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190811153325/https://blog.joway.io/posts/linux-io-stack/" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="小事-·-讨海者的传说"><a href="#小事-·-讨海者的传说" class="headerlink" title="小事 · 讨海者的传说"></a>小事 · 讨海者的传说</h3><p>远洋捕捞的生活</p><p><a href="https://news-at.zhihu.com/story/9713433" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
     <summary type="html">
     
@@ -98,75 +167,6 @@
     
       &lt;p&gt;透明日报第20190808期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*5&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190807期</title>
-    <link href="https://daily.tmr.js.org/d/20190807/"/>
-    <id>https://daily.tmr.js.org/d/20190807/</id>
-    <published>2019-08-07T15:45:03.000Z</published>
-    <updated>2019-08-07T15:45:10.022Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190807期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3，<a href="#社会">社会</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="编程语言-PYPL-指数排行榜-2019-08"><a href="#编程语言-PYPL-指数排行榜-2019-08" class="headerlink" title="编程语言 PYPL 指数排行榜_2019.08"></a>编程语言 PYPL 指数排行榜_2019.08</h3><p>Python第一，Go和Rust上升较快</p><p><a href="https://segmentfault.com/a/1190000019999342" target="_blank" rel="noopener">原文链接</a></p><h3 id="深入理解浏览器解析机制和XSS向量编码"><a href="#深入理解浏览器解析机制和XSS向量编码" class="headerlink" title="深入理解浏览器解析机制和XSS向量编码"></a>深入理解浏览器解析机制和XSS向量编码</h3><p>继续昨天的<a href="../20190806/#浏览器解码看XSS">浏览器解码看XSS</a>，这篇文章更详细易懂</p><p><a href="http://bobao.360.cn/learning/detail/292.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="虚拟Dom详解-一"><a href="#虚拟Dom详解-一" class="headerlink" title="虚拟Dom详解 - (一)"></a>虚拟Dom详解 - (一)</h3><p>前端菜鸡表示才知道前端是这么玩的</p><p><a href="https://segmentfault.com/a/1190000019992100" target="_blank" rel="noopener">原文链接</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="香港问题的来龙去脉"><a href="#香港问题的来龙去脉" class="headerlink" title="香港问题的来龙去脉"></a>香港问题的来龙去脉</h3><p>近期香港事件，不了解的可以看看</p><p><a href="https://mp.weixin.qq.com/s/DAXYrPyZsEiwGMu3i3iADw" target="_blank" rel="noopener">原文链接</a></p><h3 id="每周转载：香港“反送中”政治抗议活动大事记（7月初至8月初）"><a href="#每周转载：香港“反送中”政治抗议活动大事记（7月初至8月初）" class="headerlink" title="每周转载：香港“反送中”政治抗议活动大事记（7月初至8月初）"></a>每周转载：香港“反送中”政治抗议活动大事记（7月初至8月初）</h3><p>香港时间线，更多时间线 <a href="../20190704/#中国政治与社会事件时间线">中国政治与社会事件时间线</a> <a href="../20190522/#中美冷战中的华为">中美冷战中的华为时间线</a></p><p><a href="https://program-think.blogspot.com/2019/08/weekly-share-135.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190807期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190806期</title>
-    <link href="https://daily.tmr.js.org/d/20190806/"/>
-    <id>https://daily.tmr.js.org/d/20190806/</id>
-    <published>2019-08-06T15:45:03.000Z</published>
-    <updated>2019-08-06T15:45:09.406Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190806期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅析CSRF漏洞的利用与防御机制"><a href="#浅析CSRF漏洞的利用与防御机制" class="headerlink" title="浅析CSRF漏洞的利用与防御机制"></a>浅析CSRF漏洞的利用与防御机制</h3><p>如题</p><p><a href="https://xz.aliyun.com/t/5871" target="_blank" rel="noopener">原文链接</a></p><h3 id="浏览器解码看XSS"><a href="#浏览器解码看XSS" class="headerlink" title="浏览器解码看XSS"></a>浏览器解码看XSS</h3><p>很棒的文章，感觉又能看懂花式编解码的XSS Payload</p><p><a href="https://xz.aliyun.com/t/5863" target="_blank" rel="noopener">原文链接</a></p><h3 id="Killing-🐦with-🐛🐛"><a href="#Killing-🐦with-🐛🐛" class="headerlink" title="Killing 🐦with 🐛🐛"></a>Killing 🐦with 🐛🐛</h3><p>Twitter XSS 利用链，文件上传+MIME Sniffing+Cookie劫持+OAuth GET请求，tql<br>联想到之前看到的<a href="https://xz.aliyun.com/t/2078" target="_blank" rel="noopener">OSS上传问题</a>，可以搞搞</p><p><a href="https://speakerdeck.com/filedescriptor/killing-with" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190806期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190805期</title>
-    <link href="https://daily.tmr.js.org/d/20190805/"/>
-    <id>https://daily.tmr.js.org/d/20190805/</id>
-    <published>2019-08-05T15:45:02.000Z</published>
-    <updated>2019-08-05T15:45:08.578Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190805期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>从每天23:00更新修改为每天23:45更新</p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="英文写作风格指南"><a href="#英文写作风格指南" class="headerlink" title="英文写作风格指南"></a>英文写作风格指南</h3><p><a href="https://t.me/impNo" target="_blank" rel="noopener">@impNo</a>投稿</p><p>文章省略号那里好像笔误了一下<br>关联阅读： <a href="https://tingtalk.me/typography/" target="_blank" rel="noopener">中文排版指南</a></p><p><a href="https://tingtalk.me/english-typos/" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="一条命令实现端口复用后门"><a href="#一条命令实现端口复用后门" class="headerlink" title="一条命令实现端口复用后门"></a>一条命令实现端口复用后门</h3><p>WinRM实现端口复用</p><p><a href="https://mp.weixin.qq.com/s/HDZUsTbffeGhgwu1FOWQNg" target="_blank" rel="noopener">原文链接</a></p><h3 id="简单动态字符串-—-Redis-设计与实现"><a href="#简单动态字符串-—-Redis-设计与实现" class="headerlink" title="简单动态字符串 — Redis 设计与实现"></a>简单动态字符串 — Redis 设计与实现</h3><p>看了<a href="https://jiajunhuang.com/articles/2019_08_05-message_framing.md.html" target="_blank" rel="noopener">消息分帧(字符串设计或协议设计)的两种形式</a>，提到redis的sds没了解过，学习一下<br>Sds （Simple Dynamic String）简单动态字符串，就是Redis中的字符串，动态大小而且<a href="http://en.wikipedia.org/wiki/Binary-safe" target="_blank" rel="noopener">二进制安全</a><br>另外扩容机制还挺有意思的，想起来<a href="../20190428/#C++逆向学习">之前</a>看的<a href="https://xz.aliyun.com/t/4890#toc-2" target="_blank" rel="noopener">C++逆向学习(一) string</a>，C++中字符串的扩容机制是不一样的</p><p><a href="http://redisbook.com/preview/sds/implementation.html" target="_blank" rel="noopener">SDS 的定义</a></p><p><a href="http://redisbook.com/preview/sds/different_between_sds_and_c_string.html" target="_blank" rel="noopener">SDS 与 C 字符串的区别</a></p><p><a href="http://redisbook.com/#id9" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190805期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
