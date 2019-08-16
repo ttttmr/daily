@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-08-15T15:45:09.381Z</updated>
+  <updated>2019-08-16T15:45:09.716Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190816期</title>
+    <link href="https://daily.tmr.js.org/d/20190816/"/>
+    <id>https://daily.tmr.js.org/d/20190816/</id>
+    <published>2019-08-16T15:45:03.000Z</published>
+    <updated>2019-08-16T15:45:09.716Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190816期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="终于表态！李嘉诚广告今早“霸屏”：爱中国，爱香港，反暴力"><a href="#终于表态！李嘉诚广告今早“霸屏”：爱中国，爱香港，反暴力" class="headerlink" title="终于表态！李嘉诚广告今早“霸屏”：爱中国，爱香港，反暴力"></a>终于表态！李嘉诚广告今早“霸屏”：爱中国，爱香港，反暴力</h3><p>香港多家媒体刊登落款为“一个香港市民李嘉诚”的头版整版广告</p><p><a href="http://china.huanqiu.com/gangao/2019-08/15309287.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190816152524/http://china.huanqiu.com/gangao/2019-08/15309287.html" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190816期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190815期</title>
@@ -144,29 +167,6 @@
     
       &lt;p&gt;透明日报第20190810期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190809期</title>
-    <link href="https://daily.tmr.js.org/d/20190809/"/>
-    <id>https://daily.tmr.js.org/d/20190809/</id>
-    <published>2019-08-09T15:45:02.000Z</published>
-    <updated>2019-08-09T15:45:09.165Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190809期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="ATT-amp-CK之后门持久化"><a href="#ATT-amp-CK之后门持久化" class="headerlink" title="ATT&amp;CK之后门持久化"></a>ATT&amp;CK之后门持久化</h3><p>各种Windows持久化技巧和代码实现，以及对应防御方法</p><p><a href="http://blog.topsec.com.cn/attack%e4%b9%8b%e5%90%8e%e9%97%a8%e6%8c%81%e4%b9%85%e5%8c%96/" target="_blank" rel="noopener">原文链接</a></p><h3 id="深入了解-PsExec-知识回顾"><a href="#深入了解-PsExec-知识回顾" class="headerlink" title="深入了解 PsExec [知识回顾]"></a>深入了解 PsExec [知识回顾]</h3><p>PsExec远程执行原理</p><p><a href="https://rcoil.me/2019/08/%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3%20PsExec/" target="_blank" rel="noopener">原文链接</a></p><h3 id="什么是内核级木马"><a href="#什么是内核级木马" class="headerlink" title="什么是内核级木马"></a>什么是内核级木马</h3><p>科普学习，内核木马能做什么，会做什么</p><p><a href="https://www.freebuf.com/articles/system/209735.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="炉石完美卡牌的诞生"><a href="#炉石完美卡牌的诞生" class="headerlink" title="炉石完美卡牌的诞生"></a>炉石完美卡牌的诞生</h3><p>什么是完美卡牌</p><p><a href="https://www.yystv.cn/p/5478" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190809期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
