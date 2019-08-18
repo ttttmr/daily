@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-08-17T15:45:09.635Z</updated>
+  <updated>2019-08-18T15:45:08.885Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190818期</title>
+    <link href="https://daily.tmr.js.org/d/20190818/"/>
+    <id>https://daily.tmr.js.org/d/20190818/</id>
+    <published>2019-08-18T15:45:02.000Z</published>
+    <updated>2019-08-18T15:45:08.885Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190818期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2，<a href="#经济">经济</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="刨根问底：Windows-CTF协议安全性研究"><a href="#刨根问底：Windows-CTF协议安全性研究" class="headerlink" title="刨根问底：Windows CTF协议安全性研究"></a>刨根问底：Windows CTF协议安全性研究</h3><p>其实一直有注意到ctfmon，会有联网操作等等，自己太菜看不出来什么东西</p><p><a href="https://www.anquanke.com/post/id/184318" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190818032550/https://www.anquanke.com/post/id/184318" target="_blank" rel="noopener">Archive</a></p><h3 id="安全研究的价值思考"><a href="#安全研究的价值思考" class="headerlink" title="安全研究的价值思考"></a>安全研究的价值思考</h3><p>对公司，行业和个人的价值</p><p><a href="http://riusksk.me/2019/08/18/%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E7%9A%84%E4%BB%B7%E5%80%BC%E6%80%9D%E8%80%83/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190818105702/http://riusksk.me/2019/08/18/%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E7%9A%84%E4%BB%B7%E5%80%BC%E6%80%9D%E8%80%83/" target="_blank" rel="noopener">Archive</a></p><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”"><a href="#扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”" class="headerlink" title="扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”"></a>扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”</h3><p>有点复杂，有点绕</p><p><a href="https://program-think.blogspot.com/2019/08/Monetary-Economics.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190818092322/https://program-think.blogspot.com/2019/08/Monetary-Economics.html" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190818期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190817期</title>
@@ -144,29 +167,6 @@
     
       &lt;p&gt;透明日报第20190812期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190811期</title>
-    <link href="https://daily.tmr.js.org/d/20190811/"/>
-    <id>https://daily.tmr.js.org/d/20190811/</id>
-    <published>2019-08-11T15:45:02.000Z</published>
-    <updated>2019-08-12T15:22:48.618Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190811期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#技术">技术</a>*3，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>即日起，发布文章将自动存档<a href="https://archive.org/web/" target="_blank" rel="noopener">Web Archive</a>，当然保存失败的另说了</p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="微信逆向分析相关研究技术文章收集"><a href="#微信逆向分析相关研究技术文章收集" class="headerlink" title="微信逆向分析相关研究技术文章收集"></a>微信逆向分析相关研究技术文章收集</h3><p>如题</p><p><a href="https://anhkgg.com/wechat-pc-study-technical-article-sets/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190810180830/https://anhkgg.com/wechat-pc-study-technical-article-sets/" target="_blank" rel="noopener">Archive</a></p><h3 id="域渗透——DCSync"><a href="#域渗透——DCSync" class="headerlink" title="域渗透——DCSync"></a>域渗透——DCSync</h3><p>DCSync利用和防御</p><p><a href="https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-DCSync/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190810181420/https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-DCSync/" target="_blank" rel="noopener">Archive</a></p><h3 id="Linux-I-O-栈浅析"><a href="#Linux-I-O-栈浅析" class="headerlink" title="Linux I/O 栈浅析"></a>Linux I/O 栈浅析</h3><p>Linux一切皆文件的实现和一些细节</p><p><a href="https://blog.joway.io/posts/linux-io-stack/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190811153325/https://blog.joway.io/posts/linux-io-stack/" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="小事-·-讨海者的传说"><a href="#小事-·-讨海者的传说" class="headerlink" title="小事 · 讨海者的传说"></a>小事 · 讨海者的传说</h3><p>远洋捕捞的生活</p><p><a href="https://news-at.zhihu.com/story/9713433" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190811期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
