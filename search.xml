@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>透明日报20190819期</title>
+      <link href="/d/20190819/"/>
+      <url>/d/20190819/</url>
+      
+        <content type="html"><![CDATA[<p>透明日报第20190819期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="面试er们，看这里！"><a href="#面试er们，看这里！" class="headerlink" title="面试er们，看这里！"></a>面试er们，看这里！</h3><p>常见面试问题和回答，最佳秋招的同学可以好好看看</p><p><a href="https://news-at.zhihu.com/story/9714454" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Host-Split-Exploitable-Antipatterns-in-Unicode-Normalization"><a href="#Host-Split-Exploitable-Antipatterns-in-Unicode-Normalization" class="headerlink" title="Host/Split Exploitable Antipatterns in Unicode Normalization"></a>Host/Split Exploitable Antipatterns in Unicode Normalization</h3><p><a href="../20190617/#浅谈Unicode设计的安全性">又</a>是Unicode，这次不是相似欺骗了，而是解码错误，添加一个/</p><p><a href="https://i.blackhat.com/USA-19/Thursday/us-19-Birch-HostSplit-Exploitable-Antipatterns-In-Unicode-Normalization.pdf" target="_blank" rel="noopener">原文链接</a> <a href="1">Archive</a></p><h3 id="如何修改nmap，-重新编译，bypass-emergingthreats-的公开ids规则"><a href="#如何修改nmap，-重新编译，bypass-emergingthreats-的公开ids规则" class="headerlink" title="如何修改nmap， 重新编译，bypass emergingthreats 的公开ids规则"></a>如何修改nmap， 重新编译，bypass emergingthreats 的公开ids规则</h3><p>还是挺有意思的，定制化开源工具也是常用的免杀方法</p><p><a href="https://xz.aliyun.com/t/6002" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190819144909/https://xz.aliyun.com/t/6002" target="_blank" rel="noopener">Archive</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2019 </category>
+          
+          <category> 08 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190818期</title>
       <link href="/d/20190818/"/>
       <url>/d/20190818/</url>
