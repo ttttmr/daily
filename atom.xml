@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-08-19T15:45:08.370Z</updated>
+  <updated>2019-08-20T15:45:09.757Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190820期</title>
+    <link href="https://daily.tmr.js.org/d/20190820/"/>
+    <id>https://daily.tmr.js.org/d/20190820/</id>
+    <published>2019-08-20T15:45:03.000Z</published>
+    <updated>2019-08-20T15:45:09.757Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190820期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;透明日报第20190820期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日无更新&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190819期</title>
@@ -144,29 +171,6 @@
     
       &lt;p&gt;透明日报第20190814期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190813期</title>
-    <link href="https://daily.tmr.js.org/d/20190813/"/>
-    <id>https://daily.tmr.js.org/d/20190813/</id>
-    <published>2019-08-13T15:45:03.000Z</published>
-    <updated>2019-08-15T01:50:24.572Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190813期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*4</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅析Java序列化和反序列化"><a href="#浅析Java序列化和反序列化" class="headerlink" title="浅析Java序列化和反序列化"></a>浅析Java序列化和反序列化</h3><p>很详细的讲Java序列化</p><p><a href="https://github.com/gyyyy/footprint/blob/master/articles/2019/about-java-serialization-and-deserialization.md" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190813080301/https://github.com/gyyyy/footprint/blob/master/articles/2019/about-java-serialization-and-deserialization.md" target="_blank" rel="noopener">Archive</a></p><h3 id="SQL-基础学习参考资料分享"><a href="#SQL-基础学习参考资料分享" class="headerlink" title="SQL 基础学习参考资料分享"></a>SQL 基础学习参考资料分享</h3><p>SQL与SQL注入学习</p><p><a href="https://mp.weixin.qq.com/s/PnsK2iOFTyjEJGlXpYHoEw" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190813134617/https://mp.weixin.qq.com/s/PnsK2iOFTyjEJGlXpYHoEw" target="_blank" rel="noopener">Archive</a></p><h3 id="WebLogic安全研究报告"><a href="#WebLogic安全研究报告" class="headerlink" title="WebLogic安全研究报告"></a>WebLogic安全研究报告</h3><p>可能是你能找到的最详细的WebLogic安全相关中文文档</p><p><a href="https://mp.weixin.qq.com/s/qxkV_7MZVhUYYq5QGcwCtQ" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190813134958/https://mp.weixin.qq.com/s/qxkV_7MZVhUYYq5QGcwCtQ" target="_blank" rel="noopener">Archive</a></p><h3 id="红雨滴团队Blackhat、Defcon参会项目介绍（附大会部分议题PPT）"><a href="#红雨滴团队Blackhat、Defcon参会项目介绍（附大会部分议题PPT）" class="headerlink" title="红雨滴团队Blackhat、Defcon参会项目介绍（附大会部分议题PPT）"></a>红雨滴团队Blackhat、Defcon参会项目介绍（附大会部分议题PPT）</h3><p>里面的USB Bootkit有点好玩（有视频和文档），相当于USB 启动“劫持”，实现了注入，只要不拔掉USB就能一直有效</p><p><a href="https://www.anquanke.com/post/id/183990" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190813152429/https://www.anquanke.com/post/id/183990" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190813期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4&lt;/p&gt;
     
     </summary>
     
