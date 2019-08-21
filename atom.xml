@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-08-20T15:45:09.757Z</updated>
+  <updated>2019-08-21T15:45:09.499Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190821期</title>
+    <link href="https://daily.tmr.js.org/d/20190821/"/>
+    <id>https://daily.tmr.js.org/d/20190821/</id>
+    <published>2019-08-21T15:45:03.000Z</published>
+    <updated>2019-08-21T15:45:09.499Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190821期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*4</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="Markdown-Please-将任意网页转换为-MarkDown-格式"><a href="#Markdown-Please-将任意网页转换为-MarkDown-格式" class="headerlink" title="Markdown, Please! 将任意网页转换为 MarkDown 格式"></a>Markdown, Please! 将任意网页转换为 MarkDown 格式</h3><p>项目很有意思，但效果一般</p><p><a href="https://www.appinn.com/markdown-please/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190821092111/https://www.appinn.com/markdown-please/" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="DEF-CON-CTF-27-Final-游记"><a href="#DEF-CON-CTF-27-Final-游记" class="headerlink" title="DEF CON CTF 27 Final 游记"></a>DEF CON CTF 27 Final 游记</h3><p>围观大佬</p><p><a href="http://iromise.com/2019/08/14/DEF-CON-CTF-27-Final/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190821091217/http://iromise.com/2019/08/14/DEF-CON-CTF-27-Final/" target="_blank" rel="noopener">Archive</a></p><h3 id="Webmin-CVE-2019-15107-远程代码执行漏洞之-backdoor-探究"><a href="#Webmin-CVE-2019-15107-远程代码执行漏洞之-backdoor-探究" class="headerlink" title="Webmin(CVE-2019-15107) 远程代码执行漏洞之 backdoor 探究"></a>Webmin(CVE-2019-15107) 远程代码执行漏洞之 backdoor 探究</h3><p>看似是个漏洞，其实是个后门</p><p><a href="https://paper.seebug.org/1019/" target="_blank" rel="noopener">原文链接</a></p><h3 id="渗透测试面试题2019版，基础安全知识全到哭"><a href="#渗透测试面试题2019版，基础安全知识全到哭" class="headerlink" title="渗透测试面试题2019版，基础安全知识全到哭"></a>渗透测试面试题2019版，基础安全知识全到哭</h3><p>全到哭</p><p><a href="https://mp.weixin.qq.com/s/ndt1mgF0tBf0jGrIdTWfcA" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190821140526/https://mp.weixin.qq.com/s/ndt1mgF0tBf0jGrIdTWfcA" target="_blank" rel="noopener">Archive</a></p><h3 id="从一次漏洞挖掘入门Ldap注入"><a href="#从一次漏洞挖掘入门Ldap注入" class="headerlink" title="从一次漏洞挖掘入门Ldap注入"></a>从一次漏洞挖掘入门Ldap注入</h3><p>非常详细Ldap注入文章，Ldap一般会用在查询远大于写的时候，比如文章里提到的sso</p><p><a href="https://xz.aliyun.com/t/5689" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190821151732/https://xz.aliyun.com/t/5689" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190821期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190820期</title>
@@ -148,29 +171,6 @@
     
       &lt;p&gt;透明日报第20190815期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190814期</title>
-    <link href="https://daily.tmr.js.org/d/20190814/"/>
-    <id>https://daily.tmr.js.org/d/20190814/</id>
-    <published>2019-08-14T15:45:03.000Z</published>
-    <updated>2019-08-15T01:50:28.256Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190814期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="又双叒叕谈注入"><a href="#又双叒叕谈注入" class="headerlink" title="又双叒叕谈注入"></a>又双叒叕谈注入</h3><p>SQL注入姿势，\N的姿势还没见过</p><p><a href="https://xz.aliyun.com/t/5980" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190813160524/https://xz.aliyun.com/t/5980" target="_blank" rel="noopener">Archive</a></p><h3 id="SELECT-code-execution-FROM-USING-SQLite"><a href="#SELECT-code-execution-FROM-USING-SQLite" class="headerlink" title="SELECT code_execution FROM * USING SQLite;"></a>SELECT code_execution FROM * USING SQLite;</h3><p>利用恶意的SQLite数据库实现任意代码执行，很棒的新思路，不过后面是PWN的就看不懂了（太菜了</p><p><a href="https://research.checkpoint.com/select-code_execution-from-using-sqlite/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190813163131/https://research.checkpoint.com/select-code_execution-from-using-sqlite/" target="_blank" rel="noopener">Archive</a></p><h3 id="拟态防御系列问题分析"><a href="#拟态防御系列问题分析" class="headerlink" title="拟态防御系列问题分析"></a>拟态防御系列问题分析</h3><p>拟态技术<a href="../20190530/#MIMIC-Defense-CTF-2019-final-writeup">之前</a>也提过，这篇主要是攻击向的</p><p><a href="https://xz.aliyun.com/t/5953" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190814134212/https://xz.aliyun.com/t/5953" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190814期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
     
     </summary>
     
