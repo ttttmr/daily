@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>透明日报20190822期</title>
+      <link href="/d/20190822/"/>
+      <url>/d/20190822/</url>
+      
+        <content type="html"><![CDATA[<p>透明日报第20190822期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="XSS-via-HTTP-Headers"><a href="#XSS-via-HTTP-Headers" class="headerlink" title="XSS via HTTP Headers"></a>XSS via HTTP Headers</h3><p>非常易懂的讲解缓存中毒攻击</p><p><a href="https://brutelogic.com.br/blog/xss-via-http-headers/" target="_blank" rel="noopener">原文链接</a></p><h3 id="BCS（北京网络安全大会）2019-红队行动会议重点内容"><a href="#BCS（北京网络安全大会）2019-红队行动会议重点内容" class="headerlink" title="BCS（北京网络安全大会）2019 红队行动会议重点内容"></a>BCS（北京网络安全大会）2019 红队行动会议重点内容</h3><p>如题</p><p><a href="https://github.com/Mel0day/RedTeam-BCS" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190822085902/https://github.com/Mel0day/RedTeam-BCS" target="_blank" rel="noopener">Archive</a></p><h3 id="Visual-Studio-Code有哪些工程方面的亮点"><a href="#Visual-Studio-Code有哪些工程方面的亮点" class="headerlink" title="Visual Studio Code有哪些工程方面的亮点"></a>Visual Studio Code有哪些工程方面的亮点</h3><p>产品定位，架构设计，技术路线</p><p><a href="https://zhuanlan.zhihu.com/p/35303567" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2019 </category>
+          
+          <category> 08 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190821期</title>
       <link href="/d/20190821/"/>
       <url>/d/20190821/</url>
