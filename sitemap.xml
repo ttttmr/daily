@@ -4,7 +4,14 @@
   <url>
     <loc>https://daily.tmr.js.org/status/index.html</loc>
     
-    <lastmod>2019-08-22T15:45:09.782Z</lastmod>
+    <lastmod>2019-08-23T15:45:10.112Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://daily.tmr.js.org/d/20190823/</loc>
+    
+    <lastmod>2019-08-23T15:45:09.848Z</lastmod>
     
   </url>
   
@@ -16,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://daily.tmr.js.org/about/index.html</loc>
+    <loc>https://daily.tmr.js.org/d/20190726/</loc>
     
     <lastmod>2019-08-21T16:18:19.959Z</lastmod>
     
@@ -30,7 +37,7 @@
   </url>
   
   <url>
-    <loc>https://daily.tmr.js.org/d/20190726/</loc>
+    <loc>https://daily.tmr.js.org/about/index.html</loc>
     
     <lastmod>2019-08-21T16:18:19.959Z</lastmod>
     
@@ -212,7 +219,7 @@
   </url>
   
   <url>
-    <loc>https://daily.tmr.js.org/d/20190524/</loc>
+    <loc>https://daily.tmr.js.org/d/20190522/</loc>
     
     <lastmod>2019-07-26T09:38:11.666Z</lastmod>
     
@@ -394,20 +401,6 @@
   </url>
   
   <url>
-    <loc>https://daily.tmr.js.org/d/20190611/</loc>
-    
-    <lastmod>2019-07-26T09:38:11.666Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://daily.tmr.js.org/d/20190509/</loc>
-    
-    <lastmod>2019-07-26T09:38:11.666Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://daily.tmr.js.org/d/20190506/</loc>
     
     <lastmod>2019-07-26T09:38:11.666Z</lastmod>
@@ -422,13 +415,6 @@
   </url>
   
   <url>
-    <loc>https://daily.tmr.js.org/d/20190511/</loc>
-    
-    <lastmod>2019-07-26T09:38:11.666Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://daily.tmr.js.org/d/20190508/</loc>
     
     <lastmod>2019-07-26T09:38:11.666Z</lastmod>
@@ -436,7 +422,21 @@
   </url>
   
   <url>
+    <loc>https://daily.tmr.js.org/d/20190509/</loc>
+    
+    <lastmod>2019-07-26T09:38:11.666Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://daily.tmr.js.org/d/20190510/</loc>
+    
+    <lastmod>2019-07-26T09:38:11.666Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://daily.tmr.js.org/d/20190511/</loc>
     
     <lastmod>2019-07-26T09:38:11.666Z</lastmod>
     
@@ -464,13 +464,6 @@
   </url>
   
   <url>
-    <loc>https://daily.tmr.js.org/d/20190517/</loc>
-    
-    <lastmod>2019-07-26T09:38:11.666Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://daily.tmr.js.org/d/20190515/</loc>
     
     <lastmod>2019-07-26T09:38:11.666Z</lastmod>
@@ -485,7 +478,7 @@
   </url>
   
   <url>
-    <loc>https://daily.tmr.js.org/d/20190520/</loc>
+    <loc>https://daily.tmr.js.org/d/20190517/</loc>
     
     <lastmod>2019-07-26T09:38:11.666Z</lastmod>
     
@@ -506,6 +499,13 @@
   </url>
   
   <url>
+    <loc>https://daily.tmr.js.org/d/20190520/</loc>
+    
+    <lastmod>2019-07-26T09:38:11.666Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://daily.tmr.js.org/d/20190521/</loc>
     
     <lastmod>2019-07-26T09:38:11.666Z</lastmod>
@@ -513,14 +513,7 @@
   </url>
   
   <url>
-    <loc>https://daily.tmr.js.org/d/20190610/</loc>
-    
-    <lastmod>2019-07-26T09:38:11.666Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://daily.tmr.js.org/d/20190522/</loc>
+    <loc>https://daily.tmr.js.org/d/20190611/</loc>
     
     <lastmod>2019-07-26T09:38:11.666Z</lastmod>
     
@@ -534,7 +527,7 @@
   </url>
   
   <url>
-    <loc>https://daily.tmr.js.org/d/20190526/</loc>
+    <loc>https://daily.tmr.js.org/d/20190524/</loc>
     
     <lastmod>2019-07-26T09:38:11.666Z</lastmod>
     
@@ -548,14 +541,14 @@
   </url>
   
   <url>
-    <loc>https://daily.tmr.js.org/d/20190527/</loc>
+    <loc>https://daily.tmr.js.org/d/20190526/</loc>
     
     <lastmod>2019-07-26T09:38:11.666Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://daily.tmr.js.org/d/20190530/</loc>
+    <loc>https://daily.tmr.js.org/d/20190527/</loc>
     
     <lastmod>2019-07-26T09:38:11.666Z</lastmod>
     
@@ -576,6 +569,20 @@
   </url>
   
   <url>
+    <loc>https://daily.tmr.js.org/d/20190530/</loc>
+    
+    <lastmod>2019-07-26T09:38:11.666Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://daily.tmr.js.org/d/20190531/</loc>
+    
+    <lastmod>2019-07-26T09:38:11.666Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://daily.tmr.js.org/d/20190603/</loc>
     
     <lastmod>2019-07-26T09:38:11.666Z</lastmod>
@@ -584,13 +591,6 @@
   
   <url>
     <loc>https://daily.tmr.js.org/d/20190604/</loc>
-    
-    <lastmod>2019-07-26T09:38:11.666Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://daily.tmr.js.org/d/20190531/</loc>
     
     <lastmod>2019-07-26T09:38:11.666Z</lastmod>
     
@@ -625,6 +625,13 @@
   </url>
   
   <url>
+    <loc>https://daily.tmr.js.org/d/20190610/</loc>
+    
+    <lastmod>2019-07-26T09:38:11.666Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://daily.tmr.js.org/d/20190405/</loc>
     
     <lastmod>2019-07-26T09:38:11.662Z</lastmod>
@@ -646,14 +653,14 @@
   </url>
   
   <url>
-    <loc>https://daily.tmr.js.org/d/20190502/</loc>
+    <loc>https://daily.tmr.js.org/d/20190503/</loc>
     
     <lastmod>2019-07-26T09:38:11.662Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://daily.tmr.js.org/d/20190503/</loc>
+    <loc>https://daily.tmr.js.org/d/20190502/</loc>
     
     <lastmod>2019-07-26T09:38:11.662Z</lastmod>
     
