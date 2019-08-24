@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-08-23T15:45:09.848Z</updated>
+  <updated>2019-08-24T15:45:09.062Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190824期</title>
+    <link href="https://daily.tmr.js.org/d/20190824/"/>
+    <id>https://daily.tmr.js.org/d/20190824/</id>
+    <published>2019-08-24T15:45:02.000Z</published>
+    <updated>2019-08-24T15:45:09.062Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190824期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="SUCTF-2019-出题笔记-amp-phar-反序列化的一些拓展"><a href="#SUCTF-2019-出题笔记-amp-phar-反序列化的一些拓展" class="headerlink" title="SUCTF 2019 出题笔记 &amp; phar 反序列化的一些拓展"></a>SUCTF 2019 出题笔记 &amp; phar 反序列化的一些拓展</h3><p>新姿势学习一下</p><p><a href="https://xz.aliyun.com/t/6057" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190824105021/https://xz.aliyun.com/t/6057" target="_blank" rel="noopener">Archive</a></p><h3 id="Podman：一个更安全的运行容器的方式"><a href="#Podman：一个更安全的运行容器的方式" class="headerlink" title="Podman：一个更安全的运行容器的方式"></a>Podman：一个更安全的运行容器的方式</h3><p>Podman是一个Docker的替代品，更安全且易于审计，但文章并没有介绍Podman是如何运行的，想了解的可以看这篇<a href="https://medium.com/@ganeshmani009/replacing-docker-with-podman-power-of-podman-cloudnweb-23cfb7541538" target="_blank" rel="noopener">Replacing Docker with Podman — Power of Podman — Cloudnweb</a>，有运行架构介绍和对比</p><p><a href="https://linux.cn/article-11261-1.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190824期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190823期</title>
@@ -148,29 +171,6 @@
     
       &lt;p&gt;透明日报第20190818期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190817期</title>
-    <link href="https://daily.tmr.js.org/d/20190817/"/>
-    <id>https://daily.tmr.js.org/d/20190817/</id>
-    <published>2019-08-17T15:45:03.000Z</published>
-    <updated>2019-08-17T15:45:09.635Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190817期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*3，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="2019年APP流量价值评估报告"><a href="#2019年APP流量价值评估报告" class="headerlink" title="2019年APP流量价值评估报告"></a>2019年APP流量价值评估报告</h3><p>很多人都不知道APP是如何赚钱的（比如微信），为什么流量=钱，如果你好奇这个问题，可以看看这个报告<br>另外还有个值得注意的是，报告中的行业分布，也可以理解为什么所有的互联网产品都想做社交…<br>另外吐槽一下，很多互联网媒体也会发相关内容，但大部分就是复制报告的几张图片，也不给报告来源链接，极其讨厌<br>可能最多就是说“平均装了56个APP”，出自<a href="https://www.jiguang.cn/reports/402" target="_blank" rel="noopener">2019年Q2移动互联网行业数据研究报告</a>，没看到几个有留下报告链接的媒体</p><p><a href="https://www.jiguang.cn/reports/404" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190817041415/https://www.jiguang.cn/reports/404" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="SELECT-code-execution-FROM-USING-SQLite"><a href="#SELECT-code-execution-FROM-USING-SQLite" class="headerlink" title="SELECT code_execution FROM * USING SQLite;"></a>SELECT code_execution FROM * USING SQLite;</h3><p>之前发过<a href="../20190814/#SELECT-code-execution-FROM-USING-SQLite">原文</a>，这是中文版</p><p><a href="https://xz.aliyun.com/t/5998" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190817080545/https://xz.aliyun.com/t/5998" target="_blank" rel="noopener">Archive</a></p><h3 id="GPS卫星信号劫持"><a href="#GPS卫星信号劫持" class="headerlink" title="GPS卫星信号劫持"></a>GPS卫星信号劫持</h3><p>GPS劫持技术</p><p><a href="https://xz.aliyun.com/t/5955" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190817090059/https://xz.aliyun.com/t/5955" target="_blank" rel="noopener">Archive</a></p><h3 id="Sqlmap学习使用小总结"><a href="#Sqlmap学习使用小总结" class="headerlink" title="Sqlmap学习使用小总结"></a>Sqlmap学习使用小总结</h3><p>算是一个sqlmap命令手册了吧</p><p><a href="https://xz.aliyun.com/t/5982" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190817090237/https://xz.aliyun.com/t/5982" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="CCF关于暂停NOIP竞赛的公告"><a href="#CCF关于暂停NOIP竞赛的公告" class="headerlink" title="CCF关于暂停NOIP竞赛的公告"></a>CCF关于暂停NOIP竞赛的公告</h3><p>虽然我也没参加过，暂停就很迷</p><p><a href="https://www.ccf.org.cn/c/2019-08-16/668158.shtml" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190816175858/https://www.ccf.org.cn/c/2019-08-16/668158.shtml" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190817期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     

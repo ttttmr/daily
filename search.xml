@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>透明日报20190824期</title>
+      <link href="/d/20190824/"/>
+      <url>/d/20190824/</url>
+      
+        <content type="html"><![CDATA[<p>透明日报第20190824期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="SUCTF-2019-出题笔记-amp-phar-反序列化的一些拓展"><a href="#SUCTF-2019-出题笔记-amp-phar-反序列化的一些拓展" class="headerlink" title="SUCTF 2019 出题笔记 &amp; phar 反序列化的一些拓展"></a>SUCTF 2019 出题笔记 &amp; phar 反序列化的一些拓展</h3><p>新姿势学习一下</p><p><a href="https://xz.aliyun.com/t/6057" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190824105021/https://xz.aliyun.com/t/6057" target="_blank" rel="noopener">Archive</a></p><h3 id="Podman：一个更安全的运行容器的方式"><a href="#Podman：一个更安全的运行容器的方式" class="headerlink" title="Podman：一个更安全的运行容器的方式"></a>Podman：一个更安全的运行容器的方式</h3><p>Podman是一个Docker的替代品，更安全且易于审计，但文章并没有介绍Podman是如何运行的，想了解的可以看这篇<a href="https://medium.com/@ganeshmani009/replacing-docker-with-podman-power-of-podman-cloudnweb-23cfb7541538" target="_blank" rel="noopener">Replacing Docker with Podman — Power of Podman — Cloudnweb</a>，有运行架构介绍和对比</p><p><a href="https://linux.cn/article-11261-1.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2019 </category>
+          
+          <category> 08 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190823期</title>
       <link href="/d/20190823/"/>
       <url>/d/20190823/</url>
