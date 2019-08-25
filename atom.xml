@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-08-24T15:45:09.062Z</updated>
+  <updated>2019-08-25T15:45:09.286Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190825期</title>
+    <link href="https://daily.tmr.js.org/d/20190825/"/>
+    <id>https://daily.tmr.js.org/d/20190825/</id>
+    <published>2019-08-25T15:45:03.000Z</published>
+    <updated>2019-08-25T15:45:09.286Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190825期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1，<a href="#生活">生活</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="SSLH：让-HTTPS-和-SSH-共享同一个端口"><a href="#SSLH：让-HTTPS-和-SSH-共享同一个端口" class="headerlink" title="SSLH：让 HTTPS 和 SSH 共享同一个端口"></a>SSLH：让 HTTPS 和 SSH 共享同一个端口</h3><p>这端口复用可以，不知道怎么实现的，GitHub在<a href="https://github.com/yrutschle/sslh" target="_blank" rel="noopener">这里</a></p><p><a href="https://linux.cn/article-11247-1.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="究竟几点之后算熬夜？这个问题值得深思"><a href="#究竟几点之后算熬夜？这个问题值得深思" class="headerlink" title="究竟几点之后算熬夜？这个问题值得深思"></a>究竟几点之后算熬夜？这个问题值得深思</h3><p>熬夜太真实了哈哈哈</p><p><a href="https://news-at.zhihu.com/story/9714514" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190825期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#生活&quot;&gt;生活&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190824期</title>
@@ -148,29 +171,6 @@
     
       &lt;p&gt;透明日报第20190819期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190818期</title>
-    <link href="https://daily.tmr.js.org/d/20190818/"/>
-    <id>https://daily.tmr.js.org/d/20190818/</id>
-    <published>2019-08-18T15:45:02.000Z</published>
-    <updated>2019-08-18T15:45:08.885Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190818期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2，<a href="#经济">经济</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="刨根问底：Windows-CTF协议安全性研究"><a href="#刨根问底：Windows-CTF协议安全性研究" class="headerlink" title="刨根问底：Windows CTF协议安全性研究"></a>刨根问底：Windows CTF协议安全性研究</h3><p>其实一直有注意到ctfmon，会有联网操作等等，自己太菜看不出来什么东西</p><p><a href="https://www.anquanke.com/post/id/184318" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190818032550/https://www.anquanke.com/post/id/184318" target="_blank" rel="noopener">Archive</a></p><h3 id="安全研究的价值思考"><a href="#安全研究的价值思考" class="headerlink" title="安全研究的价值思考"></a>安全研究的价值思考</h3><p>对公司，行业和个人的价值</p><p><a href="http://riusksk.me/2019/08/18/%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E7%9A%84%E4%BB%B7%E5%80%BC%E6%80%9D%E8%80%83/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190818105702/http://riusksk.me/2019/08/18/%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E7%9A%84%E4%BB%B7%E5%80%BC%E6%80%9D%E8%80%83/" target="_blank" rel="noopener">Archive</a></p><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”"><a href="#扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”" class="headerlink" title="扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”"></a>扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”</h3><p>有点复杂，有点绕</p><p><a href="https://program-think.blogspot.com/2019/08/Monetary-Economics.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190818092322/https://program-think.blogspot.com/2019/08/Monetary-Economics.html" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190818期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
