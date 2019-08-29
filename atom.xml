@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-08-28T15:45:09.690Z</updated>
+  <updated>2019-08-29T15:45:08.384Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190829期</title>
+    <link href="https://daily.tmr.js.org/d/20190829/"/>
+    <id>https://daily.tmr.js.org/d/20190829/</id>
+    <published>2019-08-29T15:45:02.000Z</published>
+    <updated>2019-08-29T15:45:08.384Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190829期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*7</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="常见未授权访问漏洞总结"><a href="#常见未授权访问漏洞总结" class="headerlink" title="常见未授权访问漏洞总结"></a>常见未授权访问漏洞总结</h3><p>如题，有实验演示</p><p><a href="https://xz.aliyun.com/t/6103" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190829010908/https://xz.aliyun.com/t/6103" target="_blank" rel="noopener">Archive</a></p><h3 id="通过redis-getshell的一些小问题"><a href="#通过redis-getshell的一些小问题" class="headerlink" title="通过redis getshell的一些小问题"></a>通过redis getshell的一些小问题</h3><p>crontab在不同系统上有差异需要注意</p><p><a href="https://lorexxar.cn/2016/12/03/redis-getshell/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190829011137/https://lorexxar.cn/2016/12/03/redis-getshell/" target="_blank" rel="noopener">Archive</a></p><h3 id="从SUCTF-2019-CheckIn-浅谈-user-ini的利用"><a href="#从SUCTF-2019-CheckIn-浅谈-user-ini的利用" class="headerlink" title="从SUCTF 2019 CheckIn 浅谈.user.ini的利用"></a>从SUCTF 2019 CheckIn 浅谈.user.ini的利用</h3><p>php目录设置文件，p牛文章在<a href="https://wooyun.js.org/drops/user.ini%E6%96%87%E4%BB%B6%E6%9E%84%E6%88%90%E7%9A%84PHP%E5%90%8E%E9%97%A8.html" target="_blank" rel="noopener">这里</a></p><p><a href="https://xz.aliyun.com/t/6091" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190829012925/https://xz.aliyun.com/t/6091" target="_blank" rel="noopener">Archive</a></p><h3 id="A-Telegram-bug-that-disclose-phone-numbers-of-any-users-in-public-groups"><a href="#A-Telegram-bug-that-disclose-phone-numbers-of-any-users-in-public-groups" class="headerlink" title="A Telegram bug that disclose phone numbers of any users in public groups"></a>A Telegram bug that disclose phone numbers of any users in public groups</h3><p>Telegram漏洞，可查看公开群组中成员手机号，预存大量手机号-读取联系人-添加联系人-显示对应的账号，相似的手法在之前有在<a href="../20190829/#咳血的独角兽丨互联网的幕后攻防">黑产文章</a>（原链好像挂了，可以看下面的）中提到</p><p><a href="https://docs.google.com/document/d/e/2PACX-1vRx2wO2kj0axlQtv2CDSjPGlRKJOHtucvpOKGFKybh2eVVGZqvt_JJv-2Q11NHn5Y4um_F4-bgA6q5v/pub" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190829073219/https://docs.google.com/document/d/e/2PACX-1vRx2wO2kj0axlQtv2CDSjPGlRKJOHtucvpOKGFKybh2eVVGZqvt_JJv-2Q11NHn5Y4um_F4-bgA6q5v/pub" target="_blank" rel="noopener">Archive</a></p><h3 id="咳血的独角兽丨互联网幕后攻防"><a href="#咳血的独角兽丨互联网幕后攻防" class="headerlink" title="咳血的独角兽丨互联网幕后攻防"></a>咳血的独角兽丨互联网幕后攻防</h3><p>讲初创企业的一些风控攻防</p><p><a href="https://mp.weixin.qq.com/s/Ui9-evDk0nMvTcRJHxsm5Q" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190829073341/https://mp.weixin.qq.com/s/Ui9-evDk0nMvTcRJHxsm5Q" target="_blank" rel="noopener">Archive</a></p><h3 id="咳血的独角兽2-互联网幕后攻防"><a href="#咳血的独角兽2-互联网幕后攻防" class="headerlink" title="咳血的独角兽2 | 互联网幕后攻防"></a>咳血的独角兽2 | 互联网幕后攻防</h3><p><a href="../20190829/#咳血的独角兽丨互联网的幕后攻防">老消息</a>重发备份</p><p><a href="https://mp.weixin.qq.com/s/b6FOACZa_fCSvqVWOrPzjA" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190829073449/https://mp.weixin.qq.com/s/b6FOACZa_fCSvqVWOrPzjA" target="_blank" rel="noopener">Archive</a></p><h3 id="CSRF-Scanner——打造全自动检测CSRF漏洞利器"><a href="#CSRF-Scanner——打造全自动检测CSRF漏洞利器" class="headerlink" title="CSRF-Scanner——打造全自动检测CSRF漏洞利器"></a>CSRF-Scanner——打造全自动检测CSRF漏洞利器</h3><p>还真没想过CSRF扫描器，学习了</p><p><a href="https://security.tencent.com/index.php/blog/msg/24" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190829074111/https://security.tencent.com/index.php/blog/msg/24" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190829期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*7&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190828期</title>
@@ -144,29 +167,6 @@
     
       &lt;p&gt;透明日报第20190823期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190822期</title>
-    <link href="https://daily.tmr.js.org/d/20190822/"/>
-    <id>https://daily.tmr.js.org/d/20190822/</id>
-    <published>2019-08-22T15:45:02.000Z</published>
-    <updated>2019-08-22T15:45:09.510Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190822期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="XSS-via-HTTP-Headers"><a href="#XSS-via-HTTP-Headers" class="headerlink" title="XSS via HTTP Headers"></a>XSS via HTTP Headers</h3><p>非常易懂的讲解缓存中毒攻击</p><p><a href="https://brutelogic.com.br/blog/xss-via-http-headers/" target="_blank" rel="noopener">原文链接</a></p><h3 id="BCS（北京网络安全大会）2019-红队行动会议重点内容"><a href="#BCS（北京网络安全大会）2019-红队行动会议重点内容" class="headerlink" title="BCS（北京网络安全大会）2019 红队行动会议重点内容"></a>BCS（北京网络安全大会）2019 红队行动会议重点内容</h3><p>如题</p><p><a href="https://github.com/Mel0day/RedTeam-BCS" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190822085902/https://github.com/Mel0day/RedTeam-BCS" target="_blank" rel="noopener">Archive</a></p><h3 id="Visual-Studio-Code有哪些工程方面的亮点"><a href="#Visual-Studio-Code有哪些工程方面的亮点" class="headerlink" title="Visual Studio Code有哪些工程方面的亮点"></a>Visual Studio Code有哪些工程方面的亮点</h3><p>产品定位，架构设计，技术路线</p><p><a href="https://zhuanlan.zhihu.com/p/35303567" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190822期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
     
     </summary>
     
