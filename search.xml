@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>透明日报20190901期</title>
+      <link href="/d/20190901/"/>
+      <url>/d/20190901/</url>
+      
+        <content type="html"><![CDATA[<p>透明日报第20190901期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Windows-PowerShell-Unsanitized-Filename-Command-Execution"><a href="#Windows-PowerShell-Unsanitized-Filename-Command-Execution" class="headerlink" title="Windows PowerShell Unsanitized Filename Command Execution"></a>Windows PowerShell Unsanitized Filename Command Execution</h3><p>ps1文件名可导致命令执行，主要问题是用Powershell打开的时候传递的文件名被当成指令了</p><p><a href="http://hyp3rlinx.altervista.org/advisories/MICROSOFT-WINDOWS-POWERSHELL-UNSANITIZED-FILENAME-COMMAND-EXECUTION.txt" target="_blank" rel="noopener">原文链接</a> <a href="1">Archive</a></p><h3 id="Kcon-2019-PPT"><a href="#Kcon-2019-PPT" class="headerlink" title="Kcon 2019 PPT"></a>Kcon 2019 PPT</h3><p>之前发过几篇Kcon的PPT，其他的可以在这里看到</p><p><a href="https://github.com/knownsec/KCon/tree/master/2019" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190901082246/https://github.com/knownsec/KCon/tree/master/2019" target="_blank" rel="noopener">Archive</a></p><h3 id="漫谈挖洞"><a href="#漫谈挖洞" class="headerlink" title="漫谈挖洞"></a>漫谈挖洞</h3><p>如何发现漏洞</p><p><a href="https://mp.weixin.qq.com/s/dyokVCawyE4a3WPCP0Qsdw" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190901083022/https://mp.weixin.qq.com/s/dyokVCawyE4a3WPCP0Qsdw" target="_blank" rel="noopener">Archive</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2019 </category>
+          
+          <category> 09 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190831期</title>
       <link href="/d/20190831/"/>
       <url>/d/20190831/</url>
