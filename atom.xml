@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-09-01T15:45:09.796Z</updated>
+  <updated>2019-09-02T15:45:09.240Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190902期</title>
+    <link href="https://daily.tmr.js.org/d/20190902/"/>
+    <id>https://daily.tmr.js.org/d/20190902/</id>
+    <published>2019-09-02T15:45:03.000Z</published>
+    <updated>2019-09-02T15:45:09.240Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190902期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="SRC漏洞挖掘实用技巧"><a href="#SRC漏洞挖掘实用技巧" class="headerlink" title="SRC漏洞挖掘实用技巧"></a>SRC漏洞挖掘实用技巧</h3><p>主要偏向资产收集和业务漏洞</p><p><a href="https://xz.aliyun.com/t/6155" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190902082102/https://xz.aliyun.com/t/6155" target="_blank" rel="noopener">Archive</a></p><h3 id="Attacking-SSL-VPN-Part-3-The-Golden-Pulse-Secure-SSL-VPN-RCE-Chain-with-Twitter-as-Case-Study"><a href="#Attacking-SSL-VPN-Part-3-The-Golden-Pulse-Secure-SSL-VPN-RCE-Chain-with-Twitter-as-Case-Study" class="headerlink" title="Attacking SSL VPN - Part 3: The Golden Pulse Secure SSL VPN RCE Chain, with Twitter as Case Study!"></a>Attacking SSL VPN - Part 3: The Golden Pulse Secure SSL VPN RCE Chain, with Twitter as Case Study!</h3><p>Attacking SSL VPN第3部分，Orange 太强了</p><p><a href="https://blog.orange.tw/2019/09/attacking-ssl-vpn-part-3-golden-pulse-secure-rce-chain.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190902151952/https://blog.orange.tw/2019/09/attacking-ssl-vpn-part-3-golden-pulse-secure-rce-chain.html" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190902期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="09" scheme="https://daily.tmr.js.org/categories/2019/09/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190901期</title>
@@ -148,29 +171,6 @@
     
       &lt;p&gt;透明日报第20190827期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190826期</title>
-    <link href="https://daily.tmr.js.org/d/20190826/"/>
-    <id>https://daily.tmr.js.org/d/20190826/</id>
-    <published>2019-08-26T15:45:03.000Z</published>
-    <updated>2019-08-26T15:45:10.062Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190826期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*5</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="2048抄袭下的不同人生"><a href="#2048抄袭下的不同人生" class="headerlink" title="2048抄袭下的不同人生"></a>2048抄袭下的不同人生</h3><p>原来2048是抄袭1024的，Threes!和2048是同一个作者</p><p><a href="https://www.yystv.cn/p/5539" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="KCon-2019-如何去挖掘物联网环境中的高级恶意软件威胁"><a href="#KCon-2019-如何去挖掘物联网环境中的高级恶意软件威胁" class="headerlink" title="KCon 2019 如何去挖掘物联网环境中的高级恶意软件威胁"></a>KCon 2019 如何去挖掘物联网环境中的高级恶意软件威胁</h3><p>以为内容是技术向的，其实的方法论向的，从样本捕获到漏洞分析，以为是主动挖掘漏洞，感觉蜜罐捕获样本是重点哈哈哈</p><p><a href="https://drive.google.com/file/d/1H_NX2L3KebS9-f1oPS8IbVg9CfWuOj4U/view" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190826030321/https://drive.google.com/file/d/1H_NX2L3KebS9-f1oPS8IbVg9CfWuOj4U/view" target="_blank" rel="noopener">Archive</a></p><h3 id="记一次有趣的tp5代码执行"><a href="#记一次有趣的tp5代码执行" class="headerlink" title="记一次有趣的tp5代码执行"></a>记一次有趣的tp5代码执行</h3><p>php://filter绕waf</p><p><a href="https://www.cnblogs.com/r00tuser/p/11410157.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190826031921/https://www.cnblogs.com/r00tuser/p/11410157.html" target="_blank" rel="noopener">Archive</a></p><h3 id="PHP-序列化（serialize）格式详解"><a href="#PHP-序列化（serialize）格式详解" class="headerlink" title="PHP 序列化（serialize）格式详解"></a>PHP 序列化（serialize）格式详解</h3><p>除了常见的序列化，还有对象字段名，对象引用，指针引用的序列化等等，非常全面</p><p><a href="https://www.neatstudio.com/show-161-1.shtml" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190826050104/https://www.neatstudio.com/show-161-1.shtml" target="_blank" rel="noopener">Archive</a></p><h3 id="BlackHat-US-19-笔记"><a href="#BlackHat-US-19-笔记" class="headerlink" title="BlackHat US-19 笔记"></a>BlackHat US-19 笔记</h3><p>BlackHat大量议题整理</p><p><a href="https://www.sec-un.org/blackhat-us-19-%e7%ac%94%e8%ae%b0/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190826065927/https://www.sec-un.org/blackhat-us-19-%e7%ac%94%e8%ae%b0/" target="_blank" rel="noopener">Archive</a></p><h3 id="PHP动态特性的捕捉与逃逸"><a href="#PHP动态特性的捕捉与逃逸" class="headerlink" title="PHP动态特性的捕捉与逃逸"></a>PHP动态特性的捕捉与逃逸</h3><p>p神KCon 2019的PPT</p><p><a href="https://www.leavesongs.com/content/files/slides/PHP%E5%8A%A8%E6%80%81%E7%89%B9%E6%80%A7%E7%9A%84%E6%8D%95%E6%8D%89%E4%B8%8E%E9%80%83%E9%80%B8.pdf" target="_blank" rel="noopener">原文链接</a> <a href="1">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190826期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*5&lt;/p&gt;
     
     </summary>
     
