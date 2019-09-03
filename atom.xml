@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-09-03T15:45:08.917Z</updated>
+  <updated>2019-09-03T15:59:46.570Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -20,15 +20,15 @@
     <title>透明日报20190903期</title>
     <link href="https://daily.tmr.js.org/d/20190903/"/>
     <id>https://daily.tmr.js.org/d/20190903/</id>
-    <published>2019-09-03T15:45:02.000Z</published>
-    <updated>2019-09-03T15:45:08.917Z</updated>
+    <published>2019-09-03T15:59:44.000Z</published>
+    <updated>2019-09-03T15:59:46.570Z</updated>
     
-    <content type="html"><![CDATA[<p>透明日报第20190903期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="ps1-文件名可导致命令执行"><a href="#ps1-文件名可导致命令执行" class="headerlink" title=".ps1 文件名可导致命令执行"></a>.ps1 文件名可导致命令执行</h3><p>Powershell 打开 ps1 文件时，特殊文件名可导致命令执行</p><p><a href="https://tmr.js.org/p/3944dc52/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190903153946/https://tmr.js.org/p/3944dc52/" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    <content type="html"><![CDATA[<p>透明日报第20190903期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="ps1-文件名可导致命令执行"><a href="#ps1-文件名可导致命令执行" class="headerlink" title=".ps1 文件名可导致命令执行"></a>.ps1 文件名可导致命令执行</h3><p>Powershell 打开 ps1 文件时，特殊文件名可导致命令执行</p><p><a href="https://tmr.js.org/p/3944dc52/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190903153946/https://tmr.js.org/p/3944dc52/" target="_blank" rel="noopener">Archive</a></p><h3 id="翻译-常见的WMI攻击检测方法"><a href="#翻译-常见的WMI攻击检测方法" class="headerlink" title="[翻译]常见的WMI攻击检测方法"></a>[翻译]常见的WMI攻击检测方法</h3><p>如题，翻译来源居然是视频</p><p><a href="https://bbs.pediy.com/thread-254123.htm" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190903154523/https://bbs.pediy.com/thread-254123.htm" target="_blank" rel="noopener">Archive</a></p>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;透明日报第20190903期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
