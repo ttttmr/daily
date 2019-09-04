@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-09-03T15:59:46.570Z</updated>
+  <updated>2019-09-04T15:45:09.545Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190904期</title>
+    <link href="https://daily.tmr.js.org/d/20190904/"/>
+    <id>https://daily.tmr.js.org/d/20190904/</id>
+    <published>2019-09-04T15:45:03.000Z</published>
+    <updated>2019-09-04T15:45:09.545Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190904期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="欢迎体验-Android-10！"><a href="#欢迎体验-Android-10！" class="headerlink" title="欢迎体验 Android 10！"></a>欢迎体验 Android 10！</h3><p>Android 10 发布了，可能大多数人还在用8吧</p><p><a href="https://mp.weixin.qq.com/s/8vWDnc_NnVkr-ITMybpDmQ" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190904152603/https://mp.weixin.qq.com/s/8vWDnc_NnVkr-ITMybpDmQ" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="一篇文章带你深入理解-SQL-盲注"><a href="#一篇文章带你深入理解-SQL-盲注" class="headerlink" title="一篇文章带你深入理解 SQL 盲注"></a>一篇文章带你深入理解 SQL 盲注</h3><p>要好好学习一下盲注</p><p><a href="https://www.anquanke.com/post/id/170626" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190903162000/https://www.anquanke.com/post/id/170626" target="_blank" rel="noopener">Archive</a></p><h3 id="利用OpCode绕过Python沙箱"><a href="#利用OpCode绕过Python沙箱" class="headerlink" title="利用OpCode绕过Python沙箱"></a>利用OpCode绕过Python沙箱</h3><p>OpCode学习一下，可以动态改变程序运行</p><p><a href="https://xz.aliyun.com/t/6159" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190904152439/https://xz.aliyun.com/t/6159" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190904期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="09" scheme="https://daily.tmr.js.org/categories/2019/09/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190903期</title>
@@ -148,29 +171,6 @@
     
       &lt;p&gt;透明日报第20190829期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*7&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="08" scheme="https://daily.tmr.js.org/categories/2019/08/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190828期</title>
-    <link href="https://daily.tmr.js.org/d/20190828/"/>
-    <id>https://daily.tmr.js.org/d/20190828/</id>
-    <published>2019-08-28T15:45:03.000Z</published>
-    <updated>2019-08-28T15:45:09.690Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190828期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="关于《好奇心日报》再更新的几点说明"><a href="#关于《好奇心日报》再更新的几点说明" class="headerlink" title="关于《好奇心日报》再更新的几点说明"></a>关于《好奇心日报》再更新的几点说明</h3><p>《好奇心日报》回来了！</p><p><a href="https://www.qdaily.com/articles/64113.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190828023629/https://www.qdaily.com/articles/64113.html" target="_blank" rel="noopener">Archive</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="《王牌战士》制作人叶彬：研发3年，测试15个月，在废墟上重建一款FPS"><a href="#《王牌战士》制作人叶彬：研发3年，测试15个月，在废墟上重建一款FPS" class="headerlink" title="《王牌战士》制作人叶彬：研发3年，测试15个月，在废墟上重建一款FPS"></a>《王牌战士》制作人叶彬：研发3年，测试15个月，在废墟上重建一款FPS</h3><p>内测的时候玩过，是很有创意的游戏，而且自动瞄准拯救手残党哈哈</p><p><a href="http://youxiputao.com/articles/18474" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190828061858/http://youxiputao.com/articles/18474" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190828期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
