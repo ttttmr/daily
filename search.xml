@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>透明日报20190907期</title>
+      <link href="/d/20190907/"/>
+      <url>/d/20190907/</url>
+      
+        <content type="html"><![CDATA[<p>透明日报第20190907期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*7</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Microsoft-Edge-Universal-XSS"><a href="#Microsoft-Edge-Universal-XSS" class="headerlink" title="Microsoft Edge - Universal XSS"></a>Microsoft Edge - Universal XSS</h3><p>在打印页面XSS还是头一次见</p><p><a href="https://leucosite.com/Microsoft-Edge-uXSS/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190907073019/https://leucosite.com/Microsoft-Edge-uXSS/" target="_blank" rel="noopener">Archive</a></p><h3 id="Security-analysis-of-element"><a href="#Security-analysis-of-element" class="headerlink" title="Security analysis of  element"></a>Security analysis of <portal> element</portal></h3><p>新标签<portal>带来的安全风险，新功能-&gt;新Bug</portal></p><p><a href="https://research.securitum.com/security-analysis-of-portal-element/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190907081521/https://research.securitum.com/security-analysis-of-portal-element/" target="_blank" rel="noopener">Archive</a></p><h3 id="Add-initial-exploit-for-CVE-2019-0708-BlueKeep"><a href="#Add-initial-exploit-for-CVE-2019-0708-BlueKeep" class="headerlink" title="Add initial exploit for CVE-2019-0708, BlueKeep"></a>Add initial exploit for CVE-2019-0708, BlueKeep</h3><p>msf有CVE-2019-0708的exp了，还没有合并，复现可以看<a href="https://bithack.io/forum/568" target="_blank" rel="noopener">这里</a></p><p><a href="https://github.com/rapid7/metasploit-framework/pull/12283/files" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190907135529/https://github.com/rapid7/metasploit-framework/pull/12283/files" target="_blank" rel="noopener">Archive</a></p><h3 id="二维码安全之看我如何登录你的淘宝账号"><a href="#二维码安全之看我如何登录你的淘宝账号" class="headerlink" title="二维码安全之看我如何登录你的淘宝账号"></a>二维码安全之看我如何登录你的淘宝账号</h3><p>话说这篇文章在3月份的时候发freebuf秒删了</p><p><a href="https://paper.seebug.org/1030/" target="_blank" rel="noopener">原文链接</a></p><h3 id="漫谈网络安全应急要略"><a href="#漫谈网络安全应急要略" class="headerlink" title="漫谈网络安全应急要略"></a>漫谈网络安全应急要略</h3><p>如题</p><p><a href="http://riusksk.me/2019/09/07/%E6%BC%AB%E8%B0%88%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%BA%94%E6%80%A5%E6%8C%87%E5%AF%BC%E6%80%9D%E6%83%B3/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190907142123/http://riusksk.me/2019/09/07/%E6%BC%AB%E8%B0%88%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%BA%94%E6%80%A5%E6%8C%87%E5%AF%BC%E6%80%9D%E6%83%B3/" target="_blank" rel="noopener">Archive</a></p><h3 id="漏洞扫描技巧之Web漏洞扫描器研究"><a href="#漏洞扫描技巧之Web漏洞扫描器研究" class="headerlink" title="漏洞扫描技巧之Web漏洞扫描器研究"></a>漏洞扫描技巧之Web漏洞扫描器研究</h3><p>更多的框架和策略上的设计</p><p><a href="https://www.freebuf.com/articles/web/212015.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="对AWVS一次简单分析"><a href="#对AWVS一次简单分析" class="headerlink" title="对AWVS一次简单分析"></a>对AWVS一次简单分析</h3><p>AWVS扫描技术细节</p><p><a href="http://blog.wils0n.cn/archives/145/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190907151428/http://blog.wils0n.cn/archives/145/" target="_blank" rel="noopener">Archive</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2019 </category>
+          
+          <category> 09 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190906期</title>
       <link href="/d/20190906/"/>
       <url>/d/20190906/</url>
