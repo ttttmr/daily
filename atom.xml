@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-09-11T15:45:08.563Z</updated>
+  <updated>2019-09-12T15:45:09.954Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190912期</title>
+    <link href="https://daily.tmr.js.org/d/20190912/"/>
+    <id>https://daily.tmr.js.org/d/20190912/</id>
+    <published>2019-09-12T15:45:03.000Z</published>
+    <updated>2019-09-12T15:45:09.954Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190912期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;透明日报第20190912期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日无更新&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="09" scheme="https://daily.tmr.js.org/categories/2019/09/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190911期</title>
@@ -152,29 +179,6 @@
 &lt;p&gt;今日无更新&lt;/p&gt;
 
       
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="09" scheme="https://daily.tmr.js.org/categories/2019/09/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190905期</title>
-    <link href="https://daily.tmr.js.org/d/20190905/"/>
-    <id>https://daily.tmr.js.org/d/20190905/</id>
-    <published>2019-09-05T15:45:03.000Z</published>
-    <updated>2019-09-05T15:45:10.070Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190905期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="中通安全开源项目之越权漏洞自动化检测"><a href="#中通安全开源项目之越权漏洞自动化检测" class="headerlink" title="中通安全开源项目之越权漏洞自动化检测"></a>中通安全开源项目之越权漏洞自动化检测</h3><p>获取各种请求和不同的权限认证信息，对比不同权限下的结果，我觉得对于<strong>每个</strong>独立的操作权限，至少要有以下认证信息，一个空认证（未授权），两个用户认证（水平越权 ），管理员认证（垂直越权）</p><p><a href="https://mp.weixin.qq.com/s/vwF7aTvk-U-SnJqO3f80gA" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190904162706/https://mp.weixin.qq.com/s/vwF7aTvk-U-SnJqO3f80gA" target="_blank" rel="noopener">Archive</a></p><h3 id="curl-的用法指南"><a href="#curl-的用法指南" class="headerlink" title="curl 的用法指南"></a>curl 的用法指南</h3><p>收藏向命令手册</p><p><a href="https://www.ruanyifeng.com/blog/2019/09/curl-reference.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190905152542/https://www.ruanyifeng.com/blog/2019/09/curl-reference.html" target="_blank" rel="noopener">Archive</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="《罗小黑战记》的作者，终究没能躲过我们的深度专访"><a href="#《罗小黑战记》的作者，终究没能躲过我们的深度专访" class="headerlink" title="《罗小黑战记》的作者，终究没能躲过我们的深度专访"></a>《罗小黑战记》的作者，终究没能躲过我们的深度专访</h3><p><a href="https://t.me/impNo" target="_blank" rel="noopener">@impNo</a>投稿</p><p>关于《罗小黑战记》的历史，以及 MTJJ 的专访回答，还看到了以前没有注意到的彩蛋😂</p><p><a href="https://www.bilibili.com/read/cv3518998" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190905125307/https://www.bilibili.com/read/cv3518998" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190905期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
