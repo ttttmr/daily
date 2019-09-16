@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-09-15T16:46:22.347Z</updated>
+  <updated>2019-09-16T15:45:09.877Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190916期</title>
+    <link href="https://daily.tmr.js.org/d/20190916/"/>
+    <id>https://daily.tmr.js.org/d/20190916/</id>
+    <published>2019-09-16T15:45:03.000Z</published>
+    <updated>2019-09-16T15:45:09.877Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190916期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="登陆页面渗透测试常见的几种思路与总结！"><a href="#登陆页面渗透测试常见的几种思路与总结！" class="headerlink" title="登陆页面渗透测试常见的几种思路与总结！"></a>登陆页面渗透测试常见的几种思路与总结！</h3><p>如题</p><p><a href="https://xz.aliyun.com/t/6282" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190916015228/https://xz.aliyun.com/t/6282" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190916期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="09" scheme="https://daily.tmr.js.org/categories/2019/09/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190915期</title>
@@ -148,29 +171,6 @@
 &lt;p&gt;今日无更新&lt;/p&gt;
 
       
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="09" scheme="https://daily.tmr.js.org/categories/2019/09/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190909期</title>
-    <link href="https://daily.tmr.js.org/d/20190909/"/>
-    <id>https://daily.tmr.js.org/d/20190909/</id>
-    <published>2019-09-09T15:47:11.000Z</published>
-    <updated>2019-09-09T15:47:12.996Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190909期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Python-Objects-Part-III-String-Interning"><a href="#Python-Objects-Part-III-String-Interning" class="headerlink" title="Python Objects Part III: String Interning"></a>Python Objects Part III: String Interning</h3><p>String Interning机制详解，注意最后的Completed Python Object Instantiation Chart</p><p><a href="https://medium.com/@bdov_/https-medium-com-bdov-python-objects-part-iii-string-interning-625d3c7319de" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190909151328/https://medium.com/@bdov_/https-medium-com-bdov-python-objects-part-iii-string-interning-625d3c7319de" target="_blank" rel="noopener">Archive</a></p><h3 id="python-idle-解释和直接-python-script-py-解释有什么差别？"><a href="#python-idle-解释和直接-python-script-py-解释有什么差别？" class="headerlink" title="python idle 解释和直接 python script.py 解释有什么差别？"></a>python idle 解释和直接 python script.py 解释有什么差别？</h3><p>与上文相关，需要有编译单元的概念，不能跨编译单元intern</p><p><a href="https://www.zhihu.com/question/29089863/answer/53970119" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190909期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
