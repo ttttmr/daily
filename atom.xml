@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-09-18T16:51:41.129Z</updated>
+  <updated>2019-09-19T15:45:09.668Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190919期</title>
+    <link href="https://daily.tmr.js.org/d/20190919/"/>
+    <id>https://daily.tmr.js.org/d/20190919/</id>
+    <published>2019-09-19T15:45:03.000Z</published>
+    <updated>2019-09-19T15:45:09.668Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190919期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Real-World-CTF-Quals-2019"><a href="#Real-World-CTF-Quals-2019" class="headerlink" title="Real World CTF Quals 2019"></a>Real World CTF Quals 2019</h3><p>mission-invisible想了好久a标签无交互payload，hash定位+onfocus学习了，另外还有<a href="https://github.com/pwning/public-writeup/tree/master/rwctf2019/mission_invisible" target="_blank" rel="noopener">bootstrap+监听动画加载的方法</a>，以及<a href="https://github.com/omerAF/CTFs/blob/master/realworldctf2019/Mission%20Invisible/README.md" target="_blank" rel="noopener">p标签+contenteditable+nofocus+hash定位</a></p><p><a href="https://balsn.tw/ctf_writeup/20190913-realworldctfqual/#mission-invisible" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190919055750/https://balsn.tw/ctf_writeup/20190913-realworldctfqual/" target="_blank" rel="noopener">Archive</a></p><h3 id="Python-装饰器执行顺序迷思"><a href="#Python-装饰器执行顺序迷思" class="headerlink" title="Python 装饰器执行顺序迷思"></a>Python 装饰器执行顺序迷思</h3><p>主要区分装饰器装饰时执行和被装饰函数执行两个，在f函数前加点print可能会好理解些<br>print(“start”)<br>f(1)<br>print(“end”)</p><p><a href="https://segmentfault.com/a/1190000007837364" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190919071219/https://segmentfault.com/a/1190000007837364" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190919期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="09" scheme="https://daily.tmr.js.org/categories/2019/09/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190918期</title>
@@ -147,29 +170,6 @@
     <summary type="html">
     
       &lt;p&gt;透明日报第20190913期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="09" scheme="https://daily.tmr.js.org/categories/2019/09/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190912期</title>
-    <link href="https://daily.tmr.js.org/d/20190912/"/>
-    <id>https://daily.tmr.js.org/d/20190912/</id>
-    <published>2019-09-12T15:54:58.000Z</published>
-    <updated>2019-09-12T15:55:00.484Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190912期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="耐人寻味的-for…else…语句"><a href="#耐人寻味的-for…else…语句" class="headerlink" title="耐人寻味的 for…else…语句"></a>耐人寻味的 for…else…语句</h3><p>确实从来没用过</p><p><a href="https://foofish.net/for-else.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190912155412/https://foofish.net/for-else.html" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190912期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
