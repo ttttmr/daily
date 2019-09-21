@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>透明日报20190921期</title>
+      <link href="/d/20190921/"/>
+      <url>/d/20190921/</url>
+      
+        <content type="html"><![CDATA[<p>透明日报第20190921期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="phpstudy后门文件分析以及检测脚本"><a href="#phpstudy后门文件分析以及检测脚本" class="headerlink" title="phpstudy后门文件分析以及检测脚本"></a>phpstudy后门文件分析以及检测脚本</h3><p>phpstudy供应链后门也是没谁了，测试了我手上的程序，20161103，2017以及20180211版本（当然都是以前在官网下的），<strong>均有后门</strong>，且都在php-5.2.17和php-5.4.45的php_xmlrpc.dll中<br>不过话说如果没有用这个版本的PHP应该不影响，但万一有其他后门呢，建议从<a href="https://www.xp.cn" target="_blank" rel="noopener">官网</a>重新下载使用<br>一点其他建议，如果是自己测试，可以使用虚拟机+仅主机网络（断掉外网）搭建环境，宿主机可以用防火墙拦截外联请求（如火绒）</p><p><a href="https://mp.weixin.qq.com/s/dIDfgFxHlqenKRUSW7Oqkw" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190921062745/https://mp.weixin.qq.com/s/dIDfgFxHlqenKRUSW7Oqkw" target="_blank" rel="noopener">Archive</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2019 </category>
+          
+          <category> 09 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20190920期</title>
       <link href="/d/20190920/"/>
       <url>/d/20190920/</url>
