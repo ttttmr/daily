@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-09-21T15:45:09.373Z</updated>
+  <updated>2019-09-22T15:45:10.050Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190922期</title>
+    <link href="https://daily.tmr.js.org/d/20190922/"/>
+    <id>https://daily.tmr.js.org/d/20190922/</id>
+    <published>2019-09-22T15:45:03.000Z</published>
+    <updated>2019-09-22T15:45:10.050Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190922期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="基于攻防对抗思路的蜜罐实践方案"><a href="#基于攻防对抗思路的蜜罐实践方案" class="headerlink" title="基于攻防对抗思路的蜜罐实践方案"></a>基于攻防对抗思路的蜜罐实践方案</h3><p>长亭谛听，蜜罐捕获实现预警与溯源，其他报告可以看<a href="https://www.chaitin.cn/zh/solutions" target="_blank" rel="noopener">这里</a></p><p><a href="https://s3.cn-north-1.amazonaws.com.cn/chaitin-public/%E5%9F%BA%E4%BA%8E%E6%94%BB%E9%98%B2%E5%AF%B9%E6%8A%97%E6%80%9D%E8%B7%AF%E7%9A%84%E8%9C%9C%E7%BD%90%E5%AE%9E%E8%B7%B5%E6%96%B9%E6%A1%88.pdf" target="_blank" rel="noopener">原文链接</a> <a href="1">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190922期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="09" scheme="https://daily.tmr.js.org/categories/2019/09/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190921期</title>
@@ -148,29 +171,6 @@
     
       &lt;p&gt;透明日报第20190916期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="09" scheme="https://daily.tmr.js.org/categories/2019/09/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190915期</title>
-    <link href="https://daily.tmr.js.org/d/20190915/"/>
-    <id>https://daily.tmr.js.org/d/20190915/</id>
-    <published>2019-09-15T16:45:22.000Z</published>
-    <updated>2019-09-15T16:46:22.347Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190915期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="python深入学习-三-：从py2到py3"><a href="#python深入学习-三-：从py2到py3" class="headerlink" title="python深入学习(三)：从py2到py3"></a>python深入学习(三)：从py2到py3</h3><p>Python2与Python3的差异</p><p><a href="http://bendawang.site/2017/12/04/python%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0-%E4%B8%89-%E4%BB%8E2%E5%88%B03/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190915141845/http://bendawang.site/2017/12/04/python%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0-%E4%B8%89-%E4%BB%8E2%E5%88%B03/" target="_blank" rel="noopener">Archive</a></p><h3 id="续篇-一个Windows下的文件上传的小trick"><a href="#续篇-一个Windows下的文件上传的小trick" class="headerlink" title="-续篇-一个Windows下的文件上传的小trick"></a>-续篇-一个Windows下的文件上传的小trick</h3><p>Win下通配符和ADS文件流利用trick</p><p><a href="http://bendawang.site/2017/05/29/-%E7%BB%AD%E7%AF%87-%E4%B8%80%E4%B8%AAWindows%E4%B8%8B%E7%9A%84%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%B0%8Ftrick/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190915142322/http://bendawang.site/2017/05/29/-%E7%BB%AD%E7%AF%87-%E4%B8%80%E4%B8%AAWindows%E4%B8%8B%E7%9A%84%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%B0%8Ftrick/" target="_blank" rel="noopener">Archive</a></p><h3 id="flask之ssti模版注入从零到入门"><a href="#flask之ssti模版注入从零到入门" class="headerlink" title="flask之ssti模版注入从零到入门"></a>flask之ssti模版注入从零到入门</h3><p><a href="../20190914/">昨天</a>看了不少沙箱逃逸，相同的Payload也经常用于模板注入</p><p><a href="https://xz.aliyun.com/t/3679" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190915144055/https://xz.aliyun.com/t/3679" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190915期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
     
     </summary>
     
