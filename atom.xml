@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-09-26T15:45:10.152Z</updated>
+  <updated>2019-09-27T15:45:09.013Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190927期</title>
+    <link href="https://daily.tmr.js.org/d/20190927/"/>
+    <id>https://daily.tmr.js.org/d/20190927/</id>
+    <published>2019-09-27T15:45:02.000Z</published>
+    <updated>2019-09-27T15:45:09.013Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190927期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*2，<a href="#文娱">文娱</a>*1，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="不可思议的456天-寄正通往监狱大门的外包服务商们"><a href="#不可思议的456天-寄正通往监狱大门的外包服务商们" class="headerlink" title="不可思议的456天-寄正通往监狱大门的外包服务商们"></a>不可思议的456天-寄正通往监狱大门的外包服务商们</h3><p>外包赌博开发被判刑事件经过，以及监狱经历等</p><p><a href="https://mp.weixin.qq.com/s/MA8Hqm7-xlo6jgOo741XmA" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190926170648/https://mp.weixin.qq.com/s/MA8Hqm7-xlo6jgOo741XmA" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="CVE-2019-0801-Microsoft-Office-Uri-Hyperlink-Hijinks"><a href="#CVE-2019-0801-Microsoft-Office-Uri-Hyperlink-Hijinks" class="headerlink" title="CVE-2019-0801: Microsoft Office Uri Hyperlink Hijinks"></a>CVE-2019-0801: Microsoft Office Uri Hyperlink Hijinks</h3><p>还是挺有意思的洞，话说URI schemes引发的洞还不少，之前Steam，GitHub也都有过</p><p><a href="https://www.thezdi.com/blog/2019/9/24/cve-2019-0801-microsoft-office-uri-hyperlink-hijinks" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190926181230/https://www.thezdi.com/blog/2019/9/24/cve-2019-0801-microsoft-office-uri-hyperlink-hijinks" target="_blank" rel="noopener">Archive</a></p><h3 id="胡珀谈安全运营"><a href="#胡珀谈安全运营" class="headerlink" title="胡珀谈安全运营"></a>胡珀谈安全运营</h3><p>如题</p><p><a href="https://mp.weixin.qq.com/s/fkbZLYCQOYal-CmKspf9-g" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190927122641/https://mp.weixin.qq.com/s/fkbZLYCQOYal-CmKspf9-g" target="_blank" rel="noopener">Archive</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="人民网公布“游戏适龄提示”统一标识：4种分级-最高18"><a href="#人民网公布“游戏适龄提示”统一标识：4种分级-最高18" class="headerlink" title="人民网公布“游戏适龄提示”统一标识：4种分级 最高18+"></a>人民网公布“游戏适龄提示”统一标识：4种分级 最高18+</h3><p>游戏分级终于要出了？</p><p><a href="https://www.pingwest.com/w/195112" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190927080604/https://www.pingwest.com/w/195112" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="人力资源一天工作是什么样的？"><a href="#人力资源一天工作是什么样的？" class="headerlink" title="人力资源一天工作是什么样的？"></a>人力资源一天工作是什么样的？</h3><p>学习一下HR具体是干啥的</p><p><a href="https://www.zhihu.com/question/28973822/answer/229844693" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190927期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="09" scheme="https://daily.tmr.js.org/categories/2019/09/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190926期</title>
@@ -152,29 +175,6 @@
     
       &lt;p&gt;透明日报第20190921期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="09" scheme="https://daily.tmr.js.org/categories/2019/09/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190920期</title>
-    <link href="https://daily.tmr.js.org/d/20190920/"/>
-    <id>https://daily.tmr.js.org/d/20190920/</id>
-    <published>2019-09-20T15:45:02.000Z</published>
-    <updated>2019-09-20T15:45:09.220Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190920期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="2019年的最佳游戏显示器诞生于2000年？"><a href="#2019年的最佳游戏显示器诞生于2000年？" class="headerlink" title="2019年的最佳游戏显示器诞生于2000年？"></a>2019年的最佳游戏显示器诞生于2000年？</h3><p>CRT显示器显示个Win10的话还是挺有违和感的哈哈哈</p><p><a href="https://www.yystv.cn/p/5653" target="_blank" rel="noopener">原文链接</a></p><h3 id="攻击Scrapyd爬虫"><a href="#攻击Scrapyd爬虫" class="headerlink" title="攻击Scrapyd爬虫"></a>攻击Scrapyd爬虫</h3><p>Real World题目</p><p><a href="https://www.leavesongs.com/PENETRATION/attack-scrapy.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190920033725/https://www.leavesongs.com/PENETRATION/attack-scrapy.html" target="_blank" rel="noopener">Archive</a></p><h3 id="《MiniDumpWriteDump-via-COM-Services-DLL》的利用测试"><a href="#《MiniDumpWriteDump-via-COM-Services-DLL》的利用测试" class="headerlink" title="《MiniDumpWriteDump via COM+ Services DLL》的利用测试"></a>《MiniDumpWriteDump via COM+ Services DLL》的利用测试</h3><p>利用系统dll导出函数实现dump进程内存，并在文中列举了一些可用dll</p><p><a href="https://3gstudent.github.io/3gstudent.github.io/MiniDumpWriteDump-via-COM+-Services-DLL-%E7%9A%84%E5%88%A9%E7%94%A8%E6%B5%8B%E8%AF%95/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190920035135/https://3gstudent.github.io/3gstudent.github.io/MiniDumpWriteDump-via-COM+-Services-DLL-%E7%9A%84%E5%88%A9%E7%94%A8%E6%B5%8B%E8%AF%95/" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190920期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
     
     </summary>
     
