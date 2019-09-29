@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-09-28T15:45:10.094Z</updated>
+  <updated>2019-09-29T15:45:09.272Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20190929期</title>
+    <link href="https://daily.tmr.js.org/d/20190929/"/>
+    <id>https://daily.tmr.js.org/d/20190929/</id>
+    <published>2019-09-29T15:45:02.000Z</published>
+    <updated>2019-09-29T15:45:09.272Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20190929期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="PHP-7-1-7-3-disable-functions-bypass"><a href="#PHP-7-1-7-3-disable-functions-bypass" class="headerlink" title="PHP 7.1-7.3 disable_functions bypass"></a>PHP 7.1-7.3 disable_functions bypass</h3><p>日常收集exp</p><p><a href="https://www.o2oxy.cn/2479.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190929075132/https://www.o2oxy.cn/2479.html" target="_blank" rel="noopener">Archive</a></p><h3 id="unknwon-the-way-to-go-ZH-CN"><a href="#unknwon-the-way-to-go-ZH-CN" class="headerlink" title="unknwon/the-way-to-go_ZH_CN"></a>unknwon/the-way-to-go_ZH_CN</h3><p>最近看Go，入门资料</p><p><a href="https://github.com/unknwon/the-way-to-go_ZH_CN" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190929135659/https://github.com/unknwon/the-way-to-go_ZH_CN" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20190929期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="09" scheme="https://daily.tmr.js.org/categories/2019/09/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190928期</title>
@@ -152,29 +175,6 @@
 &lt;p&gt;今日无更新&lt;/p&gt;
 
       
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="09" scheme="https://daily.tmr.js.org/categories/2019/09/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190922期</title>
-    <link href="https://daily.tmr.js.org/d/20190922/"/>
-    <id>https://daily.tmr.js.org/d/20190922/</id>
-    <published>2019-09-22T15:45:03.000Z</published>
-    <updated>2019-09-22T15:45:10.050Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190922期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="基于攻防对抗思路的蜜罐实践方案"><a href="#基于攻防对抗思路的蜜罐实践方案" class="headerlink" title="基于攻防对抗思路的蜜罐实践方案"></a>基于攻防对抗思路的蜜罐实践方案</h3><p>长亭谛听，蜜罐捕获实现预警与溯源，其他报告可以看<a href="https://www.chaitin.cn/zh/solutions" target="_blank" rel="noopener">这里</a></p><p><a href="https://s3.cn-north-1.amazonaws.com.cn/chaitin-public/%E5%9F%BA%E4%BA%8E%E6%94%BB%E9%98%B2%E5%AF%B9%E6%8A%97%E6%80%9D%E8%B7%AF%E7%9A%84%E8%9C%9C%E7%BD%90%E5%AE%9E%E8%B7%B5%E6%96%B9%E6%A1%88.pdf" target="_blank" rel="noopener">原文链接</a> <a href="1">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190922期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
