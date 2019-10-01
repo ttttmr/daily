@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-09-30T15:45:09.060Z</updated>
+  <updated>2019-10-01T15:45:09.393Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191001期</title>
+    <link href="https://daily.tmr.js.org/d/20191001/"/>
+    <id>https://daily.tmr.js.org/d/20191001/</id>
+    <published>2019-10-01T15:45:02.000Z</published>
+    <updated>2019-10-01T15:45:09.393Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191001期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1，<a href="#生活">生活</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="图解抓包"><a href="#图解抓包" class="headerlink" title="图解抓包"></a>图解抓包</h3><p>底层抓包方案学习，对比libpcap和PF_RING，有些看不懂的可以看点其他的资料<a href="https://linux.cn/article-9507-1.html" target="_blank" rel="noopener">BPF</a>，<a href="https://www.ibm.com/developerworks/cn/linux/l-lo-eBPF-history/index.html" target="_blank" rel="noopener">eBPF</a>，<a href="https://www.cnblogs.com/lxgeek/p/3893790.html" target="_blank" rel="noopener">PF_RING</a>，<a href="https://www.ntop.org/products/deep-packet-inspection/ndpi/" target="_blank" rel="noopener">nDPI</a></p><p><a href="https://my.oschina.net/moooofly/blog/898798" target="_blank" rel="noopener">原文链接</a></p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="“楚门世界”无处不在，我们可能被异化的-24-个证据-100-个生活大问题"><a href="#“楚门世界”无处不在，我们可能被异化的-24-个证据-100-个生活大问题" class="headerlink" title="“楚门世界”无处不在，我们可能被异化的 24 个证据 | 100 个生活大问题"></a>“楚门世界”无处不在，我们可能被异化的 24 个证据 | 100 个生活大问题</h3><ol start="24"><li>我们找了 23 个证据</li></ol><p><a href="http://www.qdaily.com/articles/64605.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191001期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#生活&quot;&gt;生活&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20190930期</title>
@@ -148,29 +171,6 @@
     
       &lt;p&gt;透明日报第20190925期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="09" scheme="https://daily.tmr.js.org/categories/2019/09/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190924期</title>
-    <link href="https://daily.tmr.js.org/d/20190924/"/>
-    <id>https://daily.tmr.js.org/d/20190924/</id>
-    <published>2019-09-24T15:45:03.000Z</published>
-    <updated>2019-09-24T15:45:09.817Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190924期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="大型互联网企业威胁情报运营与实践思考"><a href="#大型互联网企业威胁情报运营与实践思考" class="headerlink" title="大型互联网企业威胁情报运营与实践思考"></a>大型互联网企业威胁情报运营与实践思考</h3><p>情报数据整合和有效信息提取是技术难点，个人在RSS阅读的时候也有感觉，就非常希望能有消息聚合</p><p><a href="https://mp.weixin.qq.com/s/8eY1Es71mmrvuDGnWL4lfA" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190924141835/https://mp.weixin.qq.com/s/8eY1Es71mmrvuDGnWL4lfA" target="_blank" rel="noopener">Archive</a></p><h3 id="Write-up-of-DOMPurify-2-0-0-bypass-using-mutation-XSS"><a href="#Write-up-of-DOMPurify-2-0-0-bypass-using-mutation-XSS" class="headerlink" title="Write-up of DOMPurify 2.0.0 bypass using mutation XSS"></a>Write-up of DOMPurify 2.0.0 bypass using mutation XSS</h3><p>利用浏览器解析html的时自动补全修复和标签闭合优先级xss bypass</p><p><a href="https://research.securitum.com/dompurify-bypass-using-mxss/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190924153438/https://research.securitum.com/dompurify-bypass-using-mxss/" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="新加坡为什么还有鞭刑｜大象公会"><a href="#新加坡为什么还有鞭刑｜大象公会" class="headerlink" title="新加坡为什么还有鞭刑｜大象公会"></a>新加坡为什么还有鞭刑｜大象公会</h3><p>比较细节，学习了</p><p><a href="https://mp.weixin.qq.com/s/Aov05pp6-fzJMiJvAJT1Pg" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190924154133/https://mp.weixin.qq.com/s/Aov05pp6-fzJMiJvAJT1Pg" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190924期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
