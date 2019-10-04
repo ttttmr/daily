@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-10-03T15:45:09.431Z</updated>
+  <updated>2019-10-04T15:45:09.710Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191004期</title>
+    <link href="https://daily.tmr.js.org/d/20191004/"/>
+    <id>https://daily.tmr.js.org/d/20191004/</id>
+    <published>2019-10-04T15:45:02.000Z</published>
+    <updated>2019-10-04T15:45:09.710Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191004期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2，<a href="#经济">经济</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="站点跳转功能测试Cheatsheet"><a href="#站点跳转功能测试Cheatsheet" class="headerlink" title="站点跳转功能测试Cheatsheet"></a>站点跳转功能测试Cheatsheet</h3><p>还有302跳转检查绕过</p><p><a href="https://mp.weixin.qq.com/s/-ughzvtTYN05pqlqkZvEbg" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191004113506/https://mp.weixin.qq.com/s/-ughzvtTYN05pqlqkZvEbg" target="_blank" rel="noopener">Archive</a></p><h3 id="浅谈RASP"><a href="#浅谈RASP" class="headerlink" title="浅谈RASP"></a>浅谈RASP</h3><p>应该是浅谈Java RASP = =，不会Java的我不明觉厉</p><p><a href="https://lucifaer.com/2019/09/25/%E6%B5%85%E8%B0%88RASP/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191004153629/https://lucifaer.com/2019/09/25/%E6%B5%85%E8%B0%88RASP/" target="_blank" rel="noopener">Archive</a></p><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="四年了，庆祝一下：）"><a href="#四年了，庆祝一下：）" class="headerlink" title="四年了，庆祝一下：）"></a>四年了，庆祝一下：）</h3><p>k老师漫画目录，k老师也是在的<a href="https://tmr.js.org/links/#航运漫画家K老师" target="_blank" rel="noopener">我的推荐列表</a>里的</p><p><a href="https://mp.weixin.qq.com/s/FARtsJoOf0lPmoLP7I-OJw" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191004142205/https://mp.weixin.qq.com/s/FARtsJoOf0lPmoLP7I-OJw" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191004期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191003期</title>
@@ -146,29 +169,6 @@
     
       &lt;p&gt;透明日报第20190928期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="09" scheme="https://daily.tmr.js.org/categories/2019/09/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190927期</title>
-    <link href="https://daily.tmr.js.org/d/20190927/"/>
-    <id>https://daily.tmr.js.org/d/20190927/</id>
-    <published>2019-09-27T15:45:02.000Z</published>
-    <updated>2019-09-27T15:45:09.013Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190927期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*2，<a href="#文娱">文娱</a>*1，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="不可思议的456天-寄正通往监狱大门的外包服务商们"><a href="#不可思议的456天-寄正通往监狱大门的外包服务商们" class="headerlink" title="不可思议的456天-寄正通往监狱大门的外包服务商们"></a>不可思议的456天-寄正通往监狱大门的外包服务商们</h3><p>外包赌博开发被判刑事件经过，以及监狱经历等</p><p><a href="https://mp.weixin.qq.com/s/MA8Hqm7-xlo6jgOo741XmA" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190926170648/https://mp.weixin.qq.com/s/MA8Hqm7-xlo6jgOo741XmA" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="CVE-2019-0801-Microsoft-Office-Uri-Hyperlink-Hijinks"><a href="#CVE-2019-0801-Microsoft-Office-Uri-Hyperlink-Hijinks" class="headerlink" title="CVE-2019-0801: Microsoft Office Uri Hyperlink Hijinks"></a>CVE-2019-0801: Microsoft Office Uri Hyperlink Hijinks</h3><p>还是挺有意思的洞，话说URI schemes引发的洞还不少，之前Steam，GitHub也都有过</p><p><a href="https://www.thezdi.com/blog/2019/9/24/cve-2019-0801-microsoft-office-uri-hyperlink-hijinks" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190926181230/https://www.thezdi.com/blog/2019/9/24/cve-2019-0801-microsoft-office-uri-hyperlink-hijinks" target="_blank" rel="noopener">Archive</a></p><h3 id="胡珀谈安全运营"><a href="#胡珀谈安全运营" class="headerlink" title="胡珀谈安全运营"></a>胡珀谈安全运营</h3><p>如题</p><p><a href="https://mp.weixin.qq.com/s/fkbZLYCQOYal-CmKspf9-g" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190927122641/https://mp.weixin.qq.com/s/fkbZLYCQOYal-CmKspf9-g" target="_blank" rel="noopener">Archive</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="人民网公布“游戏适龄提示”统一标识：4种分级-最高18"><a href="#人民网公布“游戏适龄提示”统一标识：4种分级-最高18" class="headerlink" title="人民网公布“游戏适龄提示”统一标识：4种分级 最高18+"></a>人民网公布“游戏适龄提示”统一标识：4种分级 最高18+</h3><p>游戏分级终于要出了？</p><p><a href="https://www.pingwest.com/w/195112" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190927080604/https://www.pingwest.com/w/195112" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="人力资源一天工作是什么样的？"><a href="#人力资源一天工作是什么样的？" class="headerlink" title="人力资源一天工作是什么样的？"></a>人力资源一天工作是什么样的？</h3><p>学习一下HR具体是干啥的</p><p><a href="https://www.zhihu.com/question/28973822/answer/229844693" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190927期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
