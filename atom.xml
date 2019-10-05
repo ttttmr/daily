@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-10-04T15:48:23.202Z</updated>
+  <updated>2019-10-05T15:45:09.493Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191005期</title>
+    <link href="https://daily.tmr.js.org/d/20191005/"/>
+    <id>https://daily.tmr.js.org/d/20191005/</id>
+    <published>2019-10-05T15:45:02.000Z</published>
+    <updated>2019-10-05T15:45:09.493Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191005期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;透明日报第20191005期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日无更新&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191004期</title>
@@ -146,29 +173,6 @@
     
       &lt;p&gt;透明日报第20190929期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="09" scheme="https://daily.tmr.js.org/categories/2019/09/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20190928期</title>
-    <link href="https://daily.tmr.js.org/d/20190928/"/>
-    <id>https://daily.tmr.js.org/d/20190928/</id>
-    <published>2019-09-28T15:45:03.000Z</published>
-    <updated>2019-09-28T15:45:10.094Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20190928期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="XSS-cheat-sheet"><a href="#XSS-cheat-sheet" class="headerlink" title="XSS cheat sheet"></a>XSS cheat sheet</h3><p>PortSwigger出品，可查询Payload，各种编码绕过，nb就完事了（然后被加入豪华套餐？hh）</p><p><a href="https://portswigger.net/web-security/cross-site-scripting/cheat-sheet" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20190928063219/https://portswigger.net/web-security/cross-site-scripting/cheat-sheet" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20190928期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
