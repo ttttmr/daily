@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-10-08T15:45:09.923Z</updated>
+  <updated>2019-10-09T15:45:09.711Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191009期</title>
+    <link href="https://daily.tmr.js.org/d/20191009/"/>
+    <id>https://daily.tmr.js.org/d/20191009/</id>
+    <published>2019-10-09T15:45:03.000Z</published>
+    <updated>2019-10-09T15:45:09.711Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191009期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*4</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="数学的用处（一）"><a href="#数学的用处（一）" class="headerlink" title="数学的用处（一）"></a>数学的用处（一）</h3><p>数学的用处系列</p><p><a href="http://blog.sina.cn/dpool/blog/s/blog_946b64360101ehvn.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191009151606/http://blog.sina.cn/dpool/blog/s/blog_946b64360101ehvn.html" target="_blank" rel="noopener">Archive</a></p><h3 id="数学的用处（二）"><a href="#数学的用处（二）" class="headerlink" title="数学的用处（二）"></a>数学的用处（二）</h3><p>数学的用处系列</p><p><a href="http://blog.sina.cn/dpool/blog/s/blog_946b64360101emco.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191009151945/http://blog.sina.cn/dpool/blog/s/blog_946b64360101emco.html" target="_blank" rel="noopener">Archive</a></p><h3 id="数学的用处（三）"><a href="#数学的用处（三）" class="headerlink" title="数学的用处（三）"></a>数学的用处（三）</h3><p>数学的用处系列</p><p><a href="http://blog.sina.cn/dpool/blog/s/blog_946b64360101ewp9.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191009152015/http://blog.sina.cn/dpool/blog/s/blog_946b64360101ewp9.html" target="_blank" rel="noopener">Archive</a></p><h3 id="数学的用处（四）"><a href="#数学的用处（四）" class="headerlink" title="数学的用处（四）"></a>数学的用处（四）</h3><p>数学的用处系列</p><p><a href="http://blog.sina.cn/dpool/blog/s/blog_946b64360101f2qa.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191009152031/http://blog.sina.cn/dpool/blog/s/blog_946b64360101f2qa.html" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191009期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*4&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191008期</title>
@@ -155,31 +178,6 @@
     
       <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191002期</title>
-    <link href="https://daily.tmr.js.org/d/20191002/"/>
-    <id>https://daily.tmr.js.org/d/20191002/</id>
-    <published>2019-10-02T15:45:03.000Z</published>
-    <updated>2019-10-02T15:45:09.854Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191002期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#技术">技术</a>*6，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>更新<a href="https://archive.org/web/" target="_blank" rel="noopener">Internet Archvie</a>存档逻辑，提高存档成功率（发布可能会卡一会）</p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="如何保护你的-Python-代码"><a href="#如何保护你的-Python-代码" class="headerlink" title="如何保护你的 Python 代码"></a>如何保护你的 Python 代码</h3><p>Cython和自定义解释器还是挺有意思的</p><p><a href="https://zhuanlan.zhihu.com/p/54296517" target="_blank" rel="noopener">原文链接</a></p><h3 id="资深技术Leader曹乐：如何成为技术大牛"><a href="#资深技术Leader曹乐：如何成为技术大牛" class="headerlink" title="资深技术Leader曹乐：如何成为技术大牛"></a>资深技术Leader曹乐：如何成为技术大牛</h3><p>学习</p><p><a href="https://mp.weixin.qq.com/s/QaBTm_9AJC01Isr3LLR3aw" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191002084840/https://mp.weixin.qq.com/s/QaBTm_9AJC01Isr3LLR3aw" target="_blank" rel="noopener">Archive</a></p><h3 id="物联网安全从入门到入坑"><a href="#物联网安全从入门到入坑" class="headerlink" title="物联网安全从入门到入坑"></a>物联网安全从入门到入坑</h3><p>物联网的软件，硬件，通信各方面安全风险</p><p><a href="https://paper.seebug.org/1045/" target="_blank" rel="noopener">原文链接</a></p><h3 id="震网事件的九年再复盘与思考"><a href="#震网事件的九年再复盘与思考" class="headerlink" title="震网事件的九年再复盘与思考"></a>震网事件的九年再复盘与思考</h3><blockquote><p>安天CERT对震网事件重新复盘，绘制整体运行框架、进行威胁框架下的映射解读、公布USB摆渡机理、分析扩散式传播原因、基于Tilded框架与Flamer框架的关联梳理震网、毒曲、火焰、高斯、Fanny、Flowershop的同源关系，分析震网样本数量众多的原因。思考检测引擎与威胁情报面临的挑战。</p></blockquote><p><a href="https://www.antiy.com/response/20190930.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191002131400/https://www.antiy.com/response/20190930.html" target="_blank" rel="noopener">Archive</a></p><h3 id="凌云：信息安全建设的从1到10"><a href="#凌云：信息安全建设的从1到10" class="headerlink" title="凌云：信息安全建设的从1到10"></a>凌云：信息安全建设的从1到10</h3><p>文末附议题分享PPT</p><p><a href="https://mp.weixin.qq.com/s/W6XXNmM6v2KR_NdZqLeo_g" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191002132249/https://mp.weixin.qq.com/s/W6XXNmM6v2KR_NdZqLeo_g" target="_blank" rel="noopener">Archive</a></p><h3 id="New-PDFex-attack-can-exfiltrate-data-from-encrypted-PDF-files"><a href="#New-PDFex-attack-can-exfiltrate-data-from-encrypted-PDF-files" class="headerlink" title="New PDFex attack can exfiltrate data from encrypted PDF files"></a>New PDFex attack can exfiltrate data from encrypted PDF files</h3><p>PDF加密破解，技术细节要等到11月份= =</p><p><a href="https://www.zdnet.com/article/new-pdfex-attack-can-exfiltrate-data-from-encrypted-pdf-files/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191002151953/https://www.zdnet.com/article/new-pdfex-attack-can-exfiltrate-data-from-encrypted-pdf-files/" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="在一般小偷还在偷井盖的时候，俄罗斯小偷已经开始偷桥了"><a href="#在一般小偷还在偷井盖的时候，俄罗斯小偷已经开始偷桥了" class="headerlink" title="在一般小偷还在偷井盖的时候，俄罗斯小偷已经开始偷桥了"></a>在一般小偷还在偷井盖的时候，俄罗斯小偷已经开始偷桥了</h3><p>偷桥可还行，话说这是<a href="https://www.guancha.cn/internation/2019_06_07_504755.shtml" target="_blank" rel="noopener">几个月前的事了</a></p><p><a href="https://www.yystv.cn/p/5708" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191002期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*6，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
-    
-    
-      <category term="公告" scheme="https://daily.tmr.js.org/tags/%E5%85%AC%E5%91%8A/"/>
     
   </entry>
   
