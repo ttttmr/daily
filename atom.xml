@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-10-09T15:45:09.711Z</updated>
+  <updated>2019-10-10T15:45:10.130Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191010期</title>
+    <link href="https://daily.tmr.js.org/d/20191010/"/>
+    <id>https://daily.tmr.js.org/d/20191010/</id>
+    <published>2019-10-10T15:45:03.000Z</published>
+    <updated>2019-10-10T15:45:10.130Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191010期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;透明日报第20191010期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日无更新&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191009期</title>
@@ -148,29 +175,6 @@
     
       &lt;p&gt;透明日报第20191004期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191003期</title>
-    <link href="https://daily.tmr.js.org/d/20191003/"/>
-    <id>https://daily.tmr.js.org/d/20191003/</id>
-    <published>2019-10-03T15:45:02.000Z</published>
-    <updated>2019-10-03T15:45:09.431Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191003期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅谈滴滴派单算法"><a href="#浅谈滴滴派单算法" class="headerlink" title="浅谈滴滴派单算法"></a>浅谈滴滴派单算法</h3><p>派单系统确实是十分核心算法的部分</p><p><a href="https://mp.weixin.qq.com/s/sJ4qb2OF96YtjPVNd3jXzQ" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191003153455/https://mp.weixin.qq.com/s/sJ4qb2OF96YtjPVNd3jXzQ" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191003期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
