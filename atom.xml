@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-10-12T15:45:09.056Z</updated>
+  <updated>2019-10-13T15:45:09.507Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191013期</title>
+    <link href="https://daily.tmr.js.org/d/20191013/"/>
+    <id>https://daily.tmr.js.org/d/20191013/</id>
+    <published>2019-10-13T15:45:02.000Z</published>
+    <updated>2019-10-13T15:45:09.507Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191013期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*1，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="Chrome-Web-Store-拒绝-uBlock-Origin-开发版更新"><a href="#Chrome-Web-Store-拒绝-uBlock-Origin-开发版更新" class="headerlink" title="Chrome Web Store 拒绝 uBlock Origin 开发版更新"></a>Chrome Web Store 拒绝 uBlock Origin 开发版更新</h3><p>boom，这里有些<a href="../20190610/Opera、Brave-和-Vivaldi-不会跟在-Google-后面限制广告扩展">相关内容</a></p><p><a href="https://www.solidot.org/story?sid=62219" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Linux下-proc目录简介"><a href="#Linux下-proc目录简介" class="headerlink" title="Linux下/proc目录简介"></a>Linux下/proc目录简介</h3><p>nb</p><p><a href="https://blog.spoock.com/2019/10/08/proc/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191013125934/https://blog.spoock.com/2019/10/08/proc/" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="小事-·-我的世界"><a href="#小事-·-我的世界" class="headerlink" title="小事 · 我的世界"></a>小事 · 我的世界</h3><p>一位精神病人的世界</p><p><a href="https://news-at.zhihu.com/story/9715835" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191013期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191012期</title>
@@ -156,29 +179,6 @@
     
       &lt;p&gt;透明日报第20191007期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191006期</title>
-    <link href="https://daily.tmr.js.org/d/20191006/"/>
-    <id>https://daily.tmr.js.org/d/20191006/</id>
-    <published>2019-10-06T15:45:03.000Z</published>
-    <updated>2019-10-06T15:45:09.574Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191006期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="windows中常见后门持久化方法总结"><a href="#windows中常见后门持久化方法总结" class="headerlink" title="windows中常见后门持久化方法总结"></a>windows中常见后门持久化方法总结</h3><p>算是<a href="../20190809/#ATT-amp-CK%E4%B9%8B%E5%90%8E%E9%97%A8%E6%8C%81%E4%B9%85%E5%8C%96">这篇</a>的补充，偏攻击向</p><p><a href="https://xz.aliyun.com/t/6461" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191006091649/https://xz.aliyun.com/t/6461" target="_blank" rel="noopener">Archive</a></p><h3 id="Django-开发中你不可不知的-7-个-Web-安全头"><a href="#Django-开发中你不可不知的-7-个-Web-安全头" class="headerlink" title="Django 开发中你不可不知的 7 个 Web 安全头"></a>Django 开发中你不可不知的 7 个 Web 安全头</h3><p>主要是介绍Web安全头，好像和Django没啥关系</p><p><a href="https://www.4hou.com/technology/20693.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="meterpreter学习笔记"><a href="#meterpreter学习笔记" class="headerlink" title="meterpreter学习笔记"></a>meterpreter学习笔记</h3><p>算是meterpreter使用手册了</p><p><a href="https://xz.aliyun.com/t/6400" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191006133524/https://xz.aliyun.com/t/6400" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191006期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
     
     </summary>
     
