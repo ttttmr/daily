@@ -227,8 +227,12 @@ div {
       margin: 1.4em 0 1.1em;
       border-bottom: 1px solid #eee;
       overflow: hidden; }
+      .post .post-content h2:before {
+        content: "# "; }
     .post .post-content h3 {
       margin: 1.4em 0 1.1em; }
+      .post .post-content h3:before {
+        content: "## "; }
     .post .post-content pre code {
       padding: 0 2em; }
     .post .post-content p {
@@ -247,6 +251,9 @@ div {
         word-break: normal; }
         .post .post-content p a:hover {
           text-decoration: underline; }
+      .post .post-content p a[target="_blank"]:before {
+        content: "\f0c1";
+        font-family: FontAwesome; }
     .post .post-content .caption {
       color: #444;
       display: block;
