@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-10-13T15:45:09.507Z</updated>
+  <updated>2019-10-14T15:45:10.136Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191014期</title>
+    <link href="https://daily.tmr.js.org/d/20191014/"/>
+    <id>https://daily.tmr.js.org/d/20191014/</id>
+    <published>2019-10-14T15:45:03.000Z</published>
+    <updated>2019-10-14T15:45:10.136Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191014期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#公告">公告</a>*1，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>在<a href="https://t.me/tm_daily" target="_blank" rel="noopener">Telegram频道</a>中开启Instant View</p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="互联网之子-Aaron-Swarts-想要看到的世界"><a href="#互联网之子-Aaron-Swarts-想要看到的世界" class="headerlink" title="互联网之子 Aaron Swarts 想要看到的世界"></a>互联网之子 Aaron Swarts 想要看到的世界</h3><p>不知道为什么我又把这篇翻出来了</p><p><a href="https://jhuo.ca/post/talk_with_jade_aaron/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191014050023/https://jhuo.ca/post/talk_with_jade_aaron/" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="谈谈海外移动支付普及的一点障碍"><a href="#谈谈海外移动支付普及的一点障碍" class="headerlink" title="谈谈海外移动支付普及的一点障碍"></a>谈谈海外移动支付普及的一点障碍</h3><p>国情不同</p><p><a href="https://mp.weixin.qq.com/s/iGmj_ESk00FsHy2ph0erLQ" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191014152523/https://mp.weixin.qq.com/s/iGmj_ESk00FsHy2ph0erLQ" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191014期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
+    
+    
+      <category term="公告" scheme="https://daily.tmr.js.org/tags/%E5%85%AC%E5%91%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>透明日报20191013期</title>
@@ -156,29 +181,6 @@
     
       &lt;p&gt;透明日报第20191008期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191007期</title>
-    <link href="https://daily.tmr.js.org/d/20191007/"/>
-    <id>https://daily.tmr.js.org/d/20191007/</id>
-    <published>2019-10-07T15:45:03.000Z</published>
-    <updated>2019-10-07T15:45:09.774Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191007期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Linux系统内存执行ELF的多种方式"><a href="#Linux系统内存执行ELF的多种方式" class="headerlink" title="Linux系统内存执行ELF的多种方式"></a>Linux系统内存执行ELF的多种方式</h3><p>如题</p><p><a href="https://www.anquanke.com/post/id/168791" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191007084141/https://www.anquanke.com/post/id/168791" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191007期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
