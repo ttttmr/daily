@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-10-14T15:45:10.136Z</updated>
+  <updated>2019-10-15T15:45:09.353Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191015期</title>
+    <link href="https://daily.tmr.js.org/d/20191015/"/>
+    <id>https://daily.tmr.js.org/d/20191015/</id>
+    <published>2019-10-15T15:45:02.000Z</published>
+    <updated>2019-10-15T15:45:09.353Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191015期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*4，<a href="#社会">社会</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="详解可重定位目标文件，ELF格式，-bss、-text、-data、-data"><a href="#详解可重定位目标文件，ELF格式，-bss、-text、-data、-data" class="headerlink" title="详解可重定位目标文件，ELF格式，.bss、.text、.data、.data"></a>详解可重定位目标文件，ELF格式，.bss、.text、.data、.data</h3><p>ELF文件格式学习</p><p><a href="https://www.hhcycj.com/post/item/361.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191015145607/https://www.hhcycj.com/post/item/361.html" target="_blank" rel="noopener">Archive</a></p><h3 id="ELF-格式解析"><a href="#ELF-格式解析" class="headerlink" title="ELF 格式解析"></a>ELF 格式解析</h3><p>SeeBug上一份ELF格式解析文档，比较详细</p><p><a href="https://paper.seebug.org/papers/Archive/refs/elf/Understanding_ELF.pdf" target="_blank" rel="noopener">原文链接</a></p><h3 id="史上最全Windows安全工具锦集"><a href="#史上最全Windows安全工具锦集" class="headerlink" title="史上最全Windows安全工具锦集"></a>史上最全Windows安全工具锦集</h3><p>日常收集工具</p><p><a href="https://www.freebuf.com/sectool/215644.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191015150055/https://www.freebuf.com/sectool/215644.html" target="_blank" rel="noopener">Archive</a></p><h3 id="新版burp-loader-keygen-2-jar"><a href="#新版burp-loader-keygen-2-jar" class="headerlink" title="新版burp-loader-keygen-2.jar"></a>新版burp-loader-keygen-2.jar</h3><p>日常收集工具</p><p><a href="https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247484189&idx=1&sn=6be19582eb15dcc4c9c2b6cadd7adc0e" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191015151257/https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247484189&idx=1&sn=6be19582eb15dcc4c9c2b6cadd7adc0e" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="毕业后的一点思考-木子"><a href="#毕业后的一点思考-木子" class="headerlink" title="毕业后的一点思考 - 木子"></a>毕业后的一点思考 - 木子</h3><p>一位刚毕业的学生写的，对社会的一些思考和见解，整体来说比较偏激，不过还是可以看看的，对于信息源单一的同学无疑是有好处的<br>我还是觉得你接收的信息决定了你的思想，不仅是深度，还有广度，所以什么东西都可以看看，至于不同的信息理解和权重还是看个人</p><p><a href="https://blog.502.li/thinking" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191014182137/https://blog.502.li/thinking" target="_blank" rel="noopener">Archive</a></p><h3 id="有什么不要的“破烂”，都一次性给多抓鱼百货吧"><a href="#有什么不要的“破烂”，都一次性给多抓鱼百货吧" class="headerlink" title="有什么不要的“破烂”，都一次性给多抓鱼百货吧"></a>有什么不要的“破烂”，都一次性给多抓鱼百货吧</h3><p>多抓鱼还收百货了啊</p><p><a href="https://www.pingwest.com/a/194909" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191015043357/https://www.pingwest.com/a/194909" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191015期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191014期</title>
@@ -158,29 +181,6 @@
     
       &lt;p&gt;透明日报第20191009期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*4&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191008期</title>
-    <link href="https://daily.tmr.js.org/d/20191008/"/>
-    <id>https://daily.tmr.js.org/d/20191008/</id>
-    <published>2019-10-08T15:45:03.000Z</published>
-    <updated>2019-10-08T15:45:09.923Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191008期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="游戏账号被封之后，在法律上有何救济途径？"><a href="#游戏账号被封之后，在法律上有何救济途径？" class="headerlink" title="游戏账号被封之后，在法律上有何救济途径？"></a>游戏账号被封之后，在法律上有何救济途径？</h3><p>有点意思</p><p><a href="https://news-at.zhihu.com/story/9715818" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="PHP反序列化进阶学习与总结"><a href="#PHP反序列化进阶学习与总结" class="headerlink" title="PHP反序列化进阶学习与总结"></a>PHP反序列化进阶学习与总结</h3><p>学习了</p><p><a href="https://xz.aliyun.com/t/6454" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191008153739/https://xz.aliyun.com/t/6454" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191008期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
