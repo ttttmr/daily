@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-10-18T15:45:09.710Z</updated>
+  <updated>2019-10-19T15:45:08.589Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191019期</title>
+    <link href="https://daily.tmr.js.org/d/20191019/"/>
+    <id>https://daily.tmr.js.org/d/20191019/</id>
+    <published>2019-10-19T15:45:02.000Z</published>
+    <updated>2019-10-19T15:45:08.589Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191019期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#技术">技术</a>*4，<a href="#社会">社会</a>*3</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>再<a href="https://daily.tmr.js.org/d/20191002/#公告">一次</a>提高<a href="https://archive.org/web/" target="_blank" rel="noopener">Internet Archvie</a>存档成功率</p><p>并且开始<strong>真正</strong>支持内容<strong>直接分享</strong>给Bot，以往需要链接和标题分别提交，而真实情况下直接分享给Bot会包含标题和链接（如浏览器分享等），导致操作十分的反人类，现在支持自动解析了，直接分享 xxxxx <a href="http://xxx" target="_blank" rel="noopener">http://xxx</a> 就行了（当然老的方式还是支持的），还是很希望有读者投稿的😂</p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="【原创】植物大战僵尸修改器DIY（一）"><a href="#【原创】植物大战僵尸修改器DIY（一）" class="headerlink" title="【原创】植物大战僵尸修改器DIY（一）"></a>【原创】植物大战僵尸修改器DIY（一）</h3><p>算是CE高级使用了</p><p><a href="https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651133724&idx=1&sn=e6bcdd9aa9420e7671ed33e0be986ea9&chksm=bd5087488a270e5e893bc009d995dfd874743370bb166ab260a888036a116eab2799612d0839&scene=21#wechat_redirect" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191019100939/https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651133724&idx=1&sn=e6bcdd9aa9420e7671ed33e0be986ea9&chksm=bd5087488a270e5e893bc009d995dfd874743370bb166ab260a888036a116eab2799612d0839&scene=21" target="_blank" rel="noopener">Archive</a></p><h3 id="【原创】植物大战僵尸修改器DIY（二）CD详解"><a href="#【原创】植物大战僵尸修改器DIY（二）CD详解" class="headerlink" title="【原创】植物大战僵尸修改器DIY（二）CD详解"></a>【原创】植物大战僵尸修改器DIY（二）CD详解</h3><p>接上篇续作</p><p><a href="https://mp.weixin.qq.com/s/W1GZbYrI51eKE2uZNB13vw" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191019101004/https://mp.weixin.qq.com/s/W1GZbYrI51eKE2uZNB13vw" target="_blank" rel="noopener">Archive</a></p><h3 id="12306-技术分析"><a href="#12306-技术分析" class="headerlink" title="12306 技术分析"></a>12306 技术分析</h3><p>很久之前我也想过这个事，我意识到这个问题极其复杂，以至于今天我都没理解透</p><p><a href="https://bot-man-jl.github.io/articles/?post=2016/12306-Architecture" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191019131118/https://bot-man-jl.github.io/articles/?post=2016/12306-Architecture" target="_blank" rel="noopener">Archive</a></p><h3 id="业务系统安全基线及其工具化解决方案"><a href="#业务系统安全基线及其工具化解决方案" class="headerlink" title="业务系统安全基线及其工具化解决方案"></a>业务系统安全基线及其工具化解决方案</h3><p>相关项目<a href="https://github.com/OpenSCAP/openscap" target="_blank" rel="noopener">OpenSCAP</a></p><p><a href="https://forum.huawei.com/enterprise/zh/thread-254685-1-1.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191019152300/https://forum.huawei.com/enterprise/zh/thread-254685-1-1.html" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="能把人头笑掉的买凶杀人案"><a href="#能把人头笑掉的买凶杀人案" class="headerlink" title="能把人头笑掉的买凶杀人案"></a>能把人头笑掉的买凶杀人案</h3><p>层层转包</p><p><a href="https://mp.weixin.qq.com/s/Inex87B9eZNmK2FNyIHl4Q" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191019122608/https://mp.weixin.qq.com/s/Inex87B9eZNmK2FNyIHl4Q" target="_blank" rel="noopener">Archive</a></p><h3 id="一桩涉嫌转包五次的“雇凶杀人”案"><a href="#一桩涉嫌转包五次的“雇凶杀人”案" class="headerlink" title="一桩涉嫌转包五次的“雇凶杀人”案"></a>一桩涉嫌转包五次的“雇凶杀人”案</h3><p>上篇提到的“南宁连环雇凶杀人案”，于2018年报道</p><p><a href="http://www.bjnews.com.cn/news/2018/05/16/487136.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191019123237/http://www.bjnews.com.cn/news/2018/05/16/487136.html" target="_blank" rel="noopener">Archive</a></p><h3 id="“雇凶杀人转包案”终审判决-6人因故意杀人罪获刑"><a href="#“雇凶杀人转包案”终审判决-6人因故意杀人罪获刑" class="headerlink" title="“雇凶杀人转包案”终审判决 6人因故意杀人罪获刑"></a>“雇凶杀人转包案”终审判决 6人因故意杀人罪获刑</h3><p>接上篇，2019年终审判决报道</p><p><a href="http://www.bjnews.com.cn/news/2019/10/17/637791.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191019133904/http://www.bjnews.com.cn/news/2019/10/17/637791.html" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191019期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*3&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
+    
+    
+      <category term="公告" scheme="https://daily.tmr.js.org/tags/%E5%85%AC%E5%91%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>透明日报20191018期</title>
@@ -150,33 +175,6 @@
     
       &lt;p&gt;透明日报第20191013期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191012期</title>
-    <link href="https://daily.tmr.js.org/d/20191012/"/>
-    <id>https://daily.tmr.js.org/d/20191012/</id>
-    <published>2019-10-12T15:45:02.000Z</published>
-    <updated>2019-10-12T15:45:09.056Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191012期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;透明日报第20191012期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日无更新&lt;/p&gt;
-
-      
     
     </summary>
     
