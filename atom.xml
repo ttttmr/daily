@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-10-19T15:45:08.589Z</updated>
+  <updated>2019-10-20T15:45:09.354Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191020期</title>
+    <link href="https://daily.tmr.js.org/d/20191020/"/>
+    <id>https://daily.tmr.js.org/d/20191020/</id>
+    <published>2019-10-20T15:45:02.000Z</published>
+    <updated>2019-10-20T15:45:09.354Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191020期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*4</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="命令注入成因小谈"><a href="#命令注入成因小谈" class="headerlink" title="命令注入成因小谈"></a>命令注入成因小谈</h3><p>话说有点文不对题，主要是分析了PHP/Java/Python命令执行的调用链</p><p><a href="https://xz.aliyun.com/t/6542" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191020075658/https://xz.aliyun.com/t/6542" target="_blank" rel="noopener">Archive</a></p><h3 id="使用truss、strace或ltrace诊断软件的”疑难杂症”"><a href="#使用truss、strace或ltrace诊断软件的”疑难杂症”" class="headerlink" title="使用truss、strace或ltrace诊断软件的”疑难杂症”"></a>使用truss、strace或ltrace诊断软件的”疑难杂症”</h3><p>Linux上系统调试分析工具，另外还有<a href="https://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/strace.html" target="_blank" rel="noopener">这篇</a></p><p><a href="https://www.ibm.com/developerworks/cn/linux/l-tsl/index.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191020085058/https://www.ibm.com/developerworks/cn/linux/l-tsl/index.html" target="_blank" rel="noopener">Archive</a></p><h3 id="协议层的攻击——HTTP请求走私"><a href="#协议层的攻击——HTTP请求走私" class="headerlink" title="协议层的攻击——HTTP请求走私"></a>协议层的攻击——HTTP请求走私</h3><p>如题</p><p><a href="https://paper.seebug.org/1048/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191020140422/https://paper.seebug.org/1048/" target="_blank" rel="noopener">Archive</a></p><h3 id="Git内部存储原理"><a href="#Git内部存储原理" class="headerlink" title="Git内部存储原理"></a>Git内部存储原理</h3><p>如题，这个好像没怎么看过</p><p><a href="https://zhaohuabing.com/post/2019-01-21-git/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191020153712/https://zhaohuabing.com/post/2019-01-21-git/" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191020期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191019期</title>
@@ -159,29 +182,6 @@
     
     
       <category term="公告" scheme="https://daily.tmr.js.org/tags/%E5%85%AC%E5%91%8A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191013期</title>
-    <link href="https://daily.tmr.js.org/d/20191013/"/>
-    <id>https://daily.tmr.js.org/d/20191013/</id>
-    <published>2019-10-13T15:45:02.000Z</published>
-    <updated>2019-10-16T15:13:49.595Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191013期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*1，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="Chrome-Web-Store-拒绝-uBlock-Origin-开发版更新"><a href="#Chrome-Web-Store-拒绝-uBlock-Origin-开发版更新" class="headerlink" title="Chrome Web Store 拒绝 uBlock Origin 开发版更新"></a>Chrome Web Store 拒绝 uBlock Origin 开发版更新</h3><p>boom，这里有些<a href="https://daily.tmr.js.org/20190610/Opera、Brave-和-Vivaldi-不会跟在-Google-后面限制广告扩展">相关内容</a></p><p><a href="https://www.solidot.org/story?sid=62219" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Linux下-proc目录简介"><a href="#Linux下-proc目录简介" class="headerlink" title="Linux下/proc目录简介"></a>Linux下/proc目录简介</h3><p>nb</p><p><a href="https://blog.spoock.com/2019/10/08/proc/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191013125934/https://blog.spoock.com/2019/10/08/proc/" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="小事-·-我的世界"><a href="#小事-·-我的世界" class="headerlink" title="小事 · 我的世界"></a>小事 · 我的世界</h3><p>一位精神病人的世界</p><p><a href="https://news-at.zhihu.com/story/9715835" target="_blank" rel="noopener">原文链接</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191013期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
-    
     
   </entry>
   

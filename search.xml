@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>透明日报20191020期</title>
+      <link href="/d/20191020/"/>
+      <url>/d/20191020/</url>
+      
+        <content type="html"><![CDATA[<p>透明日报第20191020期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*4</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="命令注入成因小谈"><a href="#命令注入成因小谈" class="headerlink" title="命令注入成因小谈"></a>命令注入成因小谈</h3><p>话说有点文不对题，主要是分析了PHP/Java/Python命令执行的调用链</p><p><a href="https://xz.aliyun.com/t/6542" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191020075658/https://xz.aliyun.com/t/6542" target="_blank" rel="noopener">Archive</a></p><h3 id="使用truss、strace或ltrace诊断软件的”疑难杂症”"><a href="#使用truss、strace或ltrace诊断软件的”疑难杂症”" class="headerlink" title="使用truss、strace或ltrace诊断软件的”疑难杂症”"></a>使用truss、strace或ltrace诊断软件的”疑难杂症”</h3><p>Linux上系统调试分析工具，另外还有<a href="https://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/strace.html" target="_blank" rel="noopener">这篇</a></p><p><a href="https://www.ibm.com/developerworks/cn/linux/l-tsl/index.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191020085058/https://www.ibm.com/developerworks/cn/linux/l-tsl/index.html" target="_blank" rel="noopener">Archive</a></p><h3 id="协议层的攻击——HTTP请求走私"><a href="#协议层的攻击——HTTP请求走私" class="headerlink" title="协议层的攻击——HTTP请求走私"></a>协议层的攻击——HTTP请求走私</h3><p>如题</p><p><a href="https://paper.seebug.org/1048/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191020140422/https://paper.seebug.org/1048/" target="_blank" rel="noopener">Archive</a></p><h3 id="Git内部存储原理"><a href="#Git内部存储原理" class="headerlink" title="Git内部存储原理"></a>Git内部存储原理</h3><p>如题，这个好像没怎么看过</p><p><a href="https://zhaohuabing.com/post/2019-01-21-git/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191020153712/https://zhaohuabing.com/post/2019-01-21-git/" target="_blank" rel="noopener">Archive</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2019 </category>
+          
+          <category> 10 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20191019期</title>
       <link href="/d/20191019/"/>
       <url>/d/20191019/</url>
