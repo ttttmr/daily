@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-10-23T15:45:09.483Z</updated>
+  <updated>2019-10-24T15:45:10.462Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191024期</title>
+    <link href="https://daily.tmr.js.org/d/20191024/"/>
+    <id>https://daily.tmr.js.org/d/20191024/</id>
+    <published>2019-10-24T15:45:03.000Z</published>
+    <updated>2019-10-24T15:45:10.462Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191024期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Google-Play出现DF-DFERH-01错误的分析与修复-VVBLOG"><a href="#Google-Play出现DF-DFERH-01错误的分析与修复-VVBLOG" class="headerlink" title="Google Play出现DF-DFERH-01错误的分析与修复 - VVBLOG"></a>Google Play出现DF-DFERH-01错误的分析与修复 - VVBLOG</h3><p>学习了</p><p><a href="https://blog.vvzero.com/2018/07/15/inspect-mix2s-google-play-error-DF-DFERH-01/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191024050933/https://blog.vvzero.com/2018/07/15/inspect-mix2s-google-play-error-DF-DFERH-01/" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="有哪些反直觉的法学知识？"><a href="#有哪些反直觉的法学知识？" class="headerlink" title="有哪些反直觉的法学知识？"></a>有哪些反直觉的法学知识？</h3><p>其实仔细想想这些法律是考虑了某些特别情况的</p><p><a href="https://news-at.zhihu.com/story/9716453" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191024092601/https://news-at.zhihu.com/story/9716453" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191024期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191023期</title>
@@ -146,33 +169,6 @@
     
       &lt;p&gt;透明日报第20191018期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#生活&quot;&gt;生活&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191017期</title>
-    <link href="https://daily.tmr.js.org/d/20191017/"/>
-    <id>https://daily.tmr.js.org/d/20191017/</id>
-    <published>2019-10-17T15:45:03.000Z</published>
-    <updated>2019-10-17T15:45:09.794Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191017期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;透明日报第20191017期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日无更新&lt;/p&gt;
-
-      
     
     </summary>
     
