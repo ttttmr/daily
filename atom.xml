@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-10-28T15:45:09.516Z</updated>
+  <updated>2019-10-29T15:45:10.276Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191029期</title>
+    <link href="https://daily.tmr.js.org/d/20191029/"/>
+    <id>https://daily.tmr.js.org/d/20191029/</id>
+    <published>2019-10-29T15:45:03.000Z</published>
+    <updated>2019-10-29T15:45:10.276Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191029期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="HTTPS-虐我千百遍，我却待她如初恋！"><a href="#HTTPS-虐我千百遍，我却待她如初恋！" class="headerlink" title="HTTPS 虐我千百遍，我却待她如初恋！"></a>HTTPS 虐我千百遍，我却待她如初恋！</h3><p>真的被虐，面试总是问</p><p><a href="https://mp.weixin.qq.com/s/kGujnr76eawyVaWWjBs6PA" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191029153412/https://mp.weixin.qq.com/s/kGujnr76eawyVaWWjBs6PA" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191029期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191028期</title>
@@ -144,29 +167,6 @@
     
       &lt;p&gt;透明日报第20191023期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191022期</title>
-    <link href="https://daily.tmr.js.org/d/20191022/"/>
-    <id>https://daily.tmr.js.org/d/20191022/</id>
-    <published>2019-10-22T15:45:03.000Z</published>
-    <updated>2019-10-22T15:45:09.816Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191022期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="Solidot-Firefox-将整合客户端翻译功能"><a href="#Solidot-Firefox-将整合客户端翻译功能" class="headerlink" title="Solidot | Firefox 将整合客户端翻译功能"></a>Solidot | Firefox 将整合客户端翻译功能</h3><p>还是离线翻译引擎！！！</p><p><a href="https://www.solidot.org/story?sid=62331" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191022132249/https://www.solidot.org/story?sid=62331" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅谈-RPC"><a href="#浅谈-RPC" class="headerlink" title="浅谈 RPC"></a>浅谈 RPC</h3><p><a href="https://t.me/impNo" target="_blank" rel="noopener">@impNo</a>投稿</p><p>了解 RPC 及其工作原理<br>ps.文中的图里的 PRC 应该是笔误😂</p><p><a href="https://dubbo.apache.org/zh-cn/blog/rpc-introduction.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191020151214/https://dubbo.apache.org/zh-cn/blog/rpc-introduction.html" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191022期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
