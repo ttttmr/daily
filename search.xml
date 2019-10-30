@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>透明日报20191030期</title>
+      <link href="/d/20191030/"/>
+      <url>/d/20191030/</url>
+      
+        <content type="html"><![CDATA[<p>透明日报第20191030期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2，<a href="#数学">数学</a>*1，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="php-fpm-RCE的POC的理解剖析-CVE-2019-11043"><a href="#php-fpm-RCE的POC的理解剖析-CVE-2019-11043" class="headerlink" title="php-fpm RCE的POC的理解剖析(CVE-2019-11043)"></a>php-fpm RCE的POC的理解剖析(CVE-2019-11043)</h3><p>十分详细，但二进制劝退</p><p><a href="https://bithack.io/forum/639" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191029161405/https://bithack.io/forum/639" target="_blank" rel="noopener">Archive</a></p><h3 id="我分析了2018-2020年青年安全圈450个活跃技术博客-博主"><a href="#我分析了2018-2020年青年安全圈450个活跃技术博客-博主" class="headerlink" title="我分析了2018-2020年青年安全圈450个活跃技术博客/博主"></a>我分析了2018-2020年青年安全圈450个活跃技术博客/博主</h3><p>结论是：<a href="https://www.leavesongs.com" target="_blank" rel="noopener">p师傅</a>nb，数据在<a href="https://github.com/404notf0und/Security-Data-Analysis-and-Visualization" target="_blank" rel="noopener">GitHub</a>上</p><p><a href="https://www.4o4notfound.org/index.php/archives/206/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191030121229/https://www.4o4notfound.org/index.php/archives/206/" target="_blank" rel="noopener">Archive</a></p><h2 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h2><h3 id="【官方双语】为什么素数会形成这些螺旋？"><a href="#【官方双语】为什么素数会形成这些螺旋？" class="headerlink" title="【官方双语】为什么素数会形成这些螺旋？"></a>【官方双语】为什么素数会形成这些螺旋？</h3><p>太nb了，很久以前也想过素数分布的事，画的还是直角坐标系，最后提到的东西也挺有同感的，总是会有这东西我也能发现的错觉，其实仔细想想这都是基于当下的知识环境，在n年之前自然是很难想到的</p><p><a href="https://www.bilibili.com/video/av73773499" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191029170026/https://www.bilibili.com/video/av73773499" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="玩游戏的老人们"><a href="#玩游戏的老人们" class="headerlink" title="玩游戏的老人们"></a>玩游戏的老人们</h3><blockquote><p>老年人在游戏玩家中是一个几乎隐形的群体</p></blockquote><p><a href="http://www.chuapp.com/article/286759.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191029161648/http://www.chuapp.com/article/286759.html" target="_blank" rel="noopener">Archive</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2019 </category>
+          
+          <category> 10 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20191029期</title>
       <link href="/d/20191029/"/>
       <url>/d/20191029/</url>
