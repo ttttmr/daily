@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-10-31T15:45:09.749Z</updated>
+  <updated>2019-11-01T15:45:10.105Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191101期</title>
+    <link href="https://daily.tmr.js.org/d/20191101/"/>
+    <id>https://daily.tmr.js.org/d/20191101/</id>
+    <published>2019-11-01T15:45:03.000Z</published>
+    <updated>2019-11-01T15:45:10.105Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191101期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="为什么-TCP-建立连接需要三次握手-·-Why’s-THE-Design"><a href="#为什么-TCP-建立连接需要三次握手-·-Why’s-THE-Design" class="headerlink" title="为什么 TCP 建立连接需要三次握手 · Why’s THE Design?"></a>为什么 TCP 建立连接需要三次握手 · Why’s THE Design?</h3><p><a href="https://t.me/impNo" target="_blank" rel="noopener">@impNo</a>投稿</p><ul><li>为了防止历史的重复连接初始化造成的混乱问题而导致使用 TCP 协议通信的双方建立了错误的连接。</li><li>通信双方都需要获得一个用于发送信息的初始化序列号</li></ul><p><a href="https://draveness.me/whys-the-design-tcp-three-way-handshake" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191031100730/https://draveness.me/whys-the-design-tcp-three-way-handshake" target="_blank" rel="noopener">Archive</a></p><h3 id="正则引擎与效率"><a href="#正则引擎与效率" class="headerlink" title="正则引擎与效率"></a>正则引擎与效率</h3><p>一些正则优化的策略</p><p><a href="https://echizen.github.io/tech/2016/10-28-reg-engine" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191101035858/https://echizen.github.io/tech/2016/10-28-reg-engine" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191101期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191031期</title>
@@ -144,29 +167,6 @@
     
       &lt;p&gt;透明日报第20191026期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191025期</title>
-    <link href="https://daily.tmr.js.org/d/20191025/"/>
-    <id>https://daily.tmr.js.org/d/20191025/</id>
-    <published>2019-10-25T15:45:03.000Z</published>
-    <updated>2019-10-25T15:45:09.825Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191025期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*6，<a href="#文娱">文娱</a>*1，<a href="#生活">生活</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="QQ-Linux版"><a href="#QQ-Linux版" class="headerlink" title="QQ Linux版"></a>QQ Linux版</h3><p>终于出Linux版了</p><p><a href="https://im.qq.com/linuxqq/download.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191025015507/https://im.qq.com/linuxqq/download.html" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="nginx配置不当容易产生的安全问题"><a href="#nginx配置不当容易产生的安全问题" class="headerlink" title="nginx配置不当容易产生的安全问题"></a>nginx配置不当容易产生的安全问题</h3><p>default_server解析学习了</p><p><a href="https://www.cnblogs.com/sevck/p/11498249.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191024161041/https://www.cnblogs.com/sevck/p/11498249.html" target="_blank" rel="noopener">Archive</a></p><h3 id="PHP-fpm-远程代码执行漏洞-CVE-2019-11043-分析"><a href="#PHP-fpm-远程代码执行漏洞-CVE-2019-11043-分析" class="headerlink" title="PHP-fpm 远程代码执行漏洞(CVE-2019-11043)分析"></a>PHP-fpm 远程代码执行漏洞(CVE-2019-11043)分析</h3><p>出分析了，因为需要特定配置实际危害还是很有限的</p><p><a href="https://paper.seebug.org/1063/" target="_blank" rel="noopener">原文链接</a></p><h3 id="《零信任网络》连载-一-：一文读懂零信任网络"><a href="#《零信任网络》连载-一-：一文读懂零信任网络" class="headerlink" title="《零信任网络》连载 (一)：一文读懂零信任网络"></a>《零信任网络》连载 (一)：一文读懂零信任网络</h3><p>如题</p><p><a href="https://mp.weixin.qq.com/s/RXPiK1ZumRldz_S-2IUkpw" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191025120143/https://mp.weixin.qq.com/s/RXPiK1ZumRldz_S-2IUkpw" target="_blank" rel="noopener">Archive</a></p><h3 id="《零信任网络》系列连载（二）：身份与信任管理"><a href="#《零信任网络》系列连载（二）：身份与信任管理" class="headerlink" title="《零信任网络》系列连载（二）：身份与信任管理"></a>《零信任网络》系列连载（二）：身份与信任管理</h3><p>如题</p><p><a href="https://mp.weixin.qq.com/s/-fEMFT3n2Q6jAn-_BV0uVg" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191025120407/https://mp.weixin.qq.com/s/-fEMFT3n2Q6jAn-_BV0uVg" target="_blank" rel="noopener">Archive</a></p><h3 id="《零信任网络》系列连载三：建立信任与授权的关键——网络代理"><a href="#《零信任网络》系列连载三：建立信任与授权的关键——网络代理" class="headerlink" title="《零信任网络》系列连载三：建立信任与授权的关键——网络代理"></a>《零信任网络》系列连载三：建立信任与授权的关键——网络代理</h3><p>如题</p><p><a href="https://mp.weixin.qq.com/s/PDDZz3pzToFwJ-fGz5sUsg" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191025120448/https://mp.weixin.qq.com/s/PDDZz3pzToFwJ-fGz5sUsg" target="_blank" rel="noopener">Archive</a></p><h3 id="一年份的思考-2019"><a href="#一年份的思考-2019" class="headerlink" title="一年份的思考 2019"></a>一年份的思考 2019</h3><blockquote><p>汇总起初会比较散，请见谅，汇总非我一个人的思考，也有其他人的思考在里面</p></blockquote><p><a href="https://www.yuque.com/jianxu/diary/gttl7h" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191025153425/https://www.yuque.com/jianxu/diary/gttl7h" target="_blank" rel="noopener">Archive</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="李安的《双子杀手》，会成为-120-帧电影的绝唱吗？"><a href="#李安的《双子杀手》，会成为-120-帧电影的绝唱吗？" class="headerlink" title="李安的《双子杀手》，会成为 120 帧电影的绝唱吗？"></a>李安的《双子杀手》，会成为 120 帧电影的绝唱吗？</h3><p>貌似还没有看过120帧的电影</p><p><a href="https://www.ifanr.com/1273086?utm_source=rss&utm_medium=rss&utm_campaign=" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191025131442/https://www.ifanr.com/1273086?utm_source=rss&utm_medium=rss&utm_campaign=" target="_blank" rel="noopener">Archive</a></p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="in-between"><a href="#in-between" class="headerlink" title="in between"></a>in between</h3><p>讲亲情和人生的动画</p><p><a href="https://www.bilibili.com/video/av69167226" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191024182004/https://www.bilibili.com/video/av69167226" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191025期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*6，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#生活&quot;&gt;生活&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     

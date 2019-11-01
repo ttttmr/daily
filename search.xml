@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>透明日报20191101期</title>
+      <link href="/d/20191101/"/>
+      <url>/d/20191101/</url>
+      
+        <content type="html"><![CDATA[<p>透明日报第20191101期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="为什么-TCP-建立连接需要三次握手-·-Why’s-THE-Design"><a href="#为什么-TCP-建立连接需要三次握手-·-Why’s-THE-Design" class="headerlink" title="为什么 TCP 建立连接需要三次握手 · Why’s THE Design?"></a>为什么 TCP 建立连接需要三次握手 · Why’s THE Design?</h3><p><a href="https://t.me/impNo" target="_blank" rel="noopener">@impNo</a>投稿</p><ul><li>为了防止历史的重复连接初始化造成的混乱问题而导致使用 TCP 协议通信的双方建立了错误的连接。</li><li>通信双方都需要获得一个用于发送信息的初始化序列号</li></ul><p><a href="https://draveness.me/whys-the-design-tcp-three-way-handshake" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191031100730/https://draveness.me/whys-the-design-tcp-three-way-handshake" target="_blank" rel="noopener">Archive</a></p><h3 id="正则引擎与效率"><a href="#正则引擎与效率" class="headerlink" title="正则引擎与效率"></a>正则引擎与效率</h3><p>一些正则优化的策略</p><p><a href="https://echizen.github.io/tech/2016/10-28-reg-engine" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191101035858/https://echizen.github.io/tech/2016/10-28-reg-engine" target="_blank" rel="noopener">Archive</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2019 </category>
+          
+          <category> 11 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>透明日报20191031期</title>
       <link href="/d/20191031/"/>
       <url>/d/20191031/</url>
