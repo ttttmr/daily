@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-11-03T15:45:09.839Z</updated>
+  <updated>2019-11-04T15:45:09.644Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191104期</title>
+    <link href="https://daily.tmr.js.org/d/20191104/"/>
+    <id>https://daily.tmr.js.org/d/20191104/</id>
+    <published>2019-11-04T15:45:03.000Z</published>
+    <updated>2019-11-04T15:45:09.644Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191104期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#生活">生活</a>*1</p><a id="more"></a><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="Solidot-冰岛直播至今没有腐烂的十年陈汉堡"><a href="#Solidot-冰岛直播至今没有腐烂的十年陈汉堡" class="headerlink" title="Solidot | 冰岛直播至今没有腐烂的十年陈汉堡"></a>Solidot | 冰岛直播至今没有腐烂的十年陈汉堡</h3><p>真的不会腐烂啊</p><p><a href="https://www.solidot.org/story?sid=62477" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191104084859/https://www.solidot.org/story?sid=62477" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191104期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#生活&quot;&gt;生活&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191103期</title>
@@ -143,29 +166,6 @@
     <summary type="html">
     
       &lt;p&gt;透明日报第20191029期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191028期</title>
-    <link href="https://daily.tmr.js.org/d/20191028/"/>
-    <id>https://daily.tmr.js.org/d/20191028/</id>
-    <published>2019-10-28T15:45:02.000Z</published>
-    <updated>2019-10-28T15:45:09.516Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191028期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="漫谈-说透-CSV-格式"><a href="#漫谈-说透-CSV-格式" class="headerlink" title="[漫谈] 说透 CSV 格式"></a>[漫谈] 说透 CSV 格式</h3><p>本文主要介绍了 CSV 模块的历史背景、规范与使用细节、Python 内置库和第三方模块的使用及注意事项</p><p><a href="http://shuhari.dev/blog/2019/10/csv-explained" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191027164048/https://shuhari.dev/blog/2019/10/csv-explained" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191028期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
