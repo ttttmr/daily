@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-11-04T15:45:09.644Z</updated>
+  <updated>2019-11-05T15:45:10.623Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191105期</title>
+    <link href="https://daily.tmr.js.org/d/20191105/"/>
+    <id>https://daily.tmr.js.org/d/20191105/</id>
+    <published>2019-11-05T15:45:03.000Z</published>
+    <updated>2019-11-05T15:45:10.623Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191105期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="Python-programming-language-creator-retires-saying-‘It’s-been-an-amazing-ride’"><a href="#Python-programming-language-creator-retires-saying-‘It’s-been-an-amazing-ride’" class="headerlink" title="Python programming language creator retires, saying: ‘It’s been an amazing ride’"></a>Python programming language creator retires, saying: ‘It’s been an amazing ride’</h3><p><a href="https://t.me/impNo" target="_blank" rel="noopener">@impNo</a>投稿</p><blockquote><p>Maintainable code is more important than clever code</p></blockquote><p>文章中有一篇must read讲Python的诞生以及发展历程：<a href="https://www.techrepublic.com/article/python-is-eating-the-world-how-one-developers-side-project-became-the-hottest-programming-language-on-the-planet/" target="_blank" rel="noopener">Python is eating the world: How one developer’s side project became the hottest programming language on the planet</a><br>文中还提到了mypy项目，了解一下。</p><p><a href="https://www.zdnet.com/article/python-programming-language-creator-retires-saying-its-been-an-amazing-ride/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191105010936/https://www.zdnet.com/article/python-programming-language-creator-retires-saying-its-been-an-amazing-ride/" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191105期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191104期</title>
@@ -144,29 +167,6 @@
     
       &lt;p&gt;透明日报第20191030期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#数学&quot;&gt;数学&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191029期</title>
-    <link href="https://daily.tmr.js.org/d/20191029/"/>
-    <id>https://daily.tmr.js.org/d/20191029/</id>
-    <published>2019-10-29T15:45:03.000Z</published>
-    <updated>2019-10-29T15:45:10.276Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191029期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="HTTPS-虐我千百遍，我却待她如初恋！"><a href="#HTTPS-虐我千百遍，我却待她如初恋！" class="headerlink" title="HTTPS 虐我千百遍，我却待她如初恋！"></a>HTTPS 虐我千百遍，我却待她如初恋！</h3><p>真的被虐，面试总是问</p><p><a href="https://mp.weixin.qq.com/s/kGujnr76eawyVaWWjBs6PA" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191029153412/https://mp.weixin.qq.com/s/kGujnr76eawyVaWWjBs6PA" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191029期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
