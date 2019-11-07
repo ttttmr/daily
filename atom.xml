@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-11-06T15:45:10.010Z</updated>
+  <updated>2019-11-07T15:45:09.492Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191107期</title>
+    <link href="https://daily.tmr.js.org/d/20191107/"/>
+    <id>https://daily.tmr.js.org/d/20191107/</id>
+    <published>2019-11-07T15:45:03.000Z</published>
+    <updated>2019-11-07T15:45:09.492Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191107期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*6</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="YARA-Performance-Guidelines"><a href="#YARA-Performance-Guidelines" class="headerlink" title="YARA Performance Guidelines"></a>YARA Performance Guidelines</h3><p>如题</p><p><a href="https://gist.github.com/Neo23x0/e3d4e316d7441d9143c7" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191106175101/https://gist.github.com/Neo23x0/e3d4e316d7441d9143c7" target="_blank" rel="noopener">Archive</a></p><h3 id="翻译-编写Yara规则检测恶意软件"><a href="#翻译-编写Yara规则检测恶意软件" class="headerlink" title="[翻译]编写Yara规则检测恶意软件"></a>[翻译]编写Yara规则检测恶意软件</h3><p>Yara的效率还是很高的</p><p><a href="https://bbs.pediy.com/thread-226011.htm" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191106175300/https://bbs.pediy.com/thread-226011.htm" target="_blank" rel="noopener">Archive</a></p><h3 id="模糊测试工具WinAFL使用指南"><a href="#模糊测试工具WinAFL使用指南" class="headerlink" title="模糊测试工具WinAFL使用指南"></a>模糊测试工具WinAFL使用指南</h3><p>如题</p><p><a href="https://www.freebuf.com/articles/system/216437.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191107151346/https://www.freebuf.com/articles/system/216437.html" target="_blank" rel="noopener">Archive</a></p><h3 id="Bypassing-GitHub’s-OAuth-flow"><a href="#Bypassing-GitHub’s-OAuth-flow" class="headerlink" title="Bypassing GitHub’s OAuth flow"></a>Bypassing GitHub’s OAuth flow</h3><p>HEAD请求绕过，学习了</p><p><a href="https://blog.teddykatz.com/2019/11/05/github-oauth-bypass.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191107151512/https://blog.teddykatz.com/2019/11/05/github-oauth-bypass.html" target="_blank" rel="noopener">Archive</a></p><h3 id="linux-系统tty、pty和pts-的概念及区别"><a href="#linux-系统tty、pty和pts-的概念及区别" class="headerlink" title="linux 系统tty、pty和pts 的概念及区别"></a>linux 系统tty、pty和pts 的概念及区别</h3><p>想起来之前还看过一篇讲<a href="https://printempw.github.io/the-difference-between-cli-terminal-shell-tty/" target="_blank" rel="noopener">终端</a>的</p><p><a href="http://blog.51cto.com/ablinuxer/2071841" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191107152603/https://blog.51cto.com/ablinuxer/2071841" target="_blank" rel="noopener">Archive</a></p><h3 id="Docker1-架构原理及简单使用"><a href="#Docker1-架构原理及简单使用" class="headerlink" title="Docker1 架构原理及简单使用"></a>Docker1 架构原理及简单使用</h3><p>如题，还比较易懂</p><p><a href="https://www.cnblogs.com/zhangxingeng/p/11236968.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191107154023/https://www.cnblogs.com/zhangxingeng/p/11236968.html" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191107期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*6&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191106期</title>
@@ -150,29 +173,6 @@
       <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
     
       <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191031期</title>
-    <link href="https://daily.tmr.js.org/d/20191031/"/>
-    <id>https://daily.tmr.js.org/d/20191031/</id>
-    <published>2019-10-31T15:45:03.000Z</published>
-    <updated>2019-10-31T15:45:09.749Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191031期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#数学">数学</a>*1</p><a id="more"></a><h2 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h2><h3 id="数学究竟是真实存在的，还是人类精神的产物？"><a href="#数学究竟是真实存在的，还是人类精神的产物？" class="headerlink" title="数学究竟是真实存在的，还是人类精神的产物？"></a>数学究竟是真实存在的，还是人类精神的产物？</h3><p>我觉得数学是对现实的一种抽象描述，特别的一点就是文中提到的</p><blockquote><p>很少有其他学科可以像数学这样获得如此令人难以置信的共识</p></blockquote><p><a href="https://news-at.zhihu.com/story/9716094" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191031051721/https://news-at.zhihu.com/story/9716094" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191031期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#数学&quot;&gt;数学&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="10" scheme="https://daily.tmr.js.org/categories/2019/10/"/>
     
     
   </entry>
