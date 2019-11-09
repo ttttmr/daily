@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-11-09T00:40:28.905Z</updated>
+  <updated>2019-11-09T15:45:09.274Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191109期</title>
+    <link href="https://daily.tmr.js.org/d/20191109/"/>
+    <id>https://daily.tmr.js.org/d/20191109/</id>
+    <published>2019-11-09T15:45:02.000Z</published>
+    <updated>2019-11-09T15:45:09.274Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191109期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;透明日报第20191109期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日无更新&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191108期</title>
@@ -144,29 +171,6 @@
     
       &lt;p&gt;透明日报第20191103期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191102期</title>
-    <link href="https://daily.tmr.js.org/d/20191102/"/>
-    <id>https://daily.tmr.js.org/d/20191102/</id>
-    <published>2019-11-02T15:45:03.000Z</published>
-    <updated>2019-11-02T15:45:10.001Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191102期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Hacking-JSON-Web-Tokens-JWTs"><a href="#Hacking-JSON-Web-Tokens-JWTs" class="headerlink" title="Hacking JSON Web Tokens (JWTs)"></a>Hacking JSON Web Tokens (JWTs)</h3><p>JWT的一些攻击面</p><p><a href="https://medium.com/swlh/hacking-json-web-tokens-jwts-9122efe91e4a" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191102034723/https://medium.com/swlh/hacking-json-web-tokens-jwts-9122efe91e4a" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191102期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
