@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-11-09T15:45:09.274Z</updated>
+  <updated>2019-11-10T15:45:09.752Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191110期</title>
+    <link href="https://daily.tmr.js.org/d/20191110/"/>
+    <id>https://daily.tmr.js.org/d/20191110/</id>
+    <published>2019-11-10T15:45:03.000Z</published>
+    <updated>2019-11-10T15:45:09.752Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191110期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;透明日报第20191110期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日无更新&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191109期</title>
@@ -148,29 +175,6 @@
     
       &lt;p&gt;透明日报第20191104期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#生活&quot;&gt;生活&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191103期</title>
-    <link href="https://daily.tmr.js.org/d/20191103/"/>
-    <id>https://daily.tmr.js.org/d/20191103/</id>
-    <published>2019-11-03T15:45:03.000Z</published>
-    <updated>2019-11-03T15:45:09.839Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191103期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="HTTP参数传递类型差异产生的攻击面"><a href="#HTTP参数传递类型差异产生的攻击面" class="headerlink" title="HTTP参数传递类型差异产生的攻击面"></a>HTTP参数传递类型差异产生的攻击面</h3><p>作者提出了一种新的攻击思路，主要会针对弱类型的语言</p><p><a href="https://evoa.me/index.php/archives/61/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191102165754/https://evoa.me/index.php/archives/61/" target="_blank" rel="noopener">Archive</a></p><h3 id="大型互联网公司数据安全实践"><a href="#大型互联网公司数据安全实践" class="headerlink" title="大型互联网公司数据安全实践"></a>大型互联网公司数据安全实践</h3><p>又又又是美团的技术分享</p><p><a href="https://www.secpulse.com/archives/117252.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191103021154/https://www.secpulse.com/archives/117252.html" target="_blank" rel="noopener">Archive</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="玩了100小时《死亡搁浅》，我确信它真的是个送快递游戏"><a href="#玩了100小时《死亡搁浅》，我确信它真的是个送快递游戏" class="headerlink" title="玩了100小时《死亡搁浅》，我确信它真的是个送快递游戏"></a>玩了100小时《死亡搁浅》，我确信它真的是个送快递游戏</h3><p>所有的玩家在同一个世界送快递，通过建造和点赞相互连接，还挺有意思，所以说这本质上是一个“社交游戏”了吗，我觉得短时间内就会有简化变种版出现😂（比如变成送外卖，开出租之类的）</p><p><a href="https://www.yystv.cn/p/5821" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191102172249/https://www.yystv.cn/p/5821" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191103期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
