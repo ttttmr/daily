@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-11-10T15:45:09.752Z</updated>
+  <updated>2019-11-11T15:45:09.929Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191111期</title>
+    <link href="https://daily.tmr.js.org/d/20191111/"/>
+    <id>https://daily.tmr.js.org/d/20191111/</id>
+    <published>2019-11-11T15:45:03.000Z</published>
+    <updated>2019-11-11T15:45:09.929Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191111期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*2，<a href="#社会">社会</a>*2</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="TK-教主复制30个安全牛人的终极大招是什么-访谈"><a href="#TK-教主复制30个安全牛人的终极大招是什么-访谈" class="headerlink" title="TK 教主复制30个安全牛人的终极大招是什么 | 访谈"></a>TK 教主复制30个安全牛人的终极大招是什么 | 访谈</h3><p>这篇访谈的标题有点夸张，所以我之前一直没转。不过里面还是有一些我想对初学者们说的东西。前面不用看，直接滚动条拖到最后，看第10和11个问题</p><p><a href="https://weibo.com/1401527553/IfIzYqhoE" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191111081441/https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F1401527553%2FIfIzYqhoE&domain=.weibo.com&ua=php-sso_sdk_client-0.6.28&_rand=1573460080.2012" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="PHP安全开发中常见的Dos风险"><a href="#PHP安全开发中常见的Dos风险" class="headerlink" title="PHP安全开发中常见的Dos风险"></a>PHP安全开发中常见的Dos风险</h3><p>dos洞好像看的少，不过<a href="https://daily.tmr.js.org/d/20191108/">之前发的SVG </a>那个也是dos洞</p><p><a href="http://www.myh0st.cn/index.php/archives/1240/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191111071725/http://www.myh0st.cn/index.php/archives/1240/" target="_blank" rel="noopener">Archive</a></p><h3 id="php-弱类型问题"><a href="#php-弱类型问题" class="headerlink" title="php 弱类型问题"></a>php 弱类型问题</h3><p>总结比较全</p><p><a href="http://www.myh0st.cn/index.php/archives/1235/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191111072531/http://www.myh0st.cn/index.php/archives/1235/" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="故事-16-年扎了-2-万多针，有人以为他在吸毒"><a href="#故事-16-年扎了-2-万多针，有人以为他在吸毒" class="headerlink" title="故事 | 16 年扎了 2 万多针，有人以为他在吸毒"></a>故事 | 16 年扎了 2 万多针，有人以为他在吸毒</h3><p>真的不能好好取标题了，讲的1型糖尿病患者需要打胰岛素，有一点不能理解的是这个病也没怎么样（不会传染，不危害他人之类的），为什么患者会被排斥</p><p><a href="https://zhuanlan.zhihu.com/p/91226222" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191111101017/https://zhuanlan.zhihu.com/p/91226222" target="_blank" rel="noopener">Archive</a></p><h3 id="看九只-MIT-的-Mini-Cheetah-机器猎豹在草地上玩耍"><a href="#看九只-MIT-的-Mini-Cheetah-机器猎豹在草地上玩耍" class="headerlink" title="看九只 MIT 的 Mini Cheetah 机器猎豹在草地上玩耍"></a>看九只 MIT 的 Mini Cheetah 机器猎豹在草地上玩耍</h3><p>看起来很厉害的样子</p><p><a href="https://cn.engadget.com/2019/11/10/mit-mini-cheetah-herd-dance-video/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191111110216/https://cn.engadget.com/2019/11/10/mit-mini-cheetah-herd-dance-video/" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191111期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191110期</title>
@@ -152,29 +175,6 @@
     
       &lt;p&gt;透明日报第20191105期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191104期</title>
-    <link href="https://daily.tmr.js.org/d/20191104/"/>
-    <id>https://daily.tmr.js.org/d/20191104/</id>
-    <published>2019-11-04T15:45:03.000Z</published>
-    <updated>2019-11-04T15:45:09.644Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191104期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#生活">生活</a>*1</p><a id="more"></a><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="Solidot-冰岛直播至今没有腐烂的十年陈汉堡"><a href="#Solidot-冰岛直播至今没有腐烂的十年陈汉堡" class="headerlink" title="Solidot | 冰岛直播至今没有腐烂的十年陈汉堡"></a>Solidot | 冰岛直播至今没有腐烂的十年陈汉堡</h3><p>真的不会腐烂啊</p><p><a href="https://www.solidot.org/story?sid=62477" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191104084859/https://www.solidot.org/story?sid=62477" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191104期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#生活&quot;&gt;生活&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
