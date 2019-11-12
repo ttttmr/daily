@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-11-11T15:45:09.929Z</updated>
+  <updated>2019-11-12T15:45:09.163Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191112期</title>
+    <link href="https://daily.tmr.js.org/d/20191112/"/>
+    <id>https://daily.tmr.js.org/d/20191112/</id>
+    <published>2019-11-12T15:45:02.000Z</published>
+    <updated>2019-11-12T15:45:09.163Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191112期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="你用它上網，我用它進你內網-中華電信數據機遠端代碼執行漏洞"><a href="#你用它上網，我用它進你內網-中華電信數據機遠端代碼執行漏洞" class="headerlink" title="你用它上網，我用它進你內網! 中華電信數據機遠端代碼執行漏洞"></a>你用它上網，我用它進你內網! 中華電信數據機遠端代碼執行漏洞</h3><p>橘子师傅太强了</p><p><a href="http://blog.orange.tw/2019/11/HiNet-GPON-Modem-RCE.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191112144111/http://blog.orange.tw/2019/11/HiNet-GPON-Modem-RCE.html" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191112期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191111期</title>
@@ -152,29 +175,6 @@
     
       &lt;p&gt;透明日报第20191106期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191105期</title>
-    <link href="https://daily.tmr.js.org/d/20191105/"/>
-    <id>https://daily.tmr.js.org/d/20191105/</id>
-    <published>2019-11-05T15:45:03.000Z</published>
-    <updated>2019-11-05T15:45:10.623Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191105期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="Python-programming-language-creator-retires-saying-‘It’s-been-an-amazing-ride’"><a href="#Python-programming-language-creator-retires-saying-‘It’s-been-an-amazing-ride’" class="headerlink" title="Python programming language creator retires, saying: ‘It’s been an amazing ride’"></a>Python programming language creator retires, saying: ‘It’s been an amazing ride’</h3><p><a href="https://t.me/impNo" target="_blank" rel="noopener">@impNo</a>投稿</p><blockquote><p>Maintainable code is more important than clever code</p></blockquote><p>文章中有一篇must read讲Python的诞生以及发展历程：<a href="https://www.techrepublic.com/article/python-is-eating-the-world-how-one-developers-side-project-became-the-hottest-programming-language-on-the-planet/" target="_blank" rel="noopener">Python is eating the world: How one developer’s side project became the hottest programming language on the planet</a><br>文中还提到了mypy项目，了解一下。</p><p><a href="https://www.zdnet.com/article/python-programming-language-creator-retires-saying-its-been-an-amazing-ride/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191105010936/https://www.zdnet.com/article/python-programming-language-creator-retires-saying-its-been-an-amazing-ride/" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191105期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
