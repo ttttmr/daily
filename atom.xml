@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-11-12T15:45:09.163Z</updated>
+  <updated>2019-11-13T15:45:10.399Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191113期</title>
+    <link href="https://daily.tmr.js.org/d/20191113/"/>
+    <id>https://daily.tmr.js.org/d/20191113/</id>
+    <published>2019-11-13T15:45:03.000Z</published>
+    <updated>2019-11-13T15:45:10.399Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191113期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="hash-算法原理及应用漫谈"><a href="#hash-算法原理及应用漫谈" class="headerlink" title="hash 算法原理及应用漫谈"></a>hash 算法原理及应用漫谈</h3><p>发现hash还是有很多应用的</p><p><a href="https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649744696&idx=1&sn=ec248218f192956c9d7eb8e62d9803ce&chksm=bed3764389a4ff55277063a9100b36d644766b1e3c61bfe3b84d4c5d6b9d6f1f6eeee3708592#rd" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191113151054/https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649744696&idx=1&sn=ec248218f192956c9d7eb8e62d9803ce&chksm=bed3764389a4ff55277063a9100b36d644766b1e3c61bfe3b84d4c5d6b9d6f1f6eeee3708592" target="_blank" rel="noopener">Archive</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="视频论文丨用动画描绘声音的形状：《声之形》视听语言分析"><a href="#视频论文丨用动画描绘声音的形状：《声之形》视听语言分析" class="headerlink" title="视频论文丨用动画描绘声音的形状：《声之形》视听语言分析"></a>视频论文丨用动画描绘声音的形状：《声之形》视听语言分析</h3><p>学习了，感觉以后看动画的感觉都会变了</p><p><a href="https://www.bilibili.com/video/av74978408" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191112164608/https://www.bilibili.com/video/av74978408" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191113期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191112期</title>
@@ -152,29 +175,6 @@
     
       &lt;p&gt;透明日报第20191107期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*6&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191106期</title>
-    <link href="https://daily.tmr.js.org/d/20191106/"/>
-    <id>https://daily.tmr.js.org/d/20191106/</id>
-    <published>2019-11-06T15:45:03.000Z</published>
-    <updated>2019-11-06T15:45:10.010Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191106期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="【白夜谈】网络游戏与无缘社会"><a href="#【白夜谈】网络游戏与无缘社会" class="headerlink" title="【白夜谈】网络游戏与无缘社会"></a>【白夜谈】网络游戏与无缘社会</h3><blockquote><p>在过去MMORPG大行其道的时代里，我们是在游戏里找到朋友，但在如今，我们必须先有朋友，才能和朋友一起玩游戏</p></blockquote><p>但是仔细想想，或许，作为游戏，和朋友一起玩游戏比在游戏里找到朋友更加主要，当下会更加注重后者可能更多的是从社交流量利益上考虑，当然不排除有以后者作为目标的游戏，那么这还是游戏吗？（笑）</p><p><a href="https://www.yystv.cn/p/5837" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191106050631/https://www.yystv.cn/p/5837" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191106期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
