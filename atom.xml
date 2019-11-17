@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-11-16T15:45:10.004Z</updated>
+  <updated>2019-11-17T15:45:10.343Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191117期</title>
+    <link href="https://daily.tmr.js.org/d/20191117/"/>
+    <id>https://daily.tmr.js.org/d/20191117/</id>
+    <published>2019-11-17T15:45:03.000Z</published>
+    <updated>2019-11-17T15:45:10.343Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191117期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;透明日报第20191117期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日无更新&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191116期</title>
@@ -144,33 +171,6 @@
     
       &lt;p&gt;透明日报第20191111期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191110期</title>
-    <link href="https://daily.tmr.js.org/d/20191110/"/>
-    <id>https://daily.tmr.js.org/d/20191110/</id>
-    <published>2019-11-10T15:45:03.000Z</published>
-    <updated>2019-11-10T15:45:09.752Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191110期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;透明日报第20191110期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日无更新&lt;/p&gt;
-
-      
     
     </summary>
     
