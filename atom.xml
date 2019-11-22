@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-11-21T15:45:10.283Z</updated>
+  <updated>2019-11-22T15:45:09.495Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191122期</title>
+    <link href="https://daily.tmr.js.org/d/20191122/"/>
+    <id>https://daily.tmr.js.org/d/20191122/</id>
+    <published>2019-11-22T15:45:03.000Z</published>
+    <updated>2019-11-22T15:45:09.495Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191122期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;透明日报第20191122期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日无更新&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191121期</title>
@@ -148,29 +175,6 @@
     
       &lt;p&gt;透明日报第20191116期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#生活&quot;&gt;生活&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191115期</title>
-    <link href="https://daily.tmr.js.org/d/20191115/"/>
-    <id>https://daily.tmr.js.org/d/20191115/</id>
-    <published>2019-11-15T15:45:03.000Z</published>
-    <updated>2019-11-15T15:45:09.863Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191115期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*2，<a href="#社会">社会</a>*2</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="写过很多文章，却依旧取不好一个标题"><a href="#写过很多文章，却依旧取不好一个标题" class="headerlink" title="写过很多文章，却依旧取不好一个标题"></a>写过很多文章，却依旧取不好一个标题</h3><p>为最大流量，利用机器学习算法取标题，我只能说这看起来很好，但实际上很糟糕，这不是技术该做的事，技术该做的是要像语文老师一样给文章取标题</p><p><a href="https://www.pingwest.com/a/197019" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191114171316/https://www.pingwest.com/a/197019" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="我的技术栈选型"><a href="#我的技术栈选型" class="headerlink" title="我的技术栈选型"></a>我的技术栈选型</h3><p>作者常用技术栈分享</p><p><a href="https://jiajunhuang.com/articles/2019_11_13-tech_stack.md.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191114175018/https://jiajunhuang.com/articles/2019_11_13-tech_stack.md.html" target="_blank" rel="noopener">Archive</a></p><h3 id="用了两周时间面试，换来的一点心得体会"><a href="#用了两周时间面试，换来的一点心得体会" class="headerlink" title="用了两周时间面试，换来的一点心得体会"></a>用了两周时间面试，换来的一点心得体会</h3><p>信安之路的myh0st，只是没有想到作者也在思考这个问题</p><blockquote><p>我也在思考对于我而言什么样的公司更适合我，想去做什么，越想越迷茫</p></blockquote><p><a href="https://mp.weixin.qq.com/s/UNytgyLOeGu6ns31JAzrXQ" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191115150834/https://mp.weixin.qq.com/s/UNytgyLOeGu6ns31JAzrXQ" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="全网寻找“鼠标打字·高级版ⅲ”"><a href="#全网寻找“鼠标打字·高级版ⅲ”" class="headerlink" title="全网寻找“鼠标打字·高级版ⅲ”"></a>全网寻找“鼠标打字·高级版ⅲ”</h3><p>是真的没有想到这个软件会对一些人有这么大的用处，有些好奇开发者当时又是有什么原因开发这样的软件</p><p><a href="https://www.yystv.cn/p/5872" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191114173005/https://www.yystv.cn/p/5872" target="_blank" rel="noopener">Archive</a></p><h3 id="无期囚犯因短暂死亡而要求出狱"><a href="#无期囚犯因短暂死亡而要求出狱" class="headerlink" title="无期囚犯因短暂死亡而要求出狱"></a>无期囚犯因短暂死亡而要求出狱</h3><p>如题，倒是觉得有那么一点点道理</p><p><a href="http://jandan.net/2019/11/14/briefly-died.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191114173521/http://jandan.net/2019/11/14/briefly-died.html" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191115期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
