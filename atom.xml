@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-11-23T15:45:09.219Z</updated>
+  <updated>2019-11-24T15:45:10.267Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191124期</title>
+    <link href="https://daily.tmr.js.org/d/20191124/"/>
+    <id>https://daily.tmr.js.org/d/20191124/</id>
+    <published>2019-11-24T15:45:03.000Z</published>
+    <updated>2019-11-24T15:45:10.267Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191124期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="超智能体"><a href="#超智能体" class="headerlink" title="超智能体"></a>超智能体</h3><p>作者是一位机器学习博士，目前主要内容有《学习观》，从人工智能的角度看待学习，涉及数学，信息，生物等多学科，值得思考。后续还有机器学习的教程<br>已加入推荐列表</p><p><a href="https://tmr.js.org/links/#超智能体" target="_blank" rel="noopener">原文链接</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="网易裁员，让保安把身患绝症的我赶出公司。我在网易亲身经历的噩梦！"><a href="#网易裁员，让保安把身患绝症的我赶出公司。我在网易亲身经历的噩梦！" class="headerlink" title="网易裁员，让保安把身患绝症的我赶出公司。我在网易亲身经历的噩梦！"></a>网易裁员，让保安把身患绝症的我赶出公司。我在网易亲身经历的噩梦！</h3><p>网易老员工被裁经过，将仲裁维权</p><p><a href="https://mp.weixin.qq.com/s/FW7uR5t6UMMxgkCcAvk-MA" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191124期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191123期</title>
@@ -148,33 +171,6 @@
     
       &lt;p&gt;透明日报第20191118期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191117期</title>
-    <link href="https://daily.tmr.js.org/d/20191117/"/>
-    <id>https://daily.tmr.js.org/d/20191117/</id>
-    <published>2019-11-17T15:45:03.000Z</published>
-    <updated>2019-11-17T15:45:10.343Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191117期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;透明日报第20191117期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日无更新&lt;/p&gt;
-
-      
     
     </summary>
     
