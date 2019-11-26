@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-11-25T15:45:09.477Z</updated>
+  <updated>2019-11-26T15:45:10.059Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191126期</title>
+    <link href="https://daily.tmr.js.org/d/20191126/"/>
+    <id>https://daily.tmr.js.org/d/20191126/</id>
+    <published>2019-11-26T15:45:03.000Z</published>
+    <updated>2019-11-26T15:45:10.059Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191126期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#文娱">文娱</a>*1，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="我怎么就被一张照片出卖了"><a href="#我怎么就被一张照片出卖了" class="headerlink" title="我怎么就被一张照片出卖了"></a>我怎么就被一张照片出卖了</h3><p>照片信息泄漏，不只是exif</p><p><a href="http://www.ityouknow.com/it/2019/11/09/photoresolution.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="《死亡搁浅》采用的异步联机玩法，几个世纪前就在造福玩家"><a href="#《死亡搁浅》采用的异步联机玩法，几个世纪前就在造福玩家" class="headerlink" title="《死亡搁浅》采用的异步联机玩法，几个世纪前就在造福玩家"></a>《死亡搁浅》采用的异步联机玩法，几个世纪前就在造福玩家</h3><p>异步联机</p><p><a href="https://www.yystv.cn/p/5922" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191126051721/https://www.yystv.cn/p/5922" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="网易暴力裁员事件中的种种细节，是否涉嫌违法？"><a href="#网易暴力裁员事件中的种种细节，是否涉嫌违法？" class="headerlink" title="网易暴力裁员事件中的种种细节，是否涉嫌违法？"></a>网易暴力裁员事件中的种种细节，是否涉嫌违法？</h3><p>接<a href="https://daily.tmr.js.org/d/20191124/">前文</a>，<a href="https://xw.qq.com/cmsid/20191125A0KW4Q00" target="_blank" rel="noopener">网易已官方道歉</a>，后续又出<a href="https://finance.sina.com.cn/stock/relnews/us/2019-11-25/doc-iihnzhfz1604938.shtml" target="_blank" rel="noopener">网易内部说明</a>，事情变得越来越复杂，有说网易道歉不诚恳的，有怀疑原作者炒作的，不吃瓜了，反正要上法庭的，等看结果吧<br>不过不知道舆论导向对法庭审判的影响怎么样</p><p><a href="https://news-at.zhihu.com/story/9717706" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191126151201/https://news-at.zhihu.com/story/9717706" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191126期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191125期</title>
@@ -151,29 +174,6 @@
     <summary type="html">
     
       &lt;p&gt;透明日报第20191120期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191119期</title>
-    <link href="https://daily.tmr.js.org/d/20191119/"/>
-    <id>https://daily.tmr.js.org/d/20191119/</id>
-    <published>2019-11-19T15:45:03.000Z</published>
-    <updated>2019-11-19T15:45:09.970Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191119期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="代码分析引擎-CodeQL-初体验"><a href="#代码分析引擎-CodeQL-初体验" class="headerlink" title="代码分析引擎 CodeQL 初体验"></a>代码分析引擎 CodeQL 初体验</h3><p>CodeQL是前几天GitHub推出的</p><p><a href="https://paper.seebug.org/1078/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191119050044/https://paper.seebug.org/1078/" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191119期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
