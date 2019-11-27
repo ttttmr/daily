@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-11-26T15:45:10.059Z</updated>
+  <updated>2019-11-27T15:45:09.884Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191127期</title>
+    <link href="https://daily.tmr.js.org/d/20191127/"/>
+    <id>https://daily.tmr.js.org/d/20191127/</id>
+    <published>2019-11-27T15:45:02.000Z</published>
+    <updated>2019-11-27T15:45:09.884Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191127期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;透明日报第20191127期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日无更新&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191126期</title>
@@ -152,29 +179,6 @@
     
       &lt;p&gt;透明日报第20191121期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191120期</title>
-    <link href="https://daily.tmr.js.org/d/20191120/"/>
-    <id>https://daily.tmr.js.org/d/20191120/</id>
-    <published>2019-11-20T15:45:03.000Z</published>
-    <updated>2019-11-20T15:45:09.811Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191120期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="网络空间测绘的生与死（一）"><a href="#网络空间测绘的生与死（一）" class="headerlink" title="网络空间测绘的生与死（一）"></a>网络空间测绘的生与死（一）</h3><p>fofa</p><p><a href="https://mp.weixin.qq.com/s/TWGUSmSaXc56KW9CzfPOCQ" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191120044955/https://mp.weixin.qq.com/s/TWGUSmSaXc56KW9CzfPOCQ" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191120期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
