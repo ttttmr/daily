@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-11-27T15:45:09.884Z</updated>
+  <updated>2019-11-28T15:45:09.625Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191128期</title>
+    <link href="https://daily.tmr.js.org/d/20191128/"/>
+    <id>https://daily.tmr.js.org/d/20191128/</id>
+    <published>2019-11-28T15:45:02.000Z</published>
+    <updated>2019-11-28T15:45:09.625Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191128期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="细节影响成败之URL中“可有可无”的80端口"><a href="#细节影响成败之URL中“可有可无”的80端口" class="headerlink" title="细节影响成败之URL中“可有可无”的80端口"></a>细节影响成败之URL中“可有可无”的80端口</h3><p>那么有80端口的基本上可以判断非浏览器用户访问了？</p><p><a href="https://www.secpulse.com/archives/119027.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191127162902/https://www.secpulse.com/archives/119027.html" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191128期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191127期</title>
@@ -156,29 +179,6 @@
 &lt;p&gt;今日无更新&lt;/p&gt;
 
       
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191121期</title>
-    <link href="https://daily.tmr.js.org/d/20191121/"/>
-    <id>https://daily.tmr.js.org/d/20191121/</id>
-    <published>2019-11-21T15:45:03.000Z</published>
-    <updated>2019-11-21T15:45:10.283Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191121期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*4，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="再谈-ZoomEye：打造世界领先网络空间测绘能力"><a href="#再谈-ZoomEye：打造世界领先网络空间测绘能力" class="headerlink" title="再谈 ZoomEye：打造世界领先网络空间测绘能力"></a>再谈 ZoomEye：打造世界领先网络空间测绘能力</h3><p>可以和<a href="https://daily.tmr.js.org/d/20191120/">昨天</a>的文章一起看hh</p><p><a href="https://mp.weixin.qq.com/s?__biz=MzA3NTEzMTUwNA==&mid=2651081567&idx=1&sn=a1c252116b68189791f82d366be9f4f8&chksm=8485d440b3f25d56a7c441dbcc1150acd6b60ad6a3f8f6e8ac3ea0fc340b25bffbc90e281bb8#rd" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191120160813/https://mp.weixin.qq.com/s?__biz=MzA3NTEzMTUwNA==&mid=2651081567&idx=1&sn=a1c252116b68189791f82d366be9f4f8&chksm=8485d440b3f25d56a7c441dbcc1150acd6b60ad6a3f8f6e8ac3ea0fc340b25bffbc90e281bb8" target="_blank" rel="noopener">Archive</a></p><h3 id="Thanksgiving-Treat-Easy-as-Pie-Windows-7-Secure-Desktop-Escalation-of-Privilege"><a href="#Thanksgiving-Treat-Easy-as-Pie-Windows-7-Secure-Desktop-Escalation-of-Privilege" class="headerlink" title="Thanksgiving Treat: Easy-as-Pie Windows 7 Secure Desktop Escalation of Privilege"></a>Thanksgiving Treat: Easy-as-Pie Windows 7 Secure Desktop Escalation of Privilege</h3><p>实际利用感觉还是很鸡肋，但可以打穿终端机</p><p><a href="https://www.thezdi.com/blog/2019/11/19/thanksgiving-treat-easy-as-pie-windows-7-secure-desktop-escalation-of-privilege" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191121080529/https://www.thezdi.com/blog/2019/11/19/thanksgiving-treat-easy-as-pie-windows-7-secure-desktop-escalation-of-privilege" target="_blank" rel="noopener">Archive</a></p><h3 id="JadaGates-ShadowsocksBio"><a href="#JadaGates-ShadowsocksBio" class="headerlink" title="JadaGates / ShadowsocksBio"></a>JadaGates / ShadowsocksBio</h3><p>记录一下SS的前世今生，以及一个简单的教程总结</p><p><a href="https://github.com/JadaGates/ShadowsocksBio" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191121123419/https://github.com/JadaGates/ShadowsocksBio" target="_blank" rel="noopener">Archive</a></p><h3 id="Getting-Malicious-Office-Documents-to-Fire-with-Protected-View-Enabled"><a href="#Getting-Malicious-Office-Documents-to-Fire-with-Protected-View-Enabled" class="headerlink" title="Getting Malicious Office Documents to Fire with Protected View Enabled"></a>Getting Malicious Office Documents to Fire with Protected View Enabled</h3><p>如题，在预览窗格中会加载远程资源</p><p><a href="https://medium.com/@curtbraz/getting-malicious-office-documents-to-fire-with-protected-view-4de18668c386" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191121123632/https://medium.com/@curtbraz/getting-malicious-office-documents-to-fire-with-protected-view-4de18668c386" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="房贷空手道"><a href="#房贷空手道" class="headerlink" title="房贷空手道"></a>房贷空手道</h3><blockquote><p>偶然看到大约十年前收藏的一篇文章，今天读来也不过时，分享给大家</p></blockquote><p>金融“漏洞”空手买房</p><p><a href="https://github.com/Don-Jimmy/kongshoudao-fangdai" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191121123328/https://github.com/Don-Jimmy/kongshoudao-fangdai" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191121期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
