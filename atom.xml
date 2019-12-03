@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-12-02T15:45:09.717Z</updated>
+  <updated>2019-12-03T15:45:09.046Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191203期</title>
+    <link href="https://daily.tmr.js.org/d/20191203/"/>
+    <id>https://daily.tmr.js.org/d/20191203/</id>
+    <published>2019-12-03T15:45:02.000Z</published>
+    <updated>2019-12-03T15:45:09.046Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191203期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*6，<a href="#生活">生活</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Windows内网协议学习NTLM篇之Net-NTLM利用"><a href="#Windows内网协议学习NTLM篇之Net-NTLM利用" class="headerlink" title="Windows内网协议学习NTLM篇之Net-NTLM利用"></a>Windows内网协议学习NTLM篇之Net-NTLM利用</h3><p><a href="https://www.anquanke.com/post/id/194069" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191202164737/https://www.anquanke.com/post/id/194069" target="_blank" rel="noopener">Archive</a></p><h3 id="自己动手制作一个恶意流量检测系统（附源码）"><a href="#自己动手制作一个恶意流量检测系统（附源码）" class="headerlink" title="自己动手制作一个恶意流量检测系统（附源码）"></a>自己动手制作一个恶意流量检测系统（附源码）</h3><p>还是很硬核的</p><p><a href="https://www.freebuf.com/articles/system/220565.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191202165716/https://www.freebuf.com/articles/system/220565.html" target="_blank" rel="noopener">Archive</a></p><h3 id="个人经验泛谈之工控安全入门"><a href="#个人经验泛谈之工控安全入门" class="headerlink" title="个人经验泛谈之工控安全入门"></a>个人经验泛谈之工控安全入门</h3><p>东西太多了😂</p><p><a href="https://www.cnpanda.net/sec/592.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191202170526/https://www.cnpanda.net/sec/592.html" target="_blank" rel="noopener">Archive</a></p><h3 id="Microsoft-Visual-Studio-2008-Express-IDE-XML-External-Entity-Injection-0Day"><a href="#Microsoft-Visual-Studio-2008-Express-IDE-XML-External-Entity-Injection-0Day" class="headerlink" title="Microsoft Visual Studio 2008 Express IDE XML External Entity Injection 0Day"></a>Microsoft Visual Studio 2008 Express IDE XML External Entity Injection 0Day</h3><p>vs2008 xxe 0day 可还行</p><p><a href="http://hyp3rlinx.altervista.org/advisories/MICROSOFT-VISUAL-STUDIO-EXPRESS-2008-IDE-XML-EXTERNAL-ENTITY-0Day.txt" target="_blank" rel="noopener">原文链接</a></p><h3 id="burp-pro-2-1-06"><a href="#burp-pro-2-1-06" class="headerlink" title="burp pro 2.1.06"></a>burp pro 2.1.06</h3><p>原包链接挂了，可以在<a href="https://mega.nz/#!vepwiAjC!khcN9_M_eiMagC_tbPs4PtJrJk1YXEfMDNxQupR5thc" target="_blank" rel="noopener">MEGA</a>下载</p><p><a href="https://mp.weixin.qq.com/s/jN_zVK8Zu0lvs8Rb3INfUA" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191203055701/https://mp.weixin.qq.com/s/jN_zVK8Zu0lvs8Rb3INfUA" target="_blank" rel="noopener">Archive</a></p><h3 id="cyfdecyf-cow"><a href="#cyfdecyf-cow" class="headerlink" title="cyfdecyf/cow"></a>cyfdecyf/cow</h3><p>COW 是一个简化穿墙的 HTTP 代理服务器。它能自动检测被墙网站，仅对这些网站使用二级代理</p><p><a href="https://github.com/cyfdecyf/cow" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191203070229/https://github.com/cyfdecyf/cow" target="_blank" rel="noopener">Archive</a></p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="故事-艾滋暴露-24-小时后-，我完成了自救"><a href="#故事-艾滋暴露-24-小时后-，我完成了自救" class="headerlink" title="故事 | 艾滋暴露 24 小时后 ，我完成了自救"></a>故事 | 艾滋暴露 24 小时后 ，我完成了自救</h3><p>艾滋病是有阻断药的，了解一下</p><p><a href="https://zhuanlan.zhihu.com/p/94680198" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191202172013/https://zhuanlan.zhihu.com/p/94680198" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191203期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*6，&lt;a href=&quot;#生活&quot;&gt;生活&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="12" scheme="https://daily.tmr.js.org/categories/2019/12/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191202期</title>
@@ -152,29 +175,6 @@
 &lt;p&gt;今日无更新&lt;/p&gt;
 
       
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191126期</title>
-    <link href="https://daily.tmr.js.org/d/20191126/"/>
-    <id>https://daily.tmr.js.org/d/20191126/</id>
-    <published>2019-11-26T15:45:03.000Z</published>
-    <updated>2019-11-26T15:45:10.059Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191126期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#文娱">文娱</a>*1，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="我怎么就被一张照片出卖了"><a href="#我怎么就被一张照片出卖了" class="headerlink" title="我怎么就被一张照片出卖了"></a>我怎么就被一张照片出卖了</h3><p>照片信息泄漏，不只是exif</p><p><a href="http://www.ityouknow.com/it/2019/11/09/photoresolution.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="《死亡搁浅》采用的异步联机玩法，几个世纪前就在造福玩家"><a href="#《死亡搁浅》采用的异步联机玩法，几个世纪前就在造福玩家" class="headerlink" title="《死亡搁浅》采用的异步联机玩法，几个世纪前就在造福玩家"></a>《死亡搁浅》采用的异步联机玩法，几个世纪前就在造福玩家</h3><p>异步联机</p><p><a href="https://www.yystv.cn/p/5922" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191126051721/https://www.yystv.cn/p/5922" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="网易暴力裁员事件中的种种细节，是否涉嫌违法？"><a href="#网易暴力裁员事件中的种种细节，是否涉嫌违法？" class="headerlink" title="网易暴力裁员事件中的种种细节，是否涉嫌违法？"></a>网易暴力裁员事件中的种种细节，是否涉嫌违法？</h3><p>接<a href="https://daily.tmr.js.org/d/20191124/">前文</a>，<a href="https://xw.qq.com/cmsid/20191125A0KW4Q00" target="_blank" rel="noopener">网易已官方道歉</a>，后续又出<a href="https://finance.sina.com.cn/stock/relnews/us/2019-11-25/doc-iihnzhfz1604938.shtml" target="_blank" rel="noopener">网易内部说明</a>，事情变得越来越复杂，有说网易道歉不诚恳的，有怀疑原作者炒作的，不吃瓜了，反正要上法庭的，等看结果吧<br>不过不知道舆论导向对法庭审判的影响怎么样</p><p><a href="https://news-at.zhihu.com/story/9717706" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191126151201/https://news-at.zhihu.com/story/9717706" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191126期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
