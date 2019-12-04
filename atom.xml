@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-12-03T15:45:09.046Z</updated>
+  <updated>2019-12-04T15:45:09.840Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191204期</title>
+    <link href="https://daily.tmr.js.org/d/20191204/"/>
+    <id>https://daily.tmr.js.org/d/20191204/</id>
+    <published>2019-12-04T15:45:03.000Z</published>
+    <updated>2019-12-04T15:45:09.840Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191204期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*2，<a href="#设计">设计</a>*1</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="easychen-howto-make-more-money"><a href="#easychen-howto-make-more-money" class="headerlink" title="easychen/howto-make-more-money"></a>easychen/howto-make-more-money</h3><p>写程序员如何优雅的挣零花钱，做安全的同学当然是挖洞啦hhh</p><p><a href="https://github.com/easychen/howto-make-more-money" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191203160705/https://github.com/easychen/howto-make-more-money" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="一文解密所有WebLogic密文"><a href="#一文解密所有WebLogic密文" class="headerlink" title="一文解密所有WebLogic密文"></a>一文解密所有WebLogic密文</h3><p>可以直接看<a href="https://github.com/TideSec/Decrypt_Weblogic_Password" target="_blank" rel="noopener">仓库</a></p><p><a href="https://www.freebuf.com/articles/web/220147.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191203160613/https://www.freebuf.com/articles/web/220147.html" target="_blank" rel="noopener">Archive</a></p><h3 id="不传之密：杀毒软件开发，原理、设计、编程实战"><a href="#不传之密：杀毒软件开发，原理、设计、编程实战" class="headerlink" title="不传之密：杀毒软件开发，原理、设计、编程实战"></a>不传之密：杀毒软件开发，原理、设计、编程实战</h3><p><a href="https://www.freebuf.com/articles/system/220061.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191204024000/https://www.freebuf.com/articles/system/220061.html" target="_blank" rel="noopener">Archive</a></p><h2 id="设计"><a href="#设计" class="headerlink" title="设计"></a>设计</h2><h3 id="3D动画片设计揭秘"><a href="#3D动画片设计揭秘" class="headerlink" title="3D动画片设计揭秘"></a>3D动画片设计揭秘</h3><p>除了设计，还有讲制作过程等</p><p><a href="https://isux.tencent.com/articles/spaceqq-video.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191204024730/https://isux.tencent.com/articles/spaceqq-video.html" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191204期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#设计&quot;&gt;设计&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="12" scheme="https://daily.tmr.js.org/categories/2019/12/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191203期</title>
@@ -148,33 +171,6 @@
     
       &lt;p&gt;透明日报第20191128期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191127期</title>
-    <link href="https://daily.tmr.js.org/d/20191127/"/>
-    <id>https://daily.tmr.js.org/d/20191127/</id>
-    <published>2019-11-27T15:45:02.000Z</published>
-    <updated>2019-11-27T15:45:09.884Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191127期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;透明日报第20191127期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日无更新&lt;/p&gt;
-
-      
     
     </summary>
     
