@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-12-04T15:45:09.840Z</updated>
+  <updated>2019-12-05T15:45:09.577Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191205期</title>
+    <link href="https://daily.tmr.js.org/d/20191205/"/>
+    <id>https://daily.tmr.js.org/d/20191205/</id>
+    <published>2019-12-05T15:45:02.000Z</published>
+    <updated>2019-12-05T15:45:09.577Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191205期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Project-Template-functionality-can-be-used-to-…"><a href="#Project-Template-functionality-can-be-used-to-…" class="headerlink" title="Project Template functionality can be used to …"></a>Project Template functionality can be used to …</h3><p>Gitlab漏洞，可复制私有仓库</p><p><a href="https://hackerone.com/reports/689314" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191205135121/https://hackerone.com/reports/689314" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191205期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="12" scheme="https://daily.tmr.js.org/categories/2019/12/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191204期</title>
@@ -148,29 +171,6 @@
     
       &lt;p&gt;透明日报第20191129期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*3，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="11" scheme="https://daily.tmr.js.org/categories/2019/11/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191128期</title>
-    <link href="https://daily.tmr.js.org/d/20191128/"/>
-    <id>https://daily.tmr.js.org/d/20191128/</id>
-    <published>2019-11-28T15:45:02.000Z</published>
-    <updated>2019-11-28T15:45:09.625Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191128期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="细节影响成败之URL中“可有可无”的80端口"><a href="#细节影响成败之URL中“可有可无”的80端口" class="headerlink" title="细节影响成败之URL中“可有可无”的80端口"></a>细节影响成败之URL中“可有可无”的80端口</h3><p>那么有80端口的基本上可以判断非浏览器用户访问了？</p><p><a href="https://www.secpulse.com/archives/119027.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191127162902/https://www.secpulse.com/archives/119027.html" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191128期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
