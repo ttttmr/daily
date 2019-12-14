@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-12-13T15:45:10.144Z</updated>
+  <updated>2019-12-14T15:45:09.690Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191214期</title>
+    <link href="https://daily.tmr.js.org/d/20191214/"/>
+    <id>https://daily.tmr.js.org/d/20191214/</id>
+    <published>2019-12-14T15:45:02.000Z</published>
+    <updated>2019-12-14T15:45:09.690Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191214期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*4，<a href="#文娱">文娱</a>*1，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="从研究者视角看漏洞研究之2010年代"><a href="#从研究者视角看漏洞研究之2010年代" class="headerlink" title="从研究者视角看漏洞研究之2010年代"></a>从研究者视角看漏洞研究之2010年代</h3><p><a href="https://paper.seebug.org/1098/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191213165232/https://paper.seebug.org/1098/" target="_blank" rel="noopener">Archive</a></p><h3 id="Introducing-Nebula-the-open-source-global-overlay-network-from-Slack"><a href="#Introducing-Nebula-the-open-source-global-overlay-network-from-Slack" class="headerlink" title="Introducing Nebula, the open source global overlay network from Slack"></a>Introducing Nebula, the open source global overlay network from Slack</h3><p>新的组网方案，有意思</p><p><a href="https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack-884110a5579" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191213171359/https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack-884110a5579?gi=f553f0071ca0" target="_blank" rel="noopener">Archive</a></p><h3 id="我之前2009年左右把安全划分了几个时代…-来自yuange1975-微博"><a href="#我之前2009年左右把安全划分了几个时代…-来自yuange1975-微博" class="headerlink" title="我之前2009年左右把安全划分了几个时代… 来自yuange1975 - 微博"></a>我之前2009年左右把安全划分了几个时代… 来自yuange1975 - 微博</h3><p>可以接上篇看</p><p><a href="https://weibo.com/2246379231/IkeoXj7Jk" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191213180355/https://www.weibo.com/2246379231/IkeoXj7Jk" target="_blank" rel="noopener">Archive</a></p><h3 id="机械硬盘避坑大法：一文搞懂PMR和SMR有什么区别"><a href="#机械硬盘避坑大法：一文搞懂PMR和SMR有什么区别" class="headerlink" title="机械硬盘避坑大法：一文搞懂PMR和SMR有什么区别"></a>机械硬盘避坑大法：一文搞懂PMR和SMR有什么区别</h3><p>需要频繁读写选PMR，用来存数据选SMR<br>不过，如果选PMR为什么不选固态呢</p><p><a href="https://www.ithome.com/0/436/608.htm" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191213181413/https://www.ithome.com/0/436/608.htm" target="_blank" rel="noopener">Archive</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="死亡搁浅原型考：在现实里背着两米高货物上山的人"><a href="#死亡搁浅原型考：在现实里背着两米高货物上山的人" class="headerlink" title="死亡搁浅原型考：在现实里背着两米高货物上山的人"></a>死亡搁浅原型考：在现实里背着两米高货物上山的人</h3><p><a href="https://www.yystv.cn/p/5999" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191213180410/https://www.yystv.cn/p/5999" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="“不寒而栗”的爱情：北大自杀女生的聊天记录"><a href="#“不寒而栗”的爱情：北大自杀女生的聊天记录" class="headerlink" title="“不寒而栗”的爱情：北大自杀女生的聊天记录"></a>“不寒而栗”的爱情：北大自杀女生的聊天记录</h3><p>原文删了，这是archive上的快照</p><p><a href="https://web.archive.org/web/20191212084954/https://mp.weixin.qq.com/s/U_gIJzA4-oGPkH094lkbNg" target="_blank" rel="noopener">原文链接</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191214期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="12" scheme="https://daily.tmr.js.org/categories/2019/12/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191213期</title>
@@ -160,29 +183,6 @@
     
       &lt;p&gt;透明日报第20191208期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="12" scheme="https://daily.tmr.js.org/categories/2019/12/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191207期</title>
-    <link href="https://daily.tmr.js.org/d/20191207/"/>
-    <id>https://daily.tmr.js.org/d/20191207/</id>
-    <published>2019-12-07T15:45:02.000Z</published>
-    <updated>2019-12-07T15:45:09.376Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191207期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#文娱">文娱</a>*1，<a href="#经济">经济</a>*1</p><a id="more"></a><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="关于国行NS，聊聊大家关心的几个问题"><a href="#关于国行NS，聊聊大家关心的几个问题" class="headerlink" title="关于国行NS，聊聊大家关心的几个问题"></a>关于国行NS，聊聊大家关心的几个问题</h3><p>任天堂是真的nb</p><p><a href="https://www.yystv.cn/p/5970" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191206162627/https://www.yystv.cn/p/5970" target="_blank" rel="noopener">Archive</a></p><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="【资本与明星03】杨幂的资本博弈之路"><a href="#【资本与明星03】杨幂的资本博弈之路" class="headerlink" title="【资本与明星03】杨幂的资本博弈之路"></a>【资本与明星03】杨幂的资本博弈之路</h3><p><a href="https://m.youtube.com/watch?v=U2T4LLTwoZ8" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191206162519/https://www.youtube.com/watch?v=U2T4LLTwoZ8&app=desktop" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191207期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#经济&quot;&gt;经济&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
