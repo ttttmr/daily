@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-12-16T15:45:10.399Z</updated>
+  <updated>2019-12-17T15:45:09.568Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191217期</title>
+    <link href="https://daily.tmr.js.org/d/20191217/"/>
+    <id>https://daily.tmr.js.org/d/20191217/</id>
+    <published>2019-12-17T15:45:03.000Z</published>
+    <updated>2019-12-17T15:45:09.568Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191217期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*4</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="秘塔写作猫-–-给小众软件的隐私协议找了找茬"><a href="#秘塔写作猫-–-给小众软件的隐私协议找了找茬" class="headerlink" title="秘塔写作猫 – 给小众软件的隐私协议找了找茬"></a>秘塔写作猫 – 给小众软件的隐私协议找了找茬</h3><p>看起来很厉害</p><p><a href="https://www.appinn.com/xiezuocat-online/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191217045206/https://www.appinn.com/xiezuocat-online/" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="日志分析系列-外传一-：Nginx透过代理获取真实客户端IP"><a href="#日志分析系列-外传一-：Nginx透过代理获取真实客户端IP" class="headerlink" title="日志分析系列(外传一)：Nginx透过代理获取真实客户端IP"></a>日志分析系列(外传一)：Nginx透过代理获取真实客户端IP</h3><p>本质上还是Nginx代理把真实IP传给后端Server，剩下就是从哪里传和如何解析的问题</p><p><a href="https://mp.weixin.qq.com/s/Z0d8G7S5swBcH-jLXvhKeg" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191217031116/https://mp.weixin.qq.com/s/Z0d8G7S5swBcH-jLXvhKeg" target="_blank" rel="noopener">Archive</a></p><h3 id="FPS全屏秒杀以及全屏飞刀漏洞的逆向分析"><a href="#FPS全屏秒杀以及全屏飞刀漏洞的逆向分析" class="headerlink" title="FPS全屏秒杀以及全屏飞刀漏洞的逆向分析"></a>FPS全屏秒杀以及全屏飞刀漏洞的逆向分析</h3><p>外挂开发学习</p><p><a href="https://mp.weixin.qq.com/s/Ktf74SAWVytPqIbukTvW2A" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191217031258/https://mp.weixin.qq.com/s/Ktf74SAWVytPqIbukTvW2A" target="_blank" rel="noopener">Archive</a></p><h3 id="随便聊聊零信任（内有福利-微软零信任模型）"><a href="#随便聊聊零信任（内有福利-微软零信任模型）" class="headerlink" title="随便聊聊零信任（内有福利 - 微软零信任模型）"></a>随便聊聊零信任（内有福利 - 微软零信任模型）</h3><p><a href="https://mp.weixin.qq.com/s/kLLKuthNLm6PIvKacMOxXA" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191217045330/https://mp.weixin.qq.com/s/kLLKuthNLm6PIvKacMOxXA" target="_blank" rel="noopener">Archive</a></p><h3 id="暗度陈仓：基于国内某云的-Domain-Fronting-技术实践"><a href="#暗度陈仓：基于国内某云的-Domain-Fronting-技术实践" class="headerlink" title="暗度陈仓：基于国内某云的 Domain Fronting 技术实践"></a>暗度陈仓：基于国内某云的 Domain Fronting 技术实践</h3><p>虽然是最近的文章，但是我这么感觉好像看过</p><p><a href="https://www.anquanke.com/post/id/195011" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191217060457/https://www.anquanke.com/post/id/195011" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191217期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="12" scheme="https://daily.tmr.js.org/categories/2019/12/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191216期</title>
@@ -160,29 +183,6 @@
 &lt;p&gt;今日无更新&lt;/p&gt;
 
       
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="12" scheme="https://daily.tmr.js.org/categories/2019/12/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191210期</title>
-    <link href="https://daily.tmr.js.org/d/20191210/"/>
-    <id>https://daily.tmr.js.org/d/20191210/</id>
-    <published>2019-12-10T15:45:02.000Z</published>
-    <updated>2019-12-10T15:45:09.964Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191210期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*2，<a href="#文娱">文娱</a>*1，<a href="#生活">生活</a>*1，<a href="#社会">社会</a>*5</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="最近逛老外一些灵异帖子时经常逛到图一里的…-来自fall-ark-微博"><a href="#最近逛老外一些灵异帖子时经常逛到图一里的…-来自fall-ark-微博" class="headerlink" title="最近逛老外一些灵异帖子时经常逛到图一里的… 来自fall_ark - 微博"></a>最近逛老外一些灵异帖子时经常逛到图一里的… 来自fall_ark - 微博</h3><p>模糊猫猫图hhh</p><p><a href="https://weibo.com/1678843974/IjXdmASRq" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191210053136/https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F1678843974%2FIjXdmASRq&domain=.weibo.com&ua=php-sso_sdk_client-0.6.28&_rand=1575955895.8527" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="RedTeam-视角下的二进制攻防研究"><a href="#RedTeam-视角下的二进制攻防研究" class="headerlink" title="RedTeam 视角下的二进制攻防研究"></a>RedTeam 视角下的二进制攻防研究</h3><p><a href="https://mp.weixin.qq.com/s?__biz=MzU2NDkxMzc4Ng==&mid=2247484335&idx=1&sn=302f7f334a54dc76f73870fc9f8fe850&chksm=fc42f0bacb3579acc9cc3dfd9a5f2ecafc379ac809504269bb8f84e2b60a4f05308bbb39e322#rd" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191210045631/https://mp.weixin.qq.com/s?__biz=MzU2NDkxMzc4Ng==&mid=2247484335&idx=1&sn=302f7f334a54dc76f73870fc9f8fe850&chksm=fc42f0bacb3579acc9cc3dfd9a5f2ecafc379ac809504269bb8f84e2b60a4f05308bbb39e322" target="_blank" rel="noopener">Archive</a></p><h3 id="Windows内网协议学习NTLM篇之漏洞概述"><a href="#Windows内网协议学习NTLM篇之漏洞概述" class="headerlink" title="Windows内网协议学习NTLM篇之漏洞概述"></a>Windows内网协议学习NTLM篇之漏洞概述</h3><p><a href="https://www.anquanke.com/post/id/194514" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191210051616/https://www.anquanke.com/post/id/194514" target="_blank" rel="noopener">Archive</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="Switch-国行上手体验：购买前值得你关注的-5-件事"><a href="#Switch-国行上手体验：购买前值得你关注的-5-件事" class="headerlink" title="Switch 国行上手体验：购买前值得你关注的 5 件事"></a>Switch 国行上手体验：购买前值得你关注的 5 件事</h3><p>这个总结的比较好，反正我感觉目前还是海外的好，国行还再等等</p><p><a href="https://sspai.com/post/57757" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191210122229/https://sspai.com/post/57757" target="_blank" rel="noopener">Archive</a></p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="有哪些冷门但有用的法律常识？"><a href="#有哪些冷门但有用的法律常识？" class="headerlink" title="有哪些冷门但有用的法律常识？"></a>有哪些冷门但有用的法律常识？</h3><p><a href="https://news-at.zhihu.com/story/9717986" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191210122817/https://news-at.zhihu.com/story/9717986" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="关于飞面神教的一些资料"><a href="#关于飞面神教的一些资料" class="headerlink" title="关于飞面神教的一些资料"></a>关于飞面神教的一些资料</h3><p>来自tk教主</p><p><a href="https://card.weibo.com/article/h5/s#cid=1001603922592477100821" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191210045832/https://card.weibo.com/article/h5/s" target="_blank" rel="noopener">Archive</a></p><h3 id="放在一起供大家参考-…-来自tombkeeper-微博"><a href="#放在一起供大家参考-…-来自tombkeeper-微博" class="headerlink" title="放在一起供大家参考 … 来自tombkeeper - 微博"></a>放在一起供大家参考 … 来自tombkeeper - 微博</h3><p>相信了伪权威信息怎么办，要用魔法打败魔法</p><p><a href="https://weibo.com/1401527553/IjW7byZl5" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191210050856/https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F1401527553%2FIjW7byZl5&domain=.weibo.com&ua=php-sso_sdk_client-0.6.28&_rand=1575954535.0831" target="_blank" rel="noopener">Archive</a></p><h3 id="我在华为做外包的真实经历！"><a href="#我在华为做外包的真实经历！" class="headerlink" title="我在华为做外包的真实经历！"></a>我在华为做外包的真实经历！</h3><p><a href="http://www.ityouknow.com/it/2019/12/08/waibao.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191210053746/http://www.ityouknow.com/it/2019/12/08/waibao.html" target="_blank" rel="noopener">Archive</a></p><h3 id="医生为什么写字乱"><a href="#医生为什么写字乱" class="headerlink" title="医生为什么写字乱?"></a>医生为什么写字乱?</h3><p><a href="https://news-at.zhihu.com/story/9717946" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191210124224/https://news-at.zhihu.com/story/9717946" target="_blank" rel="noopener">Archive</a></p><h3 id="高考导致了“高分低能”吗？"><a href="#高考导致了“高分低能”吗？" class="headerlink" title="高考导致了“高分低能”吗？"></a>高考导致了“高分低能”吗？</h3><blockquote><p>这期是《学习观》系列中第一个专门给高三学生做的视频。解释了为什么唯独高三学生不建议看目前的学习观。讨论了高考到底合不合理，高分低能是怎么产生的，素质教育该如何改革</p></blockquote><p>讲的很清楚，不是高三党当然也强烈推荐看</p><p><a href="https://www.bilibili.com/video/av78766364" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191210152545/https://www.bilibili.com/video/av78766364" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191210期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#生活&quot;&gt;生活&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*5&lt;/p&gt;
     
     </summary>
     
