@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-12-17T15:45:09.568Z</updated>
+  <updated>2019-12-18T15:45:10.302Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191218期</title>
+    <link href="https://daily.tmr.js.org/d/20191218/"/>
+    <id>https://daily.tmr.js.org/d/20191218/</id>
+    <published>2019-12-18T15:45:03.000Z</published>
+    <updated>2019-12-18T15:45:10.302Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191218期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="4-Google-Cloud-Shell-bugs-explained"><a href="#4-Google-Cloud-Shell-bugs-explained" class="headerlink" title="4 Google Cloud Shell bugs explained"></a>4 Google Cloud Shell bugs explained</h3><p>cloud shell docker逃逸可还行，还有后续主机上的一些程序的分析</p><p><a href="https://offensi.com/2019/12/16/4-google-cloud-shell-bugs-explained-introduction/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191218151126/https://offensi.com/2019/12/16/4-google-cloud-shell-bugs-explained-introduction/" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191218期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="12" scheme="https://daily.tmr.js.org/categories/2019/12/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191217期</title>
@@ -153,33 +176,6 @@
       
       
         &lt;p&gt;透明日报第20191212期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日无更新&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="12" scheme="https://daily.tmr.js.org/categories/2019/12/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191211期</title>
-    <link href="https://daily.tmr.js.org/d/20191211/"/>
-    <id>https://daily.tmr.js.org/d/20191211/</id>
-    <published>2019-12-11T15:45:03.000Z</published>
-    <updated>2019-12-11T15:45:10.489Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191211期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;透明日报第20191211期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日无更新&lt;/p&gt;
 
       
