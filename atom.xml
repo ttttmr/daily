@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-12-23T15:45:10.197Z</updated>
+  <updated>2019-12-24T15:45:09.590Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191224期</title>
+    <link href="https://daily.tmr.js.org/d/20191224/"/>
+    <id>https://daily.tmr.js.org/d/20191224/</id>
+    <published>2019-12-24T15:45:02.000Z</published>
+    <updated>2019-12-24T15:45:09.590Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191224期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;透明日报第20191224期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日无更新&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="12" scheme="https://daily.tmr.js.org/categories/2019/12/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191223期</title>
@@ -144,29 +171,6 @@
     
       &lt;p&gt;透明日报第20191218期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="12" scheme="https://daily.tmr.js.org/categories/2019/12/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191217期</title>
-    <link href="https://daily.tmr.js.org/d/20191217/"/>
-    <id>https://daily.tmr.js.org/d/20191217/</id>
-    <published>2019-12-17T15:45:03.000Z</published>
-    <updated>2019-12-17T15:45:09.568Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191217期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*4</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="秘塔写作猫-–-给小众软件的隐私协议找了找茬"><a href="#秘塔写作猫-–-给小众软件的隐私协议找了找茬" class="headerlink" title="秘塔写作猫 – 给小众软件的隐私协议找了找茬"></a>秘塔写作猫 – 给小众软件的隐私协议找了找茬</h3><p>看起来很厉害</p><p><a href="https://www.appinn.com/xiezuocat-online/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191217045206/https://www.appinn.com/xiezuocat-online/" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="日志分析系列-外传一-：Nginx透过代理获取真实客户端IP"><a href="#日志分析系列-外传一-：Nginx透过代理获取真实客户端IP" class="headerlink" title="日志分析系列(外传一)：Nginx透过代理获取真实客户端IP"></a>日志分析系列(外传一)：Nginx透过代理获取真实客户端IP</h3><p>本质上还是Nginx代理把真实IP传给后端Server，剩下就是从哪里传和如何解析的问题</p><p><a href="https://mp.weixin.qq.com/s/Z0d8G7S5swBcH-jLXvhKeg" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191217031116/https://mp.weixin.qq.com/s/Z0d8G7S5swBcH-jLXvhKeg" target="_blank" rel="noopener">Archive</a></p><h3 id="FPS全屏秒杀以及全屏飞刀漏洞的逆向分析"><a href="#FPS全屏秒杀以及全屏飞刀漏洞的逆向分析" class="headerlink" title="FPS全屏秒杀以及全屏飞刀漏洞的逆向分析"></a>FPS全屏秒杀以及全屏飞刀漏洞的逆向分析</h3><p>外挂开发学习</p><p><a href="https://mp.weixin.qq.com/s/Ktf74SAWVytPqIbukTvW2A" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191217031258/https://mp.weixin.qq.com/s/Ktf74SAWVytPqIbukTvW2A" target="_blank" rel="noopener">Archive</a></p><h3 id="随便聊聊零信任（内有福利-微软零信任模型）"><a href="#随便聊聊零信任（内有福利-微软零信任模型）" class="headerlink" title="随便聊聊零信任（内有福利 - 微软零信任模型）"></a>随便聊聊零信任（内有福利 - 微软零信任模型）</h3><p><a href="https://mp.weixin.qq.com/s/kLLKuthNLm6PIvKacMOxXA" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191217045330/https://mp.weixin.qq.com/s/kLLKuthNLm6PIvKacMOxXA" target="_blank" rel="noopener">Archive</a></p><h3 id="暗度陈仓：基于国内某云的-Domain-Fronting-技术实践"><a href="#暗度陈仓：基于国内某云的-Domain-Fronting-技术实践" class="headerlink" title="暗度陈仓：基于国内某云的 Domain Fronting 技术实践"></a>暗度陈仓：基于国内某云的 Domain Fronting 技术实践</h3><p>虽然是最近的文章，但是我这么感觉好像看过</p><p><a href="https://www.anquanke.com/post/id/195011" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191217060457/https://www.anquanke.com/post/id/195011" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191217期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4&lt;/p&gt;
     
     </summary>
     
