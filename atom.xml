@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-12-24T15:45:09.590Z</updated>
+  <updated>2019-12-25T15:45:10.312Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191225期</title>
+    <link href="https://daily.tmr.js.org/d/20191225/"/>
+    <id>https://daily.tmr.js.org/d/20191225/</id>
+    <published>2019-12-25T15:45:03.000Z</published>
+    <updated>2019-12-25T15:45:10.312Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191225期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="【走心分享】白帽成长建议"><a href="#【走心分享】白帽成长建议" class="headerlink" title="【走心分享】白帽成长建议"></a>【走心分享】白帽成长建议</h3><p>阿里SRC的分享，很不错</p><p><a href="https://mp.weixin.qq.com/s/ZXRI6KUtu6IwCYrjuy_3Tg" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191224165132/https://mp.weixin.qq.com/s/ZXRI6KUtu6IwCYrjuy_3Tg" target="_blank" rel="noopener">Archive</a></p><h3 id="黑产大数据-黑产攻击流程自动化体系"><a href="#黑产大数据-黑产攻击流程自动化体系" class="headerlink" title="黑产大数据|黑产攻击流程自动化体系"></a>黑产大数据|黑产攻击流程自动化体系</h3><p><a href="https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247485543&idx=1&sn=00ac83506b317f48c82c7bbb715a4d18&chksm=eb112e5cdc66a74a55cf332fc3120e688753c394382fb8d420cad5fa640853dce6f5bdc1fcd5#rd" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191225005934/https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247485543&idx=1&sn=00ac83506b317f48c82c7bbb715a4d18&chksm=eb112e5cdc66a74a55cf332fc3120e688753c394382fb8d420cad5fa640853dce6f5bdc1fcd5" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191225期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="12" scheme="https://daily.tmr.js.org/categories/2019/12/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191224期</title>
@@ -148,29 +171,6 @@
     
       &lt;p&gt;透明日报第20191219期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*2，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="12" scheme="https://daily.tmr.js.org/categories/2019/12/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191218期</title>
-    <link href="https://daily.tmr.js.org/d/20191218/"/>
-    <id>https://daily.tmr.js.org/d/20191218/</id>
-    <published>2019-12-18T15:45:03.000Z</published>
-    <updated>2019-12-18T15:45:10.302Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191218期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="4-Google-Cloud-Shell-bugs-explained"><a href="#4-Google-Cloud-Shell-bugs-explained" class="headerlink" title="4 Google Cloud Shell bugs explained"></a>4 Google Cloud Shell bugs explained</h3><p>cloud shell docker逃逸可还行，还有后续主机上的一些程序的分析</p><p><a href="https://offensi.com/2019/12/16/4-google-cloud-shell-bugs-explained-introduction/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191218151126/https://offensi.com/2019/12/16/4-google-cloud-shell-bugs-explained-introduction/" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191218期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
