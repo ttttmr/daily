@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-12-28T15:45:09.709Z</updated>
+  <updated>2019-12-29T15:45:09.170Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191229期</title>
+    <link href="https://daily.tmr.js.org/d/20191229/"/>
+    <id>https://daily.tmr.js.org/d/20191229/</id>
+    <published>2019-12-29T15:45:02.000Z</published>
+    <updated>2019-12-29T15:45:09.170Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191229期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*4</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="北京民航总医院发生暴力伤医事件"><a href="#北京民航总医院发生暴力伤医事件" class="headerlink" title="北京民航总医院发生暴力伤医事件"></a>北京民航总医院发生暴力伤医事件</h3><p>这是后续App中的事件追踪</p><p><a href="https://houxu.app/lives/29434" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191229142423/https://houxu.app/lives/29434" target="_blank" rel="noopener">Archive</a></p><h3 id="突发！今早，北京一女医生被患者家属刺杀，抢救无效去世"><a href="#突发！今早，北京一女医生被患者家属刺杀，抢救无效去世" class="headerlink" title="突发！今早，北京一女医生被患者家属刺杀，抢救无效去世"></a>突发！今早，北京一女医生被患者家属刺杀，抢救无效去世</h3><p>12月24日的文章，比较简短的可以看这篇</p><p><a href="https://zhuanlan.zhihu.com/p/99141158" target="_blank" rel="noopener">原文链接</a> <a href="https://archive.ph/Jt3q8" target="_blank" rel="noopener">Archive</a></p><h3 id="十问杨文医师之死"><a href="#十问杨文医师之死" class="headerlink" title="十问杨文医师之死"></a>十问杨文医师之死</h3><p><a href="https://zhuanlan.zhihu.com/p/100032730" target="_blank" rel="noopener">原文链接</a> <a href="https://archive.ph/kTn2t" target="_blank" rel="noopener">Archive</a></p><h3 id="这一次，恳请大家不再沉默"><a href="#这一次，恳请大家不再沉默" class="headerlink" title="这一次，恳请大家不再沉默"></a>这一次，恳请大家不再沉默</h3><p>值得一提的是这篇发在微信公众平台上的文章已经被禁止通过微信渠道分享了，但链接还是有效的</p><p><a href="https://mp.weixin.qq.com/s/TWz_aHnVUQgojwqLwqhI_g" target="_blank" rel="noopener">原文链接</a> <a href="https://archive.ph/aeXYN" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191229期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*4&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="12" scheme="https://daily.tmr.js.org/categories/2019/12/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191228期</title>
@@ -148,29 +171,6 @@
     
       &lt;p&gt;透明日报第20191223期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="12" scheme="https://daily.tmr.js.org/categories/2019/12/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191222期</title>
-    <link href="https://daily.tmr.js.org/d/20191222/"/>
-    <id>https://daily.tmr.js.org/d/20191222/</id>
-    <published>2019-12-22T15:45:03.000Z</published>
-    <updated>2019-12-22T15:45:10.230Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191222期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Linux下Hook方式汇总"><a href="#Linux下Hook方式汇总" class="headerlink" title="Linux下Hook方式汇总"></a>Linux下Hook方式汇总</h3><p><a href="https://xz.aliyun.com/t/6961" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191222033455/https://xz.aliyun.com/t/6961" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191222期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
