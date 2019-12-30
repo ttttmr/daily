@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2019-12-29T15:45:09.170Z</updated>
+  <updated>2019-12-30T15:45:08.890Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20191230期</title>
+    <link href="https://daily.tmr.js.org/d/20191230/"/>
+    <id>https://daily.tmr.js.org/d/20191230/</id>
+    <published>2019-12-30T15:45:02.000Z</published>
+    <updated>2019-12-30T15:45:08.890Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20191230期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*1，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="有哪些非常冷门的冷知识？"><a href="#有哪些非常冷门的冷知识？" class="headerlink" title="有哪些非常冷门的冷知识？"></a>有哪些非常冷门的冷知识？</h3><p>讲的骨髓移植后体内DNA变化</p><p><a href="https://news-at.zhihu.com/story/9718397" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191229170517/https://news-at.zhihu.com/story/9718397" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="electron应用漏洞挖掘"><a href="#electron应用漏洞挖掘" class="headerlink" title="electron应用漏洞挖掘"></a>electron应用漏洞挖掘</h3><p>也可以同理到Electron的应用破解</p><p><a href="https://xz.aliyun.com/t/6998" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191229183725/https://xz.aliyun.com/t/6998" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="信小呆的2019：成为中国锦鲤，我就有好运气了吗？"><a href="#信小呆的2019：成为中国锦鲤，我就有好运气了吗？" class="headerlink" title="信小呆的2019：成为中国锦鲤，我就有好运气了吗？"></a>信小呆的2019：成为中国锦鲤，我就有好运气了吗？</h3><p>我感觉还行，其实还比较好奇以后怎么办</p><p><a href="https://mp.weixin.qq.com/s/lPx5aQGM5un_etLBPdPLpg" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191229183616/https://mp.weixin.qq.com/s/lPx5aQGM5un_etLBPdPLpg" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20191230期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
+    
+      <category term="12" scheme="https://daily.tmr.js.org/categories/2019/12/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20191229期</title>
@@ -148,29 +171,6 @@
 &lt;p&gt;今日无更新&lt;/p&gt;
 
       
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="12" scheme="https://daily.tmr.js.org/categories/2019/12/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191223期</title>
-    <link href="https://daily.tmr.js.org/d/20191223/"/>
-    <id>https://daily.tmr.js.org/d/20191223/</id>
-    <published>2019-12-23T15:45:03.000Z</published>
-    <updated>2019-12-23T15:45:10.197Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191223期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="【官方双语】全息显示器上手"><a href="#【官方双语】全息显示器上手" class="headerlink" title="【官方双语】全息显示器上手"></a>【官方双语】全息显示器上手</h3><p>裸眼3D，8k显示，显示器还挺薄</p><p><a href="https://www.bilibili.com/video/av80240368" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191222175337/https://www.bilibili.com/video/av80240368" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191223期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
