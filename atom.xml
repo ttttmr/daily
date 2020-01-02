@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2020-01-01T15:45:08.093Z</updated>
+  <updated>2020-01-02T15:45:09.298Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20200102期</title>
+    <link href="https://daily.tmr.js.org/d/20200102/"/>
+    <id>https://daily.tmr.js.org/d/20200102/</id>
+    <published>2020-01-02T15:45:02.000Z</published>
+    <updated>2020-01-02T15:45:09.298Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20200102期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;透明日报第20200102期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日无更新&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
+    
+      <category term="01" scheme="https://daily.tmr.js.org/categories/2020/01/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20200101期</title>
@@ -148,29 +175,6 @@
     
       &lt;p&gt;透明日报第20191227期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="12" scheme="https://daily.tmr.js.org/categories/2019/12/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191226期</title>
-    <link href="https://daily.tmr.js.org/d/20191226/"/>
-    <id>https://daily.tmr.js.org/d/20191226/</id>
-    <published>2019-12-26T15:45:03.000Z</published>
-    <updated>2019-12-26T15:45:10.783Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191226期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2，<a href="#生活">生活</a>*1，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅谈OPSEC和C2"><a href="#浅谈OPSEC和C2" class="headerlink" title="浅谈OPSEC和C2"></a>浅谈OPSEC和C2</h3><p><a href="https://mp.weixin.qq.com/s/FIz4-xk093jGN3TOECAgqQ" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191226020040/https://mp.weixin.qq.com/s/FIz4-xk093jGN3TOECAgqQ" target="_blank" rel="noopener">Archive</a></p><h3 id="Linux-Performance"><a href="#Linux-Performance" class="headerlink" title="Linux Performance"></a>Linux Performance</h3><p>Linux Performance Observability Tools的图不知道被传多少次了</p><p><a href="http://www.brendangregg.com/linuxperf.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191226075940/http://www.brendangregg.com/linuxperf.html" target="_blank" rel="noopener">Archive</a></p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="知乎高赞：有哪些「看似很-LOW，实则惊艳」的产品？"><a href="#知乎高赞：有哪些「看似很-LOW，实则惊艳」的产品？" class="headerlink" title="知乎高赞：有哪些「看似很 LOW，实则惊艳」的产品？"></a>知乎高赞：有哪些「看似很 LOW，实则惊艳」的产品？</h3><p>很多学校研究出来的农产品/日用品</p><p><a href="https://mp.weixin.qq.com/s/-LAKacpHdqJbloX1l_w2xQ" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191226020237/https://mp.weixin.qq.com/s/-LAKacpHdqJbloX1l_w2xQ" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="南水北调工程从历史观来看，对中国的影响能达到什么程度？"><a href="#南水北调工程从历史观来看，对中国的影响能达到什么程度？" class="headerlink" title="南水北调工程从历史观来看，对中国的影响能达到什么程度？"></a>南水北调工程从历史观来看，对中国的影响能达到什么程度？</h3><p><a href="https://news-at.zhihu.com/story/9718348" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191226025527/https://news-at.zhihu.com/story/9718348" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191226期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#生活&quot;&gt;生活&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
