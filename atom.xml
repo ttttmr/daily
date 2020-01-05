@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2020-01-04T15:45:09.658Z</updated>
+  <updated>2020-01-05T15:45:09.861Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20200105期</title>
+    <link href="https://daily.tmr.js.org/d/20200105/"/>
+    <id>https://daily.tmr.js.org/d/20200105/</id>
+    <published>2020-01-05T15:45:03.000Z</published>
+    <updated>2020-01-05T15:45:09.861Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20200105期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="maccms-v8-80w-字符的-RCE-分析"><a href="#maccms-v8-80w-字符的-RCE-分析" class="headerlink" title="maccms v8 80w 字符的 RCE 分析"></a>maccms v8 80w 字符的 RCE 分析</h3><p>正则绕过的例子，解释的非常详细</p><p><a href="https://www.cnpanda.net/codeaudit/660.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200105151924/https://www.cnpanda.net/codeaudit/660.html" target="_blank" rel="noopener">Archive</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="2019年的版号战场，哪家厂商是最大赢家？"><a href="#2019年的版号战场，哪家厂商是最大赢家？" class="headerlink" title="2019年的版号战场，哪家厂商是最大赢家？"></a>2019年的版号战场，哪家厂商是最大赢家？</h3><p>仔细想一想版号控制内含了游戏类型，游戏内容，游戏发行时间，还是挺多东西的</p><p><a href="http://youxiputao.com/articles/19242" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200105142930/http://youxiputao.com/articles/19242" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20200105期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
+    
+      <category term="01" scheme="https://daily.tmr.js.org/categories/2020/01/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20200104期</title>
@@ -152,29 +175,6 @@
     
       &lt;p&gt;透明日报第20191230期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2019" scheme="https://daily.tmr.js.org/categories/2019/"/>
-    
-      <category term="12" scheme="https://daily.tmr.js.org/categories/2019/12/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20191229期</title>
-    <link href="https://daily.tmr.js.org/d/20191229/"/>
-    <id>https://daily.tmr.js.org/d/20191229/</id>
-    <published>2019-12-29T15:45:02.000Z</published>
-    <updated>2019-12-29T15:45:09.170Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20191229期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*4</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="北京民航总医院发生暴力伤医事件"><a href="#北京民航总医院发生暴力伤医事件" class="headerlink" title="北京民航总医院发生暴力伤医事件"></a>北京民航总医院发生暴力伤医事件</h3><p>这是后续App中的事件追踪</p><p><a href="https://houxu.app/lives/29434" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20191229142423/https://houxu.app/lives/29434" target="_blank" rel="noopener">Archive</a></p><h3 id="突发！今早，北京一女医生被患者家属刺杀，抢救无效去世"><a href="#突发！今早，北京一女医生被患者家属刺杀，抢救无效去世" class="headerlink" title="突发！今早，北京一女医生被患者家属刺杀，抢救无效去世"></a>突发！今早，北京一女医生被患者家属刺杀，抢救无效去世</h3><p>12月24日的文章，比较简短的可以看这篇</p><p><a href="https://zhuanlan.zhihu.com/p/99141158" target="_blank" rel="noopener">原文链接</a> <a href="https://archive.ph/Jt3q8" target="_blank" rel="noopener">Archive</a></p><h3 id="十问杨文医师之死"><a href="#十问杨文医师之死" class="headerlink" title="十问杨文医师之死"></a>十问杨文医师之死</h3><p><a href="https://zhuanlan.zhihu.com/p/100032730" target="_blank" rel="noopener">原文链接</a> <a href="https://archive.ph/kTn2t" target="_blank" rel="noopener">Archive</a></p><h3 id="这一次，恳请大家不再沉默"><a href="#这一次，恳请大家不再沉默" class="headerlink" title="这一次，恳请大家不再沉默"></a>这一次，恳请大家不再沉默</h3><p>值得一提的是这篇发在微信公众平台上的文章已经被禁止通过微信渠道分享了，但链接还是有效的</p><p><a href="https://mp.weixin.qq.com/s/TWz_aHnVUQgojwqLwqhI_g" target="_blank" rel="noopener">原文链接</a> <a href="https://archive.ph/aeXYN" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20191229期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*4&lt;/p&gt;
     
     </summary>
     
