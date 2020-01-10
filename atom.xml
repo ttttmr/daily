@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2020-01-09T15:45:08.965Z</updated>
+  <updated>2020-01-10T15:45:09.835Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20200110期</title>
+    <link href="https://daily.tmr.js.org/d/20200110/"/>
+    <id>https://daily.tmr.js.org/d/20200110/</id>
+    <published>2020-01-10T15:45:02.000Z</published>
+    <updated>2020-01-10T15:45:09.835Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20200110期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="苏俄如何监听美国大使馆的打字员"><a href="#苏俄如何监听美国大使馆的打字员" class="headerlink" title="苏俄如何监听美国大使馆的打字员"></a>苏俄如何监听美国大使馆的打字员</h3><blockquote><p>最近出版的一本新书回顾了冷战期间美国和苏联之间的谍报战，讲述了一段尘封已久的供应链攻击案例</p></blockquote><p><a href="https://www.solidot.org/story?sid=63225" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200110144701/https://www.solidot.org/story?sid=63225" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Microsoft-Edge-Chromium-EoP-via-XSS-to-Potential-RCE"><a href="#Microsoft-Edge-Chromium-EoP-via-XSS-to-Potential-RCE" class="headerlink" title="Microsoft Edge (Chromium) - EoP via XSS to Potential RCE"></a>Microsoft Edge (Chromium) - EoP via XSS to Potential RCE</h3><p>Microsoft Edge（Chromium）-通过XSS进行EoP到潜在的RCE</p><p><a href="https://leucosite.com/Edge-Chromium-EoP-RCE/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200110090356/https://leucosite.com/Edge-Chromium-EoP-RCE/" target="_blank" rel="noopener">Archive</a></p><h3 id="TikTok安全性分析"><a href="#TikTok安全性分析" class="headerlink" title="TikTok安全性分析"></a>TikTok安全性分析</h3><p><a href="https://www.anquanke.com/post/id/197004" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200110095212/https://www.anquanke.com/post/id/197004" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20200110期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
+    
+      <category term="01" scheme="https://daily.tmr.js.org/categories/2020/01/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20200109期</title>
@@ -152,29 +175,6 @@
     
       &lt;p&gt;透明日报第20200104期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
-    
-      <category term="01" scheme="https://daily.tmr.js.org/categories/2020/01/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20200103期</title>
-    <link href="https://daily.tmr.js.org/d/20200103/"/>
-    <id>https://daily.tmr.js.org/d/20200103/</id>
-    <published>2020-01-03T15:45:02.000Z</published>
-    <updated>2020-01-03T15:45:08.692Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20200103期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*3，<a href="#技术">技术</a>*1</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="Telegram-的-iOS-官方客户端如何进入被封禁的开车群组-频道"><a href="#Telegram-的-iOS-官方客户端如何进入被封禁的开车群组-频道" class="headerlink" title="Telegram 的 iOS 官方客户端如何进入被封禁的开车群组/频道"></a>Telegram 的 iOS 官方客户端如何进入被封禁的开车群组/频道</h3><p>最新版本官方客户端</p><p><a href="https://telegra.ph/Telegram-%E7%9A%84-iOS-%E5%AE%98%E6%96%B9%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%A6%82%E4%BD%95%E8%BF%9B%E5%85%A5%E8%A2%AB%E5%B0%81%E7%A6%81%E7%9A%84%E7%BE%A4%E7%BB%84%E9%A2%91%E9%81%93-01-01" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200102160913/https://telegra.ph/Telegram-%E7%9A%84-iOS-%E5%AE%98%E6%96%B9%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%A6%82%E4%BD%95%E8%BF%9B%E5%85%A5%E8%A2%AB%E5%B0%81%E7%A6%81%E7%9A%84%E7%BE%A4%E7%BB%84%E9%A2%91%E9%81%93-01-01" target="_blank" rel="noopener">Archive</a></p><h3 id="【回形针PaperClip】2019-年回形针赚了多少钱？"><a href="#【回形针PaperClip】2019-年回形针赚了多少钱？" class="headerlink" title="【回形针PaperClip】2019 年回形针赚了多少钱？"></a>【回形针PaperClip】2019 年回形针赚了多少钱？</h3><p>回形针nb</p><p><a href="https://www.bilibili.com/video/av81501641" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200102164627/https://www.bilibili.com/video/av81501641" target="_blank" rel="noopener">Archive</a></p><h3 id="新年第一更，Telegram-的-14-个新功能"><a href="#新年第一更，Telegram-的-14-个新功能" class="headerlink" title="新年第一更，Telegram 的 14+ 个新功能"></a>新年第一更，Telegram 的 14+ 个新功能</h3><p>很喜欢作者这段话</p><blockquote><p>可能 Telegram 不是最好的 IM 工具，但 Telegram 的很多功能，是值得我们「知道」的，你可以不用，你可以不喜欢，但你不可以不知道，在这个世界，有这样的东西存在</p></blockquote><p><a href="https://www.appinn.com/telegram-new-version-202001/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200103013249/https://www.appinn.com/telegram-new-version-202001/" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="源头之战，不断升级的攻防对抗技术-——-软件供应链攻击防御探索"><a href="#源头之战，不断升级的攻防对抗技术-——-软件供应链攻击防御探索" class="headerlink" title="源头之战，不断升级的攻防对抗技术 —— 软件供应链攻击防御探索"></a>源头之战，不断升级的攻防对抗技术 —— 软件供应链攻击防御探索</h3><p><a href="https://security.tencent.com/index.php/blog/msg/140" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200103011052/https://security.tencent.com/index.php/blog/msg/140" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20200103期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*3，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
