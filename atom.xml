@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2020-01-14T15:45:09.567Z</updated>
+  <updated>2020-01-15T15:45:08.796Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20200115期</title>
+    <link href="https://daily.tmr.js.org/d/20200115/"/>
+    <id>https://daily.tmr.js.org/d/20200115/</id>
+    <published>2020-01-15T15:45:02.000Z</published>
+    <updated>2020-01-15T15:45:08.796Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20200115期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="从传统文化到Z世代，木鱼带你看拜年祭10年的发展变化"><a href="#从传统文化到Z世代，木鱼带你看拜年祭10年的发展变化" class="headerlink" title="从传统文化到Z世代，木鱼带你看拜年祭10年的发展变化"></a>从传统文化到Z世代，木鱼带你看拜年祭10年的发展变化</h3><blockquote><p>2020年的拜年祭要来啦，从2010年开始，B站拜年祭已经走过了10个年头，如今更是已经成为一种文化现象，那它是如何一路走来呢？又有哪些变化呢？</p></blockquote><p>那段讲文化发展的挺有意思的</p><p><a href="https://www.bilibili.com/video/av83357025" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200114164506/https://www.bilibili.com/video/av83357025" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20200115期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
+    
+      <category term="01" scheme="https://daily.tmr.js.org/categories/2020/01/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20200114期</title>
@@ -144,29 +167,6 @@
     
       &lt;p&gt;透明日报第20200109期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
-    
-      <category term="01" scheme="https://daily.tmr.js.org/categories/2020/01/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20200108期</title>
-    <link href="https://daily.tmr.js.org/d/20200108/"/>
-    <id>https://daily.tmr.js.org/d/20200108/</id>
-    <published>2020-01-08T15:45:02.000Z</published>
-    <updated>2020-01-08T15:45:09.509Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20200108期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*6，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="安全从业者的面试Tips"><a href="#安全从业者的面试Tips" class="headerlink" title="安全从业者的面试Tips"></a>安全从业者的面试Tips</h3><p>向大佬学习</p><p><a href="http://4o4notfound.org/index.php/archives/220/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200107170814/http://4o4notfound.org/index.php/archives/220/" target="_blank" rel="noopener">Archive</a></p><h3 id="实战分析：乙方视角下行业攻防演练"><a href="#实战分析：乙方视角下行业攻防演练" class="headerlink" title="实战分析：乙方视角下行业攻防演练"></a>实战分析：乙方视角下行业攻防演练</h3><p><a href="https://mp.weixin.qq.com/s/NjqoOL39dIAkFkkRbt6HVQ" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200108051655/https://mp.weixin.qq.com/s/NjqoOL39dIAkFkkRbt6HVQ" target="_blank" rel="noopener">Archive</a></p><h3 id="Bypassing-AV-via-in-memory-PE-execution"><a href="#Bypassing-AV-via-in-memory-PE-execution" class="headerlink" title="Bypassing AV via in-memory PE execution"></a>Bypassing AV via in-memory PE execution</h3><p>效果还行 <a href="https://www.virustotal.com/gui/file/07907f68b46f92b35959fca19c995446068a12fa03ba11f6856481bc52488735/detection" target="_blank" rel="noopener">vt 5/70</a></p><p><a href="https://blog.dylan.codes/bypassing-av-via/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200108082310/https://blog.dylan.codes/bypassing-av-via/" target="_blank" rel="noopener">Archive</a></p><h3 id="CVE-2019-10758-mongo-expressRCE复现分析"><a href="#CVE-2019-10758-mongo-expressRCE复现分析" class="headerlink" title="CVE-2019-10758:mongo-expressRCE复现分析"></a>CVE-2019-10758:mongo-expressRCE复现分析</h3><p><a href="https://xz.aliyun.com/t/7056" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200108112516/https://xz.aliyun.com/t/7056" target="_blank" rel="noopener">Archive</a></p><h3 id="NodeJS-Headless-动态漏扫爬虫学习记录-爬虫篇"><a href="#NodeJS-Headless-动态漏扫爬虫学习记录-爬虫篇" class="headerlink" title="NodeJS Headless 动态漏扫爬虫学习记录(爬虫篇)"></a>NodeJS Headless 动态漏扫爬虫学习记录(爬虫篇)</h3><p>十分详细，学习了</p><p><a href="https://xz.aliyun.com/t/7064" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200108113525/https://xz.aliyun.com/t/7064" target="_blank" rel="noopener">Archive</a></p><h3 id="物联网安全系列之远程破解Google-Home"><a href="#物联网安全系列之远程破解Google-Home" class="headerlink" title="物联网安全系列之远程破解Google Home"></a>物联网安全系列之远程破解Google Home</h3><p><a href="https://mp.weixin.qq.com/s/4kO3pU_tCDZmgj2CkROzMg" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200108141840/https://mp.weixin.qq.com/s/4kO3pU_tCDZmgj2CkROzMg" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="为什么有人放弃年薪-20-万的工作去开便利店？"><a href="#为什么有人放弃年薪-20-万的工作去开便利店？" class="headerlink" title="为什么有人放弃年薪 20 万的工作去开便利店？"></a>为什么有人放弃年薪 20 万的工作去开便利店？</h3><p>一些便利店的套路</p><p><a href="https://news-at.zhihu.com/story/9718752" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200108092945/https://news-at.zhihu.com/story/9718752" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20200108期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*6，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
