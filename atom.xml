@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2020-01-15T15:45:08.796Z</updated>
+  <updated>2020-01-16T15:45:09.731Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20200116期</title>
+    <link href="https://daily.tmr.js.org/d/20200116/"/>
+    <id>https://daily.tmr.js.org/d/20200116/</id>
+    <published>2020-01-16T15:45:03.000Z</published>
+    <updated>2020-01-16T15:45:09.731Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20200116期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅谈位置无关代码"><a href="#浅谈位置无关代码" class="headerlink" title="浅谈位置无关代码"></a>浅谈位置无关代码</h3><blockquote><p>本文主要整理了动态库装载地址不确定对于其他模块的调用造成的影响，以及编译器的解决方案</p></blockquote><p><a href="https://www.anquanke.com/post/id/197214" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200116065126/https://www.anquanke.com/post/id/197214" target="_blank" rel="noopener">Archive</a></p><h3 id="Android-黑科技保活实现原理揭秘"><a href="#Android-黑科技保活实现原理揭秘" class="headerlink" title="Android 黑科技保活实现原理揭秘"></a>Android 黑科技保活实现原理揭秘</h3><p>一种保护App不被杀死的技术</p><p><a href="http://weishu.me/2020/01/16/a-keep-alive-method-on-android/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200116152401/http://weishu.me/2020/01/16/a-keep-alive-method-on-android/" target="_blank" rel="noopener">Archive</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="我搜罗了一堆“葫芦娃大战中外英雄”连环画，他们到底大战过谁？"><a href="#我搜罗了一堆“葫芦娃大战中外英雄”连环画，他们到底大战过谁？" class="headerlink" title="我搜罗了一堆“葫芦娃大战中外英雄”连环画，他们到底大战过谁？"></a>我搜罗了一堆“葫芦娃大战中外英雄”连环画，他们到底大战过谁？</h3><p><a href="https://www.yystv.cn/p/6110" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200116143323/https://www.yystv.cn/p/6110" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20200116期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
+    
+      <category term="01" scheme="https://daily.tmr.js.org/categories/2020/01/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20200115期</title>
@@ -144,29 +167,6 @@
     
       &lt;p&gt;透明日报第20200110期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
-    
-      <category term="01" scheme="https://daily.tmr.js.org/categories/2020/01/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20200109期</title>
-    <link href="https://daily.tmr.js.org/d/20200109/"/>
-    <id>https://daily.tmr.js.org/d/20200109/</id>
-    <published>2020-01-09T15:45:02.000Z</published>
-    <updated>2020-01-09T15:45:08.965Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20200109期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*4</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="QChiLan-BypassAntiVirus"><a href="#QChiLan-BypassAntiVirus" class="headerlink" title="QChiLan/BypassAntiVirus"></a>QChiLan/BypassAntiVirus</h3><p>远控免杀的一些资料，第一篇和第二篇不错，后面几篇更偏向工具使用的测评统计</p><p><a href="https://github.com/QChiLan/BypassAntiVirus" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200109101540/https://github.com/QChiLan/BypassAntiVirus" target="_blank" rel="noopener">Archive</a></p><h3 id="远控免杀专题文章-1-基础篇"><a href="#远控免杀专题文章-1-基础篇" class="headerlink" title="远控免杀专题文章(1)-基础篇"></a>远控免杀专题文章(1)-基础篇</h3><p><a href="https://mp.weixin.qq.com/s/3LZ_cj2gDC1bQATxqBfweg" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200109101602/https://mp.weixin.qq.com/s/3LZ_cj2gDC1bQATxqBfweg" target="_blank" rel="noopener">Archive</a></p><h3 id="远控免杀专题文章-2-msfvenom隐藏的参数"><a href="#远控免杀专题文章-2-msfvenom隐藏的参数" class="headerlink" title="远控免杀专题文章(2)-msfvenom隐藏的参数"></a>远控免杀专题文章(2)-msfvenom隐藏的参数</h3><p><a href="https://mp.weixin.qq.com/s/1r0iakLpnLrjCrOp2gT10w" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200109101623/https://mp.weixin.qq.com/s/1r0iakLpnLrjCrOp2gT10w" target="_blank" rel="noopener">Archive</a></p><h3 id="无需暴破还原mt-rand-种子"><a href="#无需暴破还原mt-rand-种子" class="headerlink" title="无需暴破还原mt_rand()种子"></a>无需暴破还原mt_rand()种子</h3><p>之前是靠爆破的，可以参考 <a href="http://wonderkun.cc/index.html/?p=585" target="_blank" rel="noopener">http://wonderkun.cc/index.html/?p=585</a></p><p><a href="https://www.anquanke.com/post/id/196831" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200109121448/https://www.anquanke.com/post/id/196831" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20200109期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*4&lt;/p&gt;
     
     </summary>
     
