@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2020-01-18T15:45:09.299Z</updated>
+  <updated>2020-01-19T15:45:09.419Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20200119期</title>
+    <link href="https://daily.tmr.js.org/d/20200119/"/>
+    <id>https://daily.tmr.js.org/d/20200119/</id>
+    <published>2020-01-19T15:45:02.000Z</published>
+    <updated>2020-01-19T15:45:09.419Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20200119期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;透明日报第20200119期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日无更新&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
+    
+      <category term="01" scheme="https://daily.tmr.js.org/categories/2020/01/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20200118期</title>
@@ -144,29 +171,6 @@
     
       &lt;p&gt;透明日报第20200113期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
-    
-      <category term="01" scheme="https://daily.tmr.js.org/categories/2020/01/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20200112期</title>
-    <link href="https://daily.tmr.js.org/d/20200112/"/>
-    <id>https://daily.tmr.js.org/d/20200112/</id>
-    <published>2020-01-12T15:45:02.000Z</published>
-    <updated>2020-01-12T15:45:09.629Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20200112期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅析常见Debug调试器的安全隐患"><a href="#浅析常见Debug调试器的安全隐患" class="headerlink" title="浅析常见Debug调试器的安全隐患"></a>浅析常见Debug调试器的安全隐患</h3><p><a href="https://security.tencent.com/index.php/blog/msg/137" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200111160953/https://security.tencent.com/index.php/blog/msg/137" target="_blank" rel="noopener">Archive</a></p><h3 id="隐私保护更严格的-Android-10-之后，国产应用这样对你进行广告追踪"><a href="#隐私保护更严格的-Android-10-之后，国产应用这样对你进行广告追踪" class="headerlink" title="隐私保护更严格的 Android 10 之后，国产应用这样对你进行广告追踪"></a>隐私保护更严格的 Android 10 之后，国产应用这样对你进行广告追踪</h3><p>靠策略规定肯定是不行的，系统层面限制才能有效果，这方面Android还是得向iOS学习</p><p><a href="https://sspai.com/post/58305" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200112112208/https://sspai.com/post/58305" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20200112期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
