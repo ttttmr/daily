@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2020-01-19T15:45:09.419Z</updated>
+  <updated>2020-01-20T15:45:09.607Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20200120期</title>
+    <link href="https://daily.tmr.js.org/d/20200120/"/>
+    <id>https://daily.tmr.js.org/d/20200120/</id>
+    <published>2020-01-20T15:45:03.000Z</published>
+    <updated>2020-01-20T15:45:09.607Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20200120期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Fuzzing平台建设的研究与设计"><a href="#Fuzzing平台建设的研究与设计" class="headerlink" title="Fuzzing平台建设的研究与设计"></a>Fuzzing平台建设的研究与设计</h3><p><a href="https://security.tencent.com/index.php/blog/msg/143" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200120100149/https://security.tencent.com/index.php/blog/msg/143" target="_blank" rel="noopener">Archive</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="广告会玩丨追剧少女的终极梦想就是这样吧"><a href="#广告会玩丨追剧少女的终极梦想就是这样吧" class="headerlink" title="广告会玩丨追剧少女的终极梦想就是这样吧"></a>广告会玩丨追剧少女的终极梦想就是这样吧</h3><p>广告创意可以，有这样的剧看吗hhh</p><p><a href="https://www.bilibili.com/video/av84110266" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200119165213/https://www.bilibili.com/video/av84110266" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20200120期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
+    
+      <category term="01" scheme="https://daily.tmr.js.org/categories/2020/01/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20200119期</title>
@@ -148,29 +171,6 @@
     
       &lt;p&gt;透明日报第20200114期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#生活&quot;&gt;生活&lt;/a&gt;*2，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
-    
-      <category term="01" scheme="https://daily.tmr.js.org/categories/2020/01/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20200113期</title>
-    <link href="https://daily.tmr.js.org/d/20200113/"/>
-    <id>https://daily.tmr.js.org/d/20200113/</id>
-    <published>2020-01-13T15:45:02.000Z</published>
-    <updated>2020-01-13T15:45:08.995Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20200113期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="羊毛党跑去京东摸了年终奖"><a href="#羊毛党跑去京东摸了年终奖" class="headerlink" title="羊毛党跑去京东摸了年终奖"></a>羊毛党跑去京东摸了年终奖</h3><p>讲风控，极低甚至免费购买京东家电事件</p><p><a href="https://mp.weixin.qq.com/s/0pjC-rLSgL68DsqYDJgnHg" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200113091545/https://mp.weixin.qq.com/s/0pjC-rLSgL68DsqYDJgnHg" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Remote-iPhone-Exploitation"><a href="#Remote-iPhone-Exploitation" class="headerlink" title="Remote iPhone Exploitation"></a>Remote iPhone Exploitation</h3><p>Project Zero最新文章，无交互利用iMessages漏洞为突破口实现RCE</p><p><a href="https://wiki.ioin.in/post/group/7KRE" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200113050940/https://wiki.ioin.in/post/group/7KRE" target="_blank" rel="noopener">Archive</a></p><h3 id="Portable-Mode-in-Visual-Studio-Code"><a href="#Portable-Mode-in-Visual-Studio-Code" class="headerlink" title="Portable Mode in Visual Studio Code"></a>Portable Mode in Visual Studio Code</h3><p>VSCode便携模式，支持安装包迁移到便携模式</p><p><a href="https://code.visualstudio.com/docs/editor/portable" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200113091650/https://code.visualstudio.com/docs/editor/portable" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20200113期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
