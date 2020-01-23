@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2020-01-22T15:45:09.970Z</updated>
+  <updated>2020-01-23T15:45:09.321Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20200123期</title>
+    <link href="https://daily.tmr.js.org/d/20200123/"/>
+    <id>https://daily.tmr.js.org/d/20200123/</id>
+    <published>2020-01-23T15:45:02.000Z</published>
+    <updated>2020-01-23T15:45:09.321Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20200123期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1，<a href="#社会">社会</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="从研究者的视角看Fuzzing技术发展30年"><a href="#从研究者的视角看Fuzzing技术发展30年" class="headerlink" title="从研究者的视角看Fuzzing技术发展30年"></a>从研究者的视角看Fuzzing技术发展30年</h3><p><a href="http://riusksk.me/2020/01/22/Fuzzing%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95%E7%9A%84%E8%BF%9930%E5%B9%B4/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200123154214/http://riusksk.me/2020/01/22/Fuzzing%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95%E7%9A%84%E8%BF%9930%E5%B9%B4/" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="高速收费为什么没完没了｜大象公会"><a href="#高速收费为什么没完没了｜大象公会" class="headerlink" title="高速收费为什么没完没了｜大象公会"></a>高速收费为什么没完没了｜大象公会</h3><p><a href="https://t.me/impNo" target="_blank" rel="noopener">@impNo</a>投稿</p><p>最近的 ETC 很火，之前倒是没有想过为什么要收过路费，文章给出了答案，然而「作为普通人又能怎么做呢？」</p><p><a href="https://mp.weixin.qq.com/s/KckN7Cg6gnUV_HXaO6fb-w" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200123134056/https://mp.weixin.qq.com/s/KckN7Cg6gnUV_HXaO6fb-w" target="_blank" rel="noopener">Archive</a></p><h3 id="独家专访王广发：我是怎么被感染的？"><a href="#独家专访王广发：我是怎么被感染的？" class="headerlink" title="独家专访王广发：我是怎么被感染的？"></a>独家专访王广发：我是怎么被感染的？</h3><p><a href="https://m.chinanews.com/wap/detail/zwsp/gn/2020/01-23/9068434.shtml" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200123150952/https://m.chinanews.com/wap/detail/zwsp/gn/2020/01-23/9068434.shtml" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20200123期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
+    
+      <category term="01" scheme="https://daily.tmr.js.org/categories/2020/01/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20200122期</title>
@@ -148,29 +171,6 @@
     
       &lt;p&gt;透明日报第20200117期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
-    
-      <category term="01" scheme="https://daily.tmr.js.org/categories/2020/01/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20200116期</title>
-    <link href="https://daily.tmr.js.org/d/20200116/"/>
-    <id>https://daily.tmr.js.org/d/20200116/</id>
-    <published>2020-01-16T15:45:03.000Z</published>
-    <updated>2020-01-16T15:45:09.731Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20200116期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="浅谈位置无关代码"><a href="#浅谈位置无关代码" class="headerlink" title="浅谈位置无关代码"></a>浅谈位置无关代码</h3><blockquote><p>本文主要整理了动态库装载地址不确定对于其他模块的调用造成的影响，以及编译器的解决方案</p></blockquote><p><a href="https://www.anquanke.com/post/id/197214" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200116065126/https://www.anquanke.com/post/id/197214" target="_blank" rel="noopener">Archive</a></p><h3 id="Android-黑科技保活实现原理揭秘"><a href="#Android-黑科技保活实现原理揭秘" class="headerlink" title="Android 黑科技保活实现原理揭秘"></a>Android 黑科技保活实现原理揭秘</h3><p>一种保护App不被杀死的技术</p><p><a href="http://weishu.me/2020/01/16/a-keep-alive-method-on-android/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200116152401/http://weishu.me/2020/01/16/a-keep-alive-method-on-android/" target="_blank" rel="noopener">Archive</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="我搜罗了一堆“葫芦娃大战中外英雄”连环画，他们到底大战过谁？"><a href="#我搜罗了一堆“葫芦娃大战中外英雄”连环画，他们到底大战过谁？" class="headerlink" title="我搜罗了一堆“葫芦娃大战中外英雄”连环画，他们到底大战过谁？"></a>我搜罗了一堆“葫芦娃大战中外英雄”连环画，他们到底大战过谁？</h3><p><a href="https://www.yystv.cn/p/6110" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200116143323/https://www.yystv.cn/p/6110" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20200116期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
