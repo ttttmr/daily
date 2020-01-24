@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2020-01-23T15:45:09.321Z</updated>
+  <updated>2020-01-24T15:45:09.867Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20200124期</title>
+    <link href="https://daily.tmr.js.org/d/20200124/"/>
+    <id>https://daily.tmr.js.org/d/20200124/</id>
+    <published>2020-01-24T15:45:03.000Z</published>
+    <updated>2020-01-24T15:45:09.867Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20200124期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2，<a href="#生活">生活</a>*2，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="技术研究-如何绕过杀毒软件自我保护"><a href="#技术研究-如何绕过杀毒软件自我保护" class="headerlink" title="技术研究 | 如何绕过杀毒软件自我保护"></a>技术研究 | 如何绕过杀毒软件自我保护</h3><p><a href="https://www.freebuf.com/vuls/220997.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200124085053/https://www.freebuf.com/vuls/220997.html" target="_blank" rel="noopener">Archive</a></p><h3 id="浅度测评：requests、aiohttp、httpx-我应该用哪一个？"><a href="#浅度测评：requests、aiohttp、httpx-我应该用哪一个？" class="headerlink" title="浅度测评：requests、aiohttp、httpx 我应该用哪一个？"></a>浅度测评：requests、aiohttp、httpx 我应该用哪一个？</h3><p>性能测试</p><p><a href="https://mp.weixin.qq.com/s/mME56WJoQ1o13Sdql3fUtA" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200124144032/https://mp.weixin.qq.com/s/mME56WJoQ1o13Sdql3fUtA" target="_blank" rel="noopener">Archive</a></p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="谈谈口罩和防疫"><a href="#谈谈口罩和防疫" class="headerlink" title="谈谈口罩和防疫"></a>谈谈口罩和防疫</h3><p><a href="https://mp.weixin.qq.com/s/1QmU8v9C23DXQ9Y4TQohZA" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200124084229/https://mp.weixin.qq.com/s/1QmU8v9C23DXQ9Y4TQohZA" target="_blank" rel="noopener">Archive</a></p><h3 id="解释一下《谈谈口罩和防疫》里的一些问题"><a href="#解释一下《谈谈口罩和防疫》里的一些问题" class="headerlink" title="解释一下《谈谈口罩和防疫》里的一些问题"></a>解释一下《谈谈口罩和防疫》里的一些问题</h3><p><a href="https://mp.weixin.qq.com/s/JZbhnq2JENl6b9hFQIUwJg" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200124140420/https://mp.weixin.qq.com/s/JZbhnq2JENl6b9hFQIUwJg" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="武汉肺炎暗与明"><a href="#武汉肺炎暗与明" class="headerlink" title="武汉肺炎暗与明"></a>武汉肺炎暗与明</h3><p><a href="https://telegra.ph/武汉肺炎暗与明-01-22" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200124083730/https://telegra.ph/%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E%E6%9A%97%E4%B8%8E%E6%98%8E-01-22" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20200124期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;#生活&quot;&gt;生活&lt;/a&gt;*2，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
+    
+      <category term="01" scheme="https://daily.tmr.js.org/categories/2020/01/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20200123期</title>
@@ -148,29 +171,6 @@
     
       &lt;p&gt;透明日报第20200118期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#生活&quot;&gt;生活&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
-    
-      <category term="01" scheme="https://daily.tmr.js.org/categories/2020/01/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20200117期</title>
-    <link href="https://daily.tmr.js.org/d/20200117/"/>
-    <id>https://daily.tmr.js.org/d/20200117/</id>
-    <published>2020-01-17T15:45:02.000Z</published>
-    <updated>2020-01-17T15:45:08.868Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20200117期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="我对中国科技行业的看法（译文）"><a href="#我对中国科技行业的看法（译文）" class="headerlink" title="我对中国科技行业的看法（译文）"></a>我对中国科技行业的看法（译文）</h3><blockquote><p>danwwang 是彭博社的一个技术分析师，写了一篇2019年回顾，详细谈了他对中国科技行业、中美贸易战的看法。</p></blockquote><p><a href="http://www.ruanyifeng.com/blog/2020/01/china-technology-review.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200116161353/http://www.ruanyifeng.com/blog/2020/01/china-technology-review.html" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20200117期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
