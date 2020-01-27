@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2020-01-26T15:45:10.395Z</updated>
+  <updated>2020-01-27T15:45:10.161Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20200127期</title>
+    <link href="https://daily.tmr.js.org/d/20200127/"/>
+    <id>https://daily.tmr.js.org/d/20200127/</id>
+    <published>2020-01-27T15:45:03.000Z</published>
+    <updated>2020-01-27T15:45:10.161Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20200127期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="挖洞经验-谷歌翻译服务（Google-Translator）的跨站漏洞"><a href="#挖洞经验-谷歌翻译服务（Google-Translator）的跨站漏洞" class="headerlink" title="挖洞经验 | 谷歌翻译服务（Google Translator）的跨站漏洞"></a>挖洞经验 | 谷歌翻译服务（Google Translator）的跨站漏洞</h3><p><a href="https://www.freebuf.com/vuls/225133.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200127093720/https://www.freebuf.com/vuls/225133.html" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="复盘一个四川zf推进防疫工作的时间线！标准作业，湖北zf连抄都不会吗？-小组讨论"><a href="#复盘一个四川zf推进防疫工作的时间线！标准作业，湖北zf连抄都不会吗？-小组讨论" class="headerlink" title="复盘一个四川zf推进防疫工作的时间线！标准作业，湖北zf连抄都不会吗？ - 小组讨论"></a>复盘一个四川zf推进防疫工作的时间线！标准作业，湖北zf连抄都不会吗？ - 小组讨论</h3><p><a href="https://m.douban.com/group/topic/163911576" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200127142929/https://m.douban.com/group/topic/163911576/" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20200127期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
+    
+      <category term="01" scheme="https://daily.tmr.js.org/categories/2020/01/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20200126期</title>
@@ -148,29 +171,6 @@
     
       &lt;p&gt;透明日报第20200121期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;#生活&quot;&gt;生活&lt;/a&gt;*2，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
-    
-      <category term="01" scheme="https://daily.tmr.js.org/categories/2020/01/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20200120期</title>
-    <link href="https://daily.tmr.js.org/d/20200120/"/>
-    <id>https://daily.tmr.js.org/d/20200120/</id>
-    <published>2020-01-20T15:45:03.000Z</published>
-    <updated>2020-01-20T15:45:09.607Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20200120期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*1，<a href="#文娱">文娱</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Fuzzing平台建设的研究与设计"><a href="#Fuzzing平台建设的研究与设计" class="headerlink" title="Fuzzing平台建设的研究与设计"></a>Fuzzing平台建设的研究与设计</h3><p><a href="https://security.tencent.com/index.php/blog/msg/143" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200120100149/https://security.tencent.com/index.php/blog/msg/143" target="_blank" rel="noopener">Archive</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="广告会玩丨追剧少女的终极梦想就是这样吧"><a href="#广告会玩丨追剧少女的终极梦想就是这样吧" class="headerlink" title="广告会玩丨追剧少女的终极梦想就是这样吧"></a>广告会玩丨追剧少女的终极梦想就是这样吧</h3><p>广告创意可以，有这样的剧看吗hhh</p><p><a href="https://www.bilibili.com/video/av84110266" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200119165213/https://www.bilibili.com/video/av84110266" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20200120期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#文娱&quot;&gt;文娱&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
