@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2020-02-06T15:45:09.962Z</updated>
+  <updated>2020-02-07T15:45:10.013Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20200207期</title>
+    <link href="https://daily.tmr.js.org/d/20200207/"/>
+    <id>https://daily.tmr.js.org/d/20200207/</id>
+    <published>2020-02-07T15:45:02.000Z</published>
+    <updated>2020-02-07T15:45:10.013Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20200207期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="我不知道看到的是不是真相-？"><a href="#我不知道看到的是不是真相-？" class="headerlink" title="我不知道看到的是不是真相 ？"></a>我不知道看到的是不是真相 ？</h3><p><a href="http://www.phodal.com/blog/thinking-in-2019-2020-virus/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200207083215/https://www.phodal.com/blog/thinking-in-2019-2020-virus/" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="ECC相关算法解析"><a href="#ECC相关算法解析" class="headerlink" title="ECC相关算法解析"></a>ECC相关算法解析</h3><p>从基础数学开始，最后到漏洞分析，可惜我还是没看懂</p><p><a href="https://zhuanlan.zhihu.com/p/103665076" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200207081020/https://zhuanlan.zhihu.com/p/103665076" target="_blank" rel="noopener">Archive</a></p><h3 id="那些shellcode免杀总结"><a href="#那些shellcode免杀总结" class="headerlink" title="那些shellcode免杀总结"></a>那些shellcode免杀总结</h3><p><a href="http://xz.aliyun.com/t/7170" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200207083233/https://xz.aliyun.com/t/7170" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20200207期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
+    
+      <category term="02" scheme="https://daily.tmr.js.org/categories/2020/02/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20200206期</title>
@@ -150,29 +173,6 @@
       <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
     
       <category term="02" scheme="https://daily.tmr.js.org/categories/2020/02/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20200131期</title>
-    <link href="https://daily.tmr.js.org/d/20200131/"/>
-    <id>https://daily.tmr.js.org/d/20200131/</id>
-    <published>2020-01-31T15:45:03.000Z</published>
-    <updated>2020-01-31T15:45:09.458Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20200131期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*1，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="蝙蝠为什么喜欢倒挂着睡觉，脑袋不会充血吗？"><a href="#蝙蝠为什么喜欢倒挂着睡觉，脑袋不会充血吗？" class="headerlink" title="蝙蝠为什么喜欢倒挂着睡觉，脑袋不会充血吗？"></a>蝙蝠为什么喜欢倒挂着睡觉，脑袋不会充血吗？</h3><p><a href="https://news-at.zhihu.com/story/9719776" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200131063132/https://news-at.zhihu.com/story/9719776" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="windows取证——文件执行记录的获取和清除"><a href="#windows取证——文件执行记录的获取和清除" class="headerlink" title="windows取证——文件执行记录的获取和清除"></a>windows取证——文件执行记录的获取和清除</h3><p>有不少新东西</p><p><a href="https://xz.aliyun.com/t/7155" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200131051652/https://xz.aliyun.com/t/7155" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="可能会说谎的地图-重新审视全国疫情的地理格局"><a href="#可能会说谎的地图-重新审视全国疫情的地理格局" class="headerlink" title="可能会说谎的地图-重新审视全国疫情的地理格局"></a>可能会说谎的地图-重新审视全国疫情的地理格局</h3><p>不同规格下的疫情地图，还是挺硬核的</p><p><a href="https://mp.weixin.qq.com/s/dQvyqkyyBoJq9tMa4stcYQ" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200131152217/https://mp.weixin.qq.com/s/dQvyqkyyBoJq9tMa4stcYQ" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20200131期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
-    
-      <category term="01" scheme="https://daily.tmr.js.org/categories/2020/01/"/>
     
     
   </entry>
