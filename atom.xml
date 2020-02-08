@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2020-02-07T15:45:10.013Z</updated>
+  <updated>2020-02-08T15:45:09.657Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20200208期</title>
+    <link href="https://daily.tmr.js.org/d/20200208/"/>
+    <id>https://daily.tmr.js.org/d/20200208/</id>
+    <published>2020-02-08T15:45:03.000Z</published>
+    <updated>2020-02-08T15:45:09.657Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20200208期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="这是我的武汉封城日记，第十七天"><a href="#这是我的武汉封城日记，第十七天" class="headerlink" title="这是我的武汉封城日记，第十七天"></a>这是我的武汉封城日记，第十七天</h3><p><a href="https://weibo.com/1560906700/IthEIniuK" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200208142602/https://www.weibo.com/1560906700/IthEIniuK" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="安全人员的代码水平"><a href="#安全人员的代码水平" class="headerlink" title="安全人员的代码水平"></a>安全人员的代码水平</h3><p><a href="https://strcpy.me/index.php/archives/797/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200208055757/https://strcpy.me/index.php/archives/797/" target="_blank" rel="noopener">Archive</a></p><h3 id="如何利用AgentSmith-HIDS检测反弹shell"><a href="#如何利用AgentSmith-HIDS检测反弹shell" class="headerlink" title="如何利用AgentSmith-HIDS检测反弹shell"></a>如何利用AgentSmith-HIDS检测反弹shell</h3><p>期待后续</p><p><a href="https://xz.aliyun.com/t/7158" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200208060010/https://xz.aliyun.com/t/7158" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20200208期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
+    
+      <category term="02" scheme="https://daily.tmr.js.org/categories/2020/02/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20200207期</title>
@@ -144,29 +167,6 @@
     
       &lt;p&gt;透明日报第20200202期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*3&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
-    
-      <category term="02" scheme="https://daily.tmr.js.org/categories/2020/02/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20200201期</title>
-    <link href="https://daily.tmr.js.org/d/20200201/"/>
-    <id>https://daily.tmr.js.org/d/20200201/</id>
-    <published>2020-02-01T15:45:02.000Z</published>
-    <updated>2020-02-01T15:45:09.556Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20200201期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="theLSA-emergency-response-checklist"><a href="#theLSA-emergency-response-checklist" class="headerlink" title="theLSA/emergency-response-checklist"></a>theLSA/emergency-response-checklist</h3><p>应急响应指南（中文）</p><p><a href="https://github.com/theLSA/emergency-response-checklist" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200201071728/https://github.com/theLSA/emergency-response-checklist" target="_blank" rel="noopener">Archive</a></p><h3 id="theLSA-hack-er-tools"><a href="#theLSA-hack-er-tools" class="headerlink" title="theLSA/hack-er-tools"></a>theLSA/hack-er-tools</h3><p>应急响应资源工具</p><p><a href="https://github.com/theLSA/hack-er-tools" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200201071905/https://github.com/theLSA/hack-er-tools" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20200201期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
