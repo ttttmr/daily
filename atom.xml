@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2020-02-08T15:45:09.657Z</updated>
+  <updated>2020-02-09T15:45:09.034Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20200209期</title>
+    <link href="https://daily.tmr.js.org/d/20200209/"/>
+    <id>https://daily.tmr.js.org/d/20200209/</id>
+    <published>2020-02-09T15:45:02.000Z</published>
+    <updated>2020-02-09T15:45:09.034Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20200209期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;透明日报第20200209期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日无更新&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
+    
+      <category term="02" scheme="https://daily.tmr.js.org/categories/2020/02/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20200208期</title>
@@ -144,29 +171,6 @@
     
       &lt;p&gt;透明日报第20200203期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#数学&quot;&gt;数学&lt;/a&gt;*1，&lt;a href=&quot;#生活&quot;&gt;生活&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
-    
-      <category term="02" scheme="https://daily.tmr.js.org/categories/2020/02/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20200202期</title>
-    <link href="https://daily.tmr.js.org/d/20200202/"/>
-    <id>https://daily.tmr.js.org/d/20200202/</id>
-    <published>2020-02-02T15:45:02.000Z</published>
-    <updated>2020-02-02T15:45:08.869Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20200202期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*1，<a href="#社会">社会</a>*3</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="一时兴起，连夜草草画了九张通缉令-…-来自月牙塘55号-微博"><a href="#一时兴起，连夜草草画了九张通缉令-…-来自月牙塘55号-微博" class="headerlink" title="一时兴起，连夜草草画了九张通缉令 … 来自月牙塘55号 - 微博"></a>一时兴起，连夜草草画了九张通缉令 … 来自月牙塘55号 - 微博</h3><p><a href="https://weibo.com/1933612900/Isjlhg8mD" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200202121223/https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F1933612900%2FIsjlhg8mD&domain=.weibo.com&ua=php-sso_sdk_client-0.6.28&_rand=1580645542.376" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Dm2333-ATTCK-PenTester-Book-ATTCK-PenTester-Book-Dm2333-ATTCK-PenTester-Book"><a href="#Dm2333-ATTCK-PenTester-Book-ATTCK-PenTester-Book-Dm2333-ATTCK-PenTester-Book" class="headerlink" title="Dm2333/ATTCK-PenTester-Book: ATTCK-PenTester-Book Dm2333/ATTCK-PenTester-Book"></a>Dm2333/ATTCK-PenTester-Book: ATTCK-PenTester-Book Dm2333/ATTCK-PenTester-Book</h3><blockquote><p>由DeadEye安全团队根据ATT&amp;CK知识体系编制出长达400页的渗透手册已经全部完成。现将该手册发放给大家，希望大家在即将到来的播种季节播种知识的种子，等待年底收获满满！！！</p></blockquote><p><a href="https://github.com/Dm2333/ATTCK-PenTester-Book" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200202141952/https://github.com/Dm2333/ATTCK-PenTester-Book" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="统计数字之外的人：他们死于“普通肺炎”？"><a href="#统计数字之外的人：他们死于“普通肺炎”？" class="headerlink" title="统计数字之外的人：他们死于“普通肺炎”？"></a>统计数字之外的人：他们死于“普通肺炎”？</h3><blockquote><p>有大量的病患在确诊流程和统计数字之外，只能自我求生<br>因为直到去世，她也没有得到住院资格，也没有被确诊为新冠肺炎，只能被算作因“普通肺炎”而去世的不幸者</p></blockquote><p>老存档：<a href="https://web.archive.org/web/20200201184150/https://mp.weixin.qq.com/s/OQGVZlrJWID9Gn4A_T5u_g" target="_blank" rel="noopener">https://web.archive.org/web/20200201184150/https://mp.weixin.qq.com/s/OQGVZlrJWID9Gn4A_T5u_g</a></p><p><a href="https://mp.weixin.qq.com/s/OQGVZlrJWID9Gn4A_T5u_g" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200202091540/https://mp.weixin.qq.com/s/OQGVZlrJWID9Gn4A_T5u_g" target="_blank" rel="noopener">Archive</a></p><h3 id="高压的审查与承诺的破产，中国民众的耐心正在被耗尽"><a href="#高压的审查与承诺的破产，中国民众的耐心正在被耗尽" class="headerlink" title="高压的审查与承诺的破产，中国民众的耐心正在被耗尽"></a>高压的审查与承诺的破产，中国民众的耐心正在被耗尽</h3><p><a href="https://m.douban.com/note/750683110/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200202131736/https://m.douban.com/note/750683110/" target="_blank" rel="noopener">Archive</a></p><h3 id="新型肺炎疫情能有多糟糕？这里是六大关键问题"><a href="#新型肺炎疫情能有多糟糕？这里是六大关键问题" class="headerlink" title="新型肺炎疫情能有多糟糕？这里是六大关键问题"></a>新型肺炎疫情能有多糟糕？这里是六大关键问题</h3><p><a href="https://cn.nytimes.com/china/20200201/china-coronavirus-contain/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200202132357/https://cn.nytimes.com/china/20200201/china-coronavirus-contain/" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20200202期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*3&lt;/p&gt;
     
     </summary>
     
