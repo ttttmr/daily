@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2020-02-11T16:37:02.149Z</updated>
+  <updated>2020-02-12T15:45:09.399Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20200212期</title>
+    <link href="https://daily.tmr.js.org/d/20200212/"/>
+    <id>https://daily.tmr.js.org/d/20200212/</id>
+    <published>2020-02-12T15:45:02.000Z</published>
+    <updated>2020-02-12T15:45:09.399Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20200212期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#其他">其他</a>*1，<a href="#技术">技术</a>*2</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="面对随时恐慌的公众，专家该怎么张嘴说话？"><a href="#面对随时恐慌的公众，专家该怎么张嘴说话？" class="headerlink" title="面对随时恐慌的公众，专家该怎么张嘴说话？"></a>面对随时恐慌的公众，专家该怎么张嘴说话？</h3><p>文章提供了一个不太一样的视角，论文与公告的表达差异，我觉得其实也是科普的问题，如何让普通人理解一个专业问题或结论，得向回形针团队和李永乐老师学习了</p><p><a href="https://www.pingwest.com/a/204673" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200211165544/https://www.pingwest.com/a/204673" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="xss扫描器成长记"><a href="#xss扫描器成长记" class="headerlink" title="xss扫描器成长记"></a>xss扫描器成长记</h3><p>扫描器大佬</p><p><a href="https://x.hacking8.com/post-371.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200212124457/https://x.hacking8.com/post-371.html" target="_blank" rel="noopener">Archive</a></p><h3 id="edwardz246003-shadowsocks"><a href="#edwardz246003-shadowsocks" class="headerlink" title="edwardz246003/shadowsocks"></a>edwardz246003/shadowsocks</h3><p>ss中间人攻击，论文和poc</p><p><a href="https://github.com/edwardz246003/shadowsocks" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200212152437/https://github.com/edwardz246003/shadowsocks" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20200212期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
+    
+      <category term="02" scheme="https://daily.tmr.js.org/categories/2020/02/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>透明日报20200211期</title>
@@ -148,29 +171,6 @@
     
       &lt;p&gt;透明日报第20200206期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
-    
-      <category term="02" scheme="https://daily.tmr.js.org/categories/2020/02/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20200205期</title>
-    <link href="https://daily.tmr.js.org/d/20200205/"/>
-    <id>https://daily.tmr.js.org/d/20200205/</id>
-    <published>2020-02-05T15:45:02.000Z</published>
-    <updated>2020-02-05T15:45:10.298Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20200205期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#社会">社会</a>*4</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="封面报道之一-现场篇：武汉围城"><a href="#封面报道之一-现场篇：武汉围城" class="headerlink" title="封面报道之一|现场篇：武汉围城"></a>封面报道之一|现场篇：武汉围城</h3><p>新型肺炎事件发展线</p><p><a href="http://m.weekly.caixin.com/m/2020-02-01/101510145.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200205151040/http://m.weekly.caixin.com/m/2020-02-01/101510145.html" target="_blank" rel="noopener">Archive</a></p><h3 id="封面报道之二-疑似病人难题：谁来关心“移动的传染源”？"><a href="#封面报道之二-疑似病人难题：谁来关心“移动的传染源”？" class="headerlink" title="封面报道之二|疑似病人难题：谁来关心“移动的传染源”？"></a>封面报道之二|疑似病人难题：谁来关心“移动的传染源”？</h3><p><a href="http://m.weekly.caixin.com/m/2020-02-01/101510146.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200205151158/http://m.weekly.caixin.com/m/2020-02-01/101510146.html" target="_blank" rel="noopener">Archive</a></p><h3 id="封面报道之三-解毒篇：溯源新冠病毒"><a href="#封面报道之三-解毒篇：溯源新冠病毒" class="headerlink" title="封面报道之三|解毒篇：溯源新冠病毒"></a>封面报道之三|解毒篇：溯源新冠病毒</h3><p><a href="http://m.weekly.caixin.com/m/2020-02-01/101510144.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200205151225/http://m.weekly.caixin.com/m/2020-02-01/101510144.html" target="_blank" rel="noopener">Archive</a></p><h3 id="封面报道之四-国际篇：全球共济"><a href="#封面报道之四-国际篇：全球共济" class="headerlink" title="封面报道之四|国际篇：全球共济"></a>封面报道之四|国际篇：全球共济</h3><p><a href="http://m.weekly.caixin.com/m/2020-02-01/101510143.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200205151313/http://m.weekly.caixin.com/m/2020-02-01/101510143.html" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20200205期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*4&lt;/p&gt;
     
     </summary>
     
