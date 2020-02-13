@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2020-02-12T15:45:09.399Z</updated>
+  <updated>2020-02-13T15:45:09.576Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透明日报20200213期</title>
+    <link href="https://daily.tmr.js.org/d/20200213/"/>
+    <id>https://daily.tmr.js.org/d/20200213/</id>
+    <published>2020-02-13T15:45:02.000Z</published>
+    <updated>2020-02-13T15:45:09.576Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20200213期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#公告">公告</a>*1，<a href="#技术">技术</a>*1，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>[日报Bot][<a href="https://t.me/tm_daily_bot)支持匿名投稿了，欢迎来投稿鸭" target="_blank" rel="noopener">https://t.me/tm_daily_bot)支持匿名投稿了，欢迎来投稿鸭</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Webshell免杀研究"><a href="#Webshell免杀研究" class="headerlink" title="Webshell免杀研究"></a>Webshell免杀研究</h3><p>多种免杀shell，tql</p><p><a href="https://xz.aliyun.com/t/7151" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200213150210/https://xz.aliyun.com/t/7151" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="“抗疫”的第二战线：有人整晚睡不着，有人远程提供紧急心理包扎"><a href="#“抗疫”的第二战线：有人整晚睡不着，有人远程提供紧急心理包扎" class="headerlink" title="“抗疫”的第二战线：有人整晚睡不着，有人远程提供紧急心理包扎"></a>“抗疫”的第二战线：有人整晚睡不着，有人远程提供紧急心理包扎</h3><p>北京师范大学心理学部心理健康服务中心疫情心理咨询服务项目</p><p><a href="https://mp.weixin.qq.com/s/6yE18j-ypQpskN76K4hJfw" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200213140041/https://mp.weixin.qq.com/s/6yE18j-ypQpskN76K4hJfw" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20200213期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;#公告&quot;&gt;公告&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
+    
+      <category term="02" scheme="https://daily.tmr.js.org/categories/2020/02/"/>
+    
+    
+      <category term="公告" scheme="https://daily.tmr.js.org/tags/%E5%85%AC%E5%91%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>透明日报20200212期</title>
@@ -148,29 +173,6 @@
     
       &lt;p&gt;透明日报第20200207期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
-    
-      <category term="02" scheme="https://daily.tmr.js.org/categories/2020/02/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20200206期</title>
-    <link href="https://daily.tmr.js.org/d/20200206/"/>
-    <id>https://daily.tmr.js.org/d/20200206/</id>
-    <published>2020-02-06T15:45:03.000Z</published>
-    <updated>2020-02-06T15:45:09.962Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20200206期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="#互联网">互联网</a>*1，<a href="#技术">技术</a>*1，<a href="#社会">社会</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="Google-能通过-Chrome-安装-ID-跟踪用户"><a href="#Google-能通过-Chrome-安装-ID-跟踪用户" class="headerlink" title="Google 能通过 Chrome 安装 ID 跟踪用户"></a>Google 能通过 Chrome 安装 ID 跟踪用户</h3><p>又来了，<a href="https://daily.tmr.js.org/d/20190610/">https://daily.tmr.js.org/d/20190610/</a></p><p><a href="https://www.solidot.org/story?sid=63440" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200206115507/https://www.solidot.org/story?sid=63440" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="红队行动之鱼叉攻击"><a href="#红队行动之鱼叉攻击" class="headerlink" title="红队行动之鱼叉攻击"></a>红队行动之鱼叉攻击</h3><p><a href="https://payloads.online/archivers/2020-02-05/1" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200206054936/https://payloads.online/archivers/2020-02-05/1" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="公安部再部署疫情防控和维稳工作-政治安全是首位"><a href="#公安部再部署疫情防控和维稳工作-政治安全是首位" class="headerlink" title="公安部再部署疫情防控和维稳工作:政治安全是首位"></a>公安部再部署疫情防控和维稳工作:政治安全是首位</h3><p>再看这篇 <a href="http://cpc.people.com.cn/n1/2020/0121/c64094-31557684.html" target="_blank" rel="noopener">习近平：要把人民群众生命安全和身体健康放在第一位 坚决遏制疫情蔓延势头</a></p><p><a href="https://news.sina.cn/gn/2020-02-05/detail-iimxyqvz0377484.d.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200206021025/https://news.sina.cn/gn/2020-02-05/detail-iimxyqvz0377484.d.html" target="_blank" rel="noopener">Archive</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20200206期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;#互联网&quot;&gt;互联网&lt;/a&gt;*1，&lt;a href=&quot;#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
