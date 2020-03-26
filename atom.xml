@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2020-03-25T15:49:34.397Z</updated>
+  <updated>2020-03-26T15:49:47.632Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>透明日报20200326期</title>
+    <link href="https://daily.tmr.js.org/d/20200326/"/>
+    <id>https://daily.tmr.js.org/d/20200326/</id>
+    <published>2020-03-26T23:45:00.000Z</published>
+    <updated>2020-03-26T15:49:47.632Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20200326期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200326/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="基于AppleScript的利用技术"><a href="#基于AppleScript的利用技术" class="headerlink" title="基于AppleScript的利用技术"></a>基于AppleScript的利用技术</h3><blockquote><p>我们在日常的研究工作中对基于AppleScript的恶意软件利用技术进行了适当总结和狩猎回顾，并提出一个依托AppleScript独有特性的攻击方法。</p></blockquote><p><a href="http://noahblog.360.cn/applescript_attack/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200326133229/http://noahblog.360.cn/applescript_attack/" target="_blank" rel="noopener">Archive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20200326期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;https://daily.tmr.js.org/d/20200326/#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
+    
+      <category term="03" scheme="https://daily.tmr.js.org/categories/2020/03/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>透明日报20200325期</title>
     <link href="https://daily.tmr.js.org/d/20200325/"/>
     <id>https://daily.tmr.js.org/d/20200325/</id>
     <published>2020-03-25T23:45:00.000Z</published>
-    <updated>2020-03-25T15:49:34.397Z</updated>
+    <updated>2020-03-26T15:49:10.940Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200325期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200325/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="Nginx内存内容泄漏：问题复现与修复方案解析"><a href="#Nginx内存内容泄漏：问题复现与修复方案解析" class="headerlink" title="Nginx内存内容泄漏：问题复现与修复方案解析"></a>Nginx内存内容泄漏：问题复现与修复方案解析</h3><p><a href="https://www.freebuf.com/vuls/231098.html" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
@@ -45,7 +69,7 @@
     <link href="https://daily.tmr.js.org/d/20200324/"/>
     <id>https://daily.tmr.js.org/d/20200324/</id>
     <published>2020-03-24T23:45:00.000Z</published>
-    <updated>2020-03-25T15:48:53.893Z</updated>
+    <updated>2020-03-26T15:49:10.940Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200324期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200324/#其他">其他</a>*1，<a href="https://daily.tmr.js.org/d/20200324/#社会">社会</a>*1</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="硬核科普，还是伪科学？——-谈谈我眼中的-回形针PaperClip"><a href="#硬核科普，还是伪科学？——-谈谈我眼中的-回形针PaperClip" class="headerlink" title="硬核科普，还是伪科学？—— 谈谈我眼中的 回形针PaperClip"></a>硬核科普，还是伪科学？—— 谈谈我眼中的 回形针PaperClip</h3><p>作者提出回形针视频中的“知识性错误、夹杂输出的价值观”<br>个人认为这是不可避免的，回形针团队科普内容涉及方方面面，都能做到完善实在太难。另外回形针也提到团队是需要赚钱盈利的<br>另外一点就是科普的思考，科普的对象决定了内容的简化<br>这里还有一份最近<a href="https://www.notion.so/8871b7ce0ab642fc94eaf83806fe6de8" target="_blank" rel="noopener">回形针事件的时间线</a></p><p><a href="https://blog.skk.moe/post/paperclip-in-my-eyes/" target="_blank" rel="noopener">原文链接</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="疫情封锁中，被遗忘与被损害的中国弱势群体"><a href="#疫情封锁中，被遗忘与被损害的中国弱势群体" class="headerlink" title="疫情封锁中，被遗忘与被损害的中国弱势群体"></a>疫情封锁中，被遗忘与被损害的中国弱势群体</h3><p><a href="https://cn.nytimes.com/business/20200310/china-coronavirus-disabilities-wealth-gap/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200324120710/https://cn.nytimes.com/business/20200310/china-coronavirus-disabilities-wealth-gap/" target="_blank" rel="noopener">Archive</a></p>]]></content>
     
@@ -69,7 +93,7 @@
     <link href="https://daily.tmr.js.org/d/20200323/"/>
     <id>https://daily.tmr.js.org/d/20200323/</id>
     <published>2020-03-23T23:45:00.000Z</published>
-    <updated>2020-03-25T15:48:53.893Z</updated>
+    <updated>2020-03-26T15:49:10.940Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200323期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200323/#技术">技术</a>*1，<a href="https://daily.tmr.js.org/d/20200323/#社会">社会</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="模块化网站管理工具的思考"><a href="#模块化网站管理工具的思考" class="headerlink" title="模块化网站管理工具的思考"></a>模块化网站管理工具的思考</h3><p>菜刀，蚁剑，冰蝎的分析与思考</p><p><a href="https://tmr.js.org/p/4644576d/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200323142951/https://tmr.js.org/p/4644576d/" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="韩国N号房记者实录完整翻译"><a href="#韩国N号房记者实录完整翻译" class="headerlink" title="韩国N号房记者实录完整翻译"></a>韩国N号房记者实录完整翻译</h3><p><a href="https://card.weibo.com/article/m/show/id/2309404485259478565112" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200323081648/https://card.weibo.com/article/m/show/id/2309404485259478565112" target="_blank" rel="noopener">Archive</a></p>]]></content>
     
@@ -93,7 +117,7 @@
     <link href="https://daily.tmr.js.org/d/20200322/"/>
     <id>https://daily.tmr.js.org/d/20200322/</id>
     <published>2020-03-22T23:45:00.000Z</published>
-    <updated>2020-03-25T15:48:53.893Z</updated>
+    <updated>2020-03-26T15:49:10.940Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200322期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200322/#技术">技术</a>*3，<a href="https://daily.tmr.js.org/d/20200322/#生活">生活</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="BurpSuite系列-基础技巧（一）"><a href="#BurpSuite系列-基础技巧（一）" class="headerlink" title="BurpSuite系列 | 基础技巧（一）"></a>BurpSuite系列 | 基础技巧（一）</h3><p><a href="https://gh0st.cn/archives/2020-02-13/1" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200321175525/https://gh0st.cn/archives/2020-02-13/1" target="_blank" rel="noopener">Archive</a></p><h3 id="关于第三方登陆我们还能做些什么"><a href="#关于第三方登陆我们还能做些什么" class="headerlink" title="关于第三方登陆我们还能做些什么"></a>关于第三方登陆我们还能做些什么</h3><p><a href="https://xz.aliyun.com/t/7360" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200321175537/https://xz.aliyun.com/t/7360" target="_blank" rel="noopener">Archive</a></p><h3 id="RFI巧用WebDAV绕过URL包含限制Getshell"><a href="#RFI巧用WebDAV绕过URL包含限制Getshell" class="headerlink" title="RFI巧用WebDAV绕过URL包含限制Getshell"></a>RFI巧用WebDAV绕过URL包含限制Getshell</h3><p><a href="https://www.anquanke.com/post/id/201060" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200322084855/https://www.anquanke.com/post/id/201060" target="_blank" rel="noopener">Archive</a></p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="为什么香蕉熟了之后，卡路里会更高"><a href="#为什么香蕉熟了之后，卡路里会更高" class="headerlink" title="为什么香蕉熟了之后，卡路里会更高?"></a>为什么香蕉熟了之后，卡路里会更高?</h3><p>抗性淀粉与普通淀粉</p><p><a href="https://news-at.zhihu.com/story/9721702" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200321180058/https://news-at.zhihu.com/story/9721702" target="_blank" rel="noopener">Archive</a></p>]]></content>
     
@@ -117,7 +141,7 @@
     <link href="https://daily.tmr.js.org/d/20200321/"/>
     <id>https://daily.tmr.js.org/d/20200321/</id>
     <published>2020-03-21T23:45:00.000Z</published>
-    <updated>2020-03-25T15:48:53.893Z</updated>
+    <updated>2020-03-26T15:49:10.940Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200321期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200321/#技术">技术</a>*3，<a href="https://daily.tmr.js.org/d/20200321/#社会">社会</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="失业之前的安全工作总结"><a href="#失业之前的安全工作总结" class="headerlink" title="失业之前的安全工作总结"></a>失业之前的安全工作总结</h3><p>甲方安全</p><p><a href="https://mp.weixin.qq.com/s/19IJN-wutsUaAsxUM3GhnQ" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200321065808/https://mp.weixin.qq.com/s/19IJN-wutsUaAsxUM3GhnQ" target="_blank" rel="noopener">Archive</a></p><h3 id="Windows特权提升漏洞-符号"><a href="#Windows特权提升漏洞-符号" class="headerlink" title="Windows特权提升漏洞-符号"></a>Windows特权提升漏洞-符号</h3><p><a href="https://payloads.online/archivers/2020-03-21/1" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200321135414/https://payloads.online/archivers/2020-03-21/1" target="_blank" rel="noopener">Archive</a></p><h3 id="腾讯安全威胁情报中心“明炉亮灶”工程：​自动化恶意域名检测揭秘"><a href="#腾讯安全威胁情报中心“明炉亮灶”工程：​自动化恶意域名检测揭秘" class="headerlink" title="腾讯安全威胁情报中心“明炉亮灶”工程：​自动化恶意域名检测揭秘"></a>腾讯安全威胁情报中心“明炉亮灶”工程：​自动化恶意域名检测揭秘</h3><p>另外这个也可以做<a href="https://daily.tmr.js.org/d/20190516/#DNS%E9%9A%A7%E9%81%93%E6%A3%80%E6%B5%8B">DNS隧道检测</a></p><p><a href="https://mp.weixin.qq.com/s/QV8ErKHow3b-AMp6HMzKQg" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200321135914/https://mp.weixin.qq.com/s/QV8ErKHow3b-AMp6HMzKQg" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="又轮到老外感慨“人类即祸患”了"><a href="#又轮到老外感慨“人类即祸患”了" class="headerlink" title="又轮到老外感慨“人类即祸患”了"></a>又轮到老外感慨“人类即祸患”了</h3><blockquote><p>有人将这段世界逐渐停摆的过程，称为一场地球的“自我治愈”</p></blockquote><p><a href="https://www.yystv.cn/p/6332" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200321094741/https://www.yystv.cn/p/6332" target="_blank" rel="noopener">Archive</a></p>]]></content>
     
@@ -141,7 +165,7 @@
     <link href="https://daily.tmr.js.org/d/20200320/"/>
     <id>https://daily.tmr.js.org/d/20200320/</id>
     <published>2020-03-20T23:45:00.000Z</published>
-    <updated>2020-03-25T15:48:53.893Z</updated>
+    <updated>2020-03-26T15:49:10.940Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200320期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200320/#其他">其他</a>*1，<a href="https://daily.tmr.js.org/d/20200320/#技术">技术</a>*3</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="被洗脑很难自知，要不然世上也不会有邪教…-来自tombkeeper-微博"><a href="#被洗脑很难自知，要不然世上也不会有邪教…-来自tombkeeper-微博" class="headerlink" title="被洗脑很难自知，要不然世上也不会有邪教… 来自tombkeeper - 微博"></a>被洗脑很难自知，要不然世上也不会有邪教… 来自tombkeeper - 微博</h3><blockquote><p>可以试试在入职前，把对这家企业，以及和这家企业有关的事物的想法写下来。写十条，每条一句话。然后分别在入职后 3 个月、6 个月、12 个月的时候拿出来看看，看自己的想法改变了没有。</p></blockquote><p><a href="https://weibo.com/1401527553/D7Bz15wom" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200320060734/https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F1401527553%2FD7Bz15wom%3Ftype%3Dcomment&domain=.weibo.com&ua=php-sso_sdk_client-0.6.28&_rand=1584684453.6389" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="如何更加精确的检测Tomcat-AJP文件包含漏洞-CVE-2020-1938"><a href="#如何更加精确的检测Tomcat-AJP文件包含漏洞-CVE-2020-1938" class="headerlink" title="如何更加精确的检测Tomcat AJP文件包含漏洞(CVE-2020-1938)"></a>如何更加精确的检测Tomcat AJP文件包含漏洞(CVE-2020-1938)</h3><p><a href="http://gv7.me/articles/2020/how-to-detect-tomcat-ajp-lfi-more-accurately/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200320012118/http://gv7.me/articles/2020/how-to-detect-tomcat-ajp-lfi-more-accurately/" target="_blank" rel="noopener">Archive</a></p><h3 id="npm-bin属性目录限制不严导致任意文件软连接"><a href="#npm-bin属性目录限制不严导致任意文件软连接" class="headerlink" title="npm bin属性目录限制不严导致任意文件软连接"></a>npm bin属性目录限制不严导致任意文件软连接</h3><p>如此苦涩</p><blockquote><p>截止今天npm client修复了漏洞，npmjs.com也做了相应的处理，并且把我的号封了</p></blockquote><p><a href="https://p0sec.net/index.php/archives/151/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200320012718/https://p0sec.net/index.php/archives/151/" target="_blank" rel="noopener">Archive</a></p><h3 id="DOM-Clobbering重见天日"><a href="#DOM-Clobbering重见天日" class="headerlink" title="DOM Clobbering重见天日"></a>DOM Clobbering重见天日</h3><blockquote><p>The DOM is a mess. In an effort to support legacy quick short cuts such as “form.name” etc the browsers have created a Frankenstein monster.</p></blockquote><p><a href="https://xz.aliyun.com/t/7343" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200320122933/https://xz.aliyun.com/t/7343" target="_blank" rel="noopener">Archive</a></p>]]></content>
     
@@ -165,7 +189,7 @@
     <link href="https://daily.tmr.js.org/d/20200319/"/>
     <id>https://daily.tmr.js.org/d/20200319/</id>
     <published>2020-03-19T23:45:00.000Z</published>
-    <updated>2020-03-25T15:48:53.893Z</updated>
+    <updated>2020-03-26T15:49:10.940Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200319期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200319/#互联网">互联网</a>*1，<a href="https://daily.tmr.js.org/d/20200319/#公告">公告</a>*1，<a href="https://daily.tmr.js.org/d/20200319/#技术">技术</a>*2，<a href="https://daily.tmr.js.org/d/20200319/#社会">社会</a>*2</p><a id="more"></a><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>日报<a href="https://t.me/tm_daily_bot" target="_blank" rel="noopener">Bot</a>已整合<a href="https://github.com/ttttmr/ClearUrl" target="_blank" rel="noopener">ClearUrl</a>，将自动删除提交链接中的跟踪参数</p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="游戏的汉化过程是怎样的？"><a href="#游戏的汉化过程是怎样的？" class="headerlink" title="游戏的汉化过程是怎样的？"></a>游戏的汉化过程是怎样的？</h3><blockquote><p>本文谈论的都是民间汉化过程</p></blockquote><p><a href="https://news-at.zhihu.com/story/9721808" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200319041014/https://news-at.zhihu.com/story/9721808" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="反51-攻击：哈佛MIT学者提出抗击双花新理论"><a href="#反51-攻击：哈佛MIT学者提出抗击双花新理论" class="headerlink" title="反51%攻击：哈佛MIT学者提出抗击双花新理论"></a>反51%攻击：哈佛MIT学者提出抗击双花新理论</h3><p>感觉是一个可能</p><blockquote><p>一家交易所、商家或者有核心开发者已经编写了一个基础设施，以便在发生深度重组时自动反击</p></blockquote><p><a href="https://www.8btc.com/article/568133" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200319042032/https://www.8btc.com/article/568133" target="_blank" rel="noopener">Archive</a></p><h3 id="USB-Keystroke-Injection-Protection"><a href="#USB-Keystroke-Injection-Protection" class="headerlink" title="USB Keystroke Injection Protection"></a>USB Keystroke Injection Protection</h3><p>USB键盘注入保护，原理上还是挺简单暴力的，判断键入速度，过快就拦截掉，当然也就还有如何判断，自适应用户输入等等</p><p><a href="https://opensource.googleblog.com/2020/03/usb-keystroke-injection-protection.html" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200319092049/https://opensource.googleblog.com/2020/03/usb-keystroke-injection-protection.html" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="火神山工人想回家：至少9人确诊，生计暂难为继"><a href="#火神山工人想回家：至少9人确诊，生计暂难为继" class="headerlink" title="火神山工人想回家：至少9人确诊，生计暂难为继"></a>火神山工人想回家：至少9人确诊，生计暂难为继</h3><p><a href="https://news.sina.com.cn/c/2020-03-18/doc-iimxyqwa1444921.shtml" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200319040056/https://news.sina.com.cn/c/2020-03-18/doc-iimxyqwa1444921.shtml" target="_blank" rel="noopener">Archive</a></p><h3 id="Solidot-上不了网课的孩子"><a href="#Solidot-上不了网课的孩子" class="headerlink" title="Solidot | 上不了网课的孩子"></a>Solidot | 上不了网课的孩子</h3><blockquote><p>尽管中国经济近几十年来取得了长足发展，但仍有很大一部分人缺少网上生活所需的基本条件——智能手机和可靠的互联网</p></blockquote><p><a href="https://www.solidot.org/story?sid=63853" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200319081850/https://www.solidot.org/story?sid=63853" target="_blank" rel="noopener">Archive</a></p>]]></content>
     
@@ -191,7 +215,7 @@
     <link href="https://daily.tmr.js.org/d/20200318/"/>
     <id>https://daily.tmr.js.org/d/20200318/</id>
     <published>2020-03-18T23:45:00.000Z</published>
-    <updated>2020-03-25T15:48:53.893Z</updated>
+    <updated>2020-03-26T15:49:10.940Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200318期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200318/#互联网">互联网</a>*2，<a href="https://daily.tmr.js.org/d/20200318/#技术">技术</a>*3</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="社交网络时代的opinion版"><a href="#社交网络时代的opinion版" class="headerlink" title="社交网络时代的opinion版"></a>社交网络时代的opinion版</h3><blockquote><ol><li>读者只能看到单篇文章，只能感到原子化的单篇文章。这样的单篇文章通过微博等社交账号发出去之后，再经过层层转发，用户只会感知到这篇文章，不会感知到同一个账号还发过不同的评论。</li><li>用户会认为报社是账号，微博、微信是平台，很难认知到报社的opinion版也是平台。这是由发帖的模式决定的，能认知到opinion版的人都不多。</li><li>用户会认为文章代表报社的态度，因为报社账号选择了这篇文章而非那篇文章来发微博。</li></ol></blockquote><p><a href="http://www.orangeclk.com/2020/03/16/opinion-in-social-network/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200317171310/http://www.orangeclk.com/2020/03/16/opinion-in-social-network/" target="_blank" rel="noopener">Archive</a></p><h3 id="Activists-created-a-12-5-million-block-digital-library-in-‘Minecraft’-to-bypass-censorship-laws"><a href="#Activists-created-a-12-5-million-block-digital-library-in-‘Minecraft’-to-bypass-censorship-laws" class="headerlink" title="Activists created a 12.5 million block digital library in ‘Minecraft’ to bypass censorship laws"></a>Activists created a 12.5 million block digital library in ‘Minecraft’ to bypass censorship laws</h3><p>在“我的世界”中的数字图书馆，以绕过审查法</p><blockquote><p>In many authoritarian countries where news sources and books are censored, the video game “Minecraft” is not.</p></blockquote><p><a href="https://www.pulse.com.gh/bi/tech/activists-created-a-125-million-block-digital-library-in-minecraft-to-bypass/bn4gpcc" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200318154116/https://www.pulse.com.gh/bi/tech/activists-created-a-125-million-block-digital-library-in-minecraft-to-bypass/bn4gpcc" target="_blank" rel="noopener">Archive</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="40年回顾，一文读懂容器发展史"><a href="#40年回顾，一文读懂容器发展史" class="headerlink" title="40年回顾，一文读懂容器发展史"></a>40年回顾，一文读懂容器发展史</h3><p><a href="https://www.infoq.cn/article/SS6SItkLGoLExQP4uMr5" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200317162616/https://www.infoq.cn/article/SS6SItkLGoLExQP4uMr5" target="_blank" rel="noopener">Archive</a></p><h3 id="网络安全NTA技术基本分析"><a href="#网络安全NTA技术基本分析" class="headerlink" title="网络安全NTA技术基本分析"></a>网络安全NTA技术基本分析</h3><p>附上<a href="https://www.aqniu.com/tools-tech/53136.html" target="_blank" rel="noopener">山石网科的文章</a></p><p><a href="https://manning23.github.io/2020/03/14/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8NTA%E6%8A%80%E6%9C%AF%E5%9F%BA%E6%9C%AC%E5%88%86%E6%9E%90/" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200317174408/https://manning23.github.io/2020/03/14/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8NTA%E6%8A%80%E6%9C%AF%E5%9F%BA%E6%9C%AC%E5%88%86%E6%9E%90/" target="_blank" rel="noopener">Archive</a></p><h3 id="反射文件下载攻击-Reflected-File-Download-Attack"><a href="#反射文件下载攻击-Reflected-File-Download-Attack" class="headerlink" title="反射文件下载攻击 - Reflected File Download Attack"></a>反射文件下载攻击 - Reflected File Download Attack</h3><p>很老的文章了，倒是没看过，文末pdf推荐看一下</p><p><a href="https://wooyaa.me/archives/RFD-Attack" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200317175622/https://wooyaa.me/archives/RFD-Attack" target="_blank" rel="noopener">Archive</a></p>]]></content>
     
@@ -215,7 +239,7 @@
     <link href="https://daily.tmr.js.org/d/20200317/"/>
     <id>https://daily.tmr.js.org/d/20200317/</id>
     <published>2020-03-17T23:45:00.000Z</published>
-    <updated>2020-03-25T15:48:53.893Z</updated>
+    <updated>2020-03-26T15:49:10.940Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200317期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200317/#技术">技术</a>*1，<a href="https://daily.tmr.js.org/d/20200317/#社会">社会</a>*6</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="csp绕过姿势"><a href="#csp绕过姿势" class="headerlink" title="csp绕过姿势"></a>csp绕过姿势</h3><p><a href="https://xz.aliyun.com/t/7372" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200317134537/https://xz.aliyun.com/t/7372" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="张文宏新冠肺炎复盘（1）：我们从至暗时刻中走来"><a href="#张文宏新冠肺炎复盘（1）：我们从至暗时刻中走来" class="headerlink" title="张文宏新冠肺炎复盘（1）：我们从至暗时刻中走来"></a>张文宏新冠肺炎复盘（1）：我们从至暗时刻中走来</h3><p>之前也发过张文宏教授的<a href="https://daily.tmr.js.org/d/20200223/#张文宏教授的演讲，每个人都应该了解的传染病历史和知识">相关内容</a>，这是复盘系列共4篇</p><p><a href="https://mp.weixin.qq.com/s/-2r05aZKCneexG-65Iz0CA" target="_blank" rel="noopener">原文链接</a></p><h3 id="张文宏新冠肺炎复盘（2）：以为是黑天鹅，其实是灰犀牛"><a href="#张文宏新冠肺炎复盘（2）：以为是黑天鹅，其实是灰犀牛" class="headerlink" title="张文宏新冠肺炎复盘（2）：以为是黑天鹅，其实是灰犀牛"></a>张文宏新冠肺炎复盘（2）：以为是黑天鹅，其实是灰犀牛</h3><p>第二篇在微信上没有找到，这里放第一财经的转载</p><p><a href="https://m.yicai.com/news/100524021.html" target="_blank" rel="noopener">原文链接</a></p><h3 id="张文宏新冠肺炎复盘（3）：全球流行背景下的国际间新冠防控策略比较及后续应对措施思考"><a href="#张文宏新冠肺炎复盘（3）：全球流行背景下的国际间新冠防控策略比较及后续应对措施思考" class="headerlink" title="张文宏新冠肺炎复盘（3）：全球流行背景下的国际间新冠防控策略比较及后续应对措施思考"></a>张文宏新冠肺炎复盘（3）：全球流行背景下的国际间新冠防控策略比较及后续应对措施思考</h3><p><a href="https://mp.weixin.qq.com/s/o5fVN80TLrIq1e6uDF8e3w" target="_blank" rel="noopener">原文链接</a></p><h3 id="张文宏新冠肺炎复盘（4）：穿越寒冬，向光明而生的中国传染病防控体系"><a href="#张文宏新冠肺炎复盘（4）：穿越寒冬，向光明而生的中国传染病防控体系" class="headerlink" title="张文宏新冠肺炎复盘（4）：穿越寒冬，向光明而生的中国传染病防控体系"></a>张文宏新冠肺炎复盘（4）：穿越寒冬，向光明而生的中国传染病防控体系</h3><p>复盘了多个国家，确实也是一国一策，生命，经济，社会等多方考量，其实也很好奇武汉是在什么条件下基于怎样的考量做出封城的决定<br>另外也学到了不少传染病发展阶段和防治方案</p><p><a href="https://mp.weixin.qq.com/s/HuWZBCU0jWd8TC4lH-3dHg" target="_blank" rel="noopener">原文链接</a></p><h3 id="张文宏：大流行状态下的国际抗疫与中国应对——国际战疫动态与展望（二）"><a href="#张文宏：大流行状态下的国际抗疫与中国应对——国际战疫动态与展望（二）" class="headerlink" title="张文宏：大流行状态下的国际抗疫与中国应对——国际战疫动态与展望（二）"></a>张文宏：大流行状态下的国际抗疫与中国应对——国际战疫动态与展望（二）</h3><p><a href="https://mp.weixin.qq.com/s/Rs2n4N2QNI4sJxEdDOk07g" target="_blank" rel="noopener">原文链接</a></p><h3 id="武汉金银潭医院1775名新冠患者研究：O型血相对不易感"><a href="#武汉金银潭医院1775名新冠患者研究：O型血相对不易感" class="headerlink" title="武汉金银潭医院1775名新冠患者研究：O型血相对不易感"></a>武汉金银潭医院1775名新冠患者研究：O型血相对不易感</h3><p><a href="https://view.inews.qq.com/a/20200317A0SZR500" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200317153500/https://view.inews.qq.com/a/20200317A0SZR500" target="_blank" rel="noopener">Archive</a></p>]]></content>
     
@@ -239,7 +263,7 @@
     <link href="https://daily.tmr.js.org/d/20200316/"/>
     <id>https://daily.tmr.js.org/d/20200316/</id>
     <published>2020-03-16T23:45:00.000Z</published>
-    <updated>2020-03-25T15:48:53.893Z</updated>
+    <updated>2020-03-26T15:49:10.940Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200316期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
     
@@ -267,7 +291,7 @@
     <link href="https://daily.tmr.js.org/d/20200315/"/>
     <id>https://daily.tmr.js.org/d/20200315/</id>
     <published>2020-03-15T23:45:00.000Z</published>
-    <updated>2020-03-25T15:48:53.893Z</updated>
+    <updated>2020-03-26T15:49:10.940Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200315期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200315/#互联网">互联网</a>*1，<a href="https://daily.tmr.js.org/d/20200315/#技术">技术</a>*2</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="RSS二十年"><a href="#RSS二十年" class="headerlink" title="RSS二十年"></a>RSS二十年</h3><p>kyth关于RSS的理解</p><p><a href="https://kyth.hedwig.pub/i/rss-er-shi-nian" target="_blank" rel="noopener">原文链接</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="svg验证码识别"><a href="#svg验证码识别" class="headerlink" title="svg验证码识别"></a>svg验证码识别</h3><p>由于验证码生成的问题，可100%识别</p><p><a href="https://xz.aliyun.com/t/7347" target="_blank" rel="noopener">原文链接</a></p><h3 id="云原生之容器安全实践"><a href="#云原生之容器安全实践" class="headerlink" title="云原生之容器安全实践"></a>云原生之容器安全实践</h3><p><a href="https://mp.weixin.qq.com/s/aGkpiig3x1NUv5Qfomehvw" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
@@ -291,7 +315,7 @@
     <link href="https://daily.tmr.js.org/d/20200314/"/>
     <id>https://daily.tmr.js.org/d/20200314/</id>
     <published>2020-03-14T23:45:00.000Z</published>
-    <updated>2020-03-25T15:48:53.893Z</updated>
+    <updated>2020-03-26T15:49:10.940Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200314期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
     
@@ -319,7 +343,7 @@
     <link href="https://daily.tmr.js.org/d/20200313/"/>
     <id>https://daily.tmr.js.org/d/20200313/</id>
     <published>2020-03-13T23:45:00.000Z</published>
-    <updated>2020-03-25T15:48:53.893Z</updated>
+    <updated>2020-03-26T15:49:10.940Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200313期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
     
@@ -347,7 +371,7 @@
     <link href="https://daily.tmr.js.org/d/20200312/"/>
     <id>https://daily.tmr.js.org/d/20200312/</id>
     <published>2020-03-12T23:45:00.000Z</published>
-    <updated>2020-03-25T15:48:53.893Z</updated>
+    <updated>2020-03-26T15:49:10.940Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200312期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200312/#技术">技术</a>*3，<a href="https://daily.tmr.js.org/d/20200312/#社会">社会</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="这是一篇“不一样”的真实渗透测试案例分析文章"><a href="#这是一篇“不一样”的真实渗透测试案例分析文章" class="headerlink" title="这是一篇“不一样”的真实渗透测试案例分析文章"></a>这是一篇“不一样”的真实渗透测试案例分析文章</h3><p>学习了，不仅是技术，成文风格和流程都不错</p><p><a href="https://blog.ateam.qianxin.com/post/zhe-shi-yi-pian-bu-yi-yang-de-zhen-shi-shen-tou-ce-shi-an-li-fen-xi-wen-zhang/" target="_blank" rel="noopener">原文链接</a></p><h3 id="Red-Team-Tactics-Advanced-process-monitoring-techniques-in-offensive-operations"><a href="#Red-Team-Tactics-Advanced-process-monitoring-techniques-in-offensive-operations" class="headerlink" title="Red Team Tactics: Advanced process monitoring techniques in offensive operations"></a>Red Team Tactics: Advanced process monitoring techniques in offensive operations</h3><p>作者根据Sysinternals Suite制作命令行版工具便于渗透利用，GitHub在<a href="https://github.com/outflanknl/Ps-Tools" target="_blank" rel="noopener">这里</a></p><p><a href="https://outflank.nl/blog/2020/03/11/red-team-tactics-advanced-process-monitoring-techniques-in-offensive-operations/" target="_blank" rel="noopener">原文链接</a></p><h3 id="警惕疫情次生伤害，黑产这波「疫情流量」将决定很多行业的未来"><a href="#警惕疫情次生伤害，黑产这波「疫情流量」将决定很多行业的未来" class="headerlink" title="警惕疫情次生伤害，黑产这波「疫情流量」将决定很多行业的未来"></a>警惕疫情次生伤害，黑产这波「疫情流量」将决定很多行业的未来</h3><p>歪个楼，这波自建的健康打开平台们不知道要漏多少数据</p><p><a href="https://www.freebuf.com/articles/network/229952.html" target="_blank" rel="noopener">原文链接</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="四人殉职，四人濒危-武汉中心医院“至暗时刻”"><a href="#四人殉职，四人濒危-武汉中心医院“至暗时刻”" class="headerlink" title="四人殉职，四人濒危 武汉中心医院“至暗时刻”"></a>四人殉职，四人濒危 武汉中心医院“至暗时刻”</h3><p>南方周末记者张玥：这篇稿子有两个隐去的细节，补充在这里：</p><ol><li>训诫的三句排比：你视武汉市自军运会以来的城建结果于不顾；你是影响武汉市安定团结的罪人；你是破坏武汉市向前发展的元凶。  </li><li>三个月不去病房的书记，却在接到卫健委命令24小时在医院之后，安了床、装了淋浴、还不忘让工作人员装上浴霸，因为她“洗澡怕冷”。</li></ol><p><a href="http://www.infzm.com/contents/178912" target="_blank" rel="noopener">原文链接</a> <a href="https://archive.vn/IK2XI" target="_blank" rel="noopener">Archive</a></p><h3 id="Solidot-自动化与幽灵工作的崛起"><a href="#Solidot-自动化与幽灵工作的崛起" class="headerlink" title="Solidot | 自动化与幽灵工作的崛起"></a>Solidot | 自动化与幽灵工作的崛起</h3><p><a href="https://www.solidot.org/story?sid=63802" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
@@ -371,7 +395,7 @@
     <link href="https://daily.tmr.js.org/d/20200311/"/>
     <id>https://daily.tmr.js.org/d/20200311/</id>
     <published>2020-03-11T23:45:00.000Z</published>
-    <updated>2020-03-25T15:48:53.893Z</updated>
+    <updated>2020-03-26T15:49:10.940Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200311期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200311/#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="RSA-2020：绿盟科技赵粮对国际网络安全市场的三个观察"><a href="#RSA-2020：绿盟科技赵粮对国际网络安全市场的三个观察" class="headerlink" title="RSA 2020：绿盟科技赵粮对国际网络安全市场的三个观察"></a>RSA 2020：绿盟科技赵粮对国际网络安全市场的三个观察</h3><p><a href="http://blog.nsfocus.net/rsa2020-zhaoliang/" target="_blank" rel="noopener">原文链接</a></p><h3 id="BPF使能软件定义内核"><a href="#BPF使能软件定义内核" class="headerlink" title="BPF使能软件定义内核"></a>BPF使能软件定义内核</h3><p>学习了，<a href="https://daily.tmr.js.org/d/20191001/#图解抓包">之前</a>也看过BPF，这篇更详细，BPF不只是网络工具，也是用户态操作内核的工具</p><p><a href="http://blog.nsfocus.net/bpf-enable-software-definition-kernel/" target="_blank" rel="noopener">原文链接</a></p>]]></content>
     
@@ -395,7 +419,7 @@
     <link href="https://daily.tmr.js.org/d/20200310/"/>
     <id>https://daily.tmr.js.org/d/20200310/</id>
     <published>2020-03-10T23:45:00.000Z</published>
-    <updated>2020-03-25T15:48:53.893Z</updated>
+    <updated>2020-03-26T15:49:10.940Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200310期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200310/#互联网">互联网</a>*1，<a href="https://daily.tmr.js.org/d/20200310/#其他">其他</a>*2，<a href="https://daily.tmr.js.org/d/20200310/#社会">社会</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="【游戏侦查冰】50年前就能上网课的神器！居然还可以玩网游？-video"><a href="#【游戏侦查冰】50年前就能上网课的神器！居然还可以玩网游？-video" class="headerlink" title="【游戏侦查冰】50年前就能上网课的神器！居然还可以玩网游？[video]"></a>【游戏侦查冰】50年前就能上网课的神器！居然还可以玩网游？[video]</h3><p>远程教育系统PLATO的介绍和对世界的影响</p><p><a href="https://www.bilibili.com/video/av94581355" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200310050259/https://www.bilibili.com/video/av94581355" target="_blank" rel="noopener">Archive</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="【皮皮灰】浅谈考研盗版视频问题"><a href="#【皮皮灰】浅谈考研盗版视频问题" class="headerlink" title="【皮皮灰】浅谈考研盗版视频问题"></a>【皮皮灰】浅谈考研盗版视频问题</h3><blockquote><p>皮皮灰记得考研的时候看张宇老师的冲刺盗版视频的时候，老师说了这么一句话，让我特别感动，他说，“我知道屏幕面前很多同学看得是盗版视频，没关系，同学们以后上了研究生，能够回报给社会就可以了。”</p></blockquote><p><a href="https://mp.weixin.qq.com/s/gpf0hJbMuepKaVwn6vDbaA" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200310045841/https://mp.weixin.qq.com/s/gpf0hJbMuepKaVwn6vDbaA" target="_blank" rel="noopener">Archive</a></p><h3 id="一张图告诉你「伍德氏灯」是个什么灯"><a href="#一张图告诉你「伍德氏灯」是个什么灯" class="headerlink" title="一张图告诉你「伍德氏灯」是个什么灯"></a>一张图告诉你「伍德氏灯」是个什么灯</h3><p><a href="https://zhuanlan.zhihu.com/p/46322665" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200310113137/https://zhuanlan.zhihu.com/p/46322665" target="_blank" rel="noopener">Archive</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="发哨子的人"><a href="#发哨子的人" class="headerlink" title="发哨子的人"></a>发哨子的人</h3><blockquote><p>2019年12月30日，艾芬曾拿到过一份不明肺炎病人的病毒检测报告，她用红色圈出「SARS冠状病毒」字样，当大学同学问起时，她将这份报告拍下来传给了这位同是医生的同学。当晚，这份报告传遍了武汉的医生圈，转发这份报告的人就包括那8位被警方训诫的医生。</p></blockquote><blockquote><p>此前的一些报道，艾芬被称为「又一个被训诫的女医生浮出水面」，也有人将她称为「吹哨人」，艾芬纠正了这个说法，她说自己不是吹哨人，是那个「发哨子的人」。</p></blockquote><p><a href="https://card.weibo.com/article/m/show/id/2309404480863474679890" target="_blank" rel="noopener">原文链接</a> <a href="https://archive.vn/u9n3D" target="_blank" rel="noopener">Archive</a></p>]]></content>
     
@@ -419,7 +443,7 @@
     <link href="https://daily.tmr.js.org/d/20200309/"/>
     <id>https://daily.tmr.js.org/d/20200309/</id>
     <published>2020-03-09T23:45:00.000Z</published>
-    <updated>2020-03-25T15:48:53.893Z</updated>
+    <updated>2020-03-26T15:49:10.940Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200309期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
     
@@ -447,7 +471,7 @@
     <link href="https://daily.tmr.js.org/d/20200308/"/>
     <id>https://daily.tmr.js.org/d/20200308/</id>
     <published>2020-03-08T23:45:00.000Z</published>
-    <updated>2020-03-25T15:48:53.893Z</updated>
+    <updated>2020-03-26T15:49:10.940Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200308期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200308/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="CLUI-Building-a-Graphical-Command-Line"><a href="#CLUI-Building-a-Graphical-Command-Line" class="headerlink" title="CLUI: Building a Graphical Command Line"></a>CLUI: Building a Graphical Command Line</h3><p>图形化命令行，很有趣的思考</p><p><a href="https://blog.repl.it/clui" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200308053508/https://blog.repl.it/clui" target="_blank" rel="noopener">Archive</a></p>]]></content>
     
@@ -471,7 +495,7 @@
     <link href="https://daily.tmr.js.org/d/20200307/"/>
     <id>https://daily.tmr.js.org/d/20200307/</id>
     <published>2020-03-07T23:45:00.000Z</published>
-    <updated>2020-03-25T15:48:53.893Z</updated>
+    <updated>2020-03-26T15:49:10.940Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200307期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200307/#其他">其他</a>*1</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="李永乐老师北京大学演讲：幸福在哪里？"><a href="#李永乐老师北京大学演讲：幸福在哪里？" class="headerlink" title="李永乐老师北京大学演讲：幸福在哪里？"></a>李永乐老师北京大学演讲：幸福在哪里？</h3><p>看不了YouTube的同学可以搜索标题在国内视频网站上看</p><p><a href="https://www.youtube.com/watch?v=8QUzQVC97lo" target="_blank" rel="noopener">原文链接</a> <a href="https://web.archive.org/web/20200306181614/https://www.youtube.com/watch?v=8QUzQVC97lo&app=desktop" target="_blank" rel="noopener">Archive</a></p>]]></content>
     
@@ -479,34 +503,6 @@
     
       &lt;p&gt;透明日报第20200307期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;https://daily.tmr.js.org/d/20200307/#其他&quot;&gt;其他&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
-    
-      <category term="03" scheme="https://daily.tmr.js.org/categories/2020/03/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20200306期</title>
-    <link href="https://daily.tmr.js.org/d/20200306/"/>
-    <id>https://daily.tmr.js.org/d/20200306/</id>
-    <published>2020-03-06T23:45:00.000Z</published>
-    <updated>2020-03-25T15:48:53.893Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20200306期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;透明日报第20200306期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日无更新&lt;/p&gt;
-
-      
     
     </summary>
     
