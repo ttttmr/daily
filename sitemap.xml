@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://daily.tmr.js.org/d/20200430/</loc>
+    
+    <lastmod>2020-05-04T02:21:01.235Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://daily.tmr.js.org/status/index.html</loc>
     
     <lastmod>2020-05-04T02:19:07.285Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>https://daily.tmr.js.org/d/20200501/</loc>
     
     <lastmod>2020-05-01T16:01:11.440Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://daily.tmr.js.org/d/20200430/</loc>
-    
-    <lastmod>2020-04-30T16:01:09.379Z</lastmod>
     
   </url>
   
