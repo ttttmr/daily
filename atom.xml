@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2020-06-18T15:50:34.807Z</updated>
+  <updated>2020-06-19T15:49:57.449Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>透明日报20200619期</title>
+    <link href="https://daily.tmr.js.org/d/20200619/"/>
+    <id>https://daily.tmr.js.org/d/20200619/</id>
+    <published>2020-06-19T23:45:00.000Z</published>
+    <updated>2020-06-19T15:49:57.449Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20200619期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;透明日报第20200619期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日无更新&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
+    
+      <category term="06" scheme="https://daily.tmr.js.org/categories/2020/06/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>透明日报20200618期</title>
     <link href="https://daily.tmr.js.org/d/20200618/"/>
     <id>https://daily.tmr.js.org/d/20200618/</id>
     <published>2020-06-18T23:45:00.000Z</published>
-    <updated>2020-06-18T15:50:34.807Z</updated>
+    <updated>2020-06-19T15:49:08.052Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200618期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
     
@@ -49,7 +77,7 @@
     <link href="https://daily.tmr.js.org/d/20200617/"/>
     <id>https://daily.tmr.js.org/d/20200617/</id>
     <published>2020-06-17T23:45:00.000Z</published>
-    <updated>2020-06-18T15:49:56.397Z</updated>
+    <updated>2020-06-19T15:49:08.052Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200617期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
     
@@ -77,7 +105,7 @@
     <link href="https://daily.tmr.js.org/d/20200616/"/>
     <id>https://daily.tmr.js.org/d/20200616/</id>
     <published>2020-06-16T23:45:00.000Z</published>
-    <updated>2020-06-18T15:49:56.397Z</updated>
+    <updated>2020-06-19T15:49:08.052Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200616期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
     
@@ -105,7 +133,7 @@
     <link href="https://daily.tmr.js.org/d/20200615/"/>
     <id>https://daily.tmr.js.org/d/20200615/</id>
     <published>2020-06-15T23:45:00.000Z</published>
-    <updated>2020-06-18T15:49:56.397Z</updated>
+    <updated>2020-06-19T15:49:08.052Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200615期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200615/#互联网">互联网</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="BrowserLeaks-Web-Browser-Fingerprinting-Browsing-Privacy"><a href="#BrowserLeaks-Web-Browser-Fingerprinting-Browsing-Privacy" class="headerlink" title="BrowserLeaks - Web Browser Fingerprinting - Browsing Privacy"></a><a href="https://browserleaks.com/" target="_blank" rel="noopener">BrowserLeaks - Web Browser Fingerprinting - Browsing Privacy</a></h3><p>从浏览器可以获取到的信息指纹，里面的不少东西值得好好研究一下</p><p><a href="https://web.archive.org/web/20200615045911/https://browserleaks.com/" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -129,7 +157,7 @@
     <link href="https://daily.tmr.js.org/d/20200614/"/>
     <id>https://daily.tmr.js.org/d/20200614/</id>
     <published>2020-06-14T23:45:00.000Z</published>
-    <updated>2020-06-18T15:49:56.397Z</updated>
+    <updated>2020-06-19T15:49:08.052Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200614期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200614/#生活">生活</a>*1，<a href="https://daily.tmr.js.org/d/20200614/#社会">社会</a>*1</p><a id="more"></a><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="租房小白必看！教你0踩雷租到好房子！-Video"><a href="#租房小白必看！教你0踩雷租到好房子！-Video" class="headerlink" title="租房小白必看！教你0踩雷租到好房子！[Video]"></a><a href="https://www.bilibili.com/video/BV19K4y1x7Ao" target="_blank" rel="noopener">租房小白必看！教你0踩雷租到好房子！[Video]</a></h3><p><a href="https://web.archive.org/web/20200614135317/https://www.bilibili.com/video/BV19K4y1x7Ao" target="_blank" rel="noopener">原网页存档</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="网游公司的未成年保护客服是怎么工作的？"><a href="#网游公司的未成年保护客服是怎么工作的？" class="headerlink" title="网游公司的未成年保护客服是怎么工作的？"></a><a href="https://daily.zhihu.com/story/9724539" target="_blank" rel="noopener">网游公司的未成年保护客服是怎么工作的？</a></h3><blockquote><p>每份沉迷的背后，都是爱的缺失</p></blockquote><p><a href="https://web.archive.org/web/20200613163752/https://daily.zhihu.com/story/9724539" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -153,7 +181,7 @@
     <link href="https://daily.tmr.js.org/d/20200613/"/>
     <id>https://daily.tmr.js.org/d/20200613/</id>
     <published>2020-06-13T23:45:00.000Z</published>
-    <updated>2020-06-18T15:49:56.397Z</updated>
+    <updated>2020-06-19T15:49:08.052Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200613期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200613/#互联网">互联网</a>*1，<a href="https://daily.tmr.js.org/d/20200613/#技术">技术</a>*1，<a href="https://daily.tmr.js.org/d/20200613/#生活">生活</a>*2，<a href="https://daily.tmr.js.org/d/20200613/#社会">社会</a>*1，<a href="https://daily.tmr.js.org/d/20200613/#经济">经济</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="即刻消失的那一夜"><a href="#即刻消失的那一夜" class="headerlink" title="即刻消失的那一夜"></a><a href="https://mp.weixin.qq.com/s/k6SiZhRionzik1blPaonxQ" target="_blank" rel="noopener">即刻消失的那一夜</a></h3><p><a href="https://web.archive.org/web/20200613100803/https://mp.weixin.qq.com/s/k6SiZhRionzik1blPaonxQ" target="_blank" rel="noopener">原网页存档</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="xray一周年"><a href="#xray一周年" class="headerlink" title="xray一周年"></a><a href="https://1.xray.cool/" target="_blank" rel="noopener">xray一周年</a></h3><p>xray高级版免费领2个月时长</p><p><a href="https://web.archive.org/web/20200613050802/https://1.xray.cool/" target="_blank" rel="noopener">原网页存档</a></p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="纯棉的衣服既不天然，也不环保"><a href="#纯棉的衣服既不天然，也不环保" class="headerlink" title="纯棉的衣服既不天然，也不环保"></a><a href="https://daily.zhihu.com/story/9724725" target="_blank" rel="noopener">纯棉的衣服既不天然，也不环保</a></h3><p>衣服制作与染色过程</p><p><a href="https://web.archive.org/web/20200613130658/https://daily.zhihu.com/story/9724725" target="_blank" rel="noopener">原网页存档</a></p><h3 id="你有没有经常感觉：这个场景我好像经历过？"><a href="#你有没有经常感觉：这个场景我好像经历过？" class="headerlink" title="你有没有经常感觉：这个场景我好像经历过？"></a><a href="https://daily.zhihu.com/story/9724675" target="_blank" rel="noopener">你有没有经常感觉：这个场景我好像经历过？</a></h3><p>每次发现世界的bug，都会有“人”出来解释清楚</p><p><a href="https://web.archive.org/web/20200613140500/https://daily.zhihu.com/story/9724675" target="_blank" rel="noopener">原网页存档</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="我的小书屋站长被判刑一年四个月"><a href="#我的小书屋站长被判刑一年四个月" class="headerlink" title="我的小书屋站长被判刑一年四个月"></a><a href="https://www.solidot.org/story?sid=64649" target="_blank" rel="noopener">我的小书屋站长被判刑一年四个月</a></h3><blockquote><p>未经许可在该网站上提供百度网盘、天翼云盘等云盘链接、密码供读者下载已出版的电子书籍作品，提高网站浏览、点击量，并以读者打赏、投放广告等方式营利，共计非法获利 7 万余元</p></blockquote><p><a href="https://web.archive.org/web/20200613051019/https://www.solidot.org/story?sid=64649" target="_blank" rel="noopener">原网页存档</a></p><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="如果没有中间商赚差价，商品会变便宜吗？"><a href="#如果没有中间商赚差价，商品会变便宜吗？" class="headerlink" title="如果没有中间商赚差价，商品会变便宜吗？"></a><a href="https://daily.zhihu.com/story/9724734" target="_blank" rel="noopener">如果没有中间商赚差价，商品会变便宜吗？</a></h3><p>文中指出中间商不一定是在赚差价，也是销售中的一部分<br>另外一个思考方向，“没有中间商赚差价”这个口号是不是都是生产厂家提出来的，那么是不是意味着中间商赚差价的对象是厂家，而不是消费者</p><p><a href="https://web.archive.org/web/20200613135003/https://daily.zhihu.com/story/9724734" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -177,7 +205,7 @@
     <link href="https://daily.tmr.js.org/d/20200612/"/>
     <id>https://daily.tmr.js.org/d/20200612/</id>
     <published>2020-06-12T23:45:00.000Z</published>
-    <updated>2020-06-18T15:49:56.397Z</updated>
+    <updated>2020-06-19T15:49:08.052Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200612期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200612/#技术">技术</a>*1，<a href="https://daily.tmr.js.org/d/20200612/#经济">经济</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="DNSlog平台通用XSS"><a href="#DNSlog平台通用XSS" class="headerlink" title="DNSlog平台通用XSS"></a><a href="https://mp.weixin.qq.com/s/59cRLXabrZXD_sJEzty1fA" target="_blank" rel="noopener">DNSlog平台通用XSS</a></h3><p><a href="https://web.archive.org/web/20200612140539/https://mp.weixin.qq.com/s/59cRLXabrZXD_sJEzty1fA" target="_blank" rel="noopener">原网页存档</a></p><h2 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h2><h3 id="美团凭什么"><a href="#美团凭什么" class="headerlink" title="美团凭什么"></a><a href="https://mp.weixin.qq.com/s/do5ZdZxTNIy41QbaQISWNw" target="_blank" rel="noopener">美团凭什么</a></h3><p>美团商业史</p><p><a href="https://web.archive.org/web/20200612145306/https://mp.weixin.qq.com/s/do5ZdZxTNIy41QbaQISWNw" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -201,7 +229,7 @@
     <link href="https://daily.tmr.js.org/d/20200611/"/>
     <id>https://daily.tmr.js.org/d/20200611/</id>
     <published>2020-06-11T23:45:00.000Z</published>
-    <updated>2020-06-18T15:49:56.397Z</updated>
+    <updated>2020-06-19T15:49:08.052Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200611期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200611/#互联网">互联网</a>*1，<a href="https://daily.tmr.js.org/d/20200611/#技术">技术</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="After-10-Years-in-Tech-Isolation-I’m-Now-Outsider-to-Things"><a href="#After-10-Years-in-Tech-Isolation-I’m-Now-Outsider-to-Things" class="headerlink" title="After 10 Years in Tech Isolation, I’m Now Outsider to Things"></a><a href="https://forklog.media/after-10-years-in-tech-isolation-im-now-outsider-to-things-i-once-had-mastered/" target="_blank" rel="noopener">After 10 Years in Tech Isolation, I’m Now Outsider to Things</a></h3><p>一个黑客在服刑十年后看到的新世界，这里有<a href="https://www.solidot.org/story?sid=64627" target="_blank" rel="noopener">Solidot的中文摘要</a></p><p><a href="https://web.archive.org/web/20200611031820/https://forklog.media/after-10-years-in-tech-isolation-im-now-outsider-to-things-i-once-had-mastered/" target="_blank" rel="noopener">原网页存档</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="ABUSING-WINDOWS-TELEMETRY-FOR-PERSISTENCE"><a href="#ABUSING-WINDOWS-TELEMETRY-FOR-PERSISTENCE" class="headerlink" title="ABUSING WINDOWS TELEMETRY FOR PERSISTENCE"></a><a href="https://www.trustedsec.com/blog/abusing-windows-telemetry-for-persistence/" target="_blank" rel="noopener">ABUSING WINDOWS TELEMETRY FOR PERSISTENCE</a></h3><p>利用 WINDOWS 遥测数据实现持久化</p><p><a href="https://web.archive.org/web/20200611051345/https://www.trustedsec.com/blog/abusing-windows-telemetry-for-persistence/" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -225,7 +253,7 @@
     <link href="https://daily.tmr.js.org/d/20200610/"/>
     <id>https://daily.tmr.js.org/d/20200610/</id>
     <published>2020-06-10T23:45:00.000Z</published>
-    <updated>2020-06-18T15:49:56.397Z</updated>
+    <updated>2020-06-19T15:49:08.052Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200610期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200610/#技术">技术</a>*5</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="如何拿到阿里P8-Offer-候选人视角谈面试"><a href="#如何拿到阿里P8-Offer-候选人视角谈面试" class="headerlink" title="如何拿到阿里P8 Offer-候选人视角谈面试"></a><a href="https://juejin.im/post/5ed9a606518825433139fb9c" target="_blank" rel="noopener">如何拿到阿里P8 Offer-候选人视角谈面试</a></h3><blockquote><p>膨胀了，看起了P8的面经。。。</p></blockquote><p><a href="https://web.archive.org/web/20200609183200/https://juejin.im/post/5ed9a606518825433139fb9c" target="_blank" rel="noopener">原网页存档</a></p><h3 id="浅谈下Fastjson的autotype绕过"><a href="#浅谈下Fastjson的autotype绕过" class="headerlink" title="浅谈下Fastjson的autotype绕过"></a><a href="https://paper.seebug.org/1236/" target="_blank" rel="noopener">浅谈下Fastjson的autotype绕过</a></h3><p><a href="https://web.archive.org/web/20200609184759/https://paper.seebug.org/1236/" target="_blank" rel="noopener">原网页存档</a></p><h3 id="提高-TCP-性能的方法，你知多少？"><a href="#提高-TCP-性能的方法，你知多少？" class="headerlink" title="提高 TCP 性能的方法，你知多少？"></a><a href="https://xie.infoq.cn/article/681d093ffc06d594de54992b9" target="_blank" rel="noopener">提高 TCP 性能的方法，你知多少？</a></h3><p>针对 TCP 每个阶段（握手/挥手/传输）的问题，调整内核参数实现优化</p><p><a href="https://web.archive.org/web/20200609194050/https://xie.infoq.cn/article/681d093ffc06d594de54992b9" target="_blank" rel="noopener">原网页存档</a></p><h3 id="电商薅羊毛研究报告"><a href="#电商薅羊毛研究报告" class="headerlink" title="电商薅羊毛研究报告"></a><a href="https://www.freebuf.com/articles/network/238258.html" target="_blank" rel="noopener">电商薅羊毛研究报告</a></h3><blockquote><p>黑灰产市场上专业的技术服务不断集成和软件各项功能的不断完善，一方面使得黑产的准入门槛不断降低，完全不懂技术的人群也能很快参与其中；另一方面，技术的复杂化使得黑产市场的分工更加细致，懂技术的一部分人可以规避触碰法律红线的风险，将这些风险转嫁到更多人的身上。黑产市场分工使得专业的人只做专业的事情也给风控带来了新的挑战，未来更将是技术与技术的赤裸对抗。</p></blockquote><p>另外，改机对抗的可以看<a href="https://www.freebuf.com/articles/network/237821.html" target="_blank" rel="noopener">设备风控攻防新挑战：定制ROM改机</a></p><h3 id="Python代码保护-pyc-混淆从入门到工具实现"><a href="#Python代码保护-pyc-混淆从入门到工具实现" class="headerlink" title="Python代码保护 | pyc 混淆从入门到工具实现"></a><a href="https://mp.weixin.qq.com/s/qvbwTAmDOvpHrAoNdQ7RRA" target="_blank" rel="noopener">Python代码保护 | pyc 混淆从入门到工具实现</a></h3><p><a href="https://web.archive.org/web/20200610145155/https://mp.weixin.qq.com/s/qvbwTAmDOvpHrAoNdQ7RRA" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -249,7 +277,7 @@
     <link href="https://daily.tmr.js.org/d/20200609/"/>
     <id>https://daily.tmr.js.org/d/20200609/</id>
     <published>2020-06-09T23:45:00.000Z</published>
-    <updated>2020-06-18T15:49:56.397Z</updated>
+    <updated>2020-06-19T15:49:08.052Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200609期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
     
@@ -277,7 +305,7 @@
     <link href="https://daily.tmr.js.org/d/20200608/"/>
     <id>https://daily.tmr.js.org/d/20200608/</id>
     <published>2020-06-08T23:45:00.000Z</published>
-    <updated>2020-06-18T15:49:56.397Z</updated>
+    <updated>2020-06-19T15:49:08.052Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200608期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200608/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="X-PU区别浅谈"><a href="#X-PU区别浅谈" class="headerlink" title="X-PU区别浅谈"></a><a href="https://www.cnblogs.com/wjoyxt/p/13051128.html" target="_blank" rel="noopener">X-PU区别浅谈</a></h3><blockquote><p>CPU、GPU、TPU、NPU、BPU、DPU</p></blockquote><p><a href="https://web.archive.org/web/20200607170503/https://www.cnblogs.com/wjoyxt/p/13051128.html" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -301,7 +329,7 @@
     <link href="https://daily.tmr.js.org/d/20200607/"/>
     <id>https://daily.tmr.js.org/d/20200607/</id>
     <published>2020-06-07T23:45:00.000Z</published>
-    <updated>2020-06-18T15:49:56.397Z</updated>
+    <updated>2020-06-19T15:49:08.052Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200607期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200607/#其他">其他</a>*1，<a href="https://daily.tmr.js.org/d/20200607/#技术">技术</a>*3，<a href="https://daily.tmr.js.org/d/20200607/#社会">社会</a>*2，<a href="https://daily.tmr.js.org/d/20200607/#设计">设计</a>*1</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="从“中英文思维回译法”看中英思维差异"><a href="#从“中英文思维回译法”看中英思维差异" class="headerlink" title="从“中英文思维回译法”看中英思维差异"></a><a href="https://www.cnblogs.com/LittleHann/p/13054128.html" target="_blank" rel="noopener">从“中英文思维回译法”看中英思维差异</a></h3><p><a href="https://web.archive.org/web/20200607122325/https://www.cnblogs.com/LittleHann/p/13054128.html" target="_blank" rel="noopener">原网页存档</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="IP-in-IP-protocol-routes-arbitrary-traffic-by-default"><a href="#IP-in-IP-protocol-routes-arbitrary-traffic-by-default" class="headerlink" title="IP-in-IP protocol routes arbitrary traffic by default"></a><a href="https://kb.cert.org/vuls/id/636397" target="_blank" rel="noopener">IP-in-IP protocol routes arbitrary traffic by default</a></h3><p>IP-in-IP协议漏洞，CVE-2020-10136</p><p><a href="https://web.archive.org/web/20200606161852/https://kb.cert.org/vuls/id/636397" target="_blank" rel="noopener">原网页存档</a></p><h3 id="CVE-2020-10136-Poc"><a href="#CVE-2020-10136-Poc" class="headerlink" title="CVE-2020-10136 Poc"></a><a href="https://github.com/CERTCC/PoC-Exploits/tree/master/cve-2020-10136" target="_blank" rel="noopener">CVE-2020-10136 Poc</a></h3><p><a href="https://web.archive.org/web/20200606161921/https://github.com/CERTCC/PoC-Exploits/tree/master/cve-2020-10136" target="_blank" rel="noopener">原网页存档</a></p><h3 id="Hacking8安全信息流新增Src资产收集"><a href="#Hacking8安全信息流新增Src资产收集" class="headerlink" title="Hacking8安全信息流新增Src资产收集"></a><a href="https://x.hacking8.com/post-382.html" target="_blank" rel="noopener">Hacking8安全信息流新增Src资产收集</a></h3><p>src资产收集导航</p><p><a href="https://web.archive.org/web/20200606170323/https://x.hacking8.com/post-382.html" target="_blank" rel="noopener">原网页存档</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="如何看待最近多地鼓励的「地摊经济」？地摊经济要崛起了吗"><a href="#如何看待最近多地鼓励的「地摊经济」？地摊经济要崛起了吗" class="headerlink" title="如何看待最近多地鼓励的「地摊经济」？地摊经济要崛起了吗?"></a><a href="https://daily.zhihu.com/story/9724591" target="_blank" rel="noopener">如何看待最近多地鼓励的「地摊经济」？地摊经济要崛起了吗?</a></h3><blockquote><p>当大家钱包比较宽裕的时候，会更倾向于选择有保障的电商送货上门加无条件退货的服务，而不是在地摊上淘来淘去</p></blockquote><blockquote><p>当就业环境和创业环境比较好，经济发展迅速的时候，无论是要投资的机会还是工作机会都很多，很多人可能就会选择其他的工作，而非摆地摊</p></blockquote><blockquote><p>之前一直被追着到处跑的摊贩终于可以光明正大的出来摆了，城管也会渐渐的学习「管理」而不是「消灭」小摊贩</p></blockquote><p><a href="https://web.archive.org/web/20200607135047/https://daily.zhihu.com/story/9724591" target="_blank" rel="noopener">原网页存档</a></p><h3 id="如何看待城管打电话喊商贩去摆摊的现象？各地的地摊都开始活跃起来了吗？"><a href="#如何看待城管打电话喊商贩去摆摊的现象？各地的地摊都开始活跃起来了吗？" class="headerlink" title="如何看待城管打电话喊商贩去摆摊的现象？各地的地摊都开始活跃起来了吗？"></a><a href="https://daily.zhihu.com/story/9724583" target="_blank" rel="noopener">如何看待城管打电话喊商贩去摆摊的现象？各地的地摊都开始活跃起来了吗？</a></h3><p>这篇讲城管的难处</p><blockquote><p>上面千条线，底下一根针<br>工作太多，时间太少<br>这个工作很难做，容易挨骂，不被理解，所以只要是年轻有为的，都想着跳出去，我也不例外</p></blockquote><p><a href="https://web.archive.org/web/20200607135924/https://daily.zhihu.com/story/9724583" target="_blank" rel="noopener">原网页存档</a></p><h2 id="设计"><a href="#设计" class="headerlink" title="设计"></a>设计</h2><h3 id="人机交互：为何我们在同一个地方搞砸了两次？"><a href="#人机交互：为何我们在同一个地方搞砸了两次？" class="headerlink" title="人机交互：为何我们在同一个地方搞砸了两次？"></a><a href="https://www.gcores.com/articles/124345" target="_blank" rel="noopener">人机交互：为何我们在同一个地方搞砸了两次？</a></h3><blockquote><p>对软件真的非常严肃考虑的人们应该去做自己的硬件<br>——Alan Kay</p></blockquote><p><a href="https://web.archive.org/web/20200606160906/https://www.gcores.com/articles/124345" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -325,7 +353,7 @@
     <link href="https://daily.tmr.js.org/d/20200606/"/>
     <id>https://daily.tmr.js.org/d/20200606/</id>
     <published>2020-06-06T23:45:00.000Z</published>
-    <updated>2020-06-18T15:49:56.397Z</updated>
+    <updated>2020-06-19T15:49:08.052Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200606期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200606/#其他">其他</a>*2，<a href="https://daily.tmr.js.org/d/20200606/#技术">技术</a>*3</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="痒（上）"><a href="#痒（上）" class="headerlink" title="痒（上）"></a><a href="https://songshuhui.net/archives/1448" target="_blank" rel="noopener">痒（上）</a></h3><p>痒是什么？痒和痛有什么区别？为什么想起发痒的感觉，就能让自己发痒？</p><p><a href="https://web.archive.org/web/20200606092341/https://songshuhui.net/archives/1448" target="_blank" rel="noopener">原网页存档</a></p><h3 id="痒（下）"><a href="#痒（下）" class="headerlink" title="痒（下）"></a><a href="https://songshuhui.net/archives/1477" target="_blank" rel="noopener">痒（下）</a></h3><p>痒的相关病症和治疗</p><p><a href="https://web.archive.org/web/20200606092432/https://songshuhui.net/archives/1477" target="_blank" rel="noopener">原网页存档</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="How-I-made-31500-by-submitting-a-bug-to-Facebook"><a href="#How-I-made-31500-by-submitting-a-bug-to-Facebook" class="headerlink" title="How I made $31500 by submitting a bug to Facebook"></a><a href="https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204" target="_blank" rel="noopener">How I made $31500 by submitting a bug to Facebook</a></h3><p><a href="https://web.archive.org/web/20200605194403/https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204" target="_blank" rel="noopener">原网页存档</a></p><h3 id="Logging-https-requests-and-responses-of-Apple-system-processes"><a href="#Logging-https-requests-and-responses-of-Apple-system-processes" class="headerlink" title="Logging https requests and responses of Apple system processes"></a><a href="https://lapcatsoftware.com/articles/logging-https.html" target="_blank" rel="noopener">Logging https requests and responses of Apple system processes</a></h3><p>通过修改环境变量可以查看Mac上明文HTTPS流量的头信息</p><p><a href="https://web.archive.org/web/20200605195423/https://lapcatsoftware.com/articles/logging-https.html" target="_blank" rel="noopener">原网页存档</a></p><h3 id="Zero-day-in-Sign-in-with-Apple"><a href="#Zero-day-in-Sign-in-with-Apple" class="headerlink" title="Zero-day in Sign in with Apple"></a><a href="https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/" target="_blank" rel="noopener">Zero-day in Sign in with Apple</a></h3><p>apple账户接管…真的是非常简单的jwt漏洞</p><p><a href="https://web.archive.org/web/20200605201234/https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -349,7 +377,7 @@
     <link href="https://daily.tmr.js.org/d/20200605/"/>
     <id>https://daily.tmr.js.org/d/20200605/</id>
     <published>2020-06-05T23:45:00.000Z</published>
-    <updated>2020-06-18T15:49:56.397Z</updated>
+    <updated>2020-06-19T15:49:08.052Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200605期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200605/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="云原生入侵检测趋势观察"><a href="#云原生入侵检测趋势观察" class="headerlink" title="云原生入侵检测趋势观察"></a><a href="https://xz.aliyun.com/t/7841" target="_blank" rel="noopener">云原生入侵检测趋势观察</a></h3><p><a href="https://web.archive.org/web/20200605131054/https://xz.aliyun.com/t/7841" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -373,7 +401,7 @@
     <link href="https://daily.tmr.js.org/d/20200604/"/>
     <id>https://daily.tmr.js.org/d/20200604/</id>
     <published>2020-06-04T23:45:00.000Z</published>
-    <updated>2020-06-18T15:49:56.397Z</updated>
+    <updated>2020-06-19T15:49:08.052Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200604期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
     
@@ -401,7 +429,7 @@
     <link href="https://daily.tmr.js.org/d/20200603/"/>
     <id>https://daily.tmr.js.org/d/20200603/</id>
     <published>2020-06-03T23:45:00.000Z</published>
-    <updated>2020-06-18T15:49:56.397Z</updated>
+    <updated>2020-06-19T15:49:08.052Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200603期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200603/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="简单理解污点分析技术"><a href="#简单理解污点分析技术" class="headerlink" title="简单理解污点分析技术"></a><a href="https://www.k0rz3n.com/2019/03/01/%E7%AE%80%E5%8D%95%E7%90%86%E8%A7%A3%E6%B1%A1%E7%82%B9%E5%88%86%E6%9E%90%E6%8A%80%E6%9C%AF/、" target="_blank" rel="noopener">简单理解污点分析技术</a></h3><p><a href="https://web.archive.org/web/20200603125305/https://www.k0rz3n.com/2019/03/01/%E7%AE%80%E5%8D%95%E7%90%86%E8%A7%A3%E6%B1%A1%E7%82%B9%E5%88%86%E6%9E%90%E6%8A%80%E6%9C%AF/%E3%80%81" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -425,7 +453,7 @@
     <link href="https://daily.tmr.js.org/d/20200602/"/>
     <id>https://daily.tmr.js.org/d/20200602/</id>
     <published>2020-06-02T23:45:00.000Z</published>
-    <updated>2020-06-18T15:49:56.397Z</updated>
+    <updated>2020-06-19T15:49:08.052Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200602期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日无更新</p>]]></content>
     
@@ -453,7 +481,7 @@
     <link href="https://daily.tmr.js.org/d/20200601/"/>
     <id>https://daily.tmr.js.org/d/20200601/</id>
     <published>2020-06-01T23:45:00.000Z</published>
-    <updated>2020-06-18T15:49:56.397Z</updated>
+    <updated>2020-06-19T15:49:08.052Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200601期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200601/#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="从身份证芯片的“秘密”谈谈网络信息搜索"><a href="#从身份证芯片的“秘密”谈谈网络信息搜索" class="headerlink" title="从身份证芯片的“秘密”谈谈网络信息搜索"></a><a href="https://evilpan.com/2020/05/31/idcard-internal/" target="_blank" rel="noopener">从身份证芯片的“秘密”谈谈网络信息搜索</a></h3><p><a href="https://web.archive.org/web/20200601091921/https://evilpan.com/2020/05/31/idcard-internal/" target="_blank" rel="noopener">原网页存档</a></p><h3 id="vmess协议设计和实现缺陷可导致服务器遭到主动探测特征识别-附PoC"><a href="#vmess协议设计和实现缺陷可导致服务器遭到主动探测特征识别-附PoC" class="headerlink" title="vmess协议设计和实现缺陷可导致服务器遭到主动探测特征识别(附PoC)"></a><a href="https://github.com/v2ray/v2ray-core/issues/2523" target="_blank" rel="noopener">vmess协议设计和实现缺陷可导致服务器遭到主动探测特征识别(附PoC)</a></h3><p>继<a href="https://daily.tmr.js.org/d/20200531/#v2ray%E7%9A%84TLS%E6%B5%81%E9%87%8F%E5%8F%AF%E8%A2%AB%E7%AE%80%E5%8D%95%E7%89%B9%E5%BE%81%E7%A0%81%E5%8C%B9%E9%85%8D%E7%B2%BE%E5%87%86%E8%AF%86%E5%88%AB%EF%BC%88%E9%99%84PoC">昨天</a>v2ray的tls指纹问题（现已修复），又发现了采用tcp协议传输的vmess协议漏洞（协议设计缺陷）</p><p><a href="https://web.archive.org/web/20200601092635/https://github.com/v2ray/v2ray-core/issues/2523" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -477,7 +505,7 @@
     <link href="https://daily.tmr.js.org/d/20200531/"/>
     <id>https://daily.tmr.js.org/d/20200531/</id>
     <published>2020-05-31T23:45:00.000Z</published>
-    <updated>2020-06-18T15:49:56.397Z</updated>
+    <updated>2020-06-19T15:49:08.052Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20200531期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200531/#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="v2ray的TLS流量可被简单特征码匹配精准识别（附PoC"><a href="#v2ray的TLS流量可被简单特征码匹配精准识别（附PoC" class="headerlink" title="v2ray的TLS流量可被简单特征码匹配精准识别（附PoC)"></a><a href="https://github.com/v2ray/discussion/issues/704" target="_blank" rel="noopener">v2ray的TLS流量可被简单特征码匹配精准识别（附PoC)</a></h3><p>tls client hello中的cipher suites有明显特征，简单来说，只要开启了tls就有这个特征，解决办法就是暂时不用tls，等v2ray更新修复再用<br>另外也看到19年末也有人讨论过<a href="https://github.com/v2ray/v2ray-core/issues/2098" target="_blank" rel="noopener">TLS指纹问题</a>，里面不少链接可以看看</p><p><a href="https://web.archive.org/web/20200531144928/https://github.com/v2ray/discussion/issues/704" target="_blank" rel="noopener">原网页存档</a></p><h3 id="TLS-Fingerprint"><a href="#TLS-Fingerprint" class="headerlink" title="TLS Fingerprint"></a><a href="https://tlsfingerprint.io/" target="_blank" rel="noopener">TLS Fingerprint</a></h3><p>一个做TLS指纹的网站</p><p><a href="https://web.archive.org/web/20200531145034/https://tlsfingerprint.io/" target="_blank" rel="noopener">原网页存档</a></p><h3 id="klzgrad-naiveproxy"><a href="#klzgrad-naiveproxy" class="headerlink" title="klzgrad/naiveproxy"></a><a href="https://github.com/klzgrad/naiveproxy" target="_blank" rel="noopener">klzgrad/naiveproxy</a></h3><p>用Chrome网络栈构建的代理程序</p><p><a href="https://web.archive.org/web/20200531145110/https://github.com/klzgrad/naiveproxy" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -485,30 +513,6 @@
     
       &lt;p&gt;透明日报第20200531期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;https://daily.tmr.js.org/d/20200531/#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="2020" scheme="https://daily.tmr.js.org/categories/2020/"/>
-    
-      <category term="05" scheme="https://daily.tmr.js.org/categories/2020/05/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20200530期</title>
-    <link href="https://daily.tmr.js.org/d/20200530/"/>
-    <id>https://daily.tmr.js.org/d/20200530/</id>
-    <published>2020-05-30T23:45:00.000Z</published>
-    <updated>2020-06-18T15:49:56.397Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20200530期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20200530/#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="都0202年了老嗨还在用的-各种姿势jsp-webshell"><a href="#都0202年了老嗨还在用的-各种姿势jsp-webshell" class="headerlink" title="都0202年了老嗨还在用的 - 各种姿势jsp webshell"></a><a href="https://xz.aliyun.com/t/7798" target="_blank" rel="noopener">都0202年了老嗨还在用的 - 各种姿势jsp webshell</a></h3><p><a href="https://web.archive.org/web/20200529160925/https://xz.aliyun.com/t/7798" target="_blank" rel="noopener">原网页存档</a></p><h3 id="微信小程序的渗透五脉"><a href="#微信小程序的渗透五脉" class="headerlink" title="微信小程序的渗透五脉"></a><a href="https://www.hackinn.com/index.php/archives/672/" target="_blank" rel="noopener">微信小程序的渗透五脉</a></h3><p><a href="https://web.archive.org/web/20200530061335/https://www.hackinn.com/index.php/archives/672/" target="_blank" rel="noopener">原网页存档</a></p><h3 id="无字母数字webshell进阶收藏版"><a href="#无字母数字webshell进阶收藏版" class="headerlink" title="无字母数字webshell进阶收藏版"></a><a href="https://xz.aliyun.com/t/7742" target="_blank" rel="noopener">无字母数字webshell进阶收藏版</a></h3><p><a href="https://web.archive.org/web/20200530103106/https://xz.aliyun.com/t/7742" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20200530期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;https://daily.tmr.js.org/d/20200530/#技术&quot;&gt;技术&lt;/a&gt;*3&lt;/p&gt;
     
     </summary>
     
