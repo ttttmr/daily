@@ -13,8 +13,8 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
 
-<meta name="description" content="透明日报20200711期"/><link rel="alternate" href="/atom.xml" title="透明日报"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=2.11.0" />
-<link rel="canonical" href="https://daily.tmr.js.org/d/20200711/"/>
+<meta name="description" content="透明日报20200712期"/><link rel="alternate" href="/atom.xml" title="透明日报"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=2.11.0" />
+<link rel="canonical" href="https://daily.tmr.js.org/d/20200712/"/>
 
 <link rel="stylesheet" type="text/css" href="/lib/fancybox/jquery.fancybox.css" />
 <link rel="stylesheet" type="text/css" href="/css/style.css?v=2.11.0" />
@@ -45,7 +45,7 @@
   window.config = {"leancloud":{"app_id":null,"app_key":null},"toc":true,"fancybox":true,"pjax":"","latex":false};
 </script>
 
-    <title>透明日报20200711期 - 透明日报</title>
+    <title>透明日报20200712期 - 透明日报</title>
   <meta name="generator" content="Hexo 4.2.0"><link rel="alternate" href="/atom.xml" title="透明日报" type="application/atom+xml">
 </head>
 
@@ -107,12 +107,12 @@
         <div class="content-wrapper">
           <div id="content" class="content"><article class="post">
     <header class="post-header">
-      <h1 class="post-title">透明日报20200711期
+      <h1 class="post-title">透明日报20200712期
         </h1>
 
       <div class="post-meta">
         <span class="post-time">
-          2020-07-11
+          2020-07-12
         </span><span class="post-category">
             <a href="/categories/2020/">2020</a>
             <a href="/categories/2020/07/">07</a>
@@ -123,17 +123,16 @@
     <div class="post-toc" id="post-toc">
     <h2 class="post-toc-title">Contents</h2>
     <div class="post-toc-content">
-      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#技术"><span class="toc-text">技术</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#AMSI原理与绕过—上"><span class="toc-text">AMSI原理与绕过—上</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#文娱"><span class="toc-text">文娱</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#姜文是怎么拍《鬼子来了》的？"><span class="toc-text">姜文是怎么拍《鬼子来了》的？</span></a></li></ol></li></ol>
+      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#其他"><span class="toc-text">其他</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#TK-教主的-10w-字-Renew-微博汇总"><span class="toc-text">TK 教主的 10w 字 Renew 微博汇总</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#技术"><span class="toc-text">技术</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#CVE-2019-10795-amp-undefsafe-Prototype-Pollution-Vulnerability"><span class="toc-text">CVE-2019-10795 &amp; undefsafe Prototype Pollution Vulnerability</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#微软推出新项目，可在系统内存快照中查找恶意软件"><span class="toc-text">微软推出新项目，可在系统内存快照中查找恶意软件</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Toward-trusted-sensing-for-the-cloud-Introducing-Project-Freta"><span class="toc-text">Toward trusted sensing for the cloud: Introducing Project Freta</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#初识Docker逃逸"><span class="toc-text">初识Docker逃逸</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#【书评】聊聊打CTF的那本书"><span class="toc-text">【书评】聊聊打CTF的那本书</span></a></li></ol></li></ol>
     </div>
-  </div><div class="post-content"><p>透明日报第20200711期 <a href="https://daily.tmr.js.org/about/">订阅</a></p>
-<p>今日文章：<a href="https://daily.tmr.js.org/d/20200711/#技术">技术</a>*1，<a href="https://daily.tmr.js.org/d/20200711/#文娱">文娱</a>*1</p>
+  </div><div class="post-content"><p>透明日报第20200712期 <a href="https://daily.tmr.js.org/about/">订阅</a></p>
+<p>今日文章：<a href="https://daily.tmr.js.org/d/20200712/#其他">其他</a>*1，<a href="https://daily.tmr.js.org/d/20200712/#技术">技术</a>*5</p>
 <a id="more"></a>
 
-<h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="AMSI原理与绕过—上"><a href="#AMSI原理与绕过—上" class="headerlink" title="AMSI原理与绕过—上"></a><a href="https://xz.aliyun.com/t/7973" target="_blank" rel="noopener">AMSI原理与绕过—上</a></h3><blockquote>
-<p>虽然amsi.dll注入到了进程，但是并没有内核驱动去保障amsi.dll是否被篡改，基于此让我们找个绕过的方法</p>
-</blockquote>
-<h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="姜文是怎么拍《鬼子来了》的？"><a href="#姜文是怎么拍《鬼子来了》的？" class="headerlink" title="姜文是怎么拍《鬼子来了》的？"></a><a href="https://daily.zhihu.com/story/9725700" target="_blank" rel="noopener">姜文是怎么拍《鬼子来了》的？</a></h3><p>从日本演员香川照之的角度看拍摄过程</p>
-<p><a href="https://web.archive.org/web/20200710174814/https://daily.zhihu.com/story/9725700" target="_blank" rel="noopener">原网页存档</a></p>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="TK-教主的-10w-字-Renew-微博汇总"><a href="#TK-教主的-10w-字-Renew-微博汇总" class="headerlink" title="TK 教主的 10w 字 Renew 微博汇总"></a><a href="https://linmi.cc/15740.html" target="_blank" rel="noopener">TK 教主的 10w 字 Renew 微博汇总</a></h3><p>啊啊啊</p>
+<h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="CVE-2019-10795-amp-undefsafe-Prototype-Pollution-Vulnerability"><a href="#CVE-2019-10795-amp-undefsafe-Prototype-Pollution-Vulnerability" class="headerlink" title="CVE-2019-10795 &amp; undefsafe Prototype Pollution Vulnerability"></a><a href="https://skysec.top/2020/06/22/CVE-2019-10795-undefsafe-Prototype-Pollution-Vulnerability/" target="_blank" rel="noopener">CVE-2019-10795 &amp; undefsafe Prototype Pollution Vulnerability</a></h3><h3 id="微软推出新项目，可在系统内存快照中查找恶意软件"><a href="#微软推出新项目，可在系统内存快照中查找恶意软件" class="headerlink" title="微软推出新项目，可在系统内存快照中查找恶意软件"></a><a href="https://www.freebuf.com/news/242754.html" target="_blank" rel="noopener">微软推出新项目，可在系统内存快照中查找恶意软件</a></h3><p>感觉很nb</p>
+<h3 id="Toward-trusted-sensing-for-the-cloud-Introducing-Project-Freta"><a href="#Toward-trusted-sensing-for-the-cloud-Introducing-Project-Freta" class="headerlink" title="Toward trusted sensing for the cloud: Introducing Project Freta"></a><a href="https://www.microsoft.com/en-us/research/blog/toward-trusted-sensing-for-the-cloud-introducing-project-freta/" target="_blank" rel="noopener">Toward trusted sensing for the cloud: Introducing Project Freta</a></h3><p>微软博客介绍Project Freta</p>
+<h3 id="初识Docker逃逸"><a href="#初识Docker逃逸" class="headerlink" title="初识Docker逃逸"></a><a href="https://www.freebuf.com/articles/container/242763.html" target="_blank" rel="noopener">初识Docker逃逸</a></h3><h3 id="【书评】聊聊打CTF的那本书"><a href="#【书评】聊聊打CTF的那本书" class="headerlink" title="【书评】聊聊打CTF的那本书"></a><a href="http://riusksk.me/2020/07/12/%E3%80%90%E4%B9%A6%E8%AF%84%E3%80%91%E8%81%8A%E8%81%8A%E6%89%93CTF%E7%9A%84%E9%82%A3%E6%9C%AC%E4%B9%A6/" target="_blank" rel="noopener">【书评】聊聊打CTF的那本书</a></h3><p>还真的Nu1L战队之前要出书来着，就叫《从0到1 CTfer的成长之路》，但一直没消息</p>
 
       </div>
       <div class="post-copyright">
@@ -143,7 +142,7 @@
     </p>
     <p class="copyright-item">
       <span>Link: </span>
-      <a href="https://daily.tmr.js.org/d/20200711/">https://daily.tmr.js.org/d/20200711/</a>
+      <a href="https://daily.tmr.js.org/d/20200712/">https://daily.tmr.js.org/d/20200712/</a>
     </p>
     <p class="copyright-item">
       <span>License: </span><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>
@@ -151,13 +150,8 @@
   </div>
       <footer class="post-footer">
         
-        <nav class="post-nav"><a class="prev" href="/d/20200712/">
-        <i class="iconfont icon-left"></i>
-        <span class="prev-text nav-default">透明日报20200712期</span>
-        <span class="prev-text nav-mobile">Prev</span>
-      </a>
-    <a class="next" href="/d/20200710/">
-        <span class="next-text nav-default">透明日报20200710期</span>
+        <nav class="post-nav"><a class="next" href="/d/20200711/">
+        <span class="next-text nav-default">透明日报20200711期</span>
         <span class="prev-text nav-mobile">Next</span>
         <i class="iconfont icon-right"></i>
       </a>
