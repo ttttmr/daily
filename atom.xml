@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2021-03-03T15:56:27.905Z</updated>
+  <updated>2021-03-03T16:10:50.454Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://daily.tmr.js.org/d/20210303/"/>
     <id>https://daily.tmr.js.org/d/20210303/</id>
     <published>2021-03-03T23:45:00.000Z</published>
-    <updated>2021-03-03T15:56:27.905Z</updated>
+    <updated>2021-03-03T16:10:50.454Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210303期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210303/#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-深入研究Pass-the-Hash攻击与防御"><a href="#•-深入研究Pass-the-Hash攻击与防御" class="headerlink" title="• 深入研究Pass-the-Hash攻击与防御"></a>• <a href="https://xz.aliyun.com/t/7051" target="_blank" rel="noopener">深入研究Pass-the-Hash攻击与防御</a></h3><p><a href="https://web.archive.org/web/20210118080138/http://xz.aliyun.com/t/7051" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-大白话解释拟态安全，再不学就落伍了！"><a href="#•-大白话解释拟态安全，再不学就落伍了！" class="headerlink" title="• 大白话解释拟态安全，再不学就落伍了！"></a>• <a href="https://mp.weixin.qq.com/s/UR0XbF02JJmo7RbNF1CYVw" target="_blank" rel="noopener">大白话解释拟态安全，再不学就落伍了！</a></h3><p>之前发过几个关于拟态的资料</p><p><a href="https://daily.tmr.js.org/d/20190530/#MIMIC">https://daily.tmr.js.org/d/20190530/#MIMIC</a></p><p><a href="https://daily.tmr.js.org/d/20190814/#%E6%8B%9F%E6%80%81%E9%98%B2%E5%BE%A1%E7%B3%BB%E5%88%97%E9%97%AE%E9%A2%98%E5%88%86%E6%9E%90">https://daily.tmr.js.org/d/20190814/#%E6%8B%9F%E6%80%81%E9%98%B2%E5%BE%A1%E7%B3%BB%E5%88%97%E9%97%AE%E9%A2%98%E5%88%86%E6%9E%90</a></p><p><a href="https://daily.tmr.js.org/d/20200811/#%E9%98%B2%E5%BE%A1sqlmap%E6%94%BB%E5%87%BB%E4%B9%8B%E5%8A%A8%E6%80%81%E4%BB%A3%E7%A0%81%E9%98%B2%E5%BE%A1%E6%9C%BA%E5%88%B6">https://daily.tmr.js.org/d/20200811/#%E9%98%B2%E5%BE%A1sqlmap%E6%94%BB%E5%87%BB%E4%B9%8B%E5%8A%A8%E6%80%81%E4%BB%A3%E7%A0%81%E9%98%B2%E5%BE%A1%E6%9C%BA%E5%88%B6</a></p><h3 id="•-通达-OA-11-7-有条件的任意命令执行"><a href="#•-通达-OA-11-7-有条件的任意命令执行" class="headerlink" title="• 通达 OA 11.7 有条件的任意命令执行"></a>• <a href="https://paper.seebug.org/1492/" target="_blank" rel="noopener">通达 OA 11.7 有条件的任意命令执行</a></h3><p><a href="https://web.archive.org/web/20210303143132/https://paper.seebug.org/1492/" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -45,7 +45,7 @@
     <link href="https://daily.tmr.js.org/d/20210302/"/>
     <id>https://daily.tmr.js.org/d/20210302/</id>
     <published>2021-03-02T23:45:00.000Z</published>
-    <updated>2021-03-03T15:55:27.769Z</updated>
+    <updated>2021-03-03T16:09:52.094Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210302期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210302/#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-红蓝对抗中的云原生漏洞挖掘及利用实录"><a href="#•-红蓝对抗中的云原生漏洞挖掘及利用实录" class="headerlink" title="• 红蓝对抗中的云原生漏洞挖掘及利用实录"></a>• <a href="https://mp.weixin.qq.com/s/Aq8RrH34PTkmF8lKzdY38g" target="_blank" rel="noopener">红蓝对抗中的云原生漏洞挖掘及利用实录</a></h3><h3 id="•-简单聊聊容器中的一号进程"><a href="#•-简单聊聊容器中的一号进程" class="headerlink" title="• 简单聊聊容器中的一号进程"></a>• <a href="https://manjusaka.itscoder.com/posts/2021/02/13/a-simple-introduction-about-the-init-process-in-container/" target="_blank" rel="noopener">简单聊聊容器中的一号进程</a></h3><p><a href="https://web.archive.org/web/20210302034114/https://manjusaka.itscoder.com/posts/2021/02/13/a-simple-introduction-about-the-init-process-in-container/" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-继续爆论容器中的一号进程"><a href="#•-继续爆论容器中的一号进程" class="headerlink" title="• 继续爆论容器中的一号进程"></a>• <a href="https://manjusaka.itscoder.com/posts/2021/02/28/damn-the-init-process/" target="_blank" rel="noopener">继续爆论容器中的一号进程</a></h3><p><a href="https://web.archive.org/web/20210302034155/https://manjusaka.itscoder.com/posts/2021/02/28/damn-the-init-process/" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -69,7 +69,7 @@
     <link href="https://daily.tmr.js.org/d/20210228/"/>
     <id>https://daily.tmr.js.org/d/20210228/</id>
     <published>2021-02-28T23:45:00.000Z</published>
-    <updated>2021-03-03T15:55:27.769Z</updated>
+    <updated>2021-03-03T16:09:52.094Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210228期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210228/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-从“产品模式”到“运营模式”"><a href="#•-从“产品模式”到“运营模式”" class="headerlink" title="• 从“产品模式”到“运营模式”"></a>• <a href="https://mp.weixin.qq.com/s/mIbwVj3oVEnippj5YGkNTA" target="_blank" rel="noopener">从“产品模式”到“运营模式”</a></h3><p><a href="https://web.archive.org/web/20210228081832/https://mp.weixin.qq.com/s/mIbwVj3oVEnippj5YGkNTA" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -93,7 +93,7 @@
     <link href="https://daily.tmr.js.org/d/20210227/"/>
     <id>https://daily.tmr.js.org/d/20210227/</id>
     <published>2021-02-27T23:45:00.000Z</published>
-    <updated>2021-03-03T15:55:27.769Z</updated>
+    <updated>2021-03-03T16:09:52.094Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210227期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210227/#技术">技术</a>*2，<a href="https://daily.tmr.js.org/d/20210227/#社会">社会</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-An-Exploration-of-JSON-Interoperability-Vulnerabilities"><a href="#•-An-Exploration-of-JSON-Interoperability-Vulnerabilities" class="headerlink" title="• An Exploration of JSON Interoperability Vulnerabilities"></a>• <a href="https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities" target="_blank" rel="noopener">An Exploration of JSON Interoperability Vulnerabilities</a></h3><p><a href="https://web.archive.org/web/20210226060455/https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-移动端-JS-引擎哪家强"><a href="#•-移动端-JS-引擎哪家强" class="headerlink" title="• 移动端 JS 引擎哪家强"></a>• <a href="https://segmentfault.com/a/1190000039288517" target="_blank" rel="noopener">移动端 JS 引擎哪家强</a></h3><blockquote><p>探讨一下移动双端（iOS &amp; Android）的 JavaScript 引擎选型</p></blockquote><p><a href="https://web.archive.org/web/20210227093950/https://segmentfault.com/a/1190000039288517" target="_blank" rel="noopener">原网页存档</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="•-国外游戏行业和国内游戏行业有什么不同？"><a href="#•-国外游戏行业和国内游戏行业有什么不同？" class="headerlink" title="• 国外游戏行业和国内游戏行业有什么不同？"></a>• <a href="https://daily.zhihu.com/story/9733422" target="_blank" rel="noopener">国外游戏行业和国内游戏行业有什么不同？</a></h3><h3 id="•-是否每个智力正常的人都可以学会任何知识？"><a href="#•-是否每个智力正常的人都可以学会任何知识？" class="headerlink" title="• 是否每个智力正常的人都可以学会任何知识？"></a>• <a href="https://daily.zhihu.com/story/9719757" target="_blank" rel="noopener">是否每个智力正常的人都可以学会任何知识？</a></h3><blockquote><p>科学的前进需要不断地探索和试错，虽然我们可以确保一个人能学会目前所有的科学知识，但是这不代表他有进行科学研究的能力</p></blockquote><p><a href="https://web.archive.org/web/20200622071533/https://daily.zhihu.com/story/9719757" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -117,7 +117,7 @@
     <link href="https://daily.tmr.js.org/d/20210226/"/>
     <id>https://daily.tmr.js.org/d/20210226/</id>
     <published>2021-02-26T23:45:00.000Z</published>
-    <updated>2021-03-03T15:55:27.769Z</updated>
+    <updated>2021-03-03T16:09:52.094Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210226期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210226/#技术">技术</a>*1，<a href="https://daily.tmr.js.org/d/20210226/#社会">社会</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-在Windbg中明查OS实现UAC验证全流程——三个进程之间的”情爱”-2"><a href="#•-在Windbg中明查OS实现UAC验证全流程——三个进程之间的”情爱”-2" class="headerlink" title="• 在Windbg中明查OS实现UAC验证全流程——三个进程之间的”情爱”[2]"></a>• <a href="https://www.anquanke.com/post/id/231426" target="_blank" rel="noopener">在Windbg中明查OS实现UAC验证全流程——三个进程之间的”情爱”[2]</a></h3><p><a href="https://web.archive.org/web/20210225165824/https://www.anquanke.com/post/id/231426" target="_blank" rel="noopener">原网页存档</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="•-计算机作为通用技术的衰落"><a href="#•-计算机作为通用技术的衰落" class="headerlink" title="• 计算机作为通用技术的衰落"></a>• <a href="https://www.solidot.org/story?sid=67034" target="_blank" rel="noopener">计算机作为通用技术的衰落</a></h3><p><a href="https://web.archive.org/web/20210225160747/https://www.solidot.org/story?sid=67034" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-为什么在知乎上几乎所有专业都在劝退？"><a href="#•-为什么在知乎上几乎所有专业都在劝退？" class="headerlink" title="• 为什么在知乎上几乎所有专业都在劝退？"></a>• <a href="https://daily.zhihu.com/story/9719834" target="_blank" rel="noopener">为什么在知乎上几乎所有专业都在劝退？</a></h3><p><a href="https://web.archive.org/web/20200920022317/https://daily.zhihu.com/story/9719834" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -141,7 +141,7 @@
     <link href="https://daily.tmr.js.org/d/20210225/"/>
     <id>https://daily.tmr.js.org/d/20210225/</id>
     <published>2021-02-25T23:45:00.000Z</published>
-    <updated>2021-03-03T15:55:27.769Z</updated>
+    <updated>2021-03-03T16:09:52.094Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210225期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210225/#互联网">互联网</a>*1，<a href="https://daily.tmr.js.org/d/20210225/#技术">技术</a>*3，<a href="https://daily.tmr.js.org/d/20210225/#社会">社会</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="•-重度使用这款墨水屏手机之后，谈谈我对电子纸的理解和预测"><a href="#•-重度使用这款墨水屏手机之后，谈谈我对电子纸的理解和预测" class="headerlink" title="• 重度使用这款墨水屏手机之后，谈谈我对电子纸的理解和预测"></a>• <a href="https://sspai.com/post/65051" target="_blank" rel="noopener">重度使用这款墨水屏手机之后，谈谈我对电子纸的理解和预测</a></h3><p><a href="https://web.archive.org/web/20210224165137/https://sspai.com/post/65051" target="_blank" rel="noopener">原网页存档</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-恶意代码检测的本质性思考"><a href="#•-恶意代码检测的本质性思考" class="headerlink" title="• 恶意代码检测的本质性思考"></a>• <a href="https://zhuanlan.zhihu.com/p/352004681" target="_blank" rel="noopener">恶意代码检测的本质性思考</a></h3><p>想起b站的南京大学软件分析，另外还有这个 <a href="https://daily.tmr.js.org/d/20200821/#%E4%BA%91%E5%AE%89%E5%85%A8%E7%8E%AF%E5%A2%83%E4%B8%8B%E6%81%B6%E6%84%8F%E8%84%9A%E6%9C%AC%E6%A3%80%E6%B5%8B%E7%9A%84%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5">https://daily.tmr.js.org/d/20200821/#%E4%BA%91%E5%AE%89%E5%85%A8%E7%8E%AF%E5%A2%83%E4%B8%8B%E6%81%B6%E6%84%8F%E8%84%9A%E6%9C%AC%E6%A3%80%E6%B5%8B%E7%9A%84%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5</a></p><h3 id="•-详解反弹shell多维检测技术"><a href="#•-详解反弹shell多维检测技术" class="headerlink" title="• 详解反弹shell多维检测技术"></a>• <a href="https://www.freebuf.com/articles/network/263684.html" target="_blank" rel="noopener">详解反弹shell多维检测技术</a></h3><p>脚本类反弹shell更难了</p><h3 id="•-Say-my-CNAME-Rise-of-sneaky-adtech-tactic-poses-threat-to-web-security-and-privacy"><a href="#•-Say-my-CNAME-Rise-of-sneaky-adtech-tactic-poses-threat-to-web-security-and-privacy" class="headerlink" title="• Say my CNAME: Rise of sneaky adtech tactic poses threat to web security and privacy"></a>• <a href="https://portswigger.net/daily-swig/say-my-cname-rise-of-sneaky-adtech-tactic-poses-threat-to-web-security-and-privacy" target="_blank" rel="noopener">Say my CNAME: Rise of sneaky adtech tactic poses threat to web security and privacy</a></h3><p>浏览器不断增强隐私保护，网站在dns上搞事情，真是学习了</p><blockquote><p>It’s a complex scheme that melts sites’ web security.</p></blockquote><p><a href="https://web.archive.org/web/20210225154458/https://portswigger.net/daily-swig/say-my-cname-rise-of-sneaky-adtech-tactic-poses-threat-to-web-security-and-privacy" target="_blank" rel="noopener">原网页存档</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="•-日本死亡率十年来首次下降"><a href="#•-日本死亡率十年来首次下降" class="headerlink" title="• 日本死亡率十年来首次下降"></a>• <a href="https://www.solidot.org/story?sid=67026" target="_blank" rel="noopener">日本死亡率十年来首次下降</a></h3><p>2020年居然还降了</p><p><a href="https://web.archive.org/web/20210225110743/https://www.solidot.org/story?sid=67026" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -165,7 +165,7 @@
     <link href="https://daily.tmr.js.org/d/20210224/"/>
     <id>https://daily.tmr.js.org/d/20210224/</id>
     <published>2021-02-24T23:45:00.000Z</published>
-    <updated>2021-03-03T15:55:27.769Z</updated>
+    <updated>2021-03-03T16:09:52.094Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210224期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210224/#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-CDN-2021-完全攻击指南-（二）"><a href="#•-CDN-2021-完全攻击指南-（二）" class="headerlink" title="• CDN 2021 完全攻击指南 （二）"></a>• <a href="https://www.anquanke.com/post/id/231437" target="_blank" rel="noopener">CDN 2021 完全攻击指南 （二）</a></h3><h3 id="•-红蓝对抗之邮件伪造"><a href="#•-红蓝对抗之邮件伪造" class="headerlink" title="• 红蓝对抗之邮件伪造"></a>• <a href="https://mp.weixin.qq.com/s/tOOBZ1aC6SsjslCM70WKBQ" target="_blank" rel="noopener">红蓝对抗之邮件伪造</a></h3>]]></content>
     
@@ -189,7 +189,7 @@
     <link href="https://daily.tmr.js.org/d/20210222/"/>
     <id>https://daily.tmr.js.org/d/20210222/</id>
     <published>2021-02-22T23:45:00.000Z</published>
-    <updated>2021-03-03T15:55:27.769Z</updated>
+    <updated>2021-03-03T16:09:52.094Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210222期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210222/#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-对苹果mDNS协议的中间人攻击"><a href="#•-对苹果mDNS协议的中间人攻击" class="headerlink" title="• 对苹果mDNS协议的中间人攻击"></a>• <a href="https://xz.aliyun.com/t/9171" target="_blank" rel="noopener">对苹果mDNS协议的中间人攻击</a></h3><h3 id="•-手机应用中的OAuth登陆安全测试"><a href="#•-手机应用中的OAuth登陆安全测试" class="headerlink" title="• 手机应用中的OAuth登陆安全测试"></a>• <a href="https://xz.aliyun.com/t/9179" target="_blank" rel="noopener">手机应用中的OAuth登陆安全测试</a></h3><p><a href="https://web.archive.org/web/20210221160748/https://xz.aliyun.com/t/9179" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -213,7 +213,7 @@
     <link href="https://daily.tmr.js.org/d/20210218/"/>
     <id>https://daily.tmr.js.org/d/20210218/</id>
     <published>2021-02-18T23:45:00.000Z</published>
-    <updated>2021-03-03T15:55:27.769Z</updated>
+    <updated>2021-03-03T16:09:52.094Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210218期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210218/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-在Windbg中明查OS实现UAC验证全流程——三个进程之间的”情爱”-1"><a href="#•-在Windbg中明查OS实现UAC验证全流程——三个进程之间的”情爱”-1" class="headerlink" title="• 在Windbg中明查OS实现UAC验证全流程——三个进程之间的”情爱”[1]"></a>• <a href="https://www.anquanke.com/post/id/231403" target="_blank" rel="noopener">在Windbg中明查OS实现UAC验证全流程——三个进程之间的”情爱”[1]</a></h3><p><a href="https://web.archive.org/web/20210218145325/https://www.anquanke.com/post/id/231403" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -237,7 +237,7 @@
     <link href="https://daily.tmr.js.org/d/20210217/"/>
     <id>https://daily.tmr.js.org/d/20210217/</id>
     <published>2021-02-17T23:45:00.000Z</published>
-    <updated>2021-03-03T15:55:27.769Z</updated>
+    <updated>2021-03-03T16:09:52.094Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210217期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210217/#其他">其他</a>*1，<a href="https://daily.tmr.js.org/d/20210217/#技术">技术</a>*5</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="•-猫有哪些比较常见的肢体语言？"><a href="#•-猫有哪些比较常见的肢体语言？" class="headerlink" title="• 猫有哪些比较常见的肢体语言？"></a>• <a href="https://daily.zhihu.com/story/9732930" target="_blank" rel="noopener">猫有哪些比较常见的肢体语言？</a></h3><p><a href="https://web.archive.org/web/20210216080449/https://daily.zhihu.com/story/9732930" target="_blank" rel="noopener">原网页存档</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-浅析Window-API-Hook的原理与应用"><a href="#•-浅析Window-API-Hook的原理与应用" class="headerlink" title="• 浅析Window API Hook的原理与应用"></a>• <a href="https://xz.aliyun.com/t/9166" target="_blank" rel="noopener">浅析Window API Hook的原理与应用</a></h3><p><a href="https://web.archive.org/web/20210217102824/https://xz.aliyun.com/t/9166" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-Laravel-Debug-RCE分析"><a href="#•-Laravel-Debug-RCE分析" class="headerlink" title="• Laravel Debug RCE分析"></a>• <a href="https://xz.aliyun.com/t/9165" target="_blank" rel="noopener">Laravel Debug RCE分析</a></h3><p>去掉字符串的思路很骚hh</p><p><a href="https://web.archive.org/web/20210217111305/https://xz.aliyun.com/t/9165" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-CVE-2021-3156-Exploit修改"><a href="#•-CVE-2021-3156-Exploit修改" class="headerlink" title="• CVE-2021-3156 - Exploit修改"></a>• <a href="https://payloads.online/archivers/2021-02-09/1" target="_blank" rel="noopener">CVE-2021-3156 - Exploit修改</a></h3><p><a href="https://web.archive.org/web/20210217112849/https://payloads.online/archivers/2021-02-09/1" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-谁是最酷炫的-API-Style"><a href="#•-谁是最酷炫的-API-Style" class="headerlink" title="• 谁是最酷炫的 API Style"></a>• <a href="https://www.codesky.me/archives/who-is-the-coolest-api-style.wind" target="_blank" rel="noopener">谁是最酷炫的 API Style</a></h3><p><a href="https://web.archive.org/web/20210217113652/https://www.codesky.me/archives/who-is-the-coolest-api-style.wind" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-从内核层面分析部分PHP函数"><a href="#•-从内核层面分析部分PHP函数" class="headerlink" title="• 从内核层面分析部分PHP函数"></a>• <a href="https://www.anquanke.com/post/id/231388" target="_blank" rel="noopener">从内核层面分析部分PHP函数</a></h3><p><a href="https://web.archive.org/web/20210217125855/https://www.anquanke.com/post/id/231388" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -261,7 +261,7 @@
     <link href="https://daily.tmr.js.org/d/20210215/"/>
     <id>https://daily.tmr.js.org/d/20210215/</id>
     <published>2021-02-15T23:45:00.000Z</published>
-    <updated>2021-03-03T15:55:27.769Z</updated>
+    <updated>2021-03-03T16:09:52.094Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210215期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210215/#技术">技术</a>*1，<a href="https://daily.tmr.js.org/d/20210215/#生活">生活</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-supercookie-Browser-fingerprinting-via-favicon"><a href="#•-supercookie-Browser-fingerprinting-via-favicon" class="headerlink" title="• supercookie: Browser fingerprinting via favicon!"></a>• <a href="https://github.com/jonasstrehle/supercookie" target="_blank" rel="noopener">supercookie: Browser fingerprinting via favicon!</a></h3><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="•-保持午睡的习惯，长期下来会对身体有什么改变吗？"><a href="#•-保持午睡的习惯，长期下来会对身体有什么改变吗？" class="headerlink" title="• 保持午睡的习惯，长期下来会对身体有什么改变吗？"></a>• <a href="https://daily.zhihu.com/story/9733147" target="_blank" rel="noopener">保持午睡的习惯，长期下来会对身体有什么改变吗？</a></h3><blockquote><p>有午睡的受试者，在定向力、记忆力和语言能力等认知功能较好</p></blockquote><p><a href="https://web.archive.org/web/20210215152357/https://daily.zhihu.com/story/9733147" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -285,7 +285,7 @@
     <link href="https://daily.tmr.js.org/d/20210211/"/>
     <id>https://daily.tmr.js.org/d/20210211/</id>
     <published>2021-02-11T23:45:00.000Z</published>
-    <updated>2021-03-03T15:55:27.769Z</updated>
+    <updated>2021-03-03T16:09:52.094Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210211期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210211/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-研究人员利用供应链攻击入侵-35-家科技公司"><a href="#•-研究人员利用供应链攻击入侵-35-家科技公司" class="headerlink" title="• 研究人员利用供应链攻击入侵 35 家科技公司"></a>• <a href="https://www.solidot.org/story?sid=66916" target="_blank" rel="noopener">研究人员利用供应链攻击入侵 35 家科技公司</a></h3><p><a href="https://web.archive.org/web/20210210193120/https://www.solidot.org/story?sid=66916" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -309,7 +309,7 @@
     <link href="https://daily.tmr.js.org/d/20210209/"/>
     <id>https://daily.tmr.js.org/d/20210209/</id>
     <published>2021-02-09T23:45:00.000Z</published>
-    <updated>2021-03-03T15:55:27.769Z</updated>
+    <updated>2021-03-03T16:09:52.094Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210209期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210209/#互联网">互联网</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="•-MIUI-最新内测包推送后，为什么有用户不高兴了"><a href="#•-MIUI-最新内测包推送后，为什么有用户不高兴了" class="headerlink" title="• MIUI 最新内测包推送后，为什么有用户不高兴了"></a>• <a href="https://www.ifanr.com/1400647" target="_blank" rel="noopener">MIUI 最新内测包推送后，为什么有用户不高兴了</a></h3><p><a href="https://web.archive.org/web/20210209140118/https://www.ifanr.com/1400647" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -333,7 +333,7 @@
     <link href="https://daily.tmr.js.org/d/20210207/"/>
     <id>https://daily.tmr.js.org/d/20210207/</id>
     <published>2021-02-07T23:45:00.000Z</published>
-    <updated>2021-03-03T15:55:27.769Z</updated>
+    <updated>2021-03-03T16:09:52.094Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210207期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210207/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-无文件威胁"><a href="#•-无文件威胁" class="headerlink" title="• 无文件威胁"></a>• <a href="https://docs.microsoft.com/zh-cn/windows/security/threat-protection/intelligence/fileless-threats" target="_blank" rel="noopener">无文件威胁</a></h3><p>翻到微软文档对无文件威胁对介绍</p><p><a href="https://web.archive.org/web/20210207032210/https://docs.microsoft.com/zh-cn/windows/security/threat-protection/intelligence/fileless-threats" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -357,7 +357,7 @@
     <link href="https://daily.tmr.js.org/d/20210206/"/>
     <id>https://daily.tmr.js.org/d/20210206/</id>
     <published>2021-02-06T23:45:00.000Z</published>
-    <updated>2021-03-03T15:55:27.769Z</updated>
+    <updated>2021-03-03T16:09:52.094Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210206期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210206/#技术">技术</a>*1，<a href="https://daily.tmr.js.org/d/20210206/#社会">社会</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-windows-计划任务的变迁及其非常规排查"><a href="#•-windows-计划任务的变迁及其非常规排查" class="headerlink" title="• windows 计划任务的变迁及其非常规排查"></a>• <a href="https://paper.seebug.org/1479/" target="_blank" rel="noopener">windows 计划任务的变迁及其非常规排查</a></h3><p>nb</p><p><a href="https://web.archive.org/web/20210205184606/https://paper.seebug.org/1479/" target="_blank" rel="noopener">原网页存档</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="•-我们把游戏带给了老人：用游戏对抗认知障碍症【爷爷奶奶也知道玩游戏】"><a href="#•-我们把游戏带给了老人：用游戏对抗认知障碍症【爷爷奶奶也知道玩游戏】" class="headerlink" title="• 我们把游戏带给了老人：用游戏对抗认知障碍症【爷爷奶奶也知道玩游戏】"></a>• <a href="https://www.bilibili.com/video/BV1S5411J75u" target="_blank" rel="noopener">我们把游戏带给了老人：用游戏对抗认知障碍症【爷爷奶奶也知道玩游戏】</a></h3><p><a href="https://web.archive.org/web/20210206113900/https://www.bilibili.com/video/BV1S5411J75u" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -381,7 +381,7 @@
     <link href="https://daily.tmr.js.org/d/20210205/"/>
     <id>https://daily.tmr.js.org/d/20210205/</id>
     <published>2021-02-05T23:45:00.000Z</published>
-    <updated>2021-03-03T15:55:27.769Z</updated>
+    <updated>2021-03-03T16:09:52.094Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210205期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210205/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-基于-DTLS-协议的反射攻击深度分析"><a href="#•-基于-DTLS-协议的反射攻击深度分析" class="headerlink" title="• 基于 DTLS 协议的反射攻击深度分析"></a>• <a href="https://paper.seebug.org/1482/" target="_blank" rel="noopener">基于 DTLS 协议的反射攻击深度分析</a></h3>]]></content>
     
@@ -405,7 +405,7 @@
     <link href="https://daily.tmr.js.org/d/20210204/"/>
     <id>https://daily.tmr.js.org/d/20210204/</id>
     <published>2021-02-04T23:45:00.000Z</published>
-    <updated>2021-03-03T15:55:27.769Z</updated>
+    <updated>2021-03-03T16:09:52.094Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210204期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210204/#技术">技术</a>*2，<a href="https://daily.tmr.js.org/d/20210204/#生活">生活</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-蜜罐项目-端口流量转发（透传ip）方案调研"><a href="#•-蜜罐项目-端口流量转发（透传ip）方案调研" class="headerlink" title="• 蜜罐项目-端口流量转发（透传ip）方案调研"></a>• <a href="https://xz.aliyun.com/t/9155" target="_blank" rel="noopener">蜜罐项目-端口流量转发（透传ip）方案调研</a></h3><p>其实iptables就比较简单，另外还有一种就是基于TCP的私有协议，把IP数据带出来，就是开发成本++</p><p><a href="https://web.archive.org/web/20210204144425/https://xz.aliyun.com/t/9155" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-HSQLDB-安全测试指南"><a href="#•-HSQLDB-安全测试指南" class="headerlink" title="• HSQLDB 安全测试指南"></a>• <a href="https://xz.aliyun.com/t/9162" target="_blank" rel="noopener">HSQLDB 安全测试指南</a></h3><p><a href="https://web.archive.org/web/20210204145359/https://xz.aliyun.com/t/9162" target="_blank" rel="noopener">原网页存档</a></p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="•-小婴儿能看出来性格吗？"><a href="#•-小婴儿能看出来性格吗？" class="headerlink" title="• 小婴儿能看出来性格吗？"></a>• <a href="https://daily.zhihu.com/story/9732663" target="_blank" rel="noopener">小婴儿能看出来性格吗？</a></h3>]]></content>
     
@@ -429,7 +429,7 @@
     <link href="https://daily.tmr.js.org/d/20210203/"/>
     <id>https://daily.tmr.js.org/d/20210203/</id>
     <published>2021-02-03T23:45:00.000Z</published>
-    <updated>2021-03-03T15:55:27.769Z</updated>
+    <updated>2021-03-03T16:09:52.094Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210203期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210203/#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-深入理解苹果系统（Unicode）字符串的排序方法"><a href="#•-深入理解苹果系统（Unicode）字符串的排序方法" class="headerlink" title="• 深入理解苹果系统（Unicode）字符串的排序方法"></a>• <a href="https://iweiyun.github.io/2018/11/16/Understand-Apple-s-Sorting-Strings/" target="_blank" rel="noopener">深入理解苹果系统（Unicode）字符串的排序方法</a></h3><p>touch一些单字符的文件，在zh_CN.UTF-8环境下执行find .，文件排序“混乱”</p><p><a href="https://web.archive.org/web/20210203152916/https://iweiyun.github.io/2018/11/16/Understand-Apple-s-Sorting-Strings/" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-Apache-Shiro-认证绕过分析（CVE-2020-17523）"><a href="#•-Apache-Shiro-认证绕过分析（CVE-2020-17523）" class="headerlink" title="• Apache Shiro 认证绕过分析（CVE-2020-17523）"></a>• <a href="https://www.anquanke.com/post/id/230935" target="_blank" rel="noopener">Apache Shiro 认证绕过分析（CVE-2020-17523）</a></h3><p><a href="https://web.archive.org/web/20210203154349/https://www.anquanke.com/post/id/230935" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -453,7 +453,7 @@
     <link href="https://daily.tmr.js.org/d/20210202/"/>
     <id>https://daily.tmr.js.org/d/20210202/</id>
     <published>2021-02-02T23:45:00.000Z</published>
-    <updated>2021-03-03T15:55:27.769Z</updated>
+    <updated>2021-03-03T16:09:52.094Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210202期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210202/#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-恶意程序初探"><a href="#•-恶意程序初探" class="headerlink" title="• 恶意程序初探"></a>• <a href="https://xz.aliyun.com/t/9122" target="_blank" rel="noopener">恶意程序初探</a></h3><h3 id="•-一种无法被Dump的jar包加密保护解决方案"><a href="#•-一种无法被Dump的jar包加密保护解决方案" class="headerlink" title="• 一种无法被Dump的jar包加密保护解决方案"></a>• <a href="https://mp.weixin.qq.com/s/EdDLqrZQfFsOGZdEK7qXNg" target="_blank" rel="noopener">一种无法被Dump的jar包加密保护解决方案</a></h3><p>推荐关注一下作者</p><p><a href="https://web.archive.org/web/20210202152405/https://mp.weixin.qq.com/s/EdDLqrZQfFsOGZdEK7qXNg" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-容器与云的碰撞——一次对MinIO的测试"><a href="#•-容器与云的碰撞——一次对MinIO的测试" class="headerlink" title="• 容器与云的碰撞——一次对MinIO的测试"></a>• <a href="https://www.leavesongs.com/PENETRATION/the-collision-of-containers-and-the-cloud-pentesting-a-MinIO.html" target="_blank" rel="noopener">容器与云的碰撞——一次对MinIO的测试</a></h3><p><a href="https://web.archive.org/web/20210202155137/https://www.leavesongs.com/PENETRATION/the-collision-of-containers-and-the-cloud-pentesting-a-MinIO.html" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -477,7 +477,7 @@
     <link href="https://daily.tmr.js.org/d/20210201/"/>
     <id>https://daily.tmr.js.org/d/20210201/</id>
     <published>2021-02-01T23:45:00.000Z</published>
-    <updated>2021-03-03T15:55:27.769Z</updated>
+    <updated>2021-03-03T16:09:52.094Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210201期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210201/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-Operation-NightScout-Supply‑chain-attack-targets-online-gaming-in-Asia"><a href="#•-Operation-NightScout-Supply‑chain-attack-targets-online-gaming-in-Asia" class="headerlink" title="• Operation NightScout: Supply‑chain attack targets online gaming in Asia"></a>• <a href="https://www.welivesecurity.com/2021/02/01/operation-nightscout-supply-chain-attack-online-gaming-asia/" target="_blank" rel="noopener">Operation NightScout: Supply‑chain attack targets online gaming in Asia</a></h3><p>夜神模拟器被供应链攻击了？</p>]]></content>
     
