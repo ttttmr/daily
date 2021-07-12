@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.tmr.js.org/"/>
-  <updated>2021-07-11T15:56:16.610Z</updated>
+  <updated>2021-07-12T15:56:09.754Z</updated>
   <id>https://daily.tmr.js.org/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>透明日报20210712期</title>
+    <link href="https://daily.tmr.js.org/d/20210712/"/>
+    <id>https://daily.tmr.js.org/d/20210712/</id>
+    <published>2021-07-12T23:45:00.000Z</published>
+    <updated>2021-07-12T15:56:09.754Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20210712期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210712/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-一些流量包数据分享站"><a href="#•-一些流量包数据分享站" class="headerlink" title="• 一些流量包数据分享站"></a>• <a href="https://docs.securityonion.net/en/2.3/pcaps.html" target="_blank" rel="noopener">一些流量包数据分享站</a></h3><p><a href="http://speed.cis.nctu.edu.tw/pcaplib/" target="_blank" rel="noopener">http://speed.cis.nctu.edu.tw/pcaplib/</a><br><a href="http://mawi.wide.ad.jp/mawi/" target="_blank" rel="noopener">http://mawi.wide.ad.jp/mawi/</a><br><a href="https://archive.wrccdc.org/" target="_blank" rel="noopener">https://archive.wrccdc.org/</a><br><a href="https://digitalcorpora.org/?s=pcap" target="_blank" rel="noopener">https://digitalcorpora.org/?s=pcap</a></p><p>如果是学习的话，wireshark的是比较方便的</p><p><a href="https://web.archive.org/web/20210712064230/https://docs.securityonion.net/en/2.3/pcaps.html" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20210712期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;https://daily.tmr.js.org/d/20210712/#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="2021" scheme="https://daily.tmr.js.org/categories/2021/"/>
+    
+      <category term="07" scheme="https://daily.tmr.js.org/categories/2021/07/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>透明日报20210711期</title>
     <link href="https://daily.tmr.js.org/d/20210711/"/>
     <id>https://daily.tmr.js.org/d/20210711/</id>
     <published>2021-07-11T23:45:00.000Z</published>
-    <updated>2021-07-11T15:56:16.610Z</updated>
+    <updated>2021-07-12T15:55:26.448Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210711期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210711/#其他">其他</a>*1，<a href="https://daily.tmr.js.org/d/20210711/#技术">技术</a>*1</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="•-X新人类？科学家发现了大脑不会老的超级老人"><a href="#•-X新人类？科学家发现了大脑不会老的超级老人" class="headerlink" title="• X新人类？科学家发现了大脑不会老的超级老人"></a>• <a href="http://jandan.net/p/109237" target="_blank" rel="noopener">X新人类？科学家发现了大脑不会老的超级老人</a></h3><p>记忆力不会衰减</p><p><a href="https://web.archive.org/web/20210711082712/http://jandan.net/p/109237" target="_blank" rel="noopener">原网页存档</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-黑科技解密！实现socket进程间迁移！"><a href="#•-黑科技解密！实现socket进程间迁移！" class="headerlink" title="• 黑科技解密！实现socket进程间迁移！"></a>• <a href="https://mp.weixin.qq.com/s/xVW6VqqeItkYMatglg9bAA" target="_blank" rel="noopener">黑科技解密！实现socket进程间迁移！</a></h3><p><a href="https://web.archive.org/web/20210711103050/https://mp.weixin.qq.com/s/xVW6VqqeItkYMatglg9bAA" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -45,7 +69,7 @@
     <link href="https://daily.tmr.js.org/d/20210710/"/>
     <id>https://daily.tmr.js.org/d/20210710/</id>
     <published>2021-07-10T23:45:00.000Z</published>
-    <updated>2021-07-11T15:55:24.398Z</updated>
+    <updated>2021-07-12T15:55:26.448Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210710期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210710/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-COM-对象的利用与挖掘"><a href="#•-COM-对象的利用与挖掘" class="headerlink" title="• COM 对象的利用与挖掘"></a>• <a href="https://paper.seebug.org/1624/" target="_blank" rel="noopener">COM 对象的利用与挖掘</a></h3><p><a href="https://web.archive.org/web/20210710041148/https://paper.seebug.org/1624/" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -69,7 +93,7 @@
     <link href="https://daily.tmr.js.org/d/20210708/"/>
     <id>https://daily.tmr.js.org/d/20210708/</id>
     <published>2021-07-08T23:45:00.000Z</published>
-    <updated>2021-07-11T15:55:24.398Z</updated>
+    <updated>2021-07-12T15:55:26.448Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210708期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210708/#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-TCP-IP-Fingerprinting-Methods-Supported-by-Nmap"><a href="#•-TCP-IP-Fingerprinting-Methods-Supported-by-Nmap" class="headerlink" title="• TCP/IP Fingerprinting Methods Supported by Nmap"></a>• <a href="https://nmap.org/book/osdetect-methods.html" target="_blank" rel="noopener">TCP/IP Fingerprinting Methods Supported by Nmap</a></h3><p>Nmap利用TCP/IP指纹识别操作系统</p><p><a href="https://web.archive.org/web/20210604220443/https://nmap.org/book/osdetect-methods.html" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-公开一个macOS命令执行技巧"><a href="#•-公开一个macOS命令执行技巧" class="headerlink" title="• 公开一个macOS命令执行技巧"></a>• <a href="https://mp.weixin.qq.com/s/GZ5eS_lHiBBb7jHNu6PUgg" target="_blank" rel="noopener">公开一个macOS命令执行技巧</a></h3><p><a href="https://web.archive.org/web/20210708125014/https://mp.weixin.qq.com/s/GZ5eS_lHiBBb7jHNu6PUgg" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-基于Linux-Namespaces-特性实现的消音"><a href="#•-基于Linux-Namespaces-特性实现的消音" class="headerlink" title="• 基于Linux Namespaces 特性实现的消音"></a>• <a href="https://mp.weixin.qq.com/s/nhkkP_B-sHv-t2KeZuyGgA" target="_blank" rel="noopener">基于Linux Namespaces 特性实现的消音</a></h3><p><a href="https://web.archive.org/web/20210708150116/https://mp.weixin.qq.com/s/nhkkP_B-sHv-t2KeZuyGgA" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -93,7 +117,7 @@
     <link href="https://daily.tmr.js.org/d/20210706/"/>
     <id>https://daily.tmr.js.org/d/20210706/</id>
     <published>2021-07-06T23:45:00.000Z</published>
-    <updated>2021-07-11T15:55:24.398Z</updated>
+    <updated>2021-07-12T15:55:26.448Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210706期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210706/#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-【Black-Hat-Asia-2021系列分享】自动化挖掘-gRPC-网络接口漏洞"><a href="#•-【Black-Hat-Asia-2021系列分享】自动化挖掘-gRPC-网络接口漏洞" class="headerlink" title="• 【Black Hat Asia 2021系列分享】自动化挖掘 gRPC 网络接口漏洞"></a>• <a href="https://paper.seebug.org/1616/" target="_blank" rel="noopener">【Black Hat Asia 2021系列分享】自动化挖掘 gRPC 网络接口漏洞</a></h3><p><a href="https://web.archive.org/web/20210706122007/https://paper.seebug.org/1616/" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-数据安全的第一道坎"><a href="#•-数据安全的第一道坎" class="headerlink" title="• 数据安全的第一道坎"></a>• <a href="https://www.sec-un.org/%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E9%81%93%E5%9D%8E/" target="_blank" rel="noopener">数据安全的第一道坎</a></h3><p><a href="https://web.archive.org/web/20210706122714/https://www.sec-un.org/%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E9%81%93%E5%9D%8E/" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-安卓逆向面试题汇总-技术篇"><a href="#•-安卓逆向面试题汇总-技术篇" class="headerlink" title="• 安卓逆向面试题汇总 技术篇"></a>• <a href="https://www.anquanke.com/post/id/246020" target="_blank" rel="noopener">安卓逆向面试题汇总 技术篇</a></h3>]]></content>
     
@@ -117,7 +141,7 @@
     <link href="https://daily.tmr.js.org/d/20210704/"/>
     <id>https://daily.tmr.js.org/d/20210704/</id>
     <published>2021-07-04T23:45:00.000Z</published>
-    <updated>2021-07-11T15:55:24.398Z</updated>
+    <updated>2021-07-12T15:55:26.448Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210704期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210704/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-Copilot-侵犯隐私、抄袭代码、无视许可证……-这届-GitHub-变了？"><a href="#•-Copilot-侵犯隐私、抄袭代码、无视许可证……-这届-GitHub-变了？" class="headerlink" title="• Copilot 侵犯隐私、抄袭代码、无视许可证…… 这届 GitHub 变了？"></a>• <a href="https://segmentfault.com/a/1190000040282640" target="_blank" rel="noopener">Copilot 侵犯隐私、抄袭代码、无视许可证…… 这届 GitHub 变了？</a></h3><p>另一个视角看Copilot</p><p><a href="https://web.archive.org/web/20210703184442/https://segmentfault.com/a/1190000040282640" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -141,7 +165,7 @@
     <link href="https://daily.tmr.js.org/d/20210703/"/>
     <id>https://daily.tmr.js.org/d/20210703/</id>
     <published>2021-07-03T23:45:00.000Z</published>
-    <updated>2021-07-11T15:55:24.398Z</updated>
+    <updated>2021-07-12T15:55:26.448Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210703期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210703/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-智能电视漏洞挖掘初探之寻找工程模式热键"><a href="#•-智能电视漏洞挖掘初探之寻找工程模式热键" class="headerlink" title="• 智能电视漏洞挖掘初探之寻找工程模式热键"></a>• <a href="https://delikely.github.io/2021/05/15/%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E5%88%9D%E6%8E%A2%E4%B9%8B%E5%AF%BB%E6%89%BE%E5%B7%A5%E7%A8%8B%E6%A8%A1%E5%BC%8F%E7%83%AD%E9%94%AE/" target="_blank" rel="noopener">智能电视漏洞挖掘初探之寻找工程模式热键</a></h3><p><a href="https://web.archive.org/web/20210702180356/https://delikely.github.io/2021/05/15/%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E5%88%9D%E6%8E%A2%E4%B9%8B%E5%AF%BB%E6%89%BE%E5%B7%A5%E7%A8%8B%E6%A8%A1%E5%BC%8F%E7%83%AD%E9%94%AE/" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -165,7 +189,7 @@
     <link href="https://daily.tmr.js.org/d/20210702/"/>
     <id>https://daily.tmr.js.org/d/20210702/</id>
     <published>2021-07-02T23:45:00.000Z</published>
-    <updated>2021-07-11T15:55:24.398Z</updated>
+    <updated>2021-07-12T15:55:26.448Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210702期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210702/#技术">技术</a>*1，<a href="https://daily.tmr.js.org/d/20210702/#社会">社会</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-利用-Hook-技术打造通用的-Webshell"><a href="#•-利用-Hook-技术打造通用的-Webshell" class="headerlink" title="• 利用 Hook 技术打造通用的 Webshell"></a>• <a href="https://jayl1n.github.io/2021/07/01/use-inlinehook-technology-to-make-a-more-general-webshell/" target="_blank" rel="noopener">利用 Hook 技术打造通用的 Webshell</a></h3><p>思路可以，想起之前phpstudy后门有点类似</p><p><a href="https://web.archive.org/web/20210701164635/https://jayl1n.github.io/2021/07/01/use-inlinehook-technology-to-make-a-more-general-webshell/" target="_blank" rel="noopener">原网页存档</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="•-小事-·-儿子想穿裙子上学"><a href="#•-小事-·-儿子想穿裙子上学" class="headerlink" title="• 小事 · 儿子想穿裙子上学"></a>• <a href="https://daily.zhihu.com/story/9737523" target="_blank" rel="noopener">小事 · 儿子想穿裙子上学</a></h3><p>真好啊</p>]]></content>
     
@@ -189,7 +213,7 @@
     <link href="https://daily.tmr.js.org/d/20210701/"/>
     <id>https://daily.tmr.js.org/d/20210701/</id>
     <published>2021-07-01T23:45:00.000Z</published>
-    <updated>2021-07-11T15:55:24.398Z</updated>
+    <updated>2021-07-12T15:55:26.448Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210701期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210701/#技术">技术</a>*6，<a href="https://daily.tmr.js.org/d/20210701/#文娱">文娱</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-攻击技术研判｜“重门深锁”FormBook-Crypter-执行隐匿技术精析"><a href="#•-攻击技术研判｜“重门深锁”FormBook-Crypter-执行隐匿技术精析" class="headerlink" title="• 攻击技术研判｜“重门深锁”FormBook  Crypter 执行隐匿技术精析"></a>• <a href="https://mp.weixin.qq.com/s/bfILTCvuaBASdmWTd4BnoQ" target="_blank" rel="noopener">攻击技术研判｜“重门深锁”FormBook  Crypter 执行隐匿技术精析</a></h3><p><a href="https://web.archive.org/web/20210630163759/https://mp.weixin.qq.com/s/bfILTCvuaBASdmWTd4BnoQ" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-微软承认签名了一个-rootkit-恶意程序"><a href="#•-微软承认签名了一个-rootkit-恶意程序" class="headerlink" title="• 微软承认签名了一个 rootkit 恶意程序"></a>• <a href="https://www.solidot.org/story?sid=68143" target="_blank" rel="noopener">微软承认签名了一个 rootkit 恶意程序</a></h3><p><a href="https://web.archive.org/web/20210701123145/https://www.solidot.org/story?sid=68143" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-Introducing-DOM-Invader-DOM-XSS-just-got-a-whole-lot-easier-to-find"><a href="#•-Introducing-DOM-Invader-DOM-XSS-just-got-a-whole-lot-easier-to-find" class="headerlink" title="• Introducing DOM Invader: DOM XSS just got a whole lot easier to find"></a>• <a href="https://portswigger.net/blog/introducing-dom-invader" target="_blank" rel="noopener">Introducing DOM Invader: DOM XSS just got a whole lot easier to find</a></h3><p>这里有一份中文版翻译 <a href="https://gh0st.cn/archives/2021-07-01/1" target="_blank" rel="noopener">https://gh0st.cn/archives/2021-07-01/1</a></p><p><a href="https://web.archive.org/web/20210701123431/https://portswigger.net/blog/introducing-dom-invader" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-多吹牛，少写代码"><a href="#•-多吹牛，少写代码" class="headerlink" title="• 多吹牛，少写代码"></a>• <a href="https://www.raychase.net/6634" target="_blank" rel="noopener">多吹牛，少写代码</a></h3><p><a href="https://web.archive.org/web/20210701135338/https://www.raychase.net/6634" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-程序员的酒后真言"><a href="#•-程序员的酒后真言" class="headerlink" title="• 程序员的酒后真言"></a>• <a href="https://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html" target="_blank" rel="noopener">程序员的酒后真言</a></h3><p><a href="https://web.archive.org/web/20210630165431/http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-动态防御的挑战及解决思路探讨"><a href="#•-动态防御的挑战及解决思路探讨" class="headerlink" title="• 动态防御的挑战及解决思路探讨"></a>• <a href="https://www.sec-un.org/%E5%8A%A8%E6%80%81%E9%98%B2%E5%BE%A1%E7%9A%84%E6%8C%91%E6%88%98%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%80%9D%E8%B7%AF%E6%8E%A2%E8%AE%A8/" target="_blank" rel="noopener">动态防御的挑战及解决思路探讨</a></h3><p><a href="https://web.archive.org/web/20210701141317/https://www.sec-un.org/%E5%8A%A8%E6%80%81%E9%98%B2%E5%BE%A1%E7%9A%84%E6%8C%91%E6%88%98%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%80%9D%E8%B7%AF%E6%8E%A2%E8%AE%A8/" target="_blank" rel="noopener">原网页存档</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="•-超逼真的攻城模拟器：胡逼之下却有一颗严肃内核"><a href="#•-超逼真的攻城模拟器：胡逼之下却有一颗严肃内核" class="headerlink" title="• 超逼真的攻城模拟器：胡逼之下却有一颗严肃内核"></a>• <a href="https://www.yystv.cn/p/8081" target="_blank" rel="noopener">超逼真的攻城模拟器：胡逼之下却有一颗严肃内核</a></h3><p>有意思，开发者B站有游玩视频 <a href="https://space.bilibili.com/66373674" target="_blank" rel="noopener">https://space.bilibili.com/66373674</a></p><p><a href="https://web.archive.org/web/20210701124017/https://www.yystv.cn/p/8081" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -213,7 +237,7 @@
     <link href="https://daily.tmr.js.org/d/20210630/"/>
     <id>https://daily.tmr.js.org/d/20210630/</id>
     <published>2021-06-30T23:45:00.000Z</published>
-    <updated>2021-07-11T15:55:24.398Z</updated>
+    <updated>2021-07-12T15:55:26.448Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210630期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210630/#技术">技术</a>*5</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-基于业务场景的漏洞挖掘"><a href="#•-基于业务场景的漏洞挖掘" class="headerlink" title="• 基于业务场景的漏洞挖掘"></a>• <a href="https://mp.weixin.qq.com/s/a6QvgLFCO4rCS3FRYZ3lug" target="_blank" rel="noopener">基于业务场景的漏洞挖掘</a></h3><p><a href="https://web.archive.org/web/20210629164618/https://mp.weixin.qq.com/s/a6QvgLFCO4rCS3FRYZ3lug" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-Pain-free-Custom-Linting-Why-I-moved-from-ESLint-and-Bandit-to-Semgrep"><a href="#•-Pain-free-Custom-Linting-Why-I-moved-from-ESLint-and-Bandit-to-Semgrep" class="headerlink" title="• Pain-free Custom Linting: Why I moved from ESLint and Bandit to Semgrep"></a>• <a href="https://r2c.dev/blog/2020/why-i-moved-to-semgrep-for-all-my-code-analysis/" target="_blank" rel="noopener">Pain-free Custom Linting: Why I moved from ESLint and Bandit to Semgrep</a></h3><p>Semgrep介绍，介于纯字符匹配和纯语法分析之间，有字符匹配的简单，也有语法分析的智能，同时还做了跨语言的兼容</p><p><a href="https://web.archive.org/web/20210123180303/https://r2c.dev/blog/2020/why-i-moved-to-semgrep-for-all-my-code-analysis/" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-Your-AI-pair-programmer"><a href="#•-Your-AI-pair-programmer" class="headerlink" title="• Your AI pair programmer"></a>• <a href="https://copilot.github.com/" target="_blank" rel="noopener">Your AI pair programmer</a></h3><p>GitHub推出Copilot的AI编程工具，看预览太强了，写函数名出函数</p><p><a href="https://web.archive.org/web/20210630095904/https://copilot.github.com/" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-“失控”的IPv6：观察IPv6网络环境安全现状"><a href="#•-“失控”的IPv6：观察IPv6网络环境安全现状" class="headerlink" title="• “失控”的IPv6：观察IPv6网络环境安全现状"></a>• <a href="https://www.secrss.com/articles/24243" target="_blank" rel="noopener">“失控”的IPv6：观察IPv6网络环境安全现状</a></h3><p>Google搜索inurl:proxy site:gov.cn</p><p><a href="https://web.archive.org/web/20200805014942/https://www.secrss.com/articles/24243" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-How-I-found-my-first-Chrome-bug-CVE-2021–21210"><a href="#•-How-I-found-my-first-Chrome-bug-CVE-2021–21210" class="headerlink" title="• How I found my first Chrome bug (CVE-2021–21210)"></a>• <a href="https://vovohelo.medium.com/how-i-found-my-first-chrome-bug-cve-2021-21210-248a21272248" target="_blank" rel="noopener">How I found my first Chrome bug (CVE-2021–21210)</a></h3><p>之前看一直觉得NAT Slipstreaming是路由器的漏洞，虽然浏览器层面可以拦截（端口黑名单）</p><p><a href="https://web.archive.org/web/20210628183206/https://vovohelo.medium.com/how-i-found-my-first-chrome-bug-cve-2021-21210-248a21272248" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -237,7 +261,7 @@
     <link href="https://daily.tmr.js.org/d/20210629/"/>
     <id>https://daily.tmr.js.org/d/20210629/</id>
     <published>2021-06-29T23:45:00.000Z</published>
-    <updated>2021-07-11T15:55:24.398Z</updated>
+    <updated>2021-07-12T15:55:26.448Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210629期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210629/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-如何消除Go的编译特征"><a href="#•-如何消除Go的编译特征" class="headerlink" title="• 如何消除Go的编译特征"></a>• <a href="https://mp.weixin.qq.com/s/Z0SpYJBikdwA_foPkxnWFQ" target="_blank" rel="noopener">如何消除Go的编译特征</a></h3>]]></content>
     
@@ -261,7 +285,7 @@
     <link href="https://daily.tmr.js.org/d/20210628/"/>
     <id>https://daily.tmr.js.org/d/20210628/</id>
     <published>2021-06-28T23:45:00.000Z</published>
-    <updated>2021-07-11T15:55:24.398Z</updated>
+    <updated>2021-07-12T15:55:26.448Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210628期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210628/#社会">社会</a>*1</p><a id="more"></a><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="•-视频新文化运动"><a href="#•-视频新文化运动" class="headerlink" title="• 视频新文化运动"></a>• <a href="https://mp.weixin.qq.com/s/B5ITNz948xEHqthneKeX-g" target="_blank" rel="noopener">视频新文化运动</a></h3><p>很新奇的观点，但我还是觉得这还是会并存，不会取代<br>文中提到的一些东西同样也适用于音频内容</p><p><a href="https://web.archive.org/web/20210627164947/https://mp.weixin.qq.com/s/B5ITNz948xEHqthneKeX-g" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -285,7 +309,7 @@
     <link href="https://daily.tmr.js.org/d/20210625/"/>
     <id>https://daily.tmr.js.org/d/20210625/</id>
     <published>2021-06-25T23:45:00.000Z</published>
-    <updated>2021-07-11T15:55:24.398Z</updated>
+    <updated>2021-07-12T15:55:26.448Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210625期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210625/#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-奇客Solidot-Windows-11-将提供-Windows-Subsystem-for-Android"><a href="#•-奇客Solidot-Windows-11-将提供-Windows-Subsystem-for-Android" class="headerlink" title="• 奇客Solidot | Windows 11 将提供 Windows Subsystem for Android"></a>• <a href="https://www.solidot.org/story?sid=68124" target="_blank" rel="noopener">奇客Solidot | Windows 11 将提供 Windows Subsystem for Android</a></h3><p>wsa可还行</p><p><a href="https://web.archive.org/web/20210625102848/https://www.solidot.org/story?sid=68124" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-A-supply-chain-breach-Taking-over-an-Atlassian-account"><a href="#•-A-supply-chain-breach-Taking-over-an-Atlassian-account" class="headerlink" title="• A supply-chain breach:  Taking over an Atlassian account"></a>• <a href="https://research.checkpoint.com/2021/a-supply-chain-breach-taking-over-an-atlassian-account/" target="_blank" rel="noopener">A supply-chain breach:  Taking over an Atlassian account</a></h3><p>从XSS和CSRF到账号接管</p><p><a href="https://web.archive.org/web/20210625142347/https://research.checkpoint.com/2021/a-supply-chain-breach-taking-over-an-atlassian-account/" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -309,7 +333,7 @@
     <link href="https://daily.tmr.js.org/d/20210624/"/>
     <id>https://daily.tmr.js.org/d/20210624/</id>
     <published>2021-06-24T23:45:00.000Z</published>
-    <updated>2021-07-11T15:55:24.398Z</updated>
+    <updated>2021-07-12T15:55:26.448Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210624期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210624/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-web选手如何快速卷入二进制世界"><a href="#•-web选手如何快速卷入二进制世界" class="headerlink" title="• web选手如何快速卷入二进制世界"></a>• <a href="https://mp.weixin.qq.com/s/tU6R2Q4_unEoAMk27vv9xg" target="_blank" rel="noopener">web选手如何快速卷入二进制世界</a></h3><p><a href="https://web.archive.org/web/20210624140951/https://mp.weixin.qq.com/s/tU6R2Q4_unEoAMk27vv9xg" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -333,7 +357,7 @@
     <link href="https://daily.tmr.js.org/d/20210623/"/>
     <id>https://daily.tmr.js.org/d/20210623/</id>
     <published>2021-06-23T23:45:00.000Z</published>
-    <updated>2021-07-11T15:55:24.398Z</updated>
+    <updated>2021-07-12T15:55:26.448Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210623期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210623/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-papers-KCon-2019-WAF-pdf"><a href="#•-papers-KCon-2019-WAF-pdf" class="headerlink" title="• papers/KCon_2019_WAF.pdf"></a>• <a href="https://github.com/pyn3rd/papers/blob/master/KCon_2019_WAF.pdf" target="_blank" rel="noopener">papers/KCon_2019_WAF.pdf</a></h3><p><a href="https://web.archive.org/web/20210623124411/https://github.com/pyn3rd/papers/blob/master/KCon_2019_WAF.pdf" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -357,7 +381,7 @@
     <link href="https://daily.tmr.js.org/d/20210619/"/>
     <id>https://daily.tmr.js.org/d/20210619/</id>
     <published>2021-06-19T23:45:00.000Z</published>
-    <updated>2021-07-11T15:55:24.398Z</updated>
+    <updated>2021-07-12T15:55:26.448Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210619期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210619/#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-小事-·-绝不会再犯的错误"><a href="#•-小事-·-绝不会再犯的错误" class="headerlink" title="• 小事 · 绝不会再犯的错误"></a>• <a href="https://daily.zhihu.com/story/9737169" target="_blank" rel="noopener">小事 · 绝不会再犯的错误</a></h3><h3 id="•-LordPE在win10无法工作折腾笔记-死而复生"><a href="#•-LordPE在win10无法工作折腾笔记-死而复生" class="headerlink" title="• LordPE在win10无法工作折腾笔记-死而复生"></a>• <a href="https://mp.weixin.qq.com/s/GkJCp5Zhldf7fQifuRIJ3A" target="_blank" rel="noopener">LordPE在win10无法工作折腾笔记-死而复生</a></h3><p>学习了，蹲一个增强版LordPE</p>]]></content>
     
@@ -381,7 +405,7 @@
     <link href="https://daily.tmr.js.org/d/20210618/"/>
     <id>https://daily.tmr.js.org/d/20210618/</id>
     <published>2021-06-18T23:45:00.000Z</published>
-    <updated>2021-07-11T15:55:24.398Z</updated>
+    <updated>2021-07-12T15:55:26.448Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210618期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210618/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-水一篇文章：如何水一个-CVE（套娃）"><a href="#•-水一篇文章：如何水一个-CVE（套娃）" class="headerlink" title="• 水一篇文章：如何水一个 CVE（套娃）"></a>• <a href="https://www.sqlsec.com/2021/06/cve.html" target="_blank" rel="noopener">水一篇文章：如何水一个 CVE（套娃）</a></h3><p><a href="https://web.archive.org/web/20210618104359/https://www.sqlsec.com/2021/06/cve.html" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -405,7 +429,7 @@
     <link href="https://daily.tmr.js.org/d/20210617/"/>
     <id>https://daily.tmr.js.org/d/20210617/</id>
     <published>2021-06-17T23:45:00.000Z</published>
-    <updated>2021-07-11T15:55:24.398Z</updated>
+    <updated>2021-07-12T15:55:26.448Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210617期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210617/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-关于-Guacamole-RCE-的那些事儿"><a href="#•-关于-Guacamole-RCE-的那些事儿" class="headerlink" title="• 关于 Guacamole RCE 的那些事儿"></a>• <a href="https://paper.seebug.org/1605" target="_blank" rel="noopener">关于 Guacamole RCE 的那些事儿</a></h3><p><a href="https://web.archive.org/web/20210617144251/https://paper.seebug.org/1605/" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -429,7 +453,7 @@
     <link href="https://daily.tmr.js.org/d/20210616/"/>
     <id>https://daily.tmr.js.org/d/20210616/</id>
     <published>2021-06-16T23:45:00.000Z</published>
-    <updated>2021-07-11T15:55:24.398Z</updated>
+    <updated>2021-07-12T15:55:26.448Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210616期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210616/#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-Web层面上的那些拒绝服务攻击-DoS"><a href="#•-Web层面上的那些拒绝服务攻击-DoS" class="headerlink" title="• Web层面上的那些拒绝服务攻击(DoS)"></a>• <a href="https://gh0st.cn/archives/2020-06-22/1" target="_blank" rel="noopener">Web层面上的那些拒绝服务攻击(DoS)</a></h3><p><a href="https://web.archive.org/web/20210616140647/https://gh0st.cn/archives/2020-06-22/1" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-强网杯-pop-master-与-陀那多-赛题的出题记录"><a href="#•-强网杯-pop-master-与-陀那多-赛题的出题记录" class="headerlink" title="• 强网杯[pop_master]与[陀那多]赛题的出题记录"></a>• <a href="https://www.anquanke.com/post/id/244153" target="_blank" rel="noopener">强网杯[pop_master]与[陀那多]赛题的出题记录</a></h3><p><a href="https://web.archive.org/web/20210616140808/https://www.anquanke.com/post/id/244153" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -453,7 +477,7 @@
     <link href="https://daily.tmr.js.org/d/20210615/"/>
     <id>https://daily.tmr.js.org/d/20210615/</id>
     <published>2021-06-15T23:45:00.000Z</published>
-    <updated>2021-07-11T15:55:24.398Z</updated>
+    <updated>2021-07-12T15:55:26.448Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210615期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210615/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-How-does-keyless-SSL-work"><a href="#•-How-does-keyless-SSL-work" class="headerlink" title="• How does keyless SSL work?"></a>• <a href="https://www.cloudflare.com/zh-cn/learning/ssl/keyless-ssl/" target="_blank" rel="noopener">How does keyless SSL work?</a></h3><p>cloudflare提供keyless的服务，客户不需要给cloudflare提供私钥也能使用ssl cdn</p><p><a href="https://web.archive.org/web/20210615022827/https://www.cloudflare.com/zh-cn/learning/ssl/keyless-ssl/" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -461,30 +485,6 @@
     
       &lt;p&gt;透明日报第20210615期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;https://daily.tmr.js.org/d/20210615/#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="2021" scheme="https://daily.tmr.js.org/categories/2021/"/>
-    
-      <category term="06" scheme="https://daily.tmr.js.org/categories/2021/06/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20210613期</title>
-    <link href="https://daily.tmr.js.org/d/20210613/"/>
-    <id>https://daily.tmr.js.org/d/20210613/</id>
-    <published>2021-06-13T23:45:00.000Z</published>
-    <updated>2021-07-11T15:55:24.398Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20210613期 <a href="https://daily.tmr.js.org/about/">订阅</a></p><p>今日文章：<a href="https://daily.tmr.js.org/d/20210613/#技术">技术</a>*1，<a href="https://daily.tmr.js.org/d/20210613/#社会">社会</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-谈谈网络空间测绘在国家级断电断网事件上的应用"><a href="#•-谈谈网络空间测绘在国家级断电断网事件上的应用" class="headerlink" title="• 谈谈网络空间测绘在国家级断电断网事件上的应用"></a>• <a href="https://mp.weixin.qq.com/s/vFygIcSNnAgPaEqVBp7LsQ" target="_blank" rel="noopener">谈谈网络空间测绘在国家级断电断网事件上的应用</a></h3><p><a href="https://web.archive.org/web/20210613153004/https://mp.weixin.qq.com/s/vFygIcSNnAgPaEqVBp7LsQ" target="_blank" rel="noopener">原网页存档</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="•-一块钱一瓶开塞露，正在成为互联网新神仙水"><a href="#•-一块钱一瓶开塞露，正在成为互联网新神仙水" class="headerlink" title="• 一块钱一瓶开塞露，正在成为互联网新神仙水"></a>• <a href="https://www.yystv.cn/p/8012" target="_blank" rel="noopener">一块钱一瓶开塞露，正在成为互联网新神仙水</a></h3><p><a href="https://web.archive.org/web/20210613053826/https://www.yystv.cn/p/8012" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20210613期 &lt;a href=&quot;https://daily.tmr.js.org/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;https://daily.tmr.js.org/d/20210613/#技术&quot;&gt;技术&lt;/a&gt;*1，&lt;a href=&quot;https://daily.tmr.js.org/d/20210613/#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
