@@ -14,7 +14,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
 
 <meta name="description" content="透明日报20210104期"/><link rel="alternate" href="/atom.xml" title="透明日报"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=2.11.0" />
-<link rel="canonical" href="https://daily.tmr.js.org/d/20210104/"/>
+<link rel="canonical" href="https://daily.xlab.app/d/20210104/"/>
 
 <link rel="stylesheet" type="text/css" href="/lib/fancybox/jquery.fancybox.css" />
 <link rel="stylesheet" type="text/css" href="/css/style.css?v=2.11.0" />
@@ -125,8 +125,8 @@
     <div class="post-toc-content">
       <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#技术"><span class="toc-text">技术</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#•-Git-LFS-Exploit-for-Remote-Code-Execution-CVE-2020–27955"><span class="toc-text">• Git LFS Exploit for Remote Code Execution | CVE-2020–27955</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#•-Java-安全-RMI-学习总结"><span class="toc-text">• Java 安全-RMI-学习总结</span></a></li></ol></li></ol>
     </div>
-  </div><div class="post-content"><p>透明日报第20210104期 <a href="https://daily.tmr.js.org/about/">订阅</a></p>
-<p>今日文章：<a href="https://daily.tmr.js.org/d/20210104/#技术">技术</a>*2</p>
+  </div><div class="post-content"><p>透明日报第20210104期 <a href="https://daily.xlab.app/about/">订阅</a></p>
+<p>今日文章：<a href="https://daily.xlab.app/d/20210104/#技术">技术</a>*2</p>
 <a id="more"></a>
 
 <h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-Git-LFS-Exploit-for-Remote-Code-Execution-CVE-2020–27955"><a href="#•-Git-LFS-Exploit-for-Remote-Code-Execution-CVE-2020–27955" class="headerlink" title="• Git LFS Exploit for Remote Code Execution | CVE-2020–27955"></a>• <a href="https://medium.com/bugbountywriteup/git-lfs-exploit-for-remote-code-execution-cve-2020-27955-e8f4786163c3" target="_blank" rel="noopener">Git LFS Exploit for Remote Code Execution | CVE-2020–27955</a></h3><p>稍微跟了一下这个洞<br>git lfs 公告：<a href="https://github.com/git-lfs/git-lfs/security/advisories/GHSA-4g4p-42wc-9f3m" target="_blank" rel="noopener">https://github.com/git-lfs/git-lfs/security/advisories/GHSA-4g4p-42wc-9f3m</a><br>对应commit：<a href="https://github.com/git-lfs/git-lfs/commit/74d5f2397f9abe4834bf1fe1fa02fd6c141b77ce" target="_blank" rel="noopener">https://github.com/git-lfs/git-lfs/commit/74d5f2397f9abe4834bf1fe1fa02fd6c141b77ce</a><br>git lfs居然是go写的<br>git-lfs通过子进程调用git时触发，Windows环境变量查找机制导致git程序可被“劫持”</p>
@@ -137,11 +137,11 @@
       <div class="post-copyright">
     <p class="copyright-item">
       <span>Author: </span>
-      <a href="https://daily.tmr.js.org">透明人</a>
+      <a href="https://daily.xlab.app">透明人</a>
     </p>
     <p class="copyright-item">
       <span>Link: </span>
-      <a href="https://daily.tmr.js.org/d/20210104/">https://daily.tmr.js.org/d/20210104/</a>
+      <a href="https://daily.xlab.app/d/20210104/">https://daily.xlab.app/d/20210104/</a>
     </p>
     <p class="copyright-item">
       <span>License: </span><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>
