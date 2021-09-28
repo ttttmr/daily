@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.xlab.app/"/>
-  <updated>2021-09-27T15:56:05.592Z</updated>
+  <updated>2021-09-28T15:56:12.675Z</updated>
   <id>https://daily.xlab.app/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>透明日报20210928期</title>
+    <link href="https://daily.xlab.app/d/20210928/"/>
+    <id>https://daily.xlab.app/d/20210928/</id>
+    <published>2021-09-28T23:45:00.000Z</published>
+    <updated>2021-09-28T15:56:12.675Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20210928期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210928/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-还在为告警筛选而发愁吗？"><a href="#•-还在为告警筛选而发愁吗？" class="headerlink" title="• 还在为告警筛选而发愁吗？"></a>• <a href="https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247490534&idx=1&sn=bc1033e3322dfc9fee346631f0018dc3&chksm=e84fbd39df38342f000d34e97ab3c0e2108e679471e4b75539ab9f578a1f564582920e9ed607&scene=58&subscene=0#rd" target="_blank" rel="noopener">还在为告警筛选而发愁吗？</a></h3><p>笑死</p><blockquote><p>值守人员很可能处于比较糟糕的身心状态，包括但不限于疲惫、枯燥、注意力涣散、杂务纠纷、谣言传播、以及人员密集导致的流行性感冒等…</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20210928期 &lt;a href=&quot;https://daily.xlab.app/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;https://daily.xlab.app/d/20210928/#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="2021" scheme="https://daily.xlab.app/categories/2021/"/>
+    
+      <category term="09" scheme="https://daily.xlab.app/categories/2021/09/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>透明日报20210927期</title>
     <link href="https://daily.xlab.app/d/20210927/"/>
     <id>https://daily.xlab.app/d/20210927/</id>
     <published>2021-09-27T23:45:00.000Z</published>
-    <updated>2021-09-27T15:56:05.592Z</updated>
+    <updated>2021-09-28T15:55:25.458Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210927期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210927/#技术">技术</a>*4</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-Go-如何利用-Linux-内核的负载均衡能力"><a href="#•-Go-如何利用-Linux-内核的负载均衡能力" class="headerlink" title="• Go 如何利用 Linux 内核的负载均衡能力"></a>• <a href="https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648982559&idx=1&sn=0e4fac6a795af0060b33500272df250b&chksm=f25019ffc52790e971d23fd158e1e34c2ef8d49ab4ec6d29f895211308a5f6a6c6e6b2042ff7&scene=58&subscene=0#rd" target="_blank" rel="noopener">Go 如何利用 Linux 内核的负载均衡能力</a></h3><h3 id="•-信创安全挑战赛的故事"><a href="#•-信创安全挑战赛的故事" class="headerlink" title="• 信创安全挑战赛的故事"></a>• <a href="https://zhuanlan.zhihu.com/p/414305378" target="_blank" rel="noopener">信创安全挑战赛的故事</a></h3><p><a href="https://web.archive.org/web/20210927123725/https://zhuanlan.zhihu.com/p/414305378" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-红蓝对抗之隐蔽通信应用及防御"><a href="#•-红蓝对抗之隐蔽通信应用及防御" class="headerlink" title="• 红蓝对抗之隐蔽通信应用及防御"></a>• <a href="https://security.tencent.com/index.php/blog/msg/202" target="_blank" rel="noopener">红蓝对抗之隐蔽通信应用及防御</a></h3><p>非常全面，学习了</p><h3 id="•-杀毒软件查杀技术"><a href="#•-杀毒软件查杀技术" class="headerlink" title="• 杀毒软件查杀技术"></a>• <a href="https://key08.com/index.php/2021/09/27/1349.html" target="_blank" rel="noopener">杀毒软件查杀技术</a></h3><p><a href="https://web.archive.org/web/20210927153813/https://key08.com/index.php/2021/09/27/1349.html" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -45,7 +69,7 @@
     <link href="https://daily.xlab.app/d/20210926/"/>
     <id>https://daily.xlab.app/d/20210926/</id>
     <published>2021-09-26T23:45:00.000Z</published>
-    <updated>2021-09-27T15:55:22.875Z</updated>
+    <updated>2021-09-28T15:55:25.458Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210926期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210926/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-Windows-更新设计、类型、步骤及常见问题"><a href="#•-Windows-更新设计、类型、步骤及常见问题" class="headerlink" title="• Windows 更新设计、类型、步骤及常见问题"></a>• <a href="https://sspai.com/post/68959" target="_blank" rel="noopener">Windows 更新设计、类型、步骤及常见问题</a></h3><p>少数派居然有这么硬核的内容了</p><p><a href="https://web.archive.org/web/20210925165958/https://sspai.com/post/68959" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -69,7 +93,7 @@
     <link href="https://daily.xlab.app/d/20210924/"/>
     <id>https://daily.xlab.app/d/20210924/</id>
     <published>2021-09-24T23:45:00.000Z</published>
-    <updated>2021-09-27T15:55:22.875Z</updated>
+    <updated>2021-09-28T15:55:25.458Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210924期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210924/#技术">技术</a>*1，<a href="https://daily.xlab.app/d/20210924/#社会">社会</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-如何结束和暂停agent进程"><a href="#•-如何结束和暂停agent进程" class="headerlink" title="• 如何结束和暂停agent进程"></a>• <a href="http://www.leveryd.top/2021-09-15-%E5%A6%82%E4%BD%95%E7%BB%93%E6%9D%9F%E5%92%8C%E6%9A%82%E5%81%9Cagent%E8%BF%9B%E7%A8%8B/" target="_blank" rel="noopener">如何结束和暂停agent进程</a></h3><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="•-奇客Solidot-今天的学生不了解计算机基础操作知识"><a href="#•-奇客Solidot-今天的学生不了解计算机基础操作知识" class="headerlink" title="• 奇客Solidot | 今天的学生不了解计算机基础操作知识"></a>• <a href="https://www.solidot.org/story?sid=69042" target="_blank" rel="noopener">奇客Solidot | 今天的学生不了解计算机基础操作知识</a></h3><p>可怕</p>]]></content>
     
@@ -93,7 +117,7 @@
     <link href="https://daily.xlab.app/d/20210923/"/>
     <id>https://daily.xlab.app/d/20210923/</id>
     <published>2021-09-23T23:45:00.000Z</published>
-    <updated>2021-09-27T15:55:22.875Z</updated>
+    <updated>2021-09-28T15:55:25.458Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210923期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210923/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-虚假的-RCE-vs-真实的-RCE"><a href="#•-虚假的-RCE-vs-真实的-RCE" class="headerlink" title="• 虚假的 RCE vs 真实的 RCE"></a>• <a href="https://mp.weixin.qq.com/s/xqoylh0j0Ny_FL4PlkwH-Q" target="_blank" rel="noopener">虚假的 RCE vs 真实的 RCE</a></h3><p><a href="https://web.archive.org/web/20210923132356/https://mp.weixin.qq.com/s/xqoylh0j0Ny_FL4PlkwH-Q" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -117,7 +141,7 @@
     <link href="https://daily.xlab.app/d/20210921/"/>
     <id>https://daily.xlab.app/d/20210921/</id>
     <published>2021-09-21T23:45:00.000Z</published>
-    <updated>2021-09-27T15:55:22.875Z</updated>
+    <updated>2021-09-28T15:55:25.458Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210921期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210921/#技术">技术</a>*3，<a href="https://daily.xlab.app/d/20210921/#社会">社会</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-JavaScript-AntiDebugging-Tricks"><a href="#•-JavaScript-AntiDebugging-Tricks" class="headerlink" title="• JavaScript AntiDebugging Tricks"></a>• <a href="https://x-c3ll.github.io/posts/javascript-antidebugging/" target="_blank" rel="noopener">JavaScript AntiDebugging Tricks</a></h3><p>js反调试系列，虽然不是一个作者，可以按顺序看</p><p><a href="https://web.archive.org/web/20210905112315/https://x-c3ll.github.io/posts/javascript-antidebugging/" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-javascript-anti-debugging-some-next-level-shit-part-1"><a href="#•-javascript-anti-debugging-some-next-level-shit-part-1" class="headerlink" title="• javascript anti debugging some next level shit (part 1)"></a>• <a href="https://weizman.github.io/" target="_blank" rel="noopener">javascript anti debugging some next level shit (part 1)</a></h3><p><a href="https://web.archive.org/web/20210921102923/https://weizman.github.io/" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-javascript-anti-debugging-some-next-level-shit-part-2"><a href="#•-javascript-anti-debugging-some-next-level-shit-part-2" class="headerlink" title="• javascript anti debugging some next level shit (part 2)"></a>• <a href="https://weizman.github.io/" target="_blank" rel="noopener">javascript anti debugging some next level shit (part 2)</a></h3><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="•-核科学家是被-AI-辅助的遥控机枪袭击的"><a href="#•-核科学家是被-AI-辅助的遥控机枪袭击的" class="headerlink" title="• 核科学家是被 AI 辅助的遥控机枪袭击的"></a>• <a href="https://www.solidot.org/story?sid=69003" target="_blank" rel="noopener">核科学家是被 AI 辅助的遥控机枪袭击的</a></h3>]]></content>
     
@@ -141,7 +165,7 @@
     <link href="https://daily.xlab.app/d/20210920/"/>
     <id>https://daily.xlab.app/d/20210920/</id>
     <published>2021-09-20T23:45:00.000Z</published>
-    <updated>2021-09-27T15:55:22.875Z</updated>
+    <updated>2021-09-28T15:55:25.458Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210920期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210920/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-转储lsass的方法原理和实现学习"><a href="#•-转储lsass的方法原理和实现学习" class="headerlink" title="• 转储lsass的方法原理和实现学习"></a>• <a href="https://www.anquanke.com/post/id/252552" target="_blank" rel="noopener">转储lsass的方法原理和实现学习</a></h3><p><a href="https://web.archive.org/web/20210920121559/https://www.anquanke.com/post/id/252552" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -165,7 +189,7 @@
     <link href="https://daily.xlab.app/d/20210919/"/>
     <id>https://daily.xlab.app/d/20210919/</id>
     <published>2021-09-19T23:45:00.000Z</published>
-    <updated>2021-09-27T15:55:22.875Z</updated>
+    <updated>2021-09-28T15:55:25.458Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210919期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210919/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-ZDI-21-1053-Bypassing-Windows-Lock-Screen"><a href="#•-ZDI-21-1053-Bypassing-Windows-Lock-Screen" class="headerlink" title="• ZDI-21-1053: Bypassing Windows Lock Screen"></a>• <a href="https://halove23.blogspot.com/2021/09/zdi-21-1053-bypassing-windows-lock.html" target="_blank" rel="noopener">ZDI-21-1053: Bypassing Windows Lock Screen</a></h3><p>利用微软账号忘记密码一路点击到打开窗口，再利用讲述人操作实现利用</p>]]></content>
     
@@ -189,7 +213,7 @@
     <link href="https://daily.xlab.app/d/20210917/"/>
     <id>https://daily.xlab.app/d/20210917/</id>
     <published>2021-09-17T23:45:00.000Z</published>
-    <updated>2021-09-27T15:55:22.875Z</updated>
+    <updated>2021-09-28T15:55:25.458Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210917期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210917/#其他">其他</a>*1，<a href="https://daily.xlab.app/d/20210917/#技术">技术</a>*4</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="•-Telegram-Channel-biosthinking"><a href="#•-Telegram-Channel-biosthinking" class="headerlink" title="• Telegram Channel @biosthinking"></a>• <a href="https://t.me/biosthinking" target="_blank" rel="noopener">Telegram Channel @biosthinking</a></h3><p>from: <a href="https://m.okjike.com/originalPosts/614185ca3cb96d00101aef9f" target="_blank" rel="noopener">https://m.okjike.com/originalPosts/614185ca3cb96d00101aef9f</a></p><p><a href="https://web.archive.org/web/20210917022334/https://t.me/biosthinking" target="_blank" rel="noopener">原网页存档</a></p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-dll-劫持和应用"><a href="#•-dll-劫持和应用" class="headerlink" title="• dll 劫持和应用"></a>• <a href="https://paper.seebug.org/1713/" target="_blank" rel="noopener">dll 劫持和应用</a></h3><p><a href="https://web.archive.org/web/20210916165009/https://paper.seebug.org/1713/" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-记一个黑盒挖到的C-程序反序列化漏洞"><a href="#•-记一个黑盒挖到的C-程序反序列化漏洞" class="headerlink" title="• 记一个黑盒挖到的C#程序反序列化漏洞"></a>• <a href="https://blog.thekingofduck.com/post/CSharpProgramDeserialize/" target="_blank" rel="noopener">记一个黑盒挖到的C#程序反序列化漏洞</a></h3><p>盲猜服务端代码流程相当厉害</p><p><a href="https://web.archive.org/web/20210916165638/https://blog.thekingofduck.com/post/CSharpProgramDeserialize/" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-攻防演练多人运动溯源及反制-“指北”"><a href="#•-攻防演练多人运动溯源及反制-“指北”" class="headerlink" title="• 攻防演练多人运动溯源及反制 “指北”"></a>• <a href="https://mp.weixin.qq.com/s/yVu6dNkzY-Pz0OOTWNeJSQ" target="_blank" rel="noopener">攻防演练多人运动溯源及反制 “指北”</a></h3><p>学到了新tips <a href="https://github.com/alexzorin/cve-2021-34558" target="_blank" rel="noopener">https://github.com/alexzorin/cve-2021-34558</a></p><p><a href="https://web.archive.org/web/20210917084610/https://mp.weixin.qq.com/s/yVu6dNkzY-Pz0OOTWNeJSQ" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-Web应用组件自动化发现的探索"><a href="#•-Web应用组件自动化发现的探索" class="headerlink" title="• Web应用组件自动化发现的探索"></a>• <a href="https://security.tencent.com/index.php/blog/msg/201" target="_blank" rel="noopener">Web应用组件自动化发现的探索</a></h3><p>可能属于 乍看不太可行，但似乎还不错</p><p><a href="https://web.archive.org/web/20210917152412/https://security.tencent.com/index.php/blog/msg/201" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -213,7 +237,7 @@
     <link href="https://daily.xlab.app/d/20210916/"/>
     <id>https://daily.xlab.app/d/20210916/</id>
     <published>2021-09-16T23:45:00.000Z</published>
-    <updated>2021-09-27T15:55:22.875Z</updated>
+    <updated>2021-09-28T15:55:25.458Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210916期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210916/#技术">技术</a>*2，<a href="https://daily.xlab.app/d/20210916/#社会">社会</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-“Secret”-Agent-Exposes-Azure-Customers-To-Unauthorized-Code-Execution"><a href="#•-“Secret”-Agent-Exposes-Azure-Customers-To-Unauthorized-Code-Execution" class="headerlink" title="• “Secret” Agent Exposes Azure Customers To Unauthorized Code Execution"></a>• <a href="https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution" target="_blank" rel="noopener">“Secret” Agent Exposes Azure Customers To Unauthorized Code Execution</a></h3><p><a href="https://web.archive.org/web/20210916153822/https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-利用WebSocket判断是否使用了代理"><a href="#•-利用WebSocket判断是否使用了代理" class="headerlink" title="• 利用WebSocket判断是否使用了代理"></a>• <a href="https://blog.xlab.app/p/f7c5c068/" target="_blank" rel="noopener">利用WebSocket判断是否使用了代理</a></h3><p>基本通杀全平台各种http/sock代理</p><p><a href="https://web.archive.org/web/20210916154040/https://blog.xlab.app/p/f7c5c068/" target="_blank" rel="noopener">原网页存档</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="•-为什么现在国产电视剧里似乎穷人越来越少了？"><a href="#•-为什么现在国产电视剧里似乎穷人越来越少了？" class="headerlink" title="• 为什么现在国产电视剧里似乎穷人越来越少了？"></a>• <a href="https://daily.zhihu.com/story/9740323" target="_blank" rel="noopener">为什么现在国产电视剧里似乎穷人越来越少了？</a></h3><p><a href="https://web.archive.org/web/20210916041318/https://daily.zhihu.com/story/9740323" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -237,7 +261,7 @@
     <link href="https://daily.xlab.app/d/20210915/"/>
     <id>https://daily.xlab.app/d/20210915/</id>
     <published>2021-09-15T23:45:00.000Z</published>
-    <updated>2021-09-27T15:55:22.875Z</updated>
+    <updated>2021-09-28T15:55:25.458Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210915期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210915/#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-影像篡改与识别（三）：人工智能时代"><a href="#•-影像篡改与识别（三）：人工智能时代" class="headerlink" title="• 影像篡改与识别（三）：人工智能时代"></a>• <a href="https://www.anquanke.com/post/id/253177" target="_blank" rel="noopener">影像篡改与识别（三）：人工智能时代</a></h3><p><a href="https://web.archive.org/web/20210914160455/https://www.anquanke.com/post/id/253177" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-有一个gadget正在泄露你的ID"><a href="#•-有一个gadget正在泄露你的ID" class="headerlink" title="• 有一个gadget正在泄露你的ID"></a>• <a href="https://mp.weixin.qq.com/s/CQ-jlcb3w72OP5UyGynMHg" target="_blank" rel="noopener">有一个gadget正在泄露你的ID</a></h3><p>payload包含当前文件路径</p><p><a href="https://web.archive.org/web/20210914160631/https://mp.weixin.qq.com/s/CQ-jlcb3w72OP5UyGynMHg" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -261,7 +285,7 @@
     <link href="https://daily.xlab.app/d/20210913/"/>
     <id>https://daily.xlab.app/d/20210913/</id>
     <published>2021-09-13T23:45:00.000Z</published>
-    <updated>2021-09-27T15:55:22.875Z</updated>
+    <updated>2021-09-28T15:55:25.458Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210913期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210913/#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-反制爬虫之Burp-Suite-RCE"><a href="#•-反制爬虫之Burp-Suite-RCE" class="headerlink" title="• 反制爬虫之Burp Suite RCE"></a>• <a href="http://noahblog.360.cn/burp-suite-rce/" target="_blank" rel="noopener">反制爬虫之Burp Suite RCE</a></h3><p>影响版本2.0beta-2.1.03</p><h3 id="•-网络空间测绘技术的衍生品fapro"><a href="#•-网络空间测绘技术的衍生品fapro" class="headerlink" title="• 网络空间测绘技术的衍生品fapro"></a>• <a href="https://mp.weixin.qq.com/s/sr-eOQPSNu-slT6IXrTNrQ" target="_blank" rel="noopener">网络空间测绘技术的衍生品fapro</a></h3><p>nb，<a href="https://github.com/fofapro/fapro" target="_blank" rel="noopener">https://github.com/fofapro/fapro</a></p><p><a href="https://web.archive.org/web/20210913110653/https://mp.weixin.qq.com/s/sr-eOQPSNu-slT6IXrTNrQ" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -285,7 +309,7 @@
     <link href="https://daily.xlab.app/d/20210911/"/>
     <id>https://daily.xlab.app/d/20210911/</id>
     <published>2021-09-11T23:45:00.000Z</published>
-    <updated>2021-09-27T15:55:22.875Z</updated>
+    <updated>2021-09-28T15:55:25.458Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210911期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210911/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-【“行为测绘”应用实战】一个ZoomEye查询搜尽BazarLoader-C2"><a href="#•-【“行为测绘”应用实战】一个ZoomEye查询搜尽BazarLoader-C2" class="headerlink" title="• 【“行为测绘”应用实战】一个ZoomEye查询搜尽BazarLoader C2"></a>• <a href="https://mp.weixin.qq.com/s/2WOfABt6QAoTG2H-3IfA4g" target="_blank" rel="noopener">【“行为测绘”应用实战】一个ZoomEye查询搜尽BazarLoader C2</a></h3><p>一个链接点击去，5个网页冒出来，大半个小时没了</p><p><a href="https://web.archive.org/web/20210910171324/https://mp.weixin.qq.com/s/2WOfABt6QAoTG2H-3IfA4g" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -309,7 +333,7 @@
     <link href="https://daily.xlab.app/d/20210910/"/>
     <id>https://daily.xlab.app/d/20210910/</id>
     <published>2021-09-10T23:45:00.000Z</published>
-    <updated>2021-09-27T15:55:22.875Z</updated>
+    <updated>2021-09-28T15:55:25.458Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210910期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210910/#技术">技术</a>*1，<a href="https://daily.xlab.app/d/20210910/#生活">生活</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-报告发布-基于微信小程序生态体系的黑灰产研究报告"><a href="#•-报告发布-基于微信小程序生态体系的黑灰产研究报告" class="headerlink" title="• 报告发布|基于微信小程序生态体系的黑灰产研究报告"></a>• <a href="https://mp.weixin.qq.com/s/DJdhfCRGymKbdAGthO5JUQ" target="_blank" rel="noopener">报告发布|基于微信小程序生态体系的黑灰产研究报告</a></h3><p><a href="https://web.archive.org/web/20210909184853/https://mp.weixin.qq.com/s/DJdhfCRGymKbdAGthO5JUQ" target="_blank" rel="noopener">原网页存档</a></p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="•-这款新的光能无线吹风机，应该出现在赛博朋克-2077"><a href="#•-这款新的光能无线吹风机，应该出现在赛博朋克-2077" class="headerlink" title="• 这款新的光能无线吹风机，应该出现在赛博朋克 2077"></a>• <a href="https://www.ifanr.com/1439136" target="_blank" rel="noopener">这款新的光能无线吹风机，应该出现在赛博朋克 2077</a></h3><p>光能吹风机，太酷了</p>]]></content>
     
@@ -333,7 +357,7 @@
     <link href="https://daily.xlab.app/d/20210909/"/>
     <id>https://daily.xlab.app/d/20210909/</id>
     <published>2021-09-09T23:45:00.000Z</published>
-    <updated>2021-09-27T15:55:22.875Z</updated>
+    <updated>2021-09-28T15:55:25.458Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210909期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210909/#其他">其他</a>*2，<a href="https://daily.xlab.app/d/20210909/#技术">技术</a>*4，<a href="https://daily.xlab.app/d/20210909/#文娱">文娱</a>*2，<a href="https://daily.xlab.app/d/20210909/#生活">生活</a>*1，<a href="https://daily.xlab.app/d/20210909/#社会">社会</a>*1</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="•-为赢过老婆打造自动瞄准弓，闭眼也能百发百中，零件电路算法全自制"><a href="#•-为赢过老婆打造自动瞄准弓，闭眼也能百发百中，零件电路算法全自制" class="headerlink" title="• 为赢过老婆打造自动瞄准弓，闭眼也能百发百中，零件电路算法全自制"></a>• <a href="https://mp.weixin.qq.com/s/FzRpQiOMfgc8bnTQ4fLPeg" target="_blank" rel="noopener">为赢过老婆打造自动瞄准弓，闭眼也能百发百中，零件电路算法全自制</a></h3><p>有点进化版手工耿的感觉，<a href="https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ" target="_blank" rel="noopener">https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ</a></p><p><a href="https://web.archive.org/web/20210908165217/https://mp.weixin.qq.com/s/FzRpQiOMfgc8bnTQ4fLPeg" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-影像篡改与识别（二）：数字时代"><a href="#•-影像篡改与识别（二）：数字时代" class="headerlink" title="• 影像篡改与识别（二）：数字时代"></a>• <a href="https://www.anquanke.com/post/id/252696" target="_blank" rel="noopener">影像篡改与识别（二）：数字时代</a></h3><p>学习了，太长见识了</p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-通过加载class提高Neo-reGeorg兼容性"><a href="#•-通过加载class提高Neo-reGeorg兼容性" class="headerlink" title="• 通过加载class提高Neo-reGeorg兼容性"></a>• <a href="https://mp.weixin.qq.com/s/eQ5bPfUeXz2m3IzJr0JvLw" target="_blank" rel="noopener">通过加载class提高Neo-reGeorg兼容性</a></h3><p><a href="https://web.archive.org/web/20210908163759/https://mp.weixin.qq.com/s/eQ5bPfUeXz2m3IzJr0JvLw" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-shiro反序列化绕WAF之未知HTTP请求方法"><a href="#•-shiro反序列化绕WAF之未知HTTP请求方法" class="headerlink" title="• shiro反序列化绕WAF之未知HTTP请求方法"></a>• <a href="https://mp.weixin.qq.com/s/1BuMtOTGIFdXrNtkUMm82g" target="_blank" rel="noopener">shiro反序列化绕WAF之未知HTTP请求方法</a></h3><p><a href="https://web.archive.org/web/20210908164946/https://mp.weixin.qq.com/s/1BuMtOTGIFdXrNtkUMm82g" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-特勤局手册-铁窗里的”地下权柄”：违禁手机"><a href="#•-特勤局手册-铁窗里的”地下权柄”：违禁手机" class="headerlink" title="• 特勤局手册 | 铁窗里的”地下权柄”：违禁手机"></a>• <a href="https://mp.weixin.qq.com/s/4H4PvOV1hj476U6gF7aT9g" target="_blank" rel="noopener">特勤局手册 | 铁窗里的”地下权柄”：违禁手机</a></h3><h3 id="•-如何真人快打网络中对你重拳出击的废物"><a href="#•-如何真人快打网络中对你重拳出击的废物" class="headerlink" title="• 如何真人快打网络中对你重拳出击的废物"></a>• <a href="https://www.weisblog.club/2021/09/03/%E5%A6%82%E4%BD%95%E7%9C%9F%E4%BA%BA%E5%BF%AB%E6%89%93%E7%BD%91%E7%BB%9C%E4%B8%AD%E5%AF%B9%E4%BD%A0%E9%87%8D%E6%8B%B3%E5%87%BA%E5%87%BB%E7%9A%84%E5%BA%9F%E7%89%A9/#%E8%BA%AB%E4%BB%BD%E8%AF%81" target="_blank" rel="noopener">如何真人快打网络中对你重拳出击的废物</a></h3><p>666</p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="•-最狂电影预告，《黑客帝国-4》互动式预告片居然有-18-万个版本！"><a href="#•-最狂电影预告，《黑客帝国-4》互动式预告片居然有-18-万个版本！" class="headerlink" title="• 最狂电影预告，《黑客帝国 4》互动式预告片居然有 18 万个版本！"></a>• <a href="https://cn.engadget.com/the-matrix-4-resurrections-teaser-website-033007029.html" target="_blank" rel="noopener">最狂电影预告，《黑客帝国 4》互动式预告片居然有 18 万个版本！</a></h3><p>提示：片头包含当前时间</p><p><a href="https://web.archive.org/web/20210908182820/https://cn.engadget.com/the-matrix-4-resurrections-teaser-website-033007029.html" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-关于电子游戏很少被提及的一点，就是游戏设计在过去二十多年中发生了很大的变化"><a href="#•-关于电子游戏很少被提及的一点，就是游戏设计在过去二十多年中发生了很大的变化" class="headerlink" title="• 关于电子游戏很少被提及的一点，就是游戏设计在过去二十多年中发生了很大的变化"></a>• <a href="https://m.okjike.com/originalPosts/613343980bcf640010b063dc" target="_blank" rel="noopener">关于电子游戏很少被提及的一点，就是游戏设计在过去二十多年中发生了很大的变化</a></h3><p><a href="https://web.archive.org/web/20210909092248/https://m.okjike.com/originalPosts/613343980bcf640010b063dc" target="_blank" rel="noopener">原网页存档</a></p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="•-活动作品买美瞳如何避坑？6-步保姆级购买指南"><a href="#•-活动作品买美瞳如何避坑？6-步保姆级购买指南" class="headerlink" title="• 活动作品买美瞳如何避坑？6 步保姆级购买指南"></a>• <a href="https://www.bilibili.com/video/BV1LL4y1h7Xb" target="_blank" rel="noopener">活动作品买美瞳如何避坑？6 步保姆级购买指南</a></h3><p>想起来很久之前我也<a href="https://blog.xlab.app/p/1a29774f/" target="_blank" rel="noopener">关注过</a></p><p><a href="https://web.archive.org/web/20210908181735/https://www.bilibili.com/video/BV1LL4y1h7Xb" target="_blank" rel="noopener">原网页存档</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="•-2021年了，我们还需要扫盲吗？"><a href="#•-2021年了，我们还需要扫盲吗？" class="headerlink" title="• 2021年了，我们还需要扫盲吗？"></a>• <a href="https://www.thepaper.cn/newsDetail_forward_14340053" target="_blank" rel="noopener">2021年了，我们还需要扫盲吗？</a></h3><p>新社会下新文盲</p><p><a href="https://web.archive.org/web/20210908182237/https://www.thepaper.cn/newsDetail_forward_14340053" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -357,7 +381,7 @@
     <link href="https://daily.xlab.app/d/20210908/"/>
     <id>https://daily.xlab.app/d/20210908/</id>
     <published>2021-09-08T23:45:00.000Z</published>
-    <updated>2021-09-27T15:55:22.875Z</updated>
+    <updated>2021-09-28T15:55:25.458Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210908期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210908/#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-海外执法机构未公开的技术监视设备"><a href="#•-海外执法机构未公开的技术监视设备" class="headerlink" title="• 海外执法机构未公开的技术监视设备"></a>• <a href="https://www.anquanke.com/post/id/252421" target="_blank" rel="noopener">海外执法机构未公开的技术监视设备</a></h3><p><a href="https://web.archive.org/web/20210908140818/https://www.anquanke.com/post/id/252421" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-Cobalt-Strike-上线器在线版"><a href="#•-Cobalt-Strike-上线器在线版" class="headerlink" title="• Cobalt Strike 上线器在线版"></a>• <a href="https://mp.weixin.qq.com/s?__biz=MzU2NzcwNTY3Mg==&mid=2247484184&idx=1&sn=3b026898103334a1ffe28cc27ecb5a8d&chksm=fc986a3fcbefe3294fc2c95145e310d2af777ff16790ec89f8b89c3886f8123db63a49f583c6&token=1291658855&lang=zh_CN#rd" target="_blank" rel="noopener">Cobalt Strike 上线器在线版</a></h3><p><a href="https://web.archive.org/web/20210908145942/https://mp.weixin.qq.com/s?__biz=MzU2NzcwNTY3Mg%3D%3D&amp" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -381,7 +405,7 @@
     <link href="https://daily.xlab.app/d/20210907/"/>
     <id>https://daily.xlab.app/d/20210907/</id>
     <published>2021-09-07T23:45:00.000Z</published>
-    <updated>2021-09-27T15:55:22.875Z</updated>
+    <updated>2021-09-28T15:55:25.458Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210907期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210907/#互联网">互联网</a>*1</p><a id="more"></a><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="•-互联网切断事件激增"><a href="#•-互联网切断事件激增" class="headerlink" title="• 互联网切断事件激增"></a>• <a href="https://www.solidot.org/story?sid=68838" target="_blank" rel="noopener">互联网切断事件激增</a></h3>]]></content>
     
@@ -405,7 +429,7 @@
     <link href="https://daily.xlab.app/d/20210906/"/>
     <id>https://daily.xlab.app/d/20210906/</id>
     <published>2021-09-06T23:45:00.000Z</published>
-    <updated>2021-09-27T15:55:22.875Z</updated>
+    <updated>2021-09-28T15:55:25.458Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210906期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210906/#其他">其他</a>*1</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="•-所以，到底要不要读研？"><a href="#•-所以，到底要不要读研？" class="headerlink" title="• 所以，到底要不要读研？"></a>• <a href="https://laike9m.com/blog/suo-yi-dao-di-yao-bu-yao-du-yan,119/" target="_blank" rel="noopener">所以，到底要不要读研？</a></h3><p><a href="https://web.archive.org/web/20210127184319/https://laike9m.com/blog/suo-yi-dao-di-yao-bu-yao-du-yan,119/" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -429,7 +453,7 @@
     <link href="https://daily.xlab.app/d/20210905/"/>
     <id>https://daily.xlab.app/d/20210905/</id>
     <published>2021-09-05T23:45:00.000Z</published>
-    <updated>2021-09-27T15:55:22.875Z</updated>
+    <updated>2021-09-28T15:55:25.458Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210905期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210905/#其他">其他</a>*1</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="•-关于机械硬盘的参数数据表"><a href="#•-关于机械硬盘的参数数据表" class="headerlink" title="• 关于机械硬盘的参数数据表"></a>• <a href="https://weibo.com/2987585965/KwJvCcvb3#_rnd1630843886618" target="_blank" rel="noopener">关于机械硬盘的参数数据表</a></h3><p><a href="https%3A%2F%2Fweibo.com%2F2987585965%2FKwJvCcvb3&amp">原网页存档</a></p>]]></content>
     
@@ -453,7 +477,7 @@
     <link href="https://daily.xlab.app/d/20210904/"/>
     <id>https://daily.xlab.app/d/20210904/</id>
     <published>2021-09-04T23:45:00.000Z</published>
-    <updated>2021-09-27T15:55:22.875Z</updated>
+    <updated>2021-09-28T15:55:25.458Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20210904期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210904/#技术">技术</a>*2，<a href="https://daily.xlab.app/d/20210904/#文娱">文娱</a>*1，<a href="https://daily.xlab.app/d/20210904/#生活">生活</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-BeaconEye分析以及Bypass思考"><a href="#•-BeaconEye分析以及Bypass思考" class="headerlink" title="• BeaconEye分析以及Bypass思考"></a>• <a href="https://mp.weixin.qq.com/s/mh8iYU6lQohsVrINM2uvCg" target="_blank" rel="noopener">BeaconEye分析以及Bypass思考</a></h3><p>在内存中匹配Cobalt Strike Beacon Config实现检测</p><p><a href="https://web.archive.org/web/20210904044224/https://mp.weixin.qq.com/s/mh8iYU6lQohsVrINM2uvCg" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-Weird-proxies-2-and-a-bit-of-magic"><a href="#•-Weird-proxies-2-and-a-bit-of-magic" class="headerlink" title="• Weird proxies/2 and a bit of magic"></a>• <a href="https://speakerdeck.com/greendog/2-and-a-bit-of-magic" target="_blank" rel="noopener">Weird proxies/2 and a bit of magic</a></h3><p>代理的奇怪特性总结，tql</p><p><a href="https://web.archive.org/web/20210903030436/https://speakerdeck.com/greendog/2-and-a-bit-of-magic" target="_blank" rel="noopener">原网页存档</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="•-人生重开模拟器"><a href="#•-人生重开模拟器" class="headerlink" title="• 人生重开模拟器"></a>• <a href="http://liferestart.syaro.io/view/index.html" target="_blank" rel="noopener">人生重开模拟器</a></h3><p>好玩</p><p><a href="https://web.archive.org/web/20210903112420/https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js" target="_blank" rel="noopener">原网页存档</a></p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="•-卧底瞳代三个月，我来告诉你美瞳有多少坑"><a href="#•-卧底瞳代三个月，我来告诉你美瞳有多少坑" class="headerlink" title="• 卧底瞳代三个月，我来告诉你美瞳有多少坑"></a>• <a href="https://www.bilibili.com/video/BV18q4y1Z7TA" target="_blank" rel="noopener">卧底瞳代三个月，我来告诉你美瞳有多少坑</a></h3><p><a href="https://web.archive.org/web/20210904061754/https://www.bilibili.com/video/BV18q4y1Z7TA" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -461,30 +485,6 @@
     
       &lt;p&gt;透明日报第20210904期 &lt;a href=&quot;https://daily.xlab.app/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;https://daily.xlab.app/d/20210904/#技术&quot;&gt;技术&lt;/a&gt;*2，&lt;a href=&quot;https://daily.xlab.app/d/20210904/#文娱&quot;&gt;文娱&lt;/a&gt;*1，&lt;a href=&quot;https://daily.xlab.app/d/20210904/#生活&quot;&gt;生活&lt;/a&gt;*1&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="2021" scheme="https://daily.xlab.app/categories/2021/"/>
-    
-      <category term="09" scheme="https://daily.xlab.app/categories/2021/09/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20210903期</title>
-    <link href="https://daily.xlab.app/d/20210903/"/>
-    <id>https://daily.xlab.app/d/20210903/</id>
-    <published>2021-09-03T23:45:00.000Z</published>
-    <updated>2021-09-27T15:55:22.875Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20210903期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20210903/#其他">其他</a>*1，<a href="https://daily.xlab.app/d/20210903/#生活">生活</a>*1，<a href="https://daily.xlab.app/d/20210903/#社会">社会</a>*1</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="•-和衡水中学在一起的2557天"><a href="#•-和衡水中学在一起的2557天" class="headerlink" title="• 和衡水中学在一起的2557天"></a>• <a href="https://mp.weixin.qq.com/s/xJw7gmhw9PjUA7xbVoUTQA" target="_blank" rel="noopener">和衡水中学在一起的2557天</a></h3><p><a href="https://web.archive.org/web/20210902170108/https://mp.weixin.qq.com/s/xJw7gmhw9PjUA7xbVoUTQA" target="_blank" rel="noopener">原网页存档</a></p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="•-儿子被学校强制休学，我带他离开了北京"><a href="#•-儿子被学校强制休学，我带他离开了北京" class="headerlink" title="• 儿子被学校强制休学，我带他离开了北京"></a>• <a href="https://mp.weixin.qq.com/s/lvY7g-JwCejk2AqUuR8ebA" target="_blank" rel="noopener">儿子被学校强制休学，我带他离开了北京</a></h3><p>这个标题不太好，但内容值得看，想起了这篇 <a href="https://daily.xlab.app/d/20210329/#%E4%B8%80%E7%BE%A4%E7%A9%B7%E5%AD%A9%E5%AD%90%E7%9A%84%E4%BA%BA%E7%94%9F%E5%AE%9E%E9%AA%8C">https://daily.xlab.app/d/20210329/#%E4%B8%80%E7%BE%A4%E7%A9%B7%E5%AD%A9%E5%AD%90%E7%9A%84%E4%BA%BA%E7%94%9F%E5%AE%9E%E9%AA%8C</a></p><p><a href="https://web.archive.org/web/20210902162244/https://mp.weixin.qq.com/s/lvY7g-JwCejk2AqUuR8ebA" target="_blank" rel="noopener">原网页存档</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="•-儿子被学校强制休学，我带他离开了北京-1"><a href="#•-儿子被学校强制休学，我带他离开了北京-1" class="headerlink" title="• 儿子被学校强制休学，我带他离开了北京"></a>• <a href="https://mp.weixin.qq.com/s/lvY7g-JwCejk2AqUuR8ebA" target="_blank" rel="noopener">儿子被学校强制休学，我带他离开了北京</a></h3><p>这个标题不太好，但内容值得看，想起了这篇<a href="https://daily.xlab.app/d/20210329/#%E4%B8%80%E7%BE%A4%E7%A9%B7%E5%AD%A9%E5%AD%90%E7%9A%84%E4%BA%BA%E7%94%9F%E5%AE%9E%E9%AA%8C">一群穷孩子的人生实验</a></p><p><a href="https://web.archive.org/web/20210902162244/https://mp.weixin.qq.com/s/lvY7g-JwCejk2AqUuR8ebA" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20210903期 &lt;a href=&quot;https://daily.xlab.app/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;https://daily.xlab.app/d/20210903/#其他&quot;&gt;其他&lt;/a&gt;*1，&lt;a href=&quot;https://daily.xlab.app/d/20210903/#生活&quot;&gt;生活&lt;/a&gt;*1，&lt;a href=&quot;https://daily.xlab.app/d/20210903/#社会&quot;&gt;社会&lt;/a&gt;*1&lt;/p&gt;
     
     </summary>
     
