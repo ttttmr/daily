@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://daily.xlab.app/"/>
-  <updated>2021-11-06T15:56:15.247Z</updated>
+  <updated>2021-11-07T15:56:21.024Z</updated>
   <id>https://daily.xlab.app/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>透明日报20211107期</title>
+    <link href="https://daily.xlab.app/d/20211107/"/>
+    <id>https://daily.xlab.app/d/20211107/</id>
+    <published>2021-11-07T23:45:00.000Z</published>
+    <updated>2021-11-07T15:56:21.024Z</updated>
+    
+    <content type="html"><![CDATA[<p>透明日报第20211107期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211107/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-见多识广，介绍Web开发中current开头的一些API属性"><a href="#•-见多识广，介绍Web开发中current开头的一些API属性" class="headerlink" title="• 见多识广，介绍Web开发中current开头的一些API属性"></a>• <a href="https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/" target="_blank" rel="noopener">见多识广，介绍Web开发中current开头的一些API属性</a></h3><p><a href="https://web.archive.org/web/20211107072207/https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;透明日报第20211107期 &lt;a href=&quot;https://daily.xlab.app/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日文章：&lt;a href=&quot;https://daily.xlab.app/d/20211107/#技术&quot;&gt;技术&lt;/a&gt;*1&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="2021" scheme="https://daily.xlab.app/categories/2021/"/>
+    
+      <category term="11" scheme="https://daily.xlab.app/categories/2021/11/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>透明日报20211106期</title>
     <link href="https://daily.xlab.app/d/20211106/"/>
     <id>https://daily.xlab.app/d/20211106/</id>
     <published>2021-11-06T23:45:00.000Z</published>
-    <updated>2021-11-06T15:56:15.247Z</updated>
+    <updated>2021-11-07T15:55:22.642Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20211106期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211106/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-团队与人系列，目标与虚假共识"><a href="#•-团队与人系列，目标与虚假共识" class="headerlink" title="• 团队与人系列，目标与虚假共识"></a>• <a href="https://mp.weixin.qq.com/s?__biz=MzI5Nzc0OTkxOQ==&mid=2247483901&idx=1&sn=d3b28300b2d6c29b94754a9364ac0a56&chksm=ecb11d0ddbc6941bf51bc96160973cc01c4d64f98513a7395d67942ab69ab33cb406840dcd93&scene=58&subscene=0#rd" target="_blank" rel="noopener">团队与人系列，目标与虚假共识</a></h3><p><a href="https://web.archive.org/web/20211106104715/https://mp.weixin.qq.com/s?__biz=MzI5Nzc0OTkxOQ%3D%3D&amp" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -45,7 +69,7 @@
     <link href="https://daily.xlab.app/d/20211105/"/>
     <id>https://daily.xlab.app/d/20211105/</id>
     <published>2021-11-05T23:45:00.000Z</published>
-    <updated>2021-11-06T15:55:22.102Z</updated>
+    <updated>2021-11-07T15:55:22.642Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20211105期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211105/#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-通过进程内存提取密钥解密Cobalt-Strike流量"><a href="#•-通过进程内存提取密钥解密Cobalt-Strike流量" class="headerlink" title="• 通过进程内存提取密钥解密Cobalt Strike流量"></a>• <a href="https://mp.weixin.qq.com/s?__biz=MzkyMzE5ODExNQ==&mid=2247484566&idx=1&sn=909bcb1c4dab16edb716a8942fe3f085&scene=58&subscene=0" target="_blank" rel="noopener">通过进程内存提取密钥解密Cobalt Strike流量</a></h3><h3 id="•-如何打造安全工具平台“地表最强”插件系统"><a href="#•-如何打造安全工具平台“地表最强”插件系统" class="headerlink" title="• 如何打造安全工具平台“地表最强”插件系统"></a>• <a href="https://mp.weixin.qq.com/s?__biz=MzAxOTAzOTU3Mw==&mid=2247483695&idx=1&sn=cd568ca166322ee47b59a74baf9ead0f&scene=58&subscene=0" target="_blank" rel="noopener">如何打造安全工具平台“地表最强”插件系统</a></h3><p><a href="https://web.archive.org/web/20211105092141/https://mp.weixin.qq.com/s?__biz=MzAxOTAzOTU3Mw%3D%3D&amp" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-microsoft-clarity"><a href="#•-microsoft-clarity" class="headerlink" title="• microsoft/clarity"></a>• <a href="https://github.com/microsoft/clarity" target="_blank" rel="noopener">microsoft/clarity</a></h3><p><a href="https://web.archive.org/web/20211105152559/https://github.com/microsoft/clarity" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -69,7 +93,7 @@
     <link href="https://daily.xlab.app/d/20211104/"/>
     <id>https://daily.xlab.app/d/20211104/</id>
     <published>2021-11-04T23:45:00.000Z</published>
-    <updated>2021-11-06T15:55:22.102Z</updated>
+    <updated>2021-11-07T15:55:22.642Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20211104期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211104/#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-Firefox-and-Chromium"><a href="#•-Firefox-and-Chromium" class="headerlink" title="• Firefox and Chromium"></a>• <a href="https://madaidans-insecurities.github.io/firefox-chromium.html" target="_blank" rel="noopener">Firefox and Chromium</a></h3><blockquote><p>对标 Chromium，研究 Firefox 浏览器在进程沙箱模型、漏洞利用缓解技术等方面的不足<br><a href="https://t.me/EXAkashic/621" target="_blank" rel="noopener">https://t.me/EXAkashic/621</a></p></blockquote><p><a href="https://web.archive.org/web/20211103185049/https://madaidans-insecurities.github.io/firefox-chromium.html" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-使用eBPF逃逸容器技术分析与实践"><a href="#•-使用eBPF逃逸容器技术分析与实践" class="headerlink" title="• 使用eBPF逃逸容器技术分析与实践"></a>• <a href="https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651205381&idx=1&sn=b7771a54e8b01cb6e7201a0ce4784e62&chksm=bd2ccaa38a5b43b5013c92018ee3410614832f5eab9b3c7ae2c6d7b67d227f099105ab7e877f&scene=58&subscene=0#rd" target="_blank" rel="noopener">使用eBPF逃逸容器技术分析与实践</a></h3><p><a href="https://web.archive.org/web/20211104131814/https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ%3D%3D&amp" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -93,7 +117,7 @@
     <link href="https://daily.xlab.app/d/20211103/"/>
     <id>https://daily.xlab.app/d/20211103/</id>
     <published>2021-11-03T23:45:00.000Z</published>
-    <updated>2021-11-06T15:55:22.102Z</updated>
+    <updated>2021-11-07T15:55:22.642Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20211103期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211103/#技术">技术</a>*1，<a href="https://daily.xlab.app/d/20211103/#文娱">文娱</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-KCon-2021-at-master-·-knownsec-KCon-·-GitHub"><a href="#•-KCon-2021-at-master-·-knownsec-KCon-·-GitHub" class="headerlink" title="• KCon/2021 at master · knownsec/KCon · GitHub"></a>• <a href="https://github.com/knownsec/KCon/tree/master/2021" target="_blank" rel="noopener">KCon/2021 at master · knownsec/KCon · GitHub</a></h3><p><a href="https://web.archive.org/web/20211103135524/https://github.com/knownsec/KCon/tree/master/2021" target="_blank" rel="noopener">原网页存档</a></p><h2 id="文娱"><a href="#文娱" class="headerlink" title="文娱"></a>文娱</h2><h3 id="•-流媒体电影与传统电影相比有什么内容和视听语言上的差别吗？"><a href="#•-流媒体电影与传统电影相比有什么内容和视听语言上的差别吗？" class="headerlink" title="• 流媒体电影与传统电影相比有什么内容和视听语言上的差别吗？"></a>• <a href="https://daily.zhihu.com/story/9741893" target="_blank" rel="noopener">流媒体电影与传统电影相比有什么内容和视听语言上的差别吗？</a></h3>]]></content>
     
@@ -117,7 +141,7 @@
     <link href="https://daily.xlab.app/d/20211101/"/>
     <id>https://daily.xlab.app/d/20211101/</id>
     <published>2021-11-01T23:45:00.000Z</published>
-    <updated>2021-11-06T15:55:22.102Z</updated>
+    <updated>2021-11-07T15:55:22.642Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20211101期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211101/#其他">其他</a>*1，<a href="https://daily.xlab.app/d/20211101/#技术">技术</a>*3</p><a id="more"></a><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="•-模型人生"><a href="#•-模型人生" class="headerlink" title="• 模型人生"></a>• <a href="https://4o4notfound.org/index.php/archives/253/" target="_blank" rel="noopener">模型人生</a></h3><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-破解版密钥相同，部分CobaltStrike加密流量可解"><a href="#•-破解版密钥相同，部分CobaltStrike加密流量可解" class="headerlink" title="• 破解版密钥相同，部分CobaltStrike加密流量可解"></a>• <a href="https://mp.weixin.qq.com/s/AcIFSjyqn9gzyRkyx3sRIQ" target="_blank" rel="noopener">破解版密钥相同，部分CobaltStrike加密流量可解</a></h3><p>英文原文：<br><a href="https://blog.nviso.eu/2021/10/21/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-1/" target="_blank" rel="noopener">https://blog.nviso.eu/2021/10/21/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-1/</a><br><a href="https://blog.nviso.eu/2021/10/27/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-2/" target="_blank" rel="noopener">https://blog.nviso.eu/2021/10/27/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-2/</a></p><p><a href="https://web.archive.org/web/20211101022311/https://mp.weixin.qq.com/s/AcIFSjyqn9gzyRkyx3sRIQ" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-Trojan-Source"><a href="#•-Trojan-Source" class="headerlink" title="• Trojan Source"></a>• <a href="https://trojansource.codes/" target="_blank" rel="noopener">Trojan Source</a></h3><p>曾经在文件名用的控制字符小技巧被用在代码上了，666<br>pdf中有详细说明，各种语言的poc，编辑器影响等 <a href="https://trojansource.codes/trojan-source.pdf" target="_blank" rel="noopener">https://trojansource.codes/trojan-source.pdf</a></p><p><a href="https://web.archive.org/web/20211101030119/https://trojansource.codes/" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-Docker-PHP裸文件本地包含综述"><a href="#•-Docker-PHP裸文件本地包含综述" class="headerlink" title="• Docker PHP裸文件本地包含综述"></a>• <a href="https://www.leavesongs.com/PENETRATION/docker-php-include-getshell.html" target="_blank" rel="noopener">Docker PHP裸文件本地包含综述</a></h3><p><a href="https://web.archive.org/web/20211101124355/https://www.leavesongs.com/PENETRATION/docker-php-include-getshell.html" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -141,7 +165,7 @@
     <link href="https://daily.xlab.app/d/20211031/"/>
     <id>https://daily.xlab.app/d/20211031/</id>
     <published>2021-10-31T23:45:00.000Z</published>
-    <updated>2021-11-06T15:55:22.102Z</updated>
+    <updated>2021-11-07T15:55:22.642Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20211031期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211031/#技术">技术</a>*3，<a href="https://daily.xlab.app/d/20211031/#社会">社会</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-浅谈无需修改注册表抓取明文密码"><a href="#•-浅谈无需修改注册表抓取明文密码" class="headerlink" title="• 浅谈无需修改注册表抓取明文密码"></a>• <a href="https://www.anquanke.com/post/id/255226" target="_blank" rel="noopener">浅谈无需修改注册表抓取明文密码</a></h3><p><a href="https://web.archive.org/web/20211030171138/https://www.anquanke.com/post/id/255226" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-案例｜轻松绕过你的Nginx（上篇）"><a href="#•-案例｜轻松绕过你的Nginx（上篇）" class="headerlink" title="• 案例｜轻松绕过你的Nginx（上篇）"></a>• <a href="https://mp.weixin.qq.com/s?__biz=MzkwNDI1NDUwMQ==&mid=2247484787&idx=1&sn=09c13372327b0c43325c06a9ff8e5951&chksm=c0888039f7ff092f61e7281e2b839ef6234f3d4512ee1815e15b0273e8ab6e34e7f83a28b1ef&scene=21#wechat_redirect" target="_blank" rel="noopener">案例｜轻松绕过你的Nginx（上篇）</a></h3><h3 id="•-终极案例｜轻松绕过你的Nginx（下篇）"><a href="#•-终极案例｜轻松绕过你的Nginx（下篇）" class="headerlink" title="• 终极案例｜轻松绕过你的Nginx（下篇）"></a>• <a href="https://mp.weixin.qq.com/s/34QZSq90Nj5xKjG1yTGvZw" target="_blank" rel="noopener">终极案例｜轻松绕过你的Nginx（下篇）</a></h3><p><a href="https://web.archive.org/web/20211031061217/https://mp.weixin.qq.com/s/34QZSq90Nj5xKjG1yTGvZw" target="_blank" rel="noopener">原网页存档</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="•-奇客Solidot-科学家制造出比钢刀锋利三倍的木刀"><a href="#•-奇客Solidot-科学家制造出比钢刀锋利三倍的木刀" class="headerlink" title="• 奇客Solidot | 科学家制造出比钢刀锋利三倍的木刀"></a>• <a href="https://www.solidot.org/story?sid=69368" target="_blank" rel="noopener">奇客Solidot | 科学家制造出比钢刀锋利三倍的木刀</a></h3><p>话说这样金属探测器还能探测出来吗？</p><p><a href="https://web.archive.org/web/20211031102007/https://www.solidot.org/story?sid=69368" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -165,7 +189,7 @@
     <link href="https://daily.xlab.app/d/20211029/"/>
     <id>https://daily.xlab.app/d/20211029/</id>
     <published>2021-10-29T23:45:00.000Z</published>
-    <updated>2021-11-06T15:55:22.102Z</updated>
+    <updated>2021-11-07T15:55:22.642Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20211029期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211029/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-网络空间检索平台对比"><a href="#•-网络空间检索平台对比" class="headerlink" title="• 网络空间检索平台对比"></a>• <a href="https://hacktech.cn/2021/10/27/net-search-platform-compare/" target="_blank" rel="noopener">网络空间检索平台对比</a></h3><p><a href="https://web.archive.org/web/20211029125252/https://hacktech.cn/2021/10/27/net-search-platform-compare/" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -189,7 +213,7 @@
     <link href="https://daily.xlab.app/d/20211028/"/>
     <id>https://daily.xlab.app/d/20211028/</id>
     <published>2021-10-28T23:45:00.000Z</published>
-    <updated>2021-11-06T15:55:22.102Z</updated>
+    <updated>2021-11-07T15:55:22.642Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20211028期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211028/#技术">技术</a>*3，<a href="https://daily.xlab.app/d/20211028/#社会">社会</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-一个藏在我们身边的巨型僵尸网络-Pink"><a href="#•-一个藏在我们身边的巨型僵尸网络-Pink" class="headerlink" title="• 一个藏在我们身边的巨型僵尸网络 Pink"></a>• <a href="https://blog.netlab.360.com/pinkbot/" target="_blank" rel="noopener">一个藏在我们身边的巨型僵尸网络 Pink</a></h3><p><a href="https://web.archive.org/web/20211027132601/https://blog.netlab.360.com/pinkbot/" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-实时中文语音克隆｜开源项目MockingBird体验"><a href="#•-实时中文语音克隆｜开源项目MockingBird体验" class="headerlink" title="• 实时中文语音克隆｜开源项目MockingBird体验"></a>• <a href="https://mp.weixin.qq.com/s/Gzxm5wyzPPsebv5BQh5EPw" target="_blank" rel="noopener">实时中文语音克隆｜开源项目MockingBird体验</a></h3><h3 id="•-大道至简，繁在人心：在浏览器控制台安装npm包是什么操作？"><a href="#•-大道至简，繁在人心：在浏览器控制台安装npm包是什么操作？" class="headerlink" title="• 大道至简，繁在人心：在浏览器控制台安装npm包是什么操作？"></a>• <a href="https://king-hcj.github.io/2021/10/27/console-npm-install/" target="_blank" rel="noopener">大道至简，繁在人心：在浏览器控制台安装npm包是什么操作？</a></h3><p><a href="https://web.archive.org/web/20211028144800/https://king-hcj.github.io/assets/vendor/primer-markdown/dist/user-content.min.css" target="_blank" rel="noopener">原网页存档</a></p><h2 id="社会"><a href="#社会" class="headerlink" title="社会"></a>社会</h2><h3 id="•-奇客Solidot-桑迪亚实验室展示不依赖-GPS-的先进寻路技术"><a href="#•-奇客Solidot-桑迪亚实验室展示不依赖-GPS-的先进寻路技术" class="headerlink" title="• 奇客Solidot | 桑迪亚实验室展示不依赖 GPS 的先进寻路技术"></a>• <a href="https://www.solidot.org/story?sid=69409" target="_blank" rel="noopener">奇客Solidot | 桑迪亚实验室展示不依赖 GPS 的先进寻路技术</a></h3><blockquote><p>在合适的环境下进行精确导航测量</p></blockquote>]]></content>
     
@@ -213,7 +237,7 @@
     <link href="https://daily.xlab.app/d/20211026/"/>
     <id>https://daily.xlab.app/d/20211026/</id>
     <published>2021-10-26T23:45:00.000Z</published>
-    <updated>2021-11-06T15:55:22.102Z</updated>
+    <updated>2021-11-07T15:55:22.642Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20211026期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211026/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-技术自信"><a href="#•-技术自信" class="headerlink" title="• 技术自信"></a>• <a href="https://mp.weixin.qq.com/s/pQZKTg1hFdHj9_Uv8MoQvQ" target="_blank" rel="noopener">技术自信</a></h3><blockquote><p>那我简单的说我们可以每天监控到shodan，censys，zoomeye，quake等平台的动作，哪些技术是真实的，哪些技术是吹牛的，就一目了然</p></blockquote><p><a href="https://web.archive.org/web/20211026022709/https://mp.weixin.qq.com/s/pQZKTg1hFdHj9_Uv8MoQvQ" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -237,7 +261,7 @@
     <link href="https://daily.xlab.app/d/20211025/"/>
     <id>https://daily.xlab.app/d/20211025/</id>
     <published>2021-10-25T23:45:00.000Z</published>
-    <updated>2021-11-06T15:55:22.102Z</updated>
+    <updated>2021-11-07T15:55:22.642Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20211025期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211025/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-浅谈云上攻防——CVE-2020-8562漏洞为k8s带来的安全挑战"><a href="#•-浅谈云上攻防——CVE-2020-8562漏洞为k8s带来的安全挑战" class="headerlink" title="• 浅谈云上攻防——CVE-2020-8562漏洞为k8s带来的安全挑战"></a>• <a href="https://mp.weixin.qq.com/s/HCBL7SND_-IZqeqX_vchug" target="_blank" rel="noopener">浅谈云上攻防——CVE-2020-8562漏洞为k8s带来的安全挑战</a></h3><p><a href="https://web.archive.org/web/20211025024513/https://mp.weixin.qq.com/s/HCBL7SND_-IZqeqX_vchug" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -261,7 +285,7 @@
     <link href="https://daily.xlab.app/d/20211024/"/>
     <id>https://daily.xlab.app/d/20211024/</id>
     <published>2021-10-24T23:45:00.000Z</published>
-    <updated>2021-11-06T15:55:22.102Z</updated>
+    <updated>2021-11-07T15:55:22.642Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20211024期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211024/#技术">技术</a>*1，<a href="https://daily.xlab.app/d/20211024/#数学">数学</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-Demo-Disabling-JavaScript-Won’t-Save-You-from-Fingerprinting"><a href="#•-Demo-Disabling-JavaScript-Won’t-Save-You-from-Fingerprinting" class="headerlink" title="• Demo: Disabling JavaScript Won’t Save You from Fingerprinting"></a>• <a href="https://fingerprintjs.com/blog/disabling-javascript-wont-stop-fingerprinting/" target="_blank" rel="noopener">Demo: Disabling JavaScript Won’t Save You from Fingerprinting</a></h3><p>不使用js获取信息计算指纹</p><p><a href="https://web.archive.org/web/20211022141246/https://fingerprintjs.com/blog/disabling-javascript-wont-stop-fingerprinting/" target="_blank" rel="noopener">原网页存档</a></p><h2 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h2><h3 id="•-【官方双语】（牛顿本人都不知道的）牛顿分形"><a href="#•-【官方双语】（牛顿本人都不知道的）牛顿分形" class="headerlink" title="• 【官方双语】（牛顿本人都不知道的）牛顿分形"></a>• <a href="https://www.bilibili.com/video/BV1HQ4y1q78v" target="_blank" rel="noopener">【官方双语】（牛顿本人都不知道的）牛顿分形</a></h3><blockquote><p>其他看似老生常谈的数学话题也如此，正静待着无人开口问过的深刻问题，这些问题就在那里，等着像你一样的有心人去发掘</p></blockquote><p><a href="https://web.archive.org/web/20211024115924/https://www.bilibili.com/video/BV1HQ4y1q78v" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -285,7 +309,7 @@
     <link href="https://daily.xlab.app/d/20211023/"/>
     <id>https://daily.xlab.app/d/20211023/</id>
     <published>2021-10-23T23:45:00.000Z</published>
-    <updated>2021-11-06T15:55:22.102Z</updated>
+    <updated>2021-11-07T15:55:22.642Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20211023期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211023/#技术">技术</a>*4，<a href="https://daily.xlab.app/d/20211023/#生活">生活</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-基于全流量权限漏洞检测技术"><a href="#•-基于全流量权限漏洞检测技术" class="headerlink" title="• 基于全流量权限漏洞检测技术"></a>• <a href="https://www.anquanke.com/post/id/256111" target="_blank" rel="noopener">基于全流量权限漏洞检测技术</a></h3><p><a href="https://web.archive.org/web/20211022160742/https://www.anquanke.com/post/id/256111" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-PDF解析器html-XSS-实现SSRF"><a href="#•-PDF解析器html-XSS-实现SSRF" class="headerlink" title="• PDF解析器html/XSS 实现SSRF"></a>• <a href="https://mp.weixin.qq.com/s?__biz=MzI2NDQ5NTQzOQ==&mid=2247489062&idx=1&sn=6a99396883bcf2a0616283d5a882e35a&chksm=eaaa9e06dddd1710258d023d499dbc467a5362a9f1a72925204fa67ec54def59a4a412d565ee&scene=58&subscene=0#rd" target="_blank" rel="noopener">PDF解析器html/XSS 实现SSRF</a></h3><p><a href="https://web.archive.org/web/20211023090507/https://mp.weixin.qq.com/s?__biz=MzI2NDQ5NTQzOQ%3D%3D&amp" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-Abusing-Slack’s-file-sharing-functionality-to-de-anonymise-fellow-workspace-members"><a href="#•-Abusing-Slack’s-file-sharing-functionality-to-de-anonymise-fellow-workspace-members" class="headerlink" title="• Abusing Slack’s file-sharing functionality to de-anonymise fellow workspace members"></a>• <a href="https://jub0bs.com/posts/2021-10-12-xsleak-stack/" target="_blank" rel="noopener">Abusing Slack’s file-sharing functionality to de-anonymise fellow workspace members</a></h3><p>一直觉得<code>window.location=xxx</code>之后就重定向了，后续的js就不可能执行了，只要重定向的地址是下载文件，后续的js还是能执行的</p><p><a href="https://web.archive.org/web/20211023103315/https://jub0bs.com/posts/2021-10-12-xsleak-stack/" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-记录一下代白帽子申请CVE的过程"><a href="#•-记录一下代白帽子申请CVE的过程" class="headerlink" title="• 记录一下代白帽子申请CVE的过程"></a>• <a href="https://mp.weixin.qq.com/s?__biz=MzI0MDI5MTQ3OQ==&mid=2247484334&idx=1&sn=e20074ecd0e0b1f011befdb5f5130dcc&chksm=e91c5856de6bd140ad96dc69145f90405193c958e9f7caa4d3b7ae3f00705b04fc57409de189&scene=58&subscene=0#rd" target="_blank" rel="noopener">记录一下代白帽子申请CVE的过程</a></h3><p><a href="https://web.archive.org/web/20211023135436/https://mp.weixin.qq.com/s?__biz=MzI0MDI5MTQ3OQ%3D%3D&amp" target="_blank" rel="noopener">原网页存档</a></p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="•-如果着火了，地铁怎样保证我们的安全？-少数派"><a href="#•-如果着火了，地铁怎样保证我们的安全？-少数派" class="headerlink" title="• 如果着火了，地铁怎样保证我们的安全？ - 少数派"></a>• <a href="https://sspai.com/post/69234" target="_blank" rel="noopener">如果着火了，地铁怎样保证我们的安全？ - 少数派</a></h3><p><a href="https://web.archive.org/web/20211023103724/https://sspai.com/post/69234" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -309,7 +333,7 @@
     <link href="https://daily.xlab.app/d/20211022/"/>
     <id>https://daily.xlab.app/d/20211022/</id>
     <published>2021-10-22T23:45:00.000Z</published>
-    <updated>2021-11-06T15:55:22.102Z</updated>
+    <updated>2021-11-07T15:55:22.642Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20211022期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211022/#技术">技术</a>*3</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-【漏洞分析】Oracle-MySQL-JDBC-XXE漏洞（CVE-2021-2471）"><a href="#•-【漏洞分析】Oracle-MySQL-JDBC-XXE漏洞（CVE-2021-2471）" class="headerlink" title="• 【漏洞分析】Oracle MySQL JDBC XXE漏洞（CVE-2021-2471）"></a>• <a href="https://mp.weixin.qq.com/s/erIFMiPNB2XSBJSqXyxuKg" target="_blank" rel="noopener">【漏洞分析】Oracle MySQL JDBC XXE漏洞（CVE-2021-2471）</a></h3><p><a href="https://web.archive.org/web/20211021072237/https://mp.weixin.qq.com/s/erIFMiPNB2XSBJSqXyxuKg" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-几种语言执行命令过程分析"><a href="#•-几种语言执行命令过程分析" class="headerlink" title="• 几种语言执行命令过程分析"></a>• <a href="https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247483886&idx=1&sn=83a9fe9deb1a8bc1d95b63b3a5b30cbb&chksm=c2b10398f5c68a8e064044a38ca1dbde35cdbd4123357d0147788aa89f2cea4849ec9cd4e620&scene=58&subscene=0#rd" target="_blank" rel="noopener">几种语言执行命令过程分析</a></h3><h3 id="•-超大规模的物联网僵尸网络：Pink"><a href="#•-超大规模的物联网僵尸网络：Pink" class="headerlink" title="• 超大规模的物联网僵尸网络：Pink"></a>• <a href="http://blog.nsfocus.net/pink-nsfocus/" target="_blank" rel="noopener">超大规模的物联网僵尸网络：Pink</a></h3><p>相关 <a href="https://weibo.com/3181671860/KDSqDa8pd" target="_blank" rel="noopener">https://weibo.com/3181671860/KDSqDa8pd</a></p>]]></content>
     
@@ -333,7 +357,7 @@
     <link href="https://daily.xlab.app/d/20211021/"/>
     <id>https://daily.xlab.app/d/20211021/</id>
     <published>2021-10-21T23:45:00.000Z</published>
-    <updated>2021-11-06T15:55:22.102Z</updated>
+    <updated>2021-11-07T15:55:22.642Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20211021期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211021/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-KeenLab-Tech-Talk（二）-浅谈React框架的XSS及后利用"><a href="#•-KeenLab-Tech-Talk（二）-浅谈React框架的XSS及后利用" class="headerlink" title="• KeenLab Tech Talk（二）| 浅谈React框架的XSS及后利用"></a>• <a href="https://mp.weixin.qq.com/s?__biz=MzU1MjgwNzc4Ng==&mid=2247497543&idx=1&sn=848a8a0d5e0c5f2b05726db34649cee0&chksm=fbfecb42cc8942545baa21e6bae5b10afe5f2ab98dd99009cd09a10fbf8193317d66184ac95e&scene=58&subscene=0#rd" target="_blank" rel="noopener">KeenLab Tech Talk（二）| 浅谈React框架的XSS及后利用</a></h3>]]></content>
     
@@ -357,7 +381,7 @@
     <link href="https://daily.xlab.app/d/20211020/"/>
     <id>https://daily.xlab.app/d/20211020/</id>
     <published>2021-10-20T23:45:00.000Z</published>
-    <updated>2021-11-06T15:55:22.102Z</updated>
+    <updated>2021-11-07T15:55:22.642Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20211020期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211020/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-关于BGP安全那些事儿"><a href="#•-关于BGP安全那些事儿" class="headerlink" title="• 关于BGP安全那些事儿"></a>• <a href="https://mp.weixin.qq.com/s/rZunI6Uxyks2TbSarsqR8A" target="_blank" rel="noopener">关于BGP安全那些事儿</a></h3><p><a href="https://web.archive.org/web/20211019103659/https://mp.weixin.qq.com/s/rZunI6Uxyks2TbSarsqR8A" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -381,7 +405,7 @@
     <link href="https://daily.xlab.app/d/20211019/"/>
     <id>https://daily.xlab.app/d/20211019/</id>
     <published>2021-10-19T23:45:00.000Z</published>
-    <updated>2021-11-06T15:55:22.102Z</updated>
+    <updated>2021-11-07T15:55:22.642Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20211019期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211019/#技术">技术</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-攻击技术研判｜xLoader-使用反wow64-hook技术进行防御规避"><a href="#•-攻击技术研判｜xLoader-使用反wow64-hook技术进行防御规避" class="headerlink" title="• 攻击技术研判｜xLoader-使用反wow64 hook技术进行防御规避"></a>• <a href="https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247485550&idx=1&sn=7e126d52aa67c6912d9a9f96a6983a49&chksm=c187c87ff6f041697fe41accc26f24e916ba1fd51b9ca37d6d535482b83dd28d2db4f2d05dc1&scene=58&subscene=0#rd" target="_blank" rel="noopener">攻击技术研判｜xLoader-使用反wow64 hook技术进行防御规避</a></h3><p><a href="https://web.archive.org/web/20211018165551/https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA%3D%3D&amp" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -405,7 +429,7 @@
     <link href="https://daily.xlab.app/d/20211018/"/>
     <id>https://daily.xlab.app/d/20211018/</id>
     <published>2021-10-18T23:45:00.000Z</published>
-    <updated>2021-11-06T15:55:22.102Z</updated>
+    <updated>2021-11-07T15:55:22.642Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20211018期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211018/#技术">技术</a>*4，<a href="https://daily.xlab.app/d/20211018/#设计">设计</a>*1</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-Apache-mod-proxy-SSRF（CVE-2021-40438）的一点分析和延伸"><a href="#•-Apache-mod-proxy-SSRF（CVE-2021-40438）的一点分析和延伸" class="headerlink" title="• Apache mod_proxy SSRF（CVE-2021-40438）的一点分析和延伸"></a>• <a href="https://mp.weixin.qq.com/s/sbFs7kZ8tExwZPeUvq1hJw" target="_blank" rel="noopener">Apache mod_proxy SSRF（CVE-2021-40438）的一点分析和延伸</a></h3><p><a href="https://web.archive.org/web/20211018032523/https://mp.weixin.qq.com/s/sbFs7kZ8tExwZPeUvq1hJw" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-红队开发-白加黑自动化生成器"><a href="#•-红队开发-白加黑自动化生成器" class="headerlink" title="• 红队开发 - 白加黑自动化生成器"></a>• <a href="https://mp.weixin.qq.com/s?__biz=MzU2NzcwNTY3Mg==&mid=2247484276&idx=1&sn=b238c1c9cfdb6d5475b5ac046e049220&chksm=fc986a53cbefe3459d348e5f139075f71eb1efa40980bbdd7ed7ca3969ad83119f3a9e430801&scene=58&subscene=0#rd" target="_blank" rel="noopener">红队开发 - 白加黑自动化生成器</a></h3><p><a href="https://web.archive.org/web/20211018121227/https://mp.weixin.qq.com/s?__biz=MzU2NzcwNTY3Mg%3D%3D&amp" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-数据库审计产品进化史"><a href="#•-数据库审计产品进化史" class="headerlink" title="• 数据库审计产品进化史"></a>• <a href="https://www.sec-un.org/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%A1%E8%AE%A1%E4%BA%A7%E5%93%81%E8%BF%9B%E5%8C%96%E5%8F%B2/" target="_blank" rel="noopener">数据库审计产品进化史</a></h3><h3 id="•-前端监控-SDK-的一些技术要点原理分析"><a href="#•-前端监控-SDK-的一些技术要点原理分析" class="headerlink" title="• 前端监控 SDK 的一些技术要点原理分析"></a>• <a href="https://segmentfault.com/a/1190000040796868" target="_blank" rel="noopener">前端监控 SDK 的一些技术要点原理分析</a></h3><p><a href="https://web.archive.org/web/20211018153240/https://segmentfault.com/a/1190000040796868" target="_blank" rel="noopener">原网页存档</a></p><h2 id="设计"><a href="#设计" class="headerlink" title="设计"></a>设计</h2><h3 id="•-有哪些艺术作品可以重新认识空间？"><a href="#•-有哪些艺术作品可以重新认识空间？" class="headerlink" title="• 有哪些艺术作品可以重新认识空间？"></a>• <a href="https://daily.zhihu.com/story/9741264" target="_blank" rel="noopener">有哪些艺术作品可以重新认识空间？</a></h3><p><a href="https://web.archive.org/web/20211017171813/https://daily.zhihu.com/story/9741264" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -429,7 +453,7 @@
     <link href="https://daily.xlab.app/d/20211015/"/>
     <id>https://daily.xlab.app/d/20211015/</id>
     <published>2021-10-15T23:45:00.000Z</published>
-    <updated>2021-11-06T15:55:22.102Z</updated>
+    <updated>2021-11-07T15:55:22.642Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20211015期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211015/#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-Building-a-POC-for-CVE-2021-40438"><a href="#•-Building-a-POC-for-CVE-2021-40438" class="headerlink" title="• Building a POC for CVE-2021-40438"></a>• <a href="https://firzen.de/building-a-poc-for-cve-2021-40438" target="_blank" rel="noopener">Building a POC for CVE-2021-40438</a></h3><p>apache&lt;=2.4.48 mod_proxy ssrf poc</p><p><a href="https://web.archive.org/web/20211015094055/https://firzen.de/building-a-poc-for-cve-2021-40438" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-如期而至的-Yak-和-Yakit：免费的安全能力基座"><a href="#•-如期而至的-Yak-和-Yakit：免费的安全能力基座" class="headerlink" title="• 如期而至的 Yak 和 Yakit：免费的安全能力基座"></a>• <a href="https://mp.weixin.qq.com/s/Q9-bgZU6eptTMPbPV2BmLw" target="_blank" rel="noopener">如期而至的 Yak 和 Yakit：免费的安全能力基座</a></h3><p><a href="https://web.archive.org/web/20211015131426/https://mp.weixin.qq.com/s/Q9-bgZU6eptTMPbPV2BmLw" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
     
@@ -453,7 +477,7 @@
     <link href="https://daily.xlab.app/d/20211014/"/>
     <id>https://daily.xlab.app/d/20211014/</id>
     <published>2021-10-14T23:45:00.000Z</published>
-    <updated>2021-11-06T15:55:22.102Z</updated>
+    <updated>2021-11-07T15:55:22.642Z</updated>
     
     <content type="html"><![CDATA[<p>透明日报第20211014期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211014/#技术">技术</a>*4</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-逃逸风云再起：从CVE-2017-1002101到CVE-2021-25741"><a href="#•-逃逸风云再起：从CVE-2017-1002101到CVE-2021-25741" class="headerlink" title="• 逃逸风云再起：从CVE-2017-1002101到CVE-2021-25741"></a>• <a href="http://blog.nsfocus.net/cve-2017-1002101/" target="_blank" rel="noopener">逃逸风云再起：从CVE-2017-1002101到CVE-2021-25741</a></h3><p><a href="https://web.archive.org/web/20211014143640/http://blog.nsfocus.net/cve-2017-1002101/" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-端内钓鱼，反制蚁剑"><a href="#•-端内钓鱼，反制蚁剑" class="headerlink" title="• 端内钓鱼，反制蚁剑"></a>• <a href="https://mp.weixin.qq.com/s?__biz=MzIxNDAyNjQwNg==&mid=2456098581&idx=1&sn=6e8301d60d9d787822aff13a36c96fe1&scene=58&subscene=0" target="_blank" rel="noopener">端内钓鱼，反制蚁剑</a></h3><h3 id="•-少有人挖但仍可获得奖金的10类Web-漏洞（上）"><a href="#•-少有人挖但仍可获得奖金的10类Web-漏洞（上）" class="headerlink" title="• 少有人挖但仍可获得奖金的10类Web 漏洞（上）"></a>• <a href="https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247508276&idx=1&sn=fbcbd7bc62a818091b9e15f0786dcf65&chksm=ea94905edde31948566d984a8643a6fa2507078de79625c71e32a2d8eaf9840cd9f39e961516&scene=58&subscene=0#rd" target="_blank" rel="noopener">少有人挖但仍可获得奖金的10类Web 漏洞（上）</a></h3><p><a href="https://web.archive.org/web/20211014145758/https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw%3D%3D&amp" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-少有人挖但仍可获得奖金的10类Web-漏洞（下）"><a href="#•-少有人挖但仍可获得奖金的10类Web-漏洞（下）" class="headerlink" title="• 少有人挖但仍可获得奖金的10类Web 漏洞（下）"></a>• <a href="https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247508311&idx=1&sn=5a9b89ab97b549e382cb11dc871c6641&chksm=ea94903ddde3192bf8aeb691e29fe4cbbc1a24a700396d1fbc07e76038f5167201894f371074&scene=58&subscene=0#rd" target="_blank" rel="noopener">少有人挖但仍可获得奖金的10类Web 漏洞（下）</a></h3>]]></content>
     
@@ -461,30 +485,6 @@
     
       &lt;p&gt;透明日报第20211014期 &lt;a href=&quot;https://daily.xlab.app/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今日文章：&lt;a href=&quot;https://daily.xlab.app/d/20211014/#技术&quot;&gt;技术&lt;/a&gt;*4&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="2021" scheme="https://daily.xlab.app/categories/2021/"/>
-    
-      <category term="10" scheme="https://daily.xlab.app/categories/2021/10/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>透明日报20211013期</title>
-    <link href="https://daily.xlab.app/d/20211013/"/>
-    <id>https://daily.xlab.app/d/20211013/</id>
-    <published>2021-10-13T23:45:00.000Z</published>
-    <updated>2021-11-06T15:55:22.102Z</updated>
-    
-    <content type="html"><![CDATA[<p>透明日报第20211013期 <a href="https://daily.xlab.app/about/">订阅</a></p><p>今日文章：<a href="https://daily.xlab.app/d/20211013/#技术">技术</a>*2</p><a id="more"></a><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><h3 id="•-Apache-httpd-2-4-50-post-mortem"><a href="#•-Apache-httpd-2-4-50-post-mortem" class="headerlink" title="• Apache httpd 2.4.50 post mortem"></a>• <a href="https://github.com/icing/blog/blob/main/httpd-2.4.50.md" target="_blank" rel="noopener">Apache httpd 2.4.50 post mortem</a></h3><p><a href="https://web.archive.org/web/20211013143055/https://github.com/icing/blog/blob/main/httpd-2.4.50.md" target="_blank" rel="noopener">原网页存档</a></p><h3 id="•-How-to-win-at-CORS"><a href="#•-How-to-win-at-CORS" class="headerlink" title="• How to win at CORS"></a>• <a href="https://jakearchibald.com/2021/cors/" target="_blank" rel="noopener">How to win at CORS</a></h3><p><a href="https://web.archive.org/web/20211013143209/https://jakearchibald.com/2021/cors/" target="_blank" rel="noopener">原网页存档</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;透明日报第20211013期 &lt;a href=&quot;https://daily.xlab.app/about/&quot;&gt;订阅&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今日文章：&lt;a href=&quot;https://daily.xlab.app/d/20211013/#技术&quot;&gt;技术&lt;/a&gt;*2&lt;/p&gt;
     
     </summary>
     
