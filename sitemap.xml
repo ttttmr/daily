@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://daily.xlab.app/d/20211012/</loc>
+    
+    <lastmod>2021-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://daily.xlab.app/status/index.html</loc>
     
     <lastmod>2021-12-21</lastmod>
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/about/index.html</loc>
+    <loc>https://daily.xlab.app/d/20211220/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -173,16 +182,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20211220/</loc>
-    
-    <lastmod>2021-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://daily.xlab.app/d/20210919/</loc>
+    <loc>https://daily.xlab.app/d/20211130/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -192,6 +192,15 @@
   
   <url>
     <loc>https://daily.xlab.app/d/20211129/</loc>
+    
+    <lastmod>2021-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://daily.xlab.app/d/20211127/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -479,7 +488,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20211012/</loc>
+    <loc>https://daily.xlab.app/d/20211221/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -533,7 +542,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20211130/</loc>
+    <loc>https://daily.xlab.app/d/20211003/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -623,7 +632,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20211127/</loc>
+    <loc>https://daily.xlab.app/d/20210919/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -713,6 +722,15 @@
   </url>
   
   <url>
+    <loc>https://daily.xlab.app/d/20210904/</loc>
+    
+    <lastmod>2021-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://daily.xlab.app/d/20210906/</loc>
     
     <lastmod>2021-12-21</lastmod>
@@ -723,15 +741,6 @@
   
   <url>
     <loc>https://daily.xlab.app/d/20210905/</loc>
-    
-    <lastmod>2021-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://daily.xlab.app/d/20210904/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -956,6 +965,15 @@
   </url>
   
   <url>
+    <loc>https://daily.xlab.app/about/index.html</loc>
+    
+    <lastmod>2021-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://daily.xlab.app/d/20210803/</loc>
     
     <lastmod>2021-12-21</lastmod>
@@ -1056,15 +1074,6 @@
   
   <url>
     <loc>https://daily.xlab.app/d/20210721/</loc>
-    
-    <lastmod>2021-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://daily.xlab.app/d/20211003/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -2045,7 +2054,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20201216/</loc>
+    <loc>https://daily.xlab.app/d/20210217/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -2054,7 +2063,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20210217/</loc>
+    <loc>https://daily.xlab.app/d/20210215/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -2171,7 +2180,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20210128/</loc>
+    <loc>https://daily.xlab.app/d/20201125/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -2180,7 +2189,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20210127/</loc>
+    <loc>https://daily.xlab.app/d/20210128/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -2441,6 +2450,33 @@
   </url>
   
   <url>
+    <loc>https://daily.xlab.app/d/20200914/</loc>
+    
+    <lastmod>2021-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://daily.xlab.app/d/20200915/</loc>
+    
+    <lastmod>2021-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://daily.xlab.app/d/20200916/</loc>
+    
+    <lastmod>2021-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://daily.xlab.app/d/20201221/</loc>
     
     <lastmod>2021-12-21</lastmod>
@@ -2477,7 +2513,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20210215/</loc>
+    <loc>https://daily.xlab.app/d/20201216/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -2621,7 +2657,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20201125/</loc>
+    <loc>https://daily.xlab.app/d/20210127/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -2909,42 +2945,6 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200916/</loc>
-    
-    <lastmod>2021-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://daily.xlab.app/d/20200705/</loc>
-    
-    <lastmod>2021-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://daily.xlab.app/d/20200914/</loc>
-    
-    <lastmod>2021-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://daily.xlab.app/d/20200915/</loc>
-    
-    <lastmod>2021-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://daily.xlab.app/d/20201009/</loc>
     
     <lastmod>2021-12-21</lastmod>
@@ -2963,15 +2963,6 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20201005/</loc>
-    
-    <lastmod>2021-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://daily.xlab.app/d/20201004/</loc>
     
     <lastmod>2021-12-21</lastmod>
@@ -2981,7 +2972,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20201003/</loc>
+    <loc>https://daily.xlab.app/d/20201005/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -2991,6 +2982,15 @@
   
   <url>
     <loc>https://daily.xlab.app/d/20201001/</loc>
+    
+    <lastmod>2021-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://daily.xlab.app/d/20201003/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3017,7 +3017,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200927/</loc>
+    <loc>https://daily.xlab.app/d/20200926/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3026,7 +3026,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200926/</loc>
+    <loc>https://daily.xlab.app/d/20200927/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3143,7 +3143,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200907/</loc>
+    <loc>https://daily.xlab.app/d/20200428/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3152,7 +3152,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200906/</loc>
+    <loc>https://daily.xlab.app/d/20200429/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3161,7 +3161,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200905/</loc>
+    <loc>https://daily.xlab.app/d/20200430/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3170,7 +3170,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200904/</loc>
+    <loc>https://daily.xlab.app/d/20200501/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3179,7 +3179,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200903/</loc>
+    <loc>https://daily.xlab.app/d/20200505/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3188,7 +3188,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200902/</loc>
+    <loc>https://daily.xlab.app/d/20200506/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3197,7 +3197,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200831/</loc>
+    <loc>https://daily.xlab.app/d/20200507/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3206,7 +3206,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200830/</loc>
+    <loc>https://daily.xlab.app/d/20200508/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3215,7 +3215,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200829/</loc>
+    <loc>https://daily.xlab.app/d/20200509/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3224,7 +3224,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200827/</loc>
+    <loc>https://daily.xlab.app/d/20200510/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3233,7 +3233,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200826/</loc>
+    <loc>https://daily.xlab.app/d/20200511/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3242,7 +3242,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200825/</loc>
+    <loc>https://daily.xlab.app/d/20200512/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3251,7 +3251,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200824/</loc>
+    <loc>https://daily.xlab.app/d/20200513/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3260,7 +3260,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200823/</loc>
+    <loc>https://daily.xlab.app/d/20200516/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3575,7 +3575,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200822/</loc>
+    <loc>https://daily.xlab.app/d/20200705/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3881,7 +3881,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200315/</loc>
+    <loc>https://daily.xlab.app/d/20200822/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3890,7 +3890,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200516/</loc>
+    <loc>https://daily.xlab.app/d/20200823/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3899,7 +3899,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200511/</loc>
+    <loc>https://daily.xlab.app/d/20200824/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3908,7 +3908,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200510/</loc>
+    <loc>https://daily.xlab.app/d/20200825/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3917,7 +3917,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200509/</loc>
+    <loc>https://daily.xlab.app/d/20200826/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3926,7 +3926,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200508/</loc>
+    <loc>https://daily.xlab.app/d/20200827/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3935,7 +3935,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200507/</loc>
+    <loc>https://daily.xlab.app/d/20200829/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3944,7 +3944,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200506/</loc>
+    <loc>https://daily.xlab.app/d/20200830/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3953,7 +3953,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200505/</loc>
+    <loc>https://daily.xlab.app/d/20200831/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3962,7 +3962,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200501/</loc>
+    <loc>https://daily.xlab.app/d/20200902/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3971,7 +3971,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200430/</loc>
+    <loc>https://daily.xlab.app/d/20200903/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3980,7 +3980,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200429/</loc>
+    <loc>https://daily.xlab.app/d/20200904/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3989,7 +3989,34 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200428/</loc>
+    <loc>https://daily.xlab.app/d/20200905/</loc>
+    
+    <lastmod>2021-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://daily.xlab.app/d/20200906/</loc>
+    
+    <lastmod>2021-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://daily.xlab.app/d/20200907/</loc>
+    
+    <lastmod>2021-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://daily.xlab.app/d/20200227/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -3999,24 +4026,6 @@
   
   <url>
     <loc>https://daily.xlab.app/d/20200425/</loc>
-    
-    <lastmod>2021-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://daily.xlab.app/d/20200424/</loc>
-    
-    <lastmod>2021-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://daily.xlab.app/d/20200423/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -4349,7 +4358,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200512/</loc>
+    <loc>https://daily.xlab.app/d/20200315/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -4466,7 +4475,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200227/</loc>
+    <loc>https://daily.xlab.app/d/20200423/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -4808,16 +4817,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200513/</loc>
-    
-    <lastmod>2021-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://daily.xlab.app/d/20191118/</loc>
+    <loc>https://daily.xlab.app/d/20200115/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -4916,6 +4916,42 @@
   </url>
   
   <url>
+    <loc>https://daily.xlab.app/d/20200424/</loc>
+    
+    <lastmod>2021-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://daily.xlab.app/d/20191021/</loc>
+    
+    <lastmod>2021-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://daily.xlab.app/d/20191028/</loc>
+    
+    <lastmod>2021-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://daily.xlab.app/d/20191029/</loc>
+    
+    <lastmod>2021-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://daily.xlab.app/d/20191231/</loc>
     
     <lastmod>2021-12-21</lastmod>
@@ -4971,33 +5007,6 @@
   
   <url>
     <loc>https://daily.xlab.app/d/20191225/</loc>
-    
-    <lastmod>2021-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://daily.xlab.app/d/20191027/</loc>
-    
-    <lastmod>2021-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://daily.xlab.app/d/20191028/</loc>
-    
-    <lastmod>2021-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://daily.xlab.app/d/20191029/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -5240,7 +5249,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20191013/</loc>
+    <loc>https://daily.xlab.app/d/20191118/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -5438,7 +5447,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20191021/</loc>
+    <loc>https://daily.xlab.app/d/20191002/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -5501,7 +5510,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20200115/</loc>
+    <loc>https://daily.xlab.app/d/20191013/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -5564,7 +5573,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20191002/</loc>
+    <loc>https://daily.xlab.app/d/20191027/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -5753,7 +5762,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20190627/</loc>
+    <loc>https://daily.xlab.app/d/20190907/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -5762,7 +5771,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20190907/</loc>
+    <loc>https://daily.xlab.app/d/20190905/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -5906,7 +5915,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20190818/</loc>
+    <loc>https://daily.xlab.app/d/20190604/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -5915,7 +5924,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20190817/</loc>
+    <loc>https://daily.xlab.app/d/20190818/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -6176,7 +6185,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20190905/</loc>
+    <loc>https://daily.xlab.app/d/20190628/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -6185,7 +6194,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20190628/</loc>
+    <loc>https://daily.xlab.app/d/20190627/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -6383,7 +6392,7 @@
   </url>
   
   <url>
-    <loc>https://daily.xlab.app/d/20190604/</loc>
+    <loc>https://daily.xlab.app/d/20190817/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -6600,24 +6609,6 @@
   
   <url>
     <loc>https://daily.xlab.app/d/20190509/</loc>
-    
-    <lastmod>2021-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://daily.xlab.app/d/20190313/</loc>
-    
-    <lastmod>2021-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://daily.xlab.app/d/20190307/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
@@ -6887,6 +6878,15 @@
   </url>
   
   <url>
+    <loc>https://daily.xlab.app/d/20190307/</loc>
+    
+    <lastmod>2021-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://daily.xlab.app/d/20190406/</loc>
     
     <lastmod>2021-12-21</lastmod>
@@ -7086,6 +7086,15 @@
   
   <url>
     <loc>https://daily.xlab.app/d/20190314/</loc>
+    
+    <lastmod>2021-12-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://daily.xlab.app/d/20190313/</loc>
     
     <lastmod>2021-12-21</lastmod>
     
